@@ -2,7 +2,7 @@
 lab_id: "kaist:b:gsai:lab-557"
 status: collected-partial
 observed_on: 2026-10-16
-independent_review: pending
+independent_review: limited-pass-with-unverified
 ---
 
 # CVLAB 2021년부터 2026년 게시 서지
@@ -15,7 +15,7 @@ independent_review: pending
 
 | 번호 | 게시 연도 | 제목 | 게시 저자·발명자 | 게시 학회·학술지·유형 | 링크 |
 |---|---|---|---|---|---|
-| 1 | 2026 | Can Learning to Answer Spatial Questions Improve Novel-View Generation? | Jahyeok Koo, Hyeonseo Yu, Seungho Jang, Jaewoo Jung, Jiwon Kang, Seokju Cho, Seungryong Kim | 학회·게재 상태 미확인 | [게시 링크](<https://arxiv.org/pdf/2610.20610>) |
+| 1 | 2026 | Can Learning to Answer Spatial Questions Improve Novel-View Generation? | Jahyeok Koo, Hyeonseo Yu, Seungho Jang, Jaewoo Jung, Jiwon Kang, Seokju Cho, Seungryong Kim | 프리프린트 · arXiv v1 제출 2026-10-14 · 기준일 이후 | [게시 링크](<https://arxiv.org/pdf/2610.20610>) · [제출일 근거](<https://arxiv.org/abs/2610.20610>) |
 | 2 | 2026 | Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction | Dahyun Chung, Siyoon Jin, Hyunwook Choi, Honggyu An, Junyoung Seo, Hyunsung Kim, Seung Wook Kim, Seungryong Kim | 학회·게재 상태 미확인 | [게시 링크](<https://arxiv.org/pdf/2610.12299>) |
 | 3 | 2026 | GRACE: Generation-aware latent compression for efficient video generation | Jiyoung Kim, Paul Hyunbin Cho, Jisu Nam, Donghoon Lee, Hyunsung Go, Yeonkyeong Lee, Hansaem Kim, Seungryong Kim | 학회·게재 상태 미확인 | [게시 링크](<https://arxiv.org/pdf/2610.10524>) |
 | 4 | 2026 | Tetris3D: 3D Scene Generation with Objects That Fit Together | Jaeyeong Kim, Jinhyuk Jang, Jongmin Lee, Kyehong Park, Seungryong Kim | 학회·게재 상태 미확인 | [게시 링크](<https://arxiv.org/pdf/2610.10539>) |
@@ -194,3 +194,10 @@ independent_review: pending
 | 177 | 2021 | Cross-Domain Grouping and Alignment for Domain Adaptive Semantic Segmentation | Minsu Kim, Sunghun Joung, Seungryong Kim, JungIn Park, Ig-Jae Kim, and Kwanghoon Sohn | AAAI Conference on Artificial Intelligence (AAAI), 2021. (21.4% acceptance rate) [pdf] | [게시 링크](<https://arxiv.org/pdf/2012.08226.pdf>) |
 
 자료 확인일은 2026-10-16이다. 정확한 게재일·저자별 당시 소속·중복 판본의 독립 대조는 진행 중이다.
+
+첫 항목 Ask4NV의 arXiv v1 제출일은 2026-10-14로 수집 기준일 2026-10-13 이후다. 프리프린트로 보존하고 조사 구간 내 확정 성과 합계에서 제외한다. 이 날짜는 arXiv 제출일이며 학술지 게재일이 아니다. 개별 저자 당시 소속은 미확인이다.
+
+
+## 독립 검토 범위
+
+2026-10-16 핵심 표기·자료구조·공개자료 경계와 선정 성과 표본을 제한 검토했다. 접근 실패 원문, 전체 성과의 날짜·당시 소속, 실제 재직·과제·특허 권리 명의는 미검증으로 남긴다. DAIM 공식페이지의 이번 독립 열람은 접근 실패여서 저장근거와의 대조에 한정했다.
