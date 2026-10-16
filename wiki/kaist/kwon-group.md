@@ -3,7 +3,7 @@ lab_id: "kaist:b:ee:lab-636"
 institution_id: kaist
 status: collected-partial
 observed_on: 2026-10-16
-independent_review: pending
+independent_review: limited-pass-with-unverified
 ---
 
 # Kwon Research Group
@@ -42,4 +42,9 @@ KAIST 권경하 교수의 회로·시스템 연구그룹이다. 배터리 관리
 
 [Publications](https://krg.kaist.ac.kr/publications)의 Patents 표시는 이번 열람에서 상세 목록 링크가 연결되지 않았다. 과제·지원금·특허 실목록·별도 뉴스는 계속 미수집으로 두며 정보가 없다고 단정하지 않는다.
 
-자료 확인일은 2026-10-16이다. 기존 후보 ID를 유지하며 독립 검토는 대기 중이다.
+자료 확인일은 2026-10-16이다. 기존 후보 ID를 유지하며 핵심·구조·선정 성과 표본의 제한 검토를 마쳤으며 미검증은 유지한다.
+
+
+## 독립 검토 범위
+
+2026-10-16 핵심 표기·자료구조·공개자료 경계와 선정 성과 표본을 제한 검토했다. 접근 실패 원문, 전체 성과의 날짜·당시 소속, 실제 재직·과제·특허 권리 명의는 미검증으로 남긴다. DAIM 공식페이지의 이번 독립 열람은 접근 실패여서 저장근거와의 대조에 한정했다.
