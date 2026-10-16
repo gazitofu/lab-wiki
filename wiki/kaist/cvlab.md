@@ -3,7 +3,7 @@ lab_id: "kaist:b:gsai:lab-557"
 institution_id: kaist
 status: collected-partial
 observed_on: 2026-10-16
-independent_review: pending
+independent_review: limited-pass-with-unverified
 ---
 
 # CVLAB
@@ -38,4 +38,11 @@ KAIST 김재철AI대학원의 컴퓨터비전 연구실이며 PI는 Seungryong K
 
 근거는 [홈페이지의 날짜별 소식](https://cvlab.kaist.ac.kr/)이다. GCP 지원은 현금 연구비로 바꾸어 표시하지 않는다. 협력 과제의 종료일·식별번호와 NVIDIA 지원 금액은 미확인이다. 특허·기술이전 자료도 추가 수집 대상이다.
 
-자료 확인일은 2026-10-16이다. 기존 후보 ID를 유지하며 독립 검토는 대기 중이다.
+자료 확인일은 2026-10-16이다. 기존 후보 ID를 유지하며 핵심·구조·선정 성과 표본의 제한 검토를 마쳤으며 미검증은 유지한다.
+
+게시 서지 첫 항목 Ask4NV는 [arXiv 공식 제출 이력](https://arxiv.org/abs/2610.20610)에서 2026-10-14 프리프린트 제출이 확인되었다. 수집 기준일 이후 항목으로 보존하며 조사 구간 내 확정 실적에 넣지 않는다.
+
+
+## 독립 검토 범위
+
+2026-10-16 핵심 표기·자료구조·공개자료 경계와 선정 성과 표본을 제한 검토했다. 접근 실패 원문, 전체 성과의 날짜·당시 소속, 실제 재직·과제·특허 권리 명의는 미검증으로 남긴다. DAIM 공식페이지의 이번 독립 열람은 접근 실패여서 저장근거와의 대조에 한정했다.
