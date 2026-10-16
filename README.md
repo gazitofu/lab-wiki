@@ -109,3 +109,10 @@
 [윤상호·HCI Tech 자료](wiki/kaist/hci-tech.md)를 추가했다. 문화기술·메타버스의 기존2후보관계와 공식PI/랩 연결, 랩 current28·Meta Members7의 별개 게시명단, 선정논문2·선정소식2·PI의Google gift게시1관계를 기록했다. 두명단을 고유35명으로 합산하지 않으며 ChoreoCraft 저자순서차이·ACM원문접근·Entrance Date의미·임용/실재직·전체성과/과제/특허의 미검증을 유지한다.
 
 공식 연결·자료구조·공개 경계의 고정 범위 독립 검토를 통과했으며 실재직·성과·임용과 접근의 미검증은 유지한다.
+
+
+## Nanophotonic Systems Laboratory 명단 연결과 부분 상세
+
+[이한석·Nanophotonic Systems Laboratory 자료](wiki/kaist/nanophotonic-systems.md)를 추가했다. 물리/양자 공식명단의 기존 PI-only2후보와 랩 연결, Current members13게시항목, 선정3서지·2소식·논문사사4지원관계를 기록했다. 랩59번의잘못된링크·58번저자목록차이, 기관날짜/출판사온라인일·사사/실제과제수주를 구분하며 임용/실재직·전체성과/특허·법인관계의 미검증을 유지한다.
+
+구조·공개 경계와 제출 근거 정합의 고정 범위 독립 QA를 제한통과했다. 독립 원문 재열람·임용·실재직·출판사 접근·전체성과·지원 원부의 미검증은 유지한다.
