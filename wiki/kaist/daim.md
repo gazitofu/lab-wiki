@@ -3,7 +3,7 @@ lab_id: "kaist:b:ie:lab-565"
 institution_id: kaist
 status: collected-partial
 observed_on: 2026-10-16
-independent_review: pending
+independent_review: limited-pass-with-unverified
 ---
 
 # DAIM
@@ -59,4 +59,9 @@ KAIST 산업및시스템공학과의 장영재 교수 연구실이다. 제조 �
 | 2025-04-21 | 2025-04-06–09 행사 | 장영재 교수 연구팀·다임리서치의 INFORMS IAAA 수상. [KAIST 소식](https://gsds.kaist.ac.kr/news/view/page/1/id/350) |
 | 2026-05-04 | 2026-04-21 | 장영재 교수의 정보통신 유공 홍조근정훈장 수훈. [KAIST 소식](https://gsds.kaist.ac.kr/eng/sub05/view/id/443) |
 
-자료 확인일은 2026-10-16이다. 기존 후보 ID를 유지하며 독립 검토는 대기 중이다.
+자료 확인일은 2026-10-16이다. 기존 후보 ID를 유지하며 핵심·구조·선정 성과 표본의 제한 검토를 마쳤으며 미검증은 유지한다.
+
+
+## 독립 검토 범위
+
+2026-10-16 핵심 표기·자료구조·공개자료 경계와 선정 성과 표본을 제한 검토했다. 접근 실패 원문, 전체 성과의 날짜·당시 소속, 실제 재직·과제·특허 권리 명의는 미검증으로 남긴다. DAIM 공식페이지의 이번 독립 열람은 접근 실패여서 저장근거와의 대조에 한정했다.
