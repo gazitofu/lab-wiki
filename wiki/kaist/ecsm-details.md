@@ -549,7 +549,7 @@ independent_review: limited-pass-with-unverified
 - publication_status: published-as-listed
 - 자료 날짜: 2026 (year); 귀속: lab-explicit; 구간: boundary-year
 - 근거: [출처1](https://www.ecsm-kaist.net/bbs/board.php?bo_table=sub3_1)
-- 위치: Paper 1 페이지 서지 제목 "Decoupling Light Absorption From Photocatalytic Reactivity 
+- 위치: Paper 1 페이지 서지 제목 "Decoupling Light Absorption From Photocatalytic Reactivity
 
 ### 2
 
@@ -560,7 +560,7 @@ independent_review: limited-pass-with-unverified
 - publication_status: published-as-listed
 - 자료 날짜: 2026 (year); 귀속: lab-explicit; 구간: boundary-year
 - 근거: [출처1](https://www.ecsm-kaist.net/bbs/board.php?bo_table=sub3_1)
-- 위치: Paper 1 페이지 서지 제목 "Polybenzoxazine composite bipolar plates with hierarchical 
+- 위치: Paper 1 페이지 서지 제목 "Polybenzoxazine composite bipolar plates with hierarchical
 
 ### 3
 
@@ -747,7 +747,7 @@ independent_review: limited-pass-with-unverified
 - publication_status: published-as-listed
 - 자료 날짜: 2025 (year); 귀속: lab-explicit; 구간: inside-year
 - 근거: [출처1](https://www.ecsm-kaist.net/bbs/board.php?bo_table=sub3_1&page=2)
-- 위치: Paper 2 페이지 서지 제목 "Li2SO4 coating for enhanced electrochemical performance of 
+- 위치: Paper 2 페이지 서지 제목 "Li2SO4 coating for enhanced electrochemical performance of
 
 ### 20
 
@@ -769,7 +769,7 @@ independent_review: limited-pass-with-unverified
 - publication_status: published-as-listed
 - 자료 날짜: 2025 (year); 귀속: lab-explicit; 구간: inside-year
 - 근거: [출처1](https://www.ecsm-kaist.net/bbs/board.php?bo_table=sub3_1&page=2)
-- 위치: Paper 2 페이지 서지 제목 "Enhancement of the cyclic stability of a Li-excess layered 
+- 위치: Paper 2 페이지 서지 제목 "Enhancement of the cyclic stability of a Li-excess layered
 
 ### 22
 
@@ -802,7 +802,7 @@ independent_review: limited-pass-with-unverified
 - publication_status: published-as-listed
 - 자료 날짜: 2025 (year); 귀속: lab-explicit; 구간: inside-year
 - 근거: [출처1](https://www.ecsm-kaist.net/bbs/board.php?bo_table=sub3_1&page=2)
-- 위치: Paper 2 페이지 서지 제목 "Anchoring ordered PtZn nanoparticles on MOF-derived carbon 
+- 위치: Paper 2 페이지 서지 제목 "Anchoring ordered PtZn nanoparticles on MOF-derived carbon
 
 ### 25
 
@@ -857,7 +857,7 @@ independent_review: limited-pass-with-unverified
 - publication_status: published-as-listed
 - 자료 날짜: 2024 (year); 귀속: lab-explicit; 구간: inside-year
 - 근거: [출처1](https://www.ecsm-kaist.net/bbs/board.php?bo_table=sub3_1&page=2)
-- 위치: Paper 2 페이지 서지 제목 "Tailoring the Electrophilicity of Co Surface for Favorable 
+- 위치: Paper 2 페이지 서지 제목 "Tailoring the Electrophilicity of Co Surface for Favorable
 
 ### 30
 
@@ -956,7 +956,7 @@ independent_review: limited-pass-with-unverified
 - publication_status: published-as-listed
 - 자료 날짜: 2022 (year); 귀속: lab-explicit; 구간: inside-year
 - 근거: [출처1](https://www.ecsm-kaist.net/bbs/board.php?bo_table=sub3_1&page=3)
-- 위치: Paper 3 페이지 서지 제목 "Carbon nanotube–titanium dioxide nanocomposite support for 
+- 위치: Paper 3 페이지 서지 제목 "Carbon nanotube–titanium dioxide nanocomposite support for
 
 ### 39
 
@@ -1905,7 +1905,7 @@ independent_review: limited-pass-with-unverified
 - interval_status: undated
 - 자료 날짜: 미상 (undated); 귀속: lab-explicit; 구간: undated
 - 근거: [출처1](https://www.ecsm-kaist.net/bbs/board.php?bo_table=sub3_3&sca=1International+Patents)
-- 위치: Patent International 페이지1 제목 나노입자 및 단일원자를 포함하는 복합구조 전기화학 촉매, 이의 제조방법 및 이를 
+- 위치: Patent International 페이지1 제목 나노입자 및 단일원자를 포함하는 복합구조 전기화학 촉매, 이의 제조방법 및 이를
 
 ### 2
 
@@ -1916,7 +1916,7 @@ independent_review: limited-pass-with-unverified
 - interval_status: undated
 - 자료 날짜: 미상 (undated); 귀속: lab-explicit; 구간: undated
 - 근거: [출처1](https://www.ecsm-kaist.net/bbs/board.php?bo_table=sub3_3&sca=1International+Patents)
-- 위치: Patent International 페이지1 제목 플래티넘계 금속을 포함하는 중공 입자, 이를 포함하는 수전해 촉매 및 이의 제조 
+- 위치: Patent International 페이지1 제목 플래티넘계 금속을 포함하는 중공 입자, 이를 포함하는 수전해 촉매 및 이의 제조
 
 ### 3
 
@@ -1938,7 +1938,7 @@ independent_review: limited-pass-with-unverified
 - interval_status: undated
 - 자료 날짜: 미상 (undated); 귀속: lab-explicit; 구간: undated
 - 근거: [출처1](https://www.ecsm-kaist.net/bbs/board.php?bo_table=sub3_3&sca=1International+Patents&page=2)
-- 위치: Patent International 페이지2 제목 히드록시기를 함유하는 술폰화 폴리에테르술폰 공중합체 및 그 제조방법, 연료전지용 
+- 위치: Patent International 페이지2 제목 히드록시기를 함유하는 술폰화 폴리에테르술폰 공중합체 및 그 제조방법, 연료전지용
 
 
 ## 독립 검토 범위

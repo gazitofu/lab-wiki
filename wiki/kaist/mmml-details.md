@@ -633,7 +633,7 @@ independent_review: limited-pass-with-unverified
 - publication_status: published-as-listed
 - 자료 날짜: 2024 (year); 귀속: lab-explicit; 구간: inside-year
 - 근거: [출처1](https://mmml.kaist.ac.kr/peer-reviewed-publications)
-- 위치: 렌더링된 BibBase 서지 카드 Efficient extraction of hydrogen fluoride using hollow fiber membrane 
+- 위치: 렌더링된 BibBase 서지 카드 Efficient extraction of hydrogen fluoride using hollow fiber membrane
 
 ### 18
 
@@ -646,7 +646,7 @@ independent_review: limited-pass-with-unverified
 - publication_status: published-as-listed
 - 자료 날짜: 2023-02 (month); 귀속: lab-explicit; 구간: inside-month
 - 근거: [출처1](https://mmml.kaist.ac.kr/peer-reviewed-publications)
-- 위치: 렌더링된 BibBase 서지 카드 Bottom-up synthesis of two-dimensional carbon with vertically aligned 
+- 위치: 렌더링된 BibBase 서지 카드 Bottom-up synthesis of two-dimensional carbon with vertically aligned
 
 ### 19
 
@@ -737,7 +737,7 @@ independent_review: limited-pass-with-unverified
 - publication_status: published-as-listed
 - 자료 날짜: 2026-06 (month); 귀속: lab-explicit; 구간: inside-month
 - 근거: [출처1](https://mmml.kaist.ac.kr/peer-reviewed-publications)
-- 위치: 렌더링된 BibBase 서지 카드 A Compact Hollow Fiber Electrode Assembly Architecture for Continuous 
+- 위치: 렌더링된 BibBase 서지 카드 A Compact Hollow Fiber Electrode Assembly Architecture for Continuous
 
 ### 26
 
