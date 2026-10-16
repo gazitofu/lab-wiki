@@ -2,7 +2,7 @@
 lab_id: "kaist:b:ie:lab-565"
 status: collected-partial
 observed_on: 2026-10-16
-independent_review: pending
+independent_review: limited-pass-with-unverified
 ---
 
 # DAIM 2021년부터 2026년 학술성과와 특허
@@ -96,3 +96,8 @@ independent_review: pending
 | 79 | 2025 | OHT 시스템의 구조, 이동체를 제어하는 전자 장치 및 그 동작 방법. | 장영재, 파루크 무하마드 우마르. | Patents: 특허 출원번호 10-2025-0029226, 2025년 3월 6일. | [게시 링크](<https://daim.kaist.ac.kr/38>) |
 
 자료 확인일은 2026-10-16이다. 정확한 게재일·저자별 당시 소속·중복 판본의 독립 대조는 진행 중이다.
+
+
+## 독립 검토 범위
+
+2026-10-16 핵심 표기·자료구조·공개자료 경계와 선정 성과 표본을 제한 검토했다. 접근 실패 원문, 전체 성과의 날짜·당시 소속, 실제 재직·과제·특허 권리 명의는 미검증으로 남긴다. DAIM 공식페이지의 이번 독립 열람은 접근 실패여서 저장근거와의 대조에 한정했다.
