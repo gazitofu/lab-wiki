@@ -2,7 +2,7 @@
 lab_id: "kaist:c:meta:lab-1"
 status: collected-partial
 observed_on: 2026-10-16
-independent_review: pending
+independent_review: limited-pass-with-unverified
 ---
 
 # HCIL 2021년부터 2026년 게시 서지
@@ -63,3 +63,8 @@ independent_review: pending
 | 46 | 2021 | StickyPie: A Gaze-Based, Scale-Invariant Marking Menu Optimized for AR/VR | Sunggeun Ahn, Stephanie Santosa, Mark Parent, Daniel Wigdor, Tovi Grossman, and Marcello Giordano | StickyPie: A Gaze-Based, Scale-Invariant Marking Menu Optimized for AR/VR. CHI 2021. (Internship project with Chatham Labs) [DOI] [Video] | [게시 링크](<https://doi.org/10.1145/3411764.3445297>) |
 
 자료 확인일은 2026-10-16이다. 정확한 게재일·저자별 당시 소속·중복 판본의 독립 대조는 진행 중이다.
+
+
+## 독립 검토 범위
+
+2026-10-16 핵심 표기·자료구조·공개자료 경계와 선정 성과 표본을 제한 검토했다. 접근 실패 원문, 전체 성과의 날짜·당시 소속, 실제 재직·과제·특허 권리 명의는 미검증으로 남긴다. DAIM 공식페이지의 이번 독립 열람은 접근 실패여서 저장근거와의 대조에 한정했다.
