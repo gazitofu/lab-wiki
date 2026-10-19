@@ -1,96 +1,188 @@
-# Nanophotonic Systems Laboratory · 이한석
+# 나노포토닉 시스템 연구실 (Nanophotonic Systems Laboratory)
 
-공식 명단과 연구실의 공개 페이지를 대조한 부분 자료다. 열람일은 2026-10-16이며, 첫 이력창은 2021-10-13–2026-10-13이다. 웹 게시명단과 실제 재직, 기관 서지의 날짜와 출판사 최초 온라인 발행일을 구분한다. 구조·공개 경계와 제출 근거 정합의 고정 범위 독립 QA를 제한통과했다. 독립 원문 재열람·임용·실재직·출판사 접근·전체성과·지원 원부의 미검증은 유지한다.
+**KAIST 물리학과 · 이한석 교수**
 
-## 식별과 공식 연결
+- 분야: 칩 위의 초고품질(ultra-high-Q) 광 공진기, 중적외선 광원과 분자 분광, 광 주파수 빗(마이크로콤)과 솔리톤, 리튬니오베이트 전기광학 변조기, 양자 광원 결합
+- 홈페이지: <https://www.hleelab.org/>
+- 근거와 출처: [나노포토닉 시스템 연구실 근거 페이지](nanophotonic-systems-sources.md)
 
-| 항목 | 공개 근거와 상태 |
-|---|---|
-| 기존 후보 ID | `kaist:a:physics:lab-8cfbb473e3d8`, `kaist:a:quantum:lab-addb65428578` |
-| 책임자 | 이한석 / Hansuek Lee |
-| 게시 직위 | 물리학과 명단·교수 프로필과 랩 Professor 페이지의 Associate Professor |
-| 명칭 | 물리학과 프로필의 Nanophotonic system Laboratory, 랩 홈의 Nanophotonic Systems Laboratory. 단·복수 표기를 출처별 보존 |
-| 공식 연결 | [물리학과 명단](https://physics.kaist.ac.kr/index.php?mid=p_people1&category=193) → [교수 프로필](https://physics.kaist.ac.kr/index.php?document_srl=9239&mid=p_people1) → [랩 홈페이지](https://www.hleelab.org/). [양자대학원 KAIST 명단](https://quantum.kaist.ac.kr/pro_kaist)도 이한석·물리학과와 같은 홈페이지를 연결 |
-| 양자대학원 게시 라벨 | KRISS 참여 교수. KRISS 직원 재직이나 별도 상근 임용을 확정하는 근거로 사용하지 않음 |
-| 추가 겸무 게시 | [랩 Professor](https://www.hleelab.org/people/professor)의 Graduate School of Nanoscience and Technology (Jointly Appointed). 별도 임용 원부 대조 미수행 |
-| 교수 공간·업무 연락 | 물리학과 프로필: E6-6 #105, +82-42-350-1121, hansuek@kaist.ac.kr |
+> 빛을 아주 작은 칩 위의 고리 모양 구조에 오래 가두는 초고품질 광 공진기를 만들어, 분자를 찾아내는 중적외선 레이저와 광원, 정밀 시간·주파수 기준, 양자 기술용 부품을 하나의 칩에 구현하는 연구실이다.[^home][^research]
 
-원수집의 두 PI-only 후보 ID와 원필드는 유지한다. 같은 PI·홈페이지 및 랩 명칭을 연결하는 관계제안이며, 후보 병합·영구 ID 승격·독립 연구실 두 개의 확정 등록은 적용하지 않았다.
+## 무엇을 연구하나
 
-물리학과 교수 프로필에는 2018-09-28 09:32가 표시된다. 이를 임용일이나 검증된 최종 수정일로 쓰지 않는다. 해당 프로필의 2015~Present KAIST 경력과 랩 Professor의 물리학과 조교수 2017–2021·부교수 2021–now·나노과학기술대학원 조교수 2015–2021은 조직·직급 범위가 다른 게시 이력이다. 임용 원부와 실제 재직은 미검증이다.
+연구실은 나노포토닉스 이론, 나노 가공 기술, 재료 과학을 바탕으로 소자의 광학·기계·전기적 성질을 조절해 특별한 기능의 광 소자를 설계하고 만든다고 소개한다. 특히 빛과 물질의 상호작용을 다루는 핵심 요소인 초고품질 미세·나노 공진기(빛을 오래 가두어 세기를 키우는 작은 고리나 원반 구조)를 이용해, 정밀 시간·주파수, 대용량 광통신, 양자·광자 계산 같은 차세대 광 시스템의 핵심 부품을 하나의 칩에 만드는 것이 목표다.[^home][^research]
 
-## 연구 내용
+연구 주제는 세 가지다. 초고품질 공진기 안의 비선형 현상과 그 응용(소형 초연속 광원·솔리톤 광원, 초안정 광 주파수 기준), 나노 구조의 빛–물질 상호작용과 광역학(광 양자 메모리, 광–전기 집적회로와 하이브리드 양자 노드의 변환기·연결 부품), 나노 구조의 생체 광학 현상(나노 입자 감지용 나노 안테나)이다.[^research]
 
-[랩 홈](https://www.hleelab.org/)과 [Research](https://www.hleelab.org/research)는 초고Q 미세·나노 공진기, 나노제작과 재료기술을 기반으로 집적 광소자를 개발한다고 소개한다. 비선형 광학의 솔리톤·초연속 광원, 광 주파수 기준, 광기계학, 광 양자메모리, 광전 변환 및 하이브리드 양자노드 연결, 나노안테나 기반 입자 센싱이 게시 주제다. 광학·제작·집적소자 개발이 핵심인 자연·공학 연구로 포함 추천한다. 제품화·성능 재현이나 응용의 실사용 검증을 뜻하지 않는다.
+첫 번째 갈래는 **중적외선 초고품질 공진기와 분자 분광**이다. 중적외선은 여러 분자가 고유한 흡수 무늬를 보이는 파장대라 분자 감지에 중요하다. 연구실은 칼코게나이드 유리로 중적외선에서 기존 기록보다 30배 넘게 높은 품질 계수(빛을 얼마나 오래 가두는지 나타내는 값)의 칩 공진기를 만들어 칩 위의 브릴루앙 레이저(빛과 음파의 상호작용으로 만드는 레이저)를 구현했고,[^p1][^p2] 표적 분자의 흡수 파장에 맞춘 칩 광원,[^p3] 칩 광원으로 기체 압력을 정량 측정하는 방법을 보였다.[^p4]
 
-## 공개 구성원 명단
+두 번째 갈래는 **마이크로콤과 솔리톤**이다. 마이크로콤은 작은 공진기에서 같은 간격의 여러 주파수 빛을 만들어 내는 광 주파수 빗이다. 외부 잠금 장치 없이 스스로 안정되는 솔리톤(모양을 유지하며 도는 빛 펄스)을 만드는 방법을 연구했다.[^p5][^p6]
 
-[Current members](https://www.hleelab.org/people/current-members)의 비PI 게시항목은 13개다. 대학원생 10, 학부생 2, 행정 1의 페이지상 구분이며, 명단 유효일과 실제 재직 인원은 미확인이다. Graduate Students를 임의로 석사·박사로 나누지 않았다.
+세 번째 갈래는 **전기광학 변조기와 양자 소자 결합**이다. 전기광학 변조기는 전기 신호로 빛의 세기나 위상을 바꾸는 부품이다. 리튬니오베이트(전기에 따라 빛의 성질이 바뀌는 결정)로 근적외선 넓은 대역에서 동작하는 칩 변조기를 공동 연구로 만들었고,[^p7] 실리카 공진기의 잡광을 줄여 다이아몬드 속 질소–빈자리(NV) 양자 광원의 빛을 깨끗하게 모으는 방법을 보였다.[^p8]
 
-| 게시 이름 | 게시 구역 |
-|---|---|
-| Haneul Lee (이하늘) | Graduate Students |
-| Soobong Park (박수봉) | Graduate Students |
-| Changmin Lee (이창민) | Graduate Students |
-| Seokjoo Go (고석주) | Graduate Students |
-| Minsung Kim (김민성) | Graduate Students |
-| Kyung Bin Park (박경빈) | Graduate Students |
-| Taekyung Kim (김태경) | Graduate Students |
-| Min-Hyoung Joo (주민형) | Graduate Students |
-| Jeong-Yong Yu (유정용) | Graduate Students |
-| Hyowon Lee (이효원) | Graduate Students |
-| Hojin Kim (김호진) | Undergraduate Students |
-| Jinwook Lee (이진욱) | Undergraduate Students |
-| Heewon Kim (김희원) | Administrative Staff |
+## 주요 연구 주제
 
-Postdoctral Researchers 구역에는 이번 열람에서 이름이 관측되지 않았다. 실제 박사후 연구원이 0명이라는 판정은 아니다. [People](https://www.hleelab.org/people)의 단체사진 설명은 2020년 2월이며 현재 명단 증거로 사용하지 않았다. 사진·학생/행정 연락처는 수록하지 않는다. Alumni는 이번 수집 범위에서 제외했다.
+### 1. 중적외선 초고품질 공진기와 분자 분광
 
-## 선정 논문 3편
+칼코게나이드 공진기, 브릴루앙 레이저, 분자 흡수 맞춤 광원, 기체 압력 측정.[^p1][^p2][^p3][^p4] 대표 논문 1–4.
 
-[Publications](https://www.hleelab.org/publications)의 60·59·58번을 선정했다. 전체 최근 5년 성과나 순증 성과 수가 아니다. 랩 게시목록의 수록과 PI의 논문 당시 소속, 실제 구성원 재직을 구분한다.
+### 2. 마이크로콤과 솔리톤
 
-| 랩 번호·연구 | DOI·서지 | 날짜와 검증 한계 |
+라만 산란 보조 솔리톤, 브릴루앙 레이저 보조 솔리톤.[^p5][^p6] 대표 논문 5, 6.
+
+### 3. 집적 전기광학과 양자 하이브리드
+
+리튬니오베이트 변조기, NV 센터 결합.[^p7][^p8] 대표 논문 7, 8.
+
+## 대표 논문
+
+랩 국제 학술지 목록의 2021–2026년 논문 가운데 교수가 교신저자(랩 목록의 ✉ 표시)인 것에서 주제별로 골랐다. "쉽게 말하면" 칸은 각 논문의 초록만을 근거로 썼다.
+
+| # | 연도 | 논문 · 학술지 | 쉽게 말하면 | 주요 저자[^papers] |
+|---|---|---|---|---|
+| 1 | 2025 | [A mid-infrared Brillouin laser using ultra-high-Q on-chip resonators](https://doi.org/10.1038/s41467-025-58010-2) · Nature Communications | 중적외선(3.86 μm)에서 품질 계수 3,800만으로 기존 기록을 30배 넘게 넘는 칩 공진기를 만들었다. 증착 중에 빛을 가두는 구조가 저절로 생기게 하는 가공법으로 공기 중 화학물질 흡수 같은 손실을 줄였고, 이를 이용해 중적외선 브릴루앙 레이저를 구현했다.[^p1] | 공동 1저자 Kiyoung Ko·Daewon Suk, 공동 교신 Duk-Yong Choi·이한석 |
+| 2 | 2025 | [Ultra-high-Q chalcogenide glass on-chip resonators attaining internal impurity-limited loss in the mid-infrared](https://doi.org/10.1364/OE.569797) · Optics Express | 여러 칼코게나이드 유리로 만든 중적외선 칩 공진기가 산란과 분자 흡수를 줄여 3.2–4.6 μm에서 품질 계수 1,000만 이상, 3.91 μm에서 최대 6,700만을 냈다. 손실이 최고 수준 광섬유와 비슷해 재료 자체의 한계에 이르렀다. Editor's Pick으로 선정됐다.[^p2][^home] | 1저자 Daewon Suk, 공동 교신 Duk-Yong Choi·이한석 |
+| 3 | 2024 | [On-chip mid-infrared dispersive wave generation at targeted molecular absorption wavelengths](https://doi.org/10.1063/5.0221176) · APL Photonics | 소형 1550 nm 광원으로 만든 칩 초연속 광(넓은 파장대의 빛)은 분자 지문 영역에 닿기 어려웠다. 원하는 분자 흡수 파장에 분산파(펄스가 퍼지며 새로 생기는 다른 파장의 빛)를 만들어 내는 칩 광원을 개발했다.[^p3] | 1저자 Seong Cheol Lee, 공동 교신 Fabian Rotermund·이한석 |
+| 4 | 2023 | [Quantitative gas pressure measurement by molecular spectroscopy using chip-based supercontinuum in the mid-infrared](https://doi.org/10.1364/OE.474392) · Optics Express | 칼코게나이드 칩에서 만든 초연속 광을 일산화탄소 기체에 통과시키고 켑스트럼 분석(신호의 반복 무늬를 분리하는 계산법)으로 흡수 정보만 뽑아, 기체 압력을 압력계와 1.25% 차이로 측정했다.[^p4] | 공동 1저자 Joonhyuk Hwang·Soobong Park, 공동 교신 Kwang-Hoon Ko·이한석 |
+| 5 | 2023 | [Spontaneous soliton mode-locking of a microcomb assisted by Raman scattering](https://doi.org/10.1364/OE.498039) · Optics Express | 공진기 안의 광 매개 발진과 라만 산란(빛이 분자 진동과 에너지를 주고받으며 파장이 바뀌는 현상)의 상호작용을 조절해 여러 주파수 빗 상태를 만들고, 외부 잠금 없이 펌프 주파수만 천천히 바꿔 스스로 잠기는 라만 솔리톤을 재현성 있게 만들었다.[^p5] | 1저자 In Hwan Do, 공동 교신 Jae Hoon Lee·이한석 |
+| 6 | 2021 | [Self-stabilized soliton generation in a microresonator through mode-pulled Brillouin lasing](https://doi.org/10.1364/OL.419137) · Optics Letters | 브릴루앙 레이저 신호가 펌프 빛(공진기에 에너지를 넣어 주는 빛)의 에너지를 솔리톤으로 넘겨주게 해, 외부 피드백 장치 없이 11 GHz 간격 단일 솔리톤을 만들고 실험실에서 며칠 동안 유지했다.[^p6] | 1저자 In Hwan Do, 공동 교신 Jae Hoon Lee·이한석 |
+| 7 | 2024 | [Hyperband electro-optic modulator based on a two-pulley coupled lithium niobate racetrack resonator](https://doi.org/10.1364/OL.514192) · Optics Letters | 리튬니오베이트의 넓은 투명 파장대와 두 도르래 결합 공진기(공진기를 두 군데에서 길게 감싸 빛을 넣고 빼는 구조) 방식을 써서, 소자 하나로 775–1550 nm에서 동작하는 칩 전기광학 변조기를 만들었다.[^p7] | 1저자 Hyeon Hwang, 공동 교신 이한석·Min-Kyo Seo |
+| 8 | 2026 | [Suppression of intrinsic photoluminescence in silica microtoroid resonators for hybrid NV center integration](https://doi.org/10.1364/OL.588897) · Optics Letters | 실리카 원환 공진기의 잡광이 레이저 가공 중 생긴 결함에서 온다는 것을 밝히고, 600°C 넘는 열처리로 줄였다. 이를 이용해 나노다이아몬드 속 NV 센터의 빛을 높은 신호 대 배경비로 광섬유로 모았다.[^p8] | 1저자 Haneul Lee, 교신 이한석 |
+
+## 교수와 전문 분야
+
+이한석 교수는 서울대 전기공학 학사(2001)·석사(2004)·박사(2008)를 받았다. 미국 캘리포니아공대(Caltech)에서 박사후연구원(2008–2011), 선임 연구원(2011–2013), 방문 연구원(2013–2015)으로 일했고, 그 사이 미국 기업 hQphotonics를 공동 창업해 대표(2013–2015)를 지냈다. 2015년 KAIST 나노과학기술대학원 조교수로 부임했고 2017년부터 물리학과 조교수를 함께 맡았으며, 2021년부터 물리학과 부교수다(나노과학기술대학원 겸임).[^prof] 물리학과는 연구 분야를 광학, 미세·나노 광 소자로 적는다.[^physics]
+
+논문으로 보면 전문 분야는 세 갈래다.
+
+- **초고품질 칩 공진기와 중적외선 광원**.[^p1][^p2][^p3][^p4]
+- **마이크로콤·솔리톤 비선형 광학**.[^p5][^p6]
+- **집적 전기광학과 양자 광 소자**.[^p7][^p8]
+
+## 응용 분야
+
+대표 논문과 연구 소개로 보면 분자·기체 감지 분광, 정밀 시간·주파수 기준, 광통신, 양자 정보 기술에 닿아 있다.[^home][^p4][^p8] 졸업생 다수가 삼성전자에 진출했고, DGIST 조교수, 한국표준과학연구원 선임 연구원, 하버드대 박사후연구원 등이 있다.[^alumni]
+
+## 구성원
+
+2026년 10월 19일 랩 구성원 페이지 기준이다.[^members] "대표 논문 참여"는 위 대표 논문 표의 번호다.
+
+| 이름 | 과정 | 이메일 | 대표 논문 참여 |
+|---|---|---|---|
+| Haneul Lee (이하늘) | 대학원생 | lhneul@kaist.ac.kr | 8 |
+| Soobong Park (박수봉) | 대학원생 | sbpark3317@kaist.ac.kr | 1, 3, 4 |
+| Changmin Lee (이창민) | 대학원생 | cmin99@kaist.ac.kr |  |
+| Seokjoo Go (고석주) | 대학원생 | go980510@kaist.ac.kr | 5 |
+| Minsung Kim (김민성) | 대학원생 | kimmeans@kaist.ac.kr |  |
+| Kyung Bin Park (박경빈) | 대학원생 | b1g1bin04@kaist.ac.kr |  |
+| Taekyung Kim (김태경) | 대학원생 | tkyung@kaist.ac.kr |  |
+| Min-Hyoung Joo (주민형) | 대학원생 | minhyoung@kaist.ac.kr |  |
+| Jeong-Yong Yu (유정용) | 대학원생 | yjy1738@kaist.ac.kr |  |
+| Hyowon Lee (이효원) | 대학원생 | hyowon331@kaist.ac.kr |  |
+| Hojin Kim (김호진) | 학부 연구생 | hojin6275@kaist.ac.kr |  |
+| Jinwook Lee (이진욱) | 학부 연구생 | jinwooklee@kaist.ac.kr |  |
+| Heewon Kim (김희원) | 행정 직원 | heewon00@kaist.ac.kr |  |
+
+## 졸업생 진로
+
+랩 졸업생 페이지의 졸업생·박사후연구원과 랩이 적은 현재 소속이다.[^alumni]
+
+| 이름 | 학위·과정 (연도) | 랩이 적은 진로 |
 |---|---|---|
-| 60. Ultra-high-Q chalcogenide glass on-chip resonators attaining internal impurity-limited loss in the mid-infrared | [10.1364/OE.569797](https://doi.org/10.1364/OE.569797), Optics Express 33(15), 32033–32040 | [KAIST 연구성과 기록](https://pure.kaist.ac.kr/en/publications/ultra-high-q-chalcogenide-glass-on-chip-resonators-attaining-inte/)의 Published 2025-07-28. [출판사 권호](https://opg.optica.org/oe/issue.cfm?issue=15&tocid=1223988&volume=33) 날짜도 2025-07-28이며 Editors' Pick 표기를 확인. 논문 본문은 대기 페이지여서 최초 온라인일·개별 저자 소속 미검증 |
-| 59. On-chip quantum key distribution over field-deployed fiber using lithium niobate photonic circuit | [10.1063/5.0223694](https://doi.org/10.1063/5.0223694), APL Photonics 10(3), 031301 | [KAIST 연구성과 기록](https://pure.kaist.ac.kr/en/publications/on-chip-quantum-key-distribution-over-field-deployed-fiber-using-/)의 Published 2025-03-01. 출판사 본문은 보안확인 페이지로 미열람. 기관 날짜를 출판사 최초 온라인일로 채택하지 않음 |
-| 58. A mid-infrared Brillouin laser using ultra-high-Q on-chip resonators | [10.1038/s41467-025-58010-2](https://www.nature.com/articles/s41467-025-58010-2), Nature Communications 16, 2707 | 출판사 Published·Version of record 모두 2025-03-19. 저자 소속 블록에서 Hansuek Lee의 KAIST 물리학과 표기 확인. 출판사 15명/랩 14명 저자목록 차이를 아래에 보존 |
+| Kiyoung Ko (고기영) | 박사후연구원 2025-2026; Ph.D. 2025 |  |
+| Hyeon Hwang (황현) | 박사후연구원 2025; Ph.D. 2025 (Min-Kyo Seo 교수 공동 지도) | Postdoctoral researcher at Harvard University |
+| Daewon Suk (석대원) | 박사후연구원 2024-2025; Ph.D. 2024 |  |
+| Jeongwon Kang (강정원) | M.S. 2024 |  |
+| Byeong Gyu Park (박병규) | M.S. 2024 | Samsung Electronics, Korea |
+| In Hwan Do (도인환) | Ph.D. 2023 | Samsung Electronics, Korea |
+| Joonhyuk Hwang (황준혁) | Ph.D. 2022 | Samsung Electronics, Korea |
+| Dong-In Jeong (정동인) | Ph.D. 2022 | Samsung Electronics, Korea |
+| Dae-Gon Kim (김대곤) | Ph.D. 2021 | Samsung Electronics, Korea |
+| Yeseul Kim (김예슬) | Ph.D. 2020 | Samsung Electronics, Korea |
+| Sangyoon Han (한상윤) | 박사후연구원 2017-2020 | Assistant Professor at DGIST, Daegu, Korea (Intelligent Nanophotonics Laboratory) |
+| Muhammed Kaan Yildiz | M.S. 2020 | Aselsan Bilkent Mikro Nano Tech. Corporation, Turkey |
+| Sungwan Cho (조성완) | 박사후연구원 2016-2018 | Senior researcher at KRISS, Daejeon, Korea |
+| Sung Woo Jung (정성우) | M.S. 2017 |  |
 
-60번은 칼코게나이드 유리 공진기의 산란·분자흡수 손실을 줄여 재료 고유손실 한계에 접근한 연구로 기관 초록이 소개한다. 59번은 박막 리튬나이오베이트 송수신 집적회로로 실제 설치 광섬유에서 BB84 양자키분배를 실험한 공동연구다. 58번은 중적외선 온칩 공진기를 제작해 브릴루앙 레이저를 시연한 연구다. 연구요약은 각 기관·출판사 초록에 근거하며 성능을 독립 재현하지 않았다.
+## 최근 논문 목록 (2021–2026)
 
-**링크와 저자 차이:** 랩 59번의 표시 제목·APL Photonics 서지에 연결된 URL은 58번 Nature 논문의 주소다. 이를 59번 DOI로 오인하지 않고, 59번 DOI와 서지는 별도 KAIST 기록을 근거로 연결했다. 58번의 랩 저자목록에는 출판사 목록의 Rongping Wang이 없다. 출판사 목록은 Xunsi Wang 다음, Byung Jae Chun 앞에 Rongping Wang을 포함한다. 어느 한쪽으로 원목록을 덮어쓰지 않는다. 논문 당시 개별 연구실 귀속·실재직과 전체 성과는 미검증이다.
+랩 국제 학술지 목록의 2021–2026년 논문 31편(게재 승인 1편 포함)이다. 공동 1저자(*)·교신저자(✉) 표시는 랩 표기다.[^papers]
 
-## 논문 사사의 지원관계
+**2026**
 
-58번 [출판사 논문](https://www.nature.com/articles/s41467-025-58010-2)의 Acknowledgements에 다음 4개 지원관계가 게시돼 있다. 과제 수주 4건이나 랩의 실수령액을 확정한 것이 아니다.
+- Haneul Lee, Daewon Suk, Kiyoung Ko, Jae Hoon Lee, Hyun-Gue Hong, Sungkun Hong, Hansuek Lee✉. "Suppression of intrinsic photoluminescence in silica microtoroid resonators for hybrid NV center integration". *Optics Letters 51 1891 (2026)*.
+- Kyungmin Lee, Minwook Kyung, Yung Kim, Jagang Park, Hansuek Lee, Joonhee Choi, C. T. Chan, Jonghwa Shin, Kun Woo Kim, Bumki Min✉. "Analogs of Spontaneous Emission and Lasing in Photonic Time Crystals". *Physical Review Letters 136 093802 (2026)*.
+- Ziqi Wei, Daewon Suk, Changrui Liu, Changxi Yang, Hansuek Lee, Chengying Bao✉. "Kerr-Induced Noise Quenching in Pulse Pumped Microcavity Solitons". *Physical Review Letters 136 063801 (2026)*.
 
-| 사사에 게시된 지원 주체·명칭 | 게시 식별자 | 미확인 |
-|---|---|---|
-| Samsung Research Funding & Incubation Center of Samsung Electronics | SRFC-IT1801-03 | 정식 과제명·PI·기간·금액·원부·실수령 |
-| IITP, 한국정부 MSIT 지원 | RS-2023-00223497 | 동일 |
-| NRF, 한국정부 MSIT 지원 | 2023R1A2C2004472 | 동일 |
-| KAIST Cross-Generation Collaborative Lab project, H.L. 지원 게시 | 미확인 | 식별자·PI·기간·금액·원부·실수령 |
+**2025**
 
-논문이 이력창 안에 출판됐다는 사실만으로 지원과제의 수행기간도 이력창과 겹친다고 확정하지 않는다.
+- Hyeon Hwang✉, Seokjoo Go, Guhwan Kim, Hong-Seok Kim, Kiwon Moon, Jung Jin Ju, Hansuek Lee, Min-Kyo Seo✉. "High-Q photonic Fabry-Perot micro-resonator in thin-film lithium niobate". *APL Photonics 10 126103 (2025)*.
+- Hyeon Hwang\*, Seokjoo Go\*, Guhwan Kim, Hong-Seok Kim, Kiwon Moon, Jung Jin Ju, Hansuek Lee✉, Min-Kyo Seo✉. "Photonic molecules via coupled thin-film lithium niobate Fabry-Perot photonic crystal micro-resonators". *Optics Letters 50 7416 (2025)*.
+- Ziye Wang, Jihoon Beak, Changmin Ahn, Daewon Suk, Hansuek Lee, Jungwon Kim✉. "FPGA-Driven Soliton Locking for Reduced Manual Intervention in Microcombs". *Journal of Lightwave Technology 43 9270 (2025)*.
+- Daewon Suk\*, Kiyoung Ko\*, Jingyu Kim, Sang-Hee Ko Park, Duk-Yong Choi✉, Hansuek Lee✉. "Optical characteristics of passivation layers for ultra-low-loss on-chip devices in the mid-infrared". *APL Materials 13 081102 (2025)*.
+- Daewon Suk, Kiyoung Ko, Rongping Wang, Xunsi Wang, Duk-Yong Choi✉, Hansuek Lee✉. "Ultra-high-Q chalcogenide glass on-chip resonators attaining internal impurity-limited loss in the mid-infrared". *Optics Express 33 32033 (2025) (Highlighted as Editor's Pick)*.
+- Hyungjun Heo, Min Ki Woo, Chang-Hoon Park, Hyeong-Soon Jang, Hyeon Hwang, Hansuek Lee, Min-Kyo Seo, Sangin Kim, Hyounghan Kwon, Hojoong Jung✉, Sang-Wook Han✉. "On-chip quantum key distribution over field-deployed fiber using lithium niobate photonic circuit". *APL Photonics 10 031301 (2025)*.
+- Kiyoung Ko\*, Daewon Suk\*, Dohyeong Kim, Soobong Park, Betul Sen, Dae-Gon Kim, Yingying Wang, Shixun Dai, Xunsi Wang, Byung Jae Chun, Kwang-Hoon Ko, Peter T. Rakich, Duk-Yong Choi✉, Hansuek Lee✉. "A mid-infrared Brillouin laser using ultra-high-Q on-chip resonators". *Nature Communications 16 2707 (2025)*.
+- Hyeong-Soon Jang, Hyungjun Heo, Sangin Kim, Hyeon Hwang, Hansuek Lee, Min-Kyo Seo, Hyounghan Kwon, Sang-Wook Han, Hojoong Jung✉. "Fabrication of a 3D mode size converter for efficient edge coupling in photonic integrated circuits". *Optics Express 33 6909 (2025)*.
+- Hyeon Hwang, Kiyoung Ko, Mohamad Reza Nurrahman, Kiwon Moon, Jung Jin Ju, Sang-Wook Han, Hojoong Jung, Min-kyo Seo✉, Hansuek Lee✉. "A wide-spectrum mid-infrared electro-optic intensity modulator employing a two-point coupling lithium niobate racetrack resonator". *APL Photonics 10 016116 (2025)*.
+- Seyed Khalil Alavi, Zijie Sheng, Haneul Lee, Hansuek Lee, Sungkun Hong✉. "Enhanced Optomechanical Coupling between an Optically Levitated Particle and an Ultrahigh-Q Optical Microcavity". *ACS Photonics 12 34 (2025)*.
 
-## 선정 소식과 사업화 잔여
+**2024**
 
-[랩 홈](https://www.hleelab.org/)은 Taekyung Kim의 2025년 가을학기 합류와 60번 Optics Express 논문의 Editors' Pick 선정을 게시한다. 합류의 정확한 날짜·실제 재직, 소식 게시일과 선정일은 미확인이다. 출판사 권호의 Editors' Pick 표기는 대조했지만 권호 날짜를 선정일로 쓰지 않는다. 소식과 논문을 별개 연구성과로 중복 합산하지 않는다.
+- Hong-Seok Kim✉, Guhwan Kim, Tetiana Slusar, Jinwoo Kim, Jiho Park, Jaegyu Park, Hyeon Hwang, Woojin Noh, Hansuek Lee, Min-Kyo Seo, Kiwon Moon, Jung Jin Ju. "Fabrication of low-loss symmetrical rib waveguides based on x-cut lithium niobate on insulator for integrated quantum photonics". *ETRI Journal 46 783 (2024)*.
+- Hyeon Hwang✉, Woojin Noh, Mohamad Reza Nurrahman, Guhwan Kim, Kiwon Moon, Jung Jin Ju, Hansuek Lee, Min-Kyo Seo✉. "Spontaneous parametric downconversion photon pair generation in small footprint X-cut periodically poled lithium niobate micro-resonator". *Optics Letters 49 5379 (2024)*.
+- Ziqi Wei, Zhaoyu Cai, Daewon Suk, Changxi Yang, Hansuek Lee, Chengying Bao✉. "Injection Locked Low Noise Chip-Based Silica Soliton Microwave Oscillator". *IEEE Journal of Selected Topics in Quantum Electronics 30 2900308 (2024)*.
+- Seong Cheol Lee, Soobong Park, Daewon Suk, Joonhyuk Hwang, Kiyoung Ko, Won Bae Cho, Duk-Yong Choi, Kwang-Hoon Ko, Fabian Rotermund✉, Hansuek Lee✉. "On-chip mid-infrared dispersive wave generation at targeted molecular absorption wavelengths". *APL Photonics 9 080802 (2024)*.
+- Hyeon Hwang, Mohamad Reza Nurrahman, Hyungjun Heo, Kiyoung Ko, Kiwon Moon, Jung Jin Ju, Sang-Wook Han, Hojoong Jung, Hansuek Lee✉, Min-Kyo Seo✉. "Hyperband electro-optic modulator based on a two-pulley coupled lithium niobate racetrack resonator". *Optics Letters 49 658 (2024)*.
 
-랩 Professor에는 hQphotonics의 2012–2015 공동창업·이사회 및 2013–2015 사장 경력이 게시돼 있다. 현재 법인관계·운영·특허·기술이전은 이번에 조사하지 않았으며 과거 경력을 현행 사업화로 확대하지 않는다.
+**2023**
 
-## 필드별 수집 상태와 검토 범위
+- Hui Yang, Changmin Ahn, Igju Jeon, Daewon Suk, Hansuek Lee, Jungwon Kim✉. "Synchronization of a Silica Microcomb to a Mode-locked Laser with a Fractional Optoelectronic Phase-locked Loop". *Current Optics and Photonics 7 557 (2023)*.
+- Joonhyuk Hwang\*, Soobong Park\*, Kiyoung Ko, Daewon Suk, Yong-Hee Lee, Duk-Yong Choi, Fabian Rotermund, Kwang-Hoon Ko✉, Hansuek Lee✉. "Quantitative gas pressure measurement by molecular spectroscopy using chip-based supercontinuum in the mid-infrared". *Optics Express 31 35624 (2023)*.
+- In Hwan Do, Daewon Suk, Dongin Jeong, Seokjoo Go, Kiyoung Ko, Hyun-Gue Hong, Dai-Hyuk Yu, Jae Hoon Lee✉, Hansuek Lee✉. "Spontaneous soliton mode-locking of a microcomb assisted by Raman scattering". *Optics Express 31 29321 (2023)*.
 
-| 항목 | 상태 | 이번 범위·잔여 |
-|---|---|---|
-| 명칭 | 확인·부분 | 단·복수형 표기와 기존2후보 연결제안. 원필드 채택 없음 |
-| 소속 | 확인·부분 | 물리/양자 공식명단, 나노과학 겸무는 PI게시. KRISS 라벨 의미·임용/실재직 미검증 |
-| PI | 확인·부분 | 공개 이름·직위·교수 공간·업무연락. 경력/날짜 범위 구분 |
-| 구성원 | 게시목록 확인 | 비PI13게시항목. 유효일·개별학위·실재직 미검증 |
-| 연구주제 | 확인·부분 | 소개와 선정연구. 성능 재현 미수행 |
-| 논문 | 불일치·선정목록 | 3편의 DOI·서지,59링크/58저자 차이. 출판사 접근·정확일자·전체성과 잔여 |
-| 과제 | 확인·부분 | 논문사사4지원관계. 원부·PI·기간·금액·실수령 미검증 |
-| 연구이력 | 확인·부분 | 선정3연구의 요약. 연구변화 전수 미수집 |
-| 소식 | 확인·선정목록 | 합류/선정2게시관계, 게시일·사건일 잔여 |
-| 특허·사업화 | 미수집 | 과거 PI경력의 현행성·법인·특허·이전 원부 미대조 |
+**2022**
 
-구조·공개 경계와 제출 근거 정합의 고정 범위 독립 QA를 제한통과했다. 독립 원문 재열람·임용·실재직·출판사 접근·전체성과·지원 원부의 미검증은 유지한다. 연구실·인원·성과 전수 완료 또는 사이트 배포를 뜻하지 않는다. 출처의 접근·검토 범위를 보존하며, 원문 본문·사진을 재배포하지 않는다.
+- Hyeon Hwang, Hyungjun Heo, Kiyoung Ko, Mohamad Reza Nurrahman, Kiwon Moon, Jung Jin Ju, Sang-Wook Han, Hojoong Jung, Hansuek Lee✉, Min-Kyo Seo✉. "Electro-optic control of the external coupling strength of a high-quality-factor lithium niobate micro-resonator". *Optics Letters 47 6149 (2022)*.
+- Meungho Seo, Inhwan Do, Hansuek Lee, Dai-Hyuk Yu, Sangwon Seo, Hyun-Gue Hong, Jungho Han, Sang Eon Park, Sang-Bum Lee, Taekyong Kwon, Jongchul Mun, Jae Hoon Lee✉. "Moving-frame imaging of transitiing cold atoms for precise inter-chamber transport". *Optics Express 30 25707 (2022)*.
+- Si-Hoon Kim, Gyeong-Seok Hwang, Donghwan Koo, Dong-Hyun Seo, Ye-Pil Kwon, Hansuek Lee, Hyesung Park✉, Eun-chae Jeon✉, Ju-Young Kim✉. "Highly impermeable and flexible silica encapsulation films synthesized by sol-gel process". *Nano Research 15 7476 (2022)*.
+- Dohyeon Kwon\*, Dongin Jeong\*, Igju Jeon, Hansuek Lee✉, Jungwon Kim✉. "Ultrastable microwave generation from ultracompact fibre-photonic-stabilized microcombs". *Nature Communications 13 381 (2022)*.
+
+**2021**
+
+- Dohyeong Kim\*, Sangyoon Han\*, Dae-gon Kim, Kiyoung Ko, Duk-Yong Choi✉, Hansuek Lee✉. "Two-points coupling method to independently control coupling efficiency at arbitrary wavelengths". *Optics Letters 47 106 (2021)*.
+- Zijiao Yang, Mandana Jahanbozorgi, Dongin Jeong, Shuman Sun, Olivier Pfister, Hansuek Lee, Xu Yi✉. "A squeezed quantum microcomb on a chip". *Nature Communications 12 4781 (2021)*.
+- Joonhyuk Hwang, Dae-gon Kim, Sangyoon Han, Dongin Jeong, Yong-Hee Lee, Duk-Yong Choi✉, Hansuek Lee✉. "Octave-spanning supercontinuum generation in thermally deposited As2S3 waveguide on wet-etched SiO2 structure". *Optics Letters 46 2413 (2021) (Highlighted as Editor's Pick)*.
+- Dongin Jeong, Dae-Gon Kim, In Hwan Do, Hansuek Lee✉. "Hydrophobic passivation of ultra-high-Q silica wedge resonators using hexamethyldisilzane". *Optics Letters 46 2019 (2021)*.
+- In Hwan Do, Doheong, Kim, Dongin Jeong, Daewon Suk, Dohyeon Kwon, Jungwon Kim, Jae Hoon Lee✉, Hansuek Lee✉. "Self-stabilized soliton generation in a microresonator through mode-pulled Brillouin lasing". *Optics Letters 46 1772 (2021) (Highlighted as Editor's Pick)*.
+
+**연도 표기 없음**
+
+- Changmin Ahn, Junyong Choi, Daewon Suk, Hansuek Lee, Jungwon Kim✉. "Optical-to-Microcomb Stability Transfer for Ultrastable Timing and Microwave/Millimeter-Wave Generation". *LASER & PHOTONICS REVIEWS (Accepted)*.
+
+## 소식
+
+- Taekyung Kim joined the lab in the fall semester of 2025.
+- The recent Optics Express publication [60] has been highlighted as an Editor's Pick.
+
+## 연락과 위치
+
+- 교수 이메일: hansuek@kaist.ac.kr[^prof][^physics]
+- 교수 전화: 042-350-1121[^prof]
+- 교수실: KAIST E6-6동 105호 (대전 유성구 대학로 291)[^physics]
+
+[^home]: 연구실 누리집 첫 화면 <https://www.hleelab.org/> (2026-10-19 열람)
+[^research]: 연구 페이지 <https://www.hleelab.org/research> (2026-10-19 열람)
+[^prof]: 교수 소개 페이지 <https://www.hleelab.org/people/professor> (2026-10-19 열람)
+[^members]: 구성원 페이지 <https://www.hleelab.org/people/current-members> (2026-10-19 열람)
+[^alumni]: 졸업생 페이지 <https://www.hleelab.org/people/alumni> (2026-10-19 열람)
+[^papers]: 논문 목록 <https://www.hleelab.org/publications> (2026-10-19 열람)
+[^physics]: KAIST 물리학과 교수 소개(이한석) <https://physics.kaist.ac.kr/index.php?document_srl=9239&mid=p_people1> (2026-10-19 열람)
+[^p1]: K. Ko 외, H. Lee, Nature Communications 16, 2707 (온라인 2025-03-19). <https://doi.org/10.1038/s41467-025-58010-2> 초록 기준(Semantic Scholar 등록 초록).
+[^p2]: D. Suk 외, H. Lee, Optics Express 33, 32033 (온라인 2025-07-21). <https://doi.org/10.1364/oe.569797> 초록 기준.
+[^p3]: S. C. Lee 외, H. Lee, APL Photonics 9, 080802 (온라인 2024-08-22). <https://doi.org/10.1063/5.0221176> 초록 기준.
+[^p4]: J. Hwang 외, H. Lee, Optics Express 31, 35624 (온라인 2023-10-10). <https://doi.org/10.1364/oe.474392> 초록 기준.
+[^p5]: I. H. Do 외, H. Lee, Optics Express 31, 29321 (온라인 2023-08-17). <https://doi.org/10.1364/oe.498039> 초록 기준.
+[^p6]: I. H. Do 외, H. Lee, Optics Letters 46, 1772 (온라인 2021-04-01). <https://doi.org/10.1364/ol.419137> 초록 기준.
+[^p7]: H. Hwang 외, M.-K. Seo, Optics Letters 49, 658 (온라인 2024-01-26). <https://doi.org/10.1364/ol.514192> 초록 기준.
+[^p8]: H. Lee 외, H. Lee, Optics Letters 51, 1891 (온라인 2026-03-25). <https://doi.org/10.1364/ol.588897> 초록 기준.
