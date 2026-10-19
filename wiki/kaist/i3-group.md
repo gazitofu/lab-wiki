@@ -1,76 +1,127 @@
----
-lab_id: "kaist:b:ee:lab-634"
-institution_id: kaist
-status: collected-partial
-observed_on: 2026-10-16
-history_window_start: 2021-10-13
-history_window_end: 2026-10-13
-independent_review: limited-pass-with-unverified
----
+# I³ Group (Intelligence, Imaging & Integration Group)
 
-# Intelligence, Imaging & Integration Group
+**KAIST 전기및전자공학부 · 강익성 교수**
 
-KAIST 전기및전자공학부 강익성 조교수의 연구 그룹이다. 계산 이미징·물리 기반 AI·적응광학·현미경·3차원 계측을 연구한다. 생의학 영상 응용을 포함하지만 광학·계산·시스템 설계가 핵심 방법이다.
+- 분야: 계산 현미경(computational microscopy), 적응 광학, 물리 기반 인공지능 영상 복원, X선 3차원 나노 영상, 반도체 비파괴 계측
+- 홈페이지: <http://kangimaging.com/>
+- 근거와 출처: [I³ Group 근거 페이지](i3-group-sources.md)
 
-## 기본 정보
+> 렌즈·측정 장치와 인공지능을 함께 설계해, 살아 있는 쥐의 뇌 속 신경세포나 반도체 칩 내부 같은 작은 3차원 구조를 부수지 않고 선명하게 보는 영상 기술을 만든다. 2026년 1월 KAIST에서 새로 문을 연 연구실이다.[^home][^research][^news]
 
-| 항목 | 공개 자료의 표기 | 근거 |
-|---|---|---|
-| 명칭 | 공식 교수 프로필: Intelligence, Imaging & Integration Group | [공식 본문](https://ee.kaist.ac.kr/professor/%EA%B0%95%EC%9D%B5%EC%84%B1/) |
-| PI | 강익성 / Kang, Iksung, 조교수 | [공식 본문](https://ee.kaist.ac.kr/professor/%EA%B0%95%EC%9D%B5%EC%84%B1/) |
-| 소속 | KAIST 전기및전자공학부 | [공식 본문](https://ee.kaist.ac.kr/professor/%EA%B0%95%EC%9D%B5%EC%84%B1/) |
-| 연구 | Computational Imaging, Physics-Informed AI, Adaptive Optics & Microscopy, 3D Metrology | [공식 본문](https://ee.kaist.ac.kr/professor/%EA%B0%95%EC%9D%B5%EC%84%B1/) |
-| 공식 연결 | 교수 프로필 → http://kangimaging.com | [공식 본문](https://ee.kaist.ac.kr/professor/%EA%B0%95%EC%9D%B5%EC%84%B1/) |
+## 무엇을 연구하나
 
-## 2026-10-16 재확인·보강
+연구실은 비파괴·고해상도 3차원 영상을 위한 계산 현미경을 연구한다. 광학 장치, 측정 방식, 복원 알고리즘을 함께 설계하고, 단층 촬영·라미노그래피·타이코그래피(빛을 여러 위치에서 비추고 회절 무늬로 영상을 되살리는 기법)처럼 측정값에 간접적으로 담긴 3차원 구조를 역문제(결과에서 원인을 거꾸로 추정하는 문제)로 풀어낸다.[^research] 빛이 적거나 각도가 제한되거나 수차(렌즈·시료 때문에 생기는 영상 왜곡)와 산란이 있으면 이 추정이 어려워, 영상이 만들어지는 물리 모형과 인공지능을 결합해 구조와 장치 변수를 함께 추정한다.[^research]
 
-공식 학부 프로필의 그룹명에는 쉼표와 &가 포함된다. 기존 수집의 'Intelligence Imaging Integration Group (I³ Group)'과 표기 차이를 보존하며 같은 이름으로 자동 덮어쓰지 않았다. 연구실 사이트 루트·Team·Research 접근은 이번 웹도구에서 오류여서 그 내용을 새 확인사실로 사용하지 않았다. [교수 프로필](https://ee.kaist.ac.kr/professor/%EA%B0%95%EC%9D%B5%EC%84%B1/)
+첫 번째 응용은 **생체 영상의 적응 광학**이다. 적응 광학은 시료가 일으키는 빛의 왜곡을 측정·보정해 선명한 영상을 되찾는 기술인데, 보통 값비싼 파면(빛의 물결이 같은 위상으로 이어진 면) 측정 장치가 필요하다. 교수는 별도 학습 데이터 없이 3차원 영상 묶음 하나만으로 빛의 왜곡과 시료 구조를 함께 추정하는 인공지능(CoCoA)을 만들어 살아 있는 쥐 뇌의 광시야 현미경(넓은 영역을 한 번에 비춰 찍는 현미경) 영상에 썼고,[^p2] 이를 이광자 현미경(빛 알갱이 두 개를 동시에 흡수시켜 깊은 조직을 찍는 현미경)으로 넓힌 NeAT는 상용 현미경에서도 실시간으로 왜곡을 보정해 쥐 뇌의 시냅스·신경세포 신호를 더 정확하게 쟀다.[^p1]
 
-공식 부임 안내는 2026-01-23에 게시되어 2026-01-26 부임을 알린다. 약력에는 2025년 9월–2026년 1월 연세대 조교수, 2022년 7월–2025년 6월 UC Berkeley 박사후 연구가 별도로 나온다. 과거 연구 성과를 현재 KAIST 그룹 실적으로 합산하지 않는다. [부임 안내](https://ee.kaist.ac.kr/notices/%EC%A0%84%EA%B8%B0%EB%B0%8F%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%EB%B6%80-%EC%8B%A0%EC%9E%84-%EA%B5%90%EC%9B%90-%EA%B0%95%EC%9D%B5%EC%84%B1-%EA%B5%90%EC%88%98-%EB%B6%80%EC%9E%84-%EC%95%88%EB%82%B4/)
+두 번째 응용은 **광학·X선 계측과 검사**다. 반도체 집적회로 내부를 X선으로 3차원 촬영하려면 여러 각도의 측정에 오랜 시간이 걸린다. 교수는 측정 각도를 크게 줄이고도 인공지능으로 정밀하게 복원하는 방법(APT, RAPID, 정답 영상 없이 측정 데이터만으로 배우는 자기 지도 학습 라미노그래피)을 개발했다.[^p4][^p5][^p6] 연구실은 빛을 일부러 적게 쓰거나 각도를 줄여 검사를 크게 빠르게 하는 방향을 목표로 든다.[^research]
 
-2026-05-06 학부 뉴스는 Na Ji 연구팀과의 공동연구로 신경장 모델을 이용해 이광자 현미경의 수차·움직임·정렬을 보정한 연구를 설명한다. 뉴스는 논문 'Adaptive optical correction for in vivo two-photon fluorescence microscopy with neural fields'의 4월 13일 게재와 강익성의 KAIST 공동교신·제1저자 표기를 제공한다. 출판사 소속 전항목 대조는 별도다. [공식 연구뉴스](https://ee.kaist.ac.kr/research-achieve/%EA%B0%95%EC%9D%B5%EC%84%B1-%EA%B5%90%EC%88%98%ED%8C%80-%EC%8B%A0%EA%B2%BD%EC%9E%A5-%EB%AA%A8%EB%8D%B8-%EA%B8%B0%EB%B0%98-ai-%EA%B3%84%EC%82%B0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9C%BC%EB%A1%9C/)
+이 밖에 렌즈 없는 홀로그래피 현미경,[^p7] 제한된 각도의 단층 촬영을 순환 신경망(순서가 있는 데이터를 차례로 처리하는 인공지능)으로 푸는 방법,[^p8] 신경세포 전압 변화를 초당 5천 번 넘게 기록하는 압축 측정 장치 공동 연구가 있다.[^p3]
 
-부임 안내에서 연결한 [개인 홈페이지](https://iksungk.github.io/)도 KAIST EE 소속과 2026년 1월 그룹 시작을 명시한다. 2026-04-13 NeAT 게재 소식 및 2026-03-22 PICORE 참여 소식이 올라 있다.
+## 주요 연구 주제
 
-## 기존 공개 구성원·성과
+### 1. 계산 적응 광학 현미경
 
-2026-10-13 기존 관측의 인명·논문·과제·이력·뉴스는 [공개 자료 상세](i3-group-details.md)에 항목별 날짜·역할·귀속·출처와 함께 보존했다. 이번 열람으로 전체 목록의 최신성이나 실재직을 확정하지 않았다.
+신경장(neural field) 기반 수차 추정·보정, 시료–수차 동시 추정.[^p1][^p2][^research] 대표 논문 1, 2.
 
-| 종류 | 보존한 저장 항목 수 |
-|---|---|
-| names | 1 |
-| affiliations | 1 |
-| pi | 1 |
-| members | 6 |
-| research_topics | 1 |
-| publications | 11 |
-| projects | 2 |
-| research_history | 1 |
-| news | 5 |
-| patents_commercialization | 0 |
+### 2. X선 3차원 나노 영상과 반도체 계측
 
-## 항목별 자료 범위
+적은 각도 타이코-단층 촬영, 라미노그래피, 광자 부족 영상.[^p4][^p5][^p6][^research] 대표 논문 4, 5, 6.
 
-| 항목 | 기존 2026-10-13 관측 | 이번 차수 |
-|---|---|---|
-| names | verified, full-list | 학부 프로필 공식명칭 재확인, 기존 표기차 보존 |
-| affiliations | verified, full-list | 공식 소속 및 부임일 확인 |
-| pi | verified, full-list | 학부 프로필 조교수 재확인 |
-| members | verified, full-list | 연구실 Team 접근실패, 기존6관계만 보존 |
-| research_topics | verified, full-list | 학부 프로필 및 공식 연구뉴스 재확인 |
-| publications | verified, full-list | 공식 뉴스 NeAT 날짜·주저자 표기 보강, 출판사 세부 미확인 |
-| projects | verified, selected-list | 기존 관측만 보존. 이번 차수 원문 전항목 재검증 미수행 |
-| research_history | verified, full-list | KAIST 부임과 과거 소속 기간 보강 |
-| news | verified, full-list | 공식 부임·연구뉴스 및 개인홈 뉴스 보강 |
-| patents_commercialization | not-collected, unknown | 기존 관측만 보존. 이번 차수 원문 전항목 재검증 미수행 |
+### 3. 계산 영상 일반
 
-## 확인일과 잔여
+렌즈 없는 홀로그래피, 제한 각도 단층 촬영, 압축 측정.[^p3][^p7][^p8] 대표 논문 3, 7, 8.
 
-연구실 사이트 접근실패로 현행 구성원·성과·과제 목록의 전건 대조는 미완료다. 공식 그룹명 표기 차이와 기존 Coordinate-based neural representations 논문의 2024/2025-06-24 날짜 충돌을 보존했다. 과제ID·기간·금액·특허·기술이전, 출판사 원문 소속 대조는 잔여다. 그룹 시작 안내의 게시일 2026-01-23과 부임일 2026-01-26을 구분한다.
+## 대표 논문
 
-수집 구간은 2021-10-13–2026-10-13이다. 2021·2026년의 연도만 있는 서지는 경계 미확정으로 분리한다. 기준일 이후 예정 성과는 구간 밖이며, 과거 소속 성과를 현재 연구실 성과로 합산하지 않는다. 공개 페이지 열람일과 논문 출판일은 다르다. 후보 ID를 유지하며 고유 연구실 확정·기관 전수·모든 성과·실재직 완료를 주장하지 않는다. 핵심·구조·선정 성과 표본의 제한 검토를 마쳤다. 전체 성과 원문검증은 잔여다.
+교수 개인 누리집과 랩 논문 페이지의 2021–2026년 학술지 논문이다. 랩 논문 페이지는 대표 논문 1(2026)을 KAIST 부임 뒤 논문으로, 나머지를 부임 전 미국 MIT·UC 버클리 시기 논문으로 나눈다. 저자 역할은 랩 논문 페이지 표기(† 공동 교신, * 공동 1저자)를 따랐다. "쉽게 말하면" 칸은 각 논문의 초록만을 근거로 썼다.
 
+| # | 연도 | 논문 · 학술지 | 쉽게 말하면 | 주요 저자[^labpubs] |
+|---|---|---|---|---|
+| 1 | 2026 | [Adaptive optical correction for in vivo two-photon fluorescence microscopy with neural fields](https://doi.org/10.1038/s41592-026-03053-6) · Nature Methods | 이광자 형광 현미경에서 빛의 왜곡과 시료 구조를 3차원 영상 묶음만으로 함께 추정하는 계산 틀(NeAT). 시료 움직임 보정까지 넣어 상용 현미경에서도 쓸 수 있게 했고, 살아 있는 쥐 뇌에서 실시간 보정으로 시냅스·신경세포의 활동을 보여 주는 글루탐산·칼슘 신호를 더 정확히 쟀다.[^p1] | 1저자·공동 교신 강익성, 공동 교신 Na Ji |
+| 2 | 2024 | [Coordinate-based neural representations for computational adaptive optics in widefield microscopy](https://doi.org/10.1038/s42256-024-00853-3) · Nature Machine Intelligence | 외부 학습 데이터 없이 3차원 영상 묶음 하나로 파면 왜곡과 시료 구조를 함께 추정하는 자기 지도 학습 알고리즘(CoCoA). 쥐 뇌 조직의 광시야 현미경 영상에 적용해 파면 측정 장치를 쓴 방식과 비교 검증했다.[^p2] | 1저자·공동 교신 강익성, 공동 교신 Qinrong Zhang |
+| 3 | 2025 | [Optical segmentation-based compressed readout of neuronal voltage dynamics](https://doi.org/10.1038/s41467-025-62663-4) · Nature Communications | 관심 영역마다 검출기 픽셀 하나를 배정해 신호를 압축해 읽는 측정 방식. 빛의 방향·위상을 픽셀마다 바꾸는 공간 광 변조기 두 개와 마이크로렌즈 배열로 만들었고, 신경 회로의 전압 변화를 초당 5천 번 넘게 기록했다.[^p3] | 1저자 Seonghoon Kim, 강익성 공저, 마지막 저자 Myunghwan Choi |
+| 4 | 2023 | [Accelerated deep self-supervised ptycho-laminography for three-dimensional nanoscale imaging of integrated circuits](https://doi.org/10.1364/OPTICA.492666) · Optica | 평평한 집적회로를 X선으로 3차원 촬영하는 타이코-라미노그래피에서, 물리 제약을 넣은 자기 지도 딥러닝으로 측정 각도를 16분의 1로 줄이고 계산을 4.67배 빠르게 했다.[^p4] | 1저자 강익성, 마지막 저자 George Barbastathis |
+| 5 | 2023 | [Attentional Ptycho-Tomography (APT) for three-dimensional nanoscale X-ray imaging with minimal data acquisition and computation time](https://doi.org/10.1038/s41377-023-01181-8) · Light: Science & Applications | 집적회로 내부 패턴과 X선 전파 물리를 학습에 넣은 인공지능으로, 측정 각도를 12분의 1로 줄여도 기존 표준 방법과 비슷한 정확도로 3차원 영상을 복원했다.[^p5] | 공동 1저자 강익성·Ziling Wu(누리집 * 표기), 마지막 저자 George Barbastathis |
+| 6 | 2023 | [Three-dimensional nanoscale reduced-angle ptycho-tomographic imaging with deep learning (RAPID)](https://doi.org/10.1186/s43593-022-00037-9) · eLight | 물체 일부를 충분한 각도로 찍어 학습한 뒤 나머지는 적은 각도만 찍어 복원하는 X선 타이코-단층 촬영. 349개 각도를 21개로 줄여 전체적으로 140배 빠르게 했다.[^p6] | 공동 1저자 Ziling Wu·강익성, 마지막 저자 George Barbastathis |
+| 7 | 2022 | [Simultaneous spectral recovery and CMOS micro-LED holography with an untrained deep neural network](https://doi.org/10.1364/OPTICA.470712) · Optica | 일반 반도체 공정으로 만든 아주 작은 실리콘 마이크로 LED를 광원으로 쓰는 렌즈 없는 홀로그래피 현미경. 학습하지 않은 신경망이 회절 무늬 하나에서 영상과 광원 스펙트럼을 함께 되살린다.[^p7] | 공동 1저자 강익성·Marc de Cea(누리집 * 표기), 마지막 저자 Rajeev Ram |
+| 8 | 2021 | [Dynamical machine learning volumetric reconstruction of objects' interiors from limited angular views](https://doi.org/10.1038/s41377-021-00512-x) · Light: Science & Applications | 여러 각도에서 찍은 영상을 시간에 따라 변하는 동적 시스템처럼 보고, 순환 신경망으로 제한된 각도의 단층 촬영 복원을 개선했다.[^p8] | 1저자 강익성, 마지막 저자 George Barbastathis |
 
-## 독립 검토 범위
+## 교수와 전문 분야
 
-2026-10-16 핵심 표기·자료구조·공개자료 경계 및 선정 성과 표본의 제한 검토를 마쳤다. 접근하지 못한 원문, 전체 성과의 정확한 날짜·당시 소속, 실제 재직과 권리 명의는 미검증으로 남긴다. 개별 항목의 원래 관측일·자료 범위와 수집 잔여는 유지한다.
+강익성 교수는 서울대 전기정보공학부 학사(2017), 미국 MIT 전기공학·컴퓨터과학과 석사(2020)와 박사(2022)를 받았다. MIT에서 George Barbastathis 교수의 지도를 받았고 박사 과정 내내 한국고등교육재단 장학생이었다. UC 버클리에서 Na Ji·Stella X. Yu 교수와 박사후연구원(2022–2025)으로 일한 뒤, 2026년 1월 KAIST 전기및전자공학부 조교수(정년 트랙)로 부임했다.[^home][^team] 학부는 주요 연구로 계산 영상, 물리 기반 인공지능, 적응 광학과 현미경, 3차원 계측을 적는다.[^ee]
+
+논문으로 보면 전문 분야는 세 갈래다.
+
+- **계산 적응 광학**: 신경장으로 수차와 구조를 함께 추정.[^p1][^p2]
+- **X선 3차원 나노 영상**: 적은 각도 촬영과 딥러닝 복원.[^p4][^p5][^p6]
+- **계산 영상 하드웨어·알고리즘**: 렌즈 없는 홀로그래피, 제한 각도 단층 촬영.[^p7][^p8]
+
+## 응용 분야
+
+대표 논문으로 보면 살아 있는 뇌 영상 같은 생명과학 연구, 반도체 집적회로의 비파괴 3차원 검사, 소형 현미경에 닿아 있다.[^p1][^p4][^p7] 연구실은 2026년 한국연구재단 우수신진연구 과제를 받았고, KAIST 광학 인공지능(PICORE) 센터와 기초연구실(BRL) 연구팀에 참여한다.[^news]
+
+## 구성원
+
+2026년 10월 19일 랩 팀 페이지 기준이다. 연구 주제는 랩 표기를 옮겼다.[^team] "대표 논문 참여"는 위 대표 논문 표의 번호다.
+
+| 이름 | 과정 | 연구 주제 | 대표 논문 참여 |
+|---|---|---|---|
+| Bonha Woo | 석사과정 | Computational Microscopy; Adaptive Optics |  |
+| Yunkyu Lee | 연구원 | Computational Microscopy; Adaptive Optics |  |
+| Hyeonbin Jo | 학부 연구생 | Computational Metrology; Holography |  |
+| Hoseung Bin | 학부 연구생 | Computational Microscopy; Adaptive Optics |  |
+| Donghyuk Lee | 학부 연구생 | Computational Microscopy; Adaptive Optics |  |
+| Seungjun Ahn | 학부 연구생 | Computational Metrology; Holography |  |
+
+## 최근 논문 목록 (2021–2026)
+
+교수 개인 누리집 논문 목록의 2021–2026년 학술지 논문 8편(대표 논문과 같다)이다. 사전 공개 논문과 학술대회 발표는 누리집 목록에 따로 있다.[^papers]
+
+**2026**
+
+- Kang I\*, Kim H, Natan R, Zhang Q, Yu SX, Ji N\*. "Adaptive optical correction for in vivo two-photon fluorescence microscopy with neural fields". *Nature Methods (2026)*.
+
+**2025**
+
+- Kim S, Yoon J, Ko G, Kang I, Tian H, Fan LZ, Li Y, Cohen AE, Wu J, Dai Q, Choi MM. "Optical segmentation-based compressed readout of neuronal voltage dynamics". *Nature Communications (2025) 16(7194)*.
+
+**2024**
+
+- Kang I\*, Zhang Q\*, Yu SX, Ji N. "Coordinate-based neural representations for computational adaptive optics in widefield microscopy". *Nature Machine Intelligence (2024) 6, 714-725*.
+
+**2023**
+
+- Kang I, Jiang Y, Holler M, Guizar-Sicairos M, Levi AFJ, Klug J, Vogt S, Barbastathis G. "Accelerated deep self-supervised ptycho-laminography for three-dimensional nanoscale imaging of integrated circuits". *Optica (2023) 10(8), 1000-1008*.
+- Kang I\*, Wu Z\*, Jiang Y, Yao Y, Deng J, Klug J, Vogt S, Barbastathis G. "Attentional Ptycho-Tomography (APT) for three-dimensional nanoscale X-ray imaging with minimal data acquisition and computation time". *Light: Science & Applications (2023) 12(131)*.
+- Wu Z\*, Kang I\*, Yao Y, Jiang Y, Deng J, Klug J, Vogt S, Barbastathis G. "Three-dimensional nanoscale reduced-angle ptycho-tomographic imaging with deep learning (RAPID)". *eLight (2023) 3(7)*.
+
+**2022**
+
+- Kang I\*, de Cea M\*, Xue J, Li Z, Barbastathis G, Ram R. "Simultaneous spectral recovery and CMOS micro-LED holography with an untrained deep neural network". *Optica (2022) 9(10), 1149-1155*.
+
+**2021**
+
+- Kang I\*, Goy A, Barbastathis G. "Dynamical machine learning volumetric reconstruction of objects’ interiors from limited angular views". *Light: Science & Applications (2021) 10(74)*.
+
+## 연락과 위치
+
+- 교수 이메일: iksung.kang@kaist.ac.kr[^ee]
+- 교수 전화: 042-350-7483[^ee]
+- 위치: KAIST LG이노베이션홀(N24) 3113호 (대전 유성구 대학로 291)[^ee][^home]
+
+[^home]: 교수 개인 누리집 <https://iksungk.github.io/> (2026-10-19 열람)
+[^labpubs]: 랩 논문 페이지 <http://kangimaging.com/publications/> (2026-10-20 열람)
+[^papers]: 교수 개인 누리집 논문 목록 <https://iksungk.github.io/publications.html> (2026-10-19 열람)
+[^research]: 랩 연구 페이지 <http://kangimaging.com/research/> (2026-10-20 열람)
+[^team]: 랩 팀 페이지 <http://kangimaging.com/team/> (2026-10-20 열람)
+[^news]: 랩 소식 페이지 <http://kangimaging.com/news/> (2026-10-20 열람)
+[^ee]: KAIST 전기및전자공학부 교수 소개(강익성) <https://ee.kaist.ac.kr/professor/%EA%B0%95%EC%9D%B5%EC%84%B1/> (2026-10-19 열람)
+[^p1]: I. Kang 외, N. Ji, Nature Methods 23, 1037-1046 (온라인 2026-04-13). <https://doi.org/10.1038/s41592-026-03053-6> 초록 기준(Semantic Scholar 등록 초록).
+[^p2]: I. Kang, Q. Zhang, S. X. Yu, N. Ji, Nature Machine Intelligence 6, 714-725 (온라인 2024-06-24). <https://doi.org/10.1038/s42256-024-00853-3> 초록 기준(Semantic Scholar 등록 초록).
+[^p3]: S. Kim 외, M. Choi, Nature Communications 16, 7194 (온라인 2025-08-05). <https://doi.org/10.1038/s41467-025-62663-4> 초록 기준(Semantic Scholar 등록 초록).
+[^p4]: I. Kang 외, G. Barbastathis, Optica 10, 1000 (온라인 2023-07-26). <https://doi.org/10.1364/optica.492666> 초록 기준.
+[^p5]: I. Kang 외, G. Barbastathis, Light: Science & Applications 12, 131 (온라인 2023-05-30). <https://doi.org/10.1038/s41377-023-01181-8> 초록 기준.
+[^p6]: Z. Wu 외, G. Barbastathis, eLight 3, 7 (온라인 2023-04-03). <https://doi.org/10.1186/s43593-022-00037-9> 초록 기준.
+[^p7]: I. Kang 외, R. J. Ram, Optica 9, 1149 (온라인 2022-10-11). <https://doi.org/10.1364/optica.470712> 초록 기준.
+[^p8]: I. Kang, A. Goy, G. Barbastathis, Light: Science & Applications 10, 74 (온라인 2021-04-07). <https://doi.org/10.1038/s41377-021-00512-x> 초록 기준.
