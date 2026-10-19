@@ -1,59 +1,217 @@
-# KAIST Integrated Metaphotonics (KIM) Group: 김상식의 명단 연결과 부분 자료
+# KAIST 집적 메타포토닉스 그룹 (KAIST Integrated Metaphotonics Group, KIM Group)
 
-관측일은 2026-10-19 (Asia/Seoul), 최초 이력창은 2021-10-13–2026-10-13이다.
+**KAIST 전기및전자공학부 · 김상식 교수**
 
-## 1 식별과 명단 관계
+- 분야: 광집적회로(PIC, 빛으로 신호를 처리하는 칩), 서브파장 격자(빛의 파장보다 촘촘한 줄무늬 구조) 메타물질, 예외점(손실이 있는 광학계에서 나타나는 특이점) 광학, 마이크로 공진기와 광 주파수 빗, 칩과 외부 광학계를 잇는 빔 변환, AI 가속기·광 패키징용 광집적회로
+- 홈페이지: <https://kimgroup.kaist.ac.kr/>
+- 근거와 출처: [KIM 그룹 근거 페이지](integrated-metaphotonics-sources.md)
 
-기존 두 후보 `kaist:a:quantum:lab-2fa647a573d5`, `kaist:b:sse:lab-498`를 보존한다. [반도체시스템공학과 연구실 페이지](https://sse.kaist.ac.kr/research-laboratory/)는 반도체 소자 및 공정 표에 KAIST Integrated Metaphotonics (KIM) Group·김상식·전기및전자공학부동 (E3-2) 3209호·https://kimgroup.kaist.ac.kr/ 를 싣는다. [반도체시스템공학과 교수진 페이지](https://sse.kaist.ac.kr/professor/)도 김상식 교수 카드에 같은 연구실명과 홈페이지를 연결한다. [전기및전자공학부 교수 프로필](https://ee.kaist.ac.kr/professor/%ea%b9%80%ec%83%81%ec%8b%9d/)은 소속연구실 KAIST Integrated Metaphotonics (KIM) Group과 같은 웹사이트를 게시하고, [AI시스템학과 교수진 목록](https://aicollege.kaist.ac.kr/ais/faculty/index/page/2)은 김상식 겸임교수 항목에 같은 홈페이지 링크를 단다. [랩 Members 페이지](https://kimgroup.kaist.ac.kr/members/)는 Sangsik Kim을 Faculty로 게시한다.
+> 부피 큰 광학 장치를 작은 칩 위의 광회로로 바꾸는 연구를 하는 그룹이다. 빛의 파장보다 촘촘한 줄무늬 구조로 이웃한 빛길 사이의 신호 섞임을 없애 칩을 더 빽빽하게 만들고, 칩 위에서 빛을 정밀하게 다루는 새 원리를 찾는다.[^research][^home]
 
-공식 페이지 네 곳과 랩 페이지가 같은 PI와 같은 홈페이지를 직접 연결하므로, KAIST Integrated Metaphotonics (KIM) Group과 KAIST Integrated Metaphotonics Group이 같은 랩의 표기라는 관계를 제안한다. 양자대학원 교수 명단 페이지는 이번 관측 시점의 robots.txt가 수집을 금지하는 경로라 요청하지 않았다. 그래서 양자대학원 카드 후보는 기존 원수집 기록과 랩 쪽의 Graduate School of Quantum Science and Technology 표기로만 관계 제안에 남긴다. 전기및전자공학부·AI시스템학과 쪽 원수집 기록은 이번 고정 묶음 밖이라 새 후보로 만들지 않았다. 병합·영구ID승격·원필드 자동채택은 적용하지 않았다.
+## 무엇을 연구하나
 
-## 2 PI와 소속
+그룹은 광학의 기초와 기술을 함께 다뤄 기초 과학과 미래 기술의 간극을 잇는 것을 목표로 하며, 부피 큰 광학 장치를 작고 튼튼하며 확장 가능한 칩 규모 광집적회로로 바꾸는 집적 나노포토닉스를 연구한다고 소개한다.[^research] 연구 페이지는 연구를 네 분야로 나눈다. 서브파장 격자·예외점·위상 광학으로 확장성·잡음·손실·제작 민감도 같은 기존 광집적회로의 한계를 넘는 소자 혁신, 공진기 분산 설계로 칩 위 광 주파수 빗과 비선형·양자 광학을 구현하는 분야, 칩을 원자·이온·미세유체 시스템과 결합하는 하이브리드 광집적회로(양자 센싱, 라이다), 그리고 AI 가속기와 광 패키징(CPO)을 위한 시스템 수준 광집적회로다.[^research]
 
-랩 Members 페이지는 Sangsik Kim을 Associate Professor (2022-present)로 적고, KAIST의 School of Electrical Engineering·Graduate School of Quantum Science and Technology·Department of Semiconductor System Engineering 세 단위를 나열한다. 이전 경력은 Texas Tech University ECE Assistant Professor(2017–2022), National Institute of Standards and Technology Postdoc(2017), Purdue University ECE Postdoc(2016)으로, 학력은 Purdue University ECE PhD/MS(2015/2014)와 Seoul National University ECE BS(2008)로 게시한다. 전기및전자공학부 프로필은 직위를 부교수로, 학위를 Ph.D. (2015) Purdue University로 적는다. [랩 Contact](https://kimgroup.kaist.ac.kr/contact/)는 Associate Professor, School of Electrical Engineering과 부교수, 전기 및 전자공학과를 함께 적는다. 반도체시스템공학과 교수진 페이지는 교수 호칭만 쓰고, AI시스템학과 목록은 겸임교수로 적는다. 양자대학원 참여 형태, AI시스템학과 겸임의 발령과 기간, 현재 재직과 직급은 독립검증하지 않았다.
+첫 번째 갈래는 **서브파장 격자로 빛길을 촘촘하게**다. 칩 위의 빛길(도파로)을 가까이 붙이면 이웃 신호가 섞이는 누화가 생기는데, 서브파장 격자로 누화를 완전히 없애는 원리를 Light: Science & Applications에 발표했다.[^p1] 편광과 상관없이 동작하는 결합기,[^p2] 칩 면적을 적게 차지하는 광 지연선도 만들었다.[^p3]
 
-## 3 공간과 접근
+두 번째 갈래는 **예외점 광학**이다. 손실이 있는 매질에서도 빛이 지수적으로 약해지지 않고 깊이 퍼지는 현상을 교수가 미국 국립표준기술연구소(NIST) 연구진과 함께 Nature Nanotechnology에 보고했고,[^p4][^news] 이를 표준 실리콘 광회로 구조에서 구현했다.[^p5]
 
-연구실 위치는 반도체시스템공학과 연구실 표와 전기및전자공학부 프로필이 전기및전자공학부동 (E3-2) 3209호로, AI시스템학과 목록이 정보전자공학동 (E3-2), 3209호로, 랩 Contact가 E3-2 #3209와 정보전자공학동(E3-2) 3209호로 적는다. 랩 사이트는 정적 HTML로 본문이 실려 있어 그대로 읽었고, 브라우저 화면과는 대조하지 않았다. 읽은 공개 페이지는 모두 HTTP 200이었고 리디렉트는 없었다. robots.txt 때문에 요청하지 않은 곳은 양자대학원 교수 명단 한 곳이다.
+세 번째 갈래는 **공진기와 빔 변환**이다. 질화규소 동심원 링 공진기의 분산을 설계하는 방법,[^p6] 버스 도파로를 두 개 둔 공진기로 공진 모양을 자유롭게 조절하는 구조,[^p7] 칩 밖 공간에서 빛을 작은 점으로 모으는 평면형 렌즈를 개발했다.[^p8]
 
-## 4 구성원 게시 명단
+## 주요 연구 주제
 
-랩 Members 페이지의 Group Members에서 PI를 제외한 22개 이름·과정 게시항목을 추출했다.
+### 1. 서브파장 격자 메타포토닉스
 
-| 게시 섹션 | 이름 (게시 표기) |
-|---|---|
-| PhD & MS/PhD Students (13) | Jaewhan Lee (MS/PhD 23), Kyungtae Kim (MS/PhD 23), Hyejin Yoon (MS/PhD 24), Seungyong Lee (MS/PhD 24), Jongeon Lim (MS/PhD 24), Jihwan You (MS/PhD 24), Yongsik Shin (MS/PhD 25), Junyeol Choi (MS/PhD 25), Jun Wang (PhD 25), Yunjeong Kim (MS/PhD 25), Yosep Shin (MS 24, PhD 26), Jaeu Bae (MS 24, PhD 26), Seungyup Baek (MS 24, PhD 26) |
-| MS Students (6) | Jibaek Song (MS 25), Minseop Lee (MS 25), Soomin Kang (MS 26), Jungmyeong Kim (MS 26), Pornananrat Napol (MS 26), Dogyung Yoon (MS 26) |
-| Postdoc & Visiting Scholars (0) | 게시 항목 없음 |
-| Undergraduate Students (3) | 선하은 (Undergraduate), 전채훈 (Undergraduate), 이태강 (Undergraduate) |
+누설 서브파장 격자 무누화, 편광 무관 결합기, 고밀도 광 지연선.[^p1][^p2][^p3] 대표 논문 1, 2, 3.
 
-괄호 안 표기는 게시 문구 그대로이며 숫자를 입학·전환 연도로 해석하지 않았다. 현재 재학·재직은 판정하지 않았다. 명단유효일과 Alumni 전수는 미검증이다. 사진·개인 연락처는 반영하지 않았다.
+### 2. 예외점 광학
 
-## 5 연구 범위
+손실 매질의 다항식 파동 침투, 스트립 도파로 예외점.[^p4][^p5] 대표 논문 4, 5.
 
-[랩 Research 페이지](https://kimgroup.kaist.ac.kr/research/)는 PIC Device Innovation(Subwavelength Gratings, Metaphotonics, Exceptional Points, Topological Photonics), Integrated Nonlinear & Quantum Photonics(Microcombs, Nonlinear Optics, Quantum Photonics), Hybrid PICs for Quantum & Sensing(Hybrid Integration, Quantum Sensing, Atomic-Integrated PICs, Ion-Trap PICs, LiDAR)의 세 주제를 게시한다. 반도체시스템공학과와 전기및전자공학부 페이지는 Integrated Nanophotonics, Silicon Photonics, Nonlinear/Quantum Photonics, Frequency Combs, Atomic/Photonic Hybrid System을 적는다. 광집적회로·양자 광학 공학 범위로 포함한다.
+### 3. 공진기 분산 설계와 칩–외부 빔 변환
 
-## 6 선정 서지 2건
+동심원 링 분산 설계, 이중 버스 공진기, 경사 굴절률 메타렌즈.[^p6][^p7][^p8] 대표 논문 6, 7, 8.
 
-| 자료 | 확인 범위와 잔여 |
-|---|---|
-| [Polarization-independent directional coupler using tilted subwavelength gratings](https://doi.org/10.1364/JOSAB.612181) | Crossref 등록 메타데이터로 6저자(Jihwan You부터 Sangsik Kim까지), Journal of the Optical Society of America B 43(11), 시작 쪽 2537, published-online 2026-10-01, published-print 2026-11-01을 확인했다. 랩 [Publications](https://kimgroup.kaist.ac.kr/publications/) 목록이 같은 제목·DOI 링크와 2537-2542 쪽으로 게시하고, 저자 6명의 성씨 순서가 같다. |
-| [Zero crosstalk in asymmetric multimode waveguides for higher-order mode crosstalk suppression via subwavelength gratings](https://doi.org/10.1364/OE.600259) | Crossref 등록 메타데이터로 3저자(Peiyuan Li, Yosep Shin, Sangsik Kim), Optics Express 34(15), 시작 쪽 28549, published-online 2026-07-23, published-print 2026-07-27을 확인했다. 랩 목록이 같은 제목·DOI 링크와 28549-28561 쪽으로 게시하고 저자 성씨 순서가 같다. |
+## 대표 논문
 
-두 항목의 Crossref 저자 소속은 기관명 없이 ROR ID만 등록되어 있어 소속 기관명은 대조하지 않았다. 출판사 원문·PDF·사사는 열람하지 않았고, Crossref에 등록된 지원기관명은 지원관계로 채택하지 않았다. 랩 목록의 Journal Publications 39항목에는 2022년 이전 표기 19항목이 포함되어 있어 전체성과 합계로 쓰지 않는다. 성능 수치는 재현하지 않았다.
+그룹 논문 목록의 2021–2026년 학술지 논문 가운데 교수가 마지막 저자인 것에서 주제별로 골랐다. 4는 교수의 NIST 박사후연구원 시기에 시작한 공동 연구로 교수가 공동 1저자다. "쉽게 말하면" 칸은 각 논문의 초록만을 근거로 썼다.
 
-## 7 선정 소식 2건
+| # | 연도 | 논문 · 학술지 | 쉽게 말하면 | 주요 저자[^papers] |
+|---|---|---|---|---|
+| 1 | 2023 | [Anisotropic leaky-like perturbation with subwavelength gratings enables zero crosstalk](https://doi.org/10.1038/s41377-023-01184-5) · Light: Science & Applications | 빛이 밖으로 새는 누설 모드는 이웃 빛길과 강하게 결합해 촘촘한 집적에 나쁘다고 여겨졌다. 서브파장 격자 메타물질 안에서 진동하는 장이 방향별 결합을 서로 상쇄하게 해 누화를 완전히 0으로 만들 수 있음을 보였고, 실험에서 일반 도파로보다 누화를 약 40 dB(결합 길이 약 100배) 줄였다. 가두기 어려운 TM 편광(전기장이 칩 면에 수직으로 떨리는 빛)에서도 통했다.[^p1] | 1저자 Md Faiyaz Kabir, 마지막 저자 김상식 |
+| 2 | 2026 | [Polarization-independent directional coupler using tilted subwavelength gratings](https://doi.org/10.1364/josab.612181) · Journal of the Optical Society of America B | 일반 방향성 결합기(나란히 놓인 두 빛길 사이로 빛을 옮기는 소자)는 도파로 모양 때문에 편광에 따라 결합 길이가 달라진다. 서브파장 격자를 비스듬히 기울여 두 편광의 유효 굴절률을 같게 만들고, 실리콘 칩에서 기울기 약 32°일 때 편광 차이가 거의 없는 결합기를 구현했다(1550 nm에서 삽입 손실(소자를 지나며 줄어드는 빛) 3 dB, 소광비(원하는 출력과 원치 않는 출력의 세기 비) 약 20 dB).[^p2] | 공동 1저자 Jihwan You·Dohun Koh, 마지막 저자 김상식 |
+| 3 | 2023 | [High-density integrated delay line using extreme skin-depth subwavelength grating waveguides](https://doi.org/10.1364/ol.479003) · Optics Letters | 빛이 도착하는 시간을 늦추는 광 지연선은 보통 긴 나선형 도파로라 칩 면적을 mm²–cm²나 차지한다. 빛의 표면 침투 깊이를 조절한 서브파장 격자 도파로로 가까이 붙인 도파로 사이 누화를 억제해, 면적을 크게 아끼는 고밀도 지연선을 만들었다.[^p3] | 1저자 Ishtiaque Ahmed, 마지막 저자 김상식 |
+| 4 | 2022 | [Exceptional points in lossy media lead to deep polynomial wave penetration with spatially uniform power loss](https://doi.org/10.1038/s41565-022-01114-3) · Nature Nanotechnology | 손실이 있는 매질에 들어간 빛은 보통 지수적으로 약해진다. 예외점을 가진 나노 구조 광 도파로에서는 지수 감쇠 없이 파장 400개 깊이까지 서서히 줄어들며 퍼지고 손실이 고르게 분포함을 이론과 실험으로 보였다. 칩 표면에서 크고 고른 평면파를 내보내는 데 쓸 수 있다.[^p4] | 공동 1저자 Alexander Yulaev·김상식, 마지막 저자 Vladimir A. Aksyuk |
+| 5 | 2025 | [Exceptional points in a passive strip waveguide](https://doi.org/10.1515/nanoph-2024-0701) · Nanophotonics | 예외점을 널리 쓰이는 스트립 도파로에 구현했다. 도파로 한쪽에 2차 격자를 넣어 앞뒤로 가는 빛을 직접·간접으로 결합시키고, 예외점 파장에서 대칭인 투과 스펙트럼과 고른 방사 분포를 실험으로 확인했다.[^p5] | 1저자 Shamkhal Hasanli, 마지막 저자 김상식 |
+| 6 | 2025 | [Modeling method for concentric ring resonators with dispersion engineering](https://doi.org/10.1364/oe.577296) · Optics Express | 동심원 링 공진기의 분산을 설계하는 방법을 제안했다. 단일 링 시뮬레이션으로 왕복 광경로 지도를 만들어 위상이 맞는 형상을 찾고, 두께 50 nm 질화규소 링에서 보통은 얻기 어려운 이상 분산을 얻어 솔리톤(모양을 유지하는 빛 펄스)이 가능함을 시뮬레이션으로 보였다.[^p6] | 1저자 Mehedi Hasan, 마지막 저자 김상식 |
+| 7 | 2026 | [Dual-bus resonator for multi-port spectral engineering](https://doi.org/10.1002/lpor.202502935) · Laser & Photonics Reviews | 공진기와 버스 도파로 하나를 결합하면 임계 결합(공진기로 들어오는 빛과 잃는 빛이 맞먹는 상태), 투과가 0이 되는 조건, 최대 내부 세기가 함께 묶여 따로 조절할 수 없다. 버스를 두 개 둔 경주로형 공진기로 이 제약을 풀어 채널마다 다른 결합 상태와 공진 모양을 만들었고, 가시광부터 중적외선까지 넓게 동작함을 보였다.[^p7] | 1저자 Taewon Kim, 마지막 저자 김상식 |
+| 8 | 2024 | [In-plane beam focusing via integrated photonic gradient-index subwavelength grating metalens](https://doi.org/10.1364/oe.539591) · Optics Express | 도파로의 빛을 넓게 편 뒤 2차원 굴절률 경사 서브파장 격자로 파면을 바꿔, 칩 끝에서 수백 µm 떨어진 곳에 작은 점으로 모으는 평면 렌즈를 설계했다. 가시광에 투명한 질화규소로 만들어 생화학 시료를 다루는 칩 응용에 쓸 수 있다.[^p8] | 1저자 Nafiz Jaidye, 마지막 저자 김상식 |
 
-[랩 홈페이지](https://kimgroup.kaist.ac.kr/)의 Highlights는 2026-03-30 게시로 수업 Introduction to Integrated Photonics (EE40042)의 Best Teaching Award와 Best TA Award 수상을, 2022-08-29 게시로 그룹의 KAIST 이동과 연구원 모집을 알린다. 수상은 KAIST 공식 기록과 대조하지 않았고, 이동 게시일을 임용일로 쓰지 않는다. 소식의 이름 표기는 Members 페이지 표기와 자동으로 맞추지 않았다.
+## 교수와 전문 분야
 
-## 8 프로젝트·특허·사업화
+김상식 교수는 서울대 전기·컴퓨터공학 학사(2008)와 미국 퍼듀대 전기컴퓨터공학 석사(2014)·박사(2015)를 받았다. 퍼듀대(2016)와 미국 국립표준기술연구소(NIST, 2017) 박사후연구원, 텍사스공대 전기컴퓨터공학과 조교수(2017–2022)를 거쳐 2022년부터 KAIST 전기및전자공학부 부교수이며 양자대학원과 반도체시스템공학과에도 소속돼 있다.[^members] 그룹 소식에 따르면 2022년 미국 국립과학재단(NSF) CAREER Award, 2021년 재미한인과학기술자협회 KSEA Young Investigator Grant를 받았고, 2026년 Introduction to Integrated Photonics(EE40042) 강의로 Best Teaching Award를 받았다.[^home]
 
-랩 Publications 페이지의 Patents 절은 6항목을 게시한다. 이력창 안의 표기는 2025년 출원으로 적힌 한국 특허출원 2건(10-2025-0062908, 10-2025-0138712)과 2023년으로 적힌 미국 특허 US11709316B2다. 특허청 원부·권리자·법적 상태는 대조하지 않았다. 과제와 기업 자료는 수집하지 않았고, 이를 부재로 판정하지 않는다. Members 페이지 하단 모집 안내의 대형 과제 서술은 과제 근거로 쓰지 않았다.
+논문으로 보면 전문 분야는 세 갈래다.
 
-## 9 검증 상태
+- **서브파장 격자 메타물질 광소자**.[^p1][^p2][^p3]
+- **비에르미트(예외점) 광학**.[^p4][^p5]
+- **공진기 분산 설계와 칩–자유공간 빔 변환**.[^p6][^p7][^p8]
 
-구조·공개 경계와 제출 근거 정합의 고정 범위 독립 QA를 제한통과했다. QA 보고서의 독립 원문 재열람 잔여와 양자대학원 카드 후보 원문 재대조·참여·겸임 형태·임용·실재직·직급·저자 소속 기관명·특허 원부·최종 판본·전체성과·원부의 미검증은 유지한다. 현재 명단·연구·선정서지·랩소식·랩 게시 특허 목록의 부분자료다. 양자대학원 카드 후보의 원문 재대조·양자대학원 참여와 AI시스템학과 겸임의 형태·기간·임용/실재직·직급·명단 전체/Alumni·랩 사이트 화면 대조·출판사 원문/PDF/사사·저자 소속 기관명·수상 공식기록·특허 원부·과제/기업원부·전체성과/기관전수는 미검증이다. 수집·자료등록과 사이트배포·UI 작업을 구분한다.
+## 응용 분야
 
-## 10 출처와 시점
+대표 논문과 연구 소개로 보면 고밀도 광통신·광연결 칩, 광 주파수 빗과 양자 광원, 원자 기반 양자 센서, 칩 규모 라이다, AI 가속용 광집적회로에 닿아 있다.[^research][^p1][^p7] 졸업생은 인텔, 노키아, 루멘텀 등 광통신·반도체 기업과 해외 대학원으로 갔다고 그룹이 적는다.[^members]
 
-각 절의 공개 링크는 해당 확인범위를 지지한다. 2026-10-19 관측일·랩 게시일·Crossref 등록일·사실의 유효시점을 분리하며 원수집ID·이전판·미검증을 보존한다. 자료의 빈칸과 접근하지 않은 페이지를 부재로 판정하지 않는다.
+## 구성원
+
+2026년 10월 19일 그룹 구성원 페이지 기준이다. "시작"은 그룹이 적은 과정과 입학 연도(두 자리)다.[^members] "대표 논문 참여"는 위 대표 논문 표의 번호이며, 같은 이름의 저자를 같은 사람으로 보아 표시했다.
+
+| 이름 | 과정 | 시작 | 이메일 | 대표 논문 참여 |
+|---|---|---|---|---|
+| Jaewhan Lee | 석박사통합과정 | MS/PhD 23 | jaewhan.lee@kaist.ac.kr | 8 |
+| Kyungtae Kim | 석박사통합과정 | MS/PhD 23 | alex5093@kaist.ac.kr |  |
+| Hyejin Yoon | 석박사통합과정 | MS/PhD 24 | ktrnyoon@kaist.ac.kr | 5 |
+| Seungyong Lee | 석박사통합과정 | MS/PhD 24 | russ44@kaist.ac.kr | 2, 5 |
+| Jongeon Lim | 석박사통합과정 | MS/PhD 24 | jongeon03@kaist.ac.kr |  |
+| Jihwan You | 석박사통합과정 | MS/PhD 24 | jihwanyou@kaist.ac.kr | 2 |
+| Yongsik Shin | 석박사통합과정 | MS/PhD 25 | ypooh2062@kaist.ac.kr |  |
+| Junyeol Choi | 석박사통합과정 | MS/PhD 25 | junyeol@kaist.ac.kr |  |
+| Jun Wang | 박사과정 | PhD 25 | junwang@kaist.ac.kr |  |
+| Yunjeong Kim | 석박사통합과정 | MS/PhD 25 | yunjeong.kim@kaist.ac.kr |  |
+| Yosep Shin | 박사과정 | MS 24, PhD 26 | josephshin@kaist.ac.kr |  |
+| Jaeu Bae | 박사과정 | MS 24, PhD 26 | jaeu.bae@kaist.ac.kr |  |
+| Seungyup Baek | 박사과정 | MS 24, PhD 26 | backsy@kaist.ac.kr | 6 |
+| Jibaek Song | 석사과정 | MS 25 | burningbin2@kaist.ac.kr |  |
+| Minseop Lee | 석사과정 | MS 25 | 2002lms@kaist.ac.kr | 2 |
+| Soomin Kang | 석사과정 | MS 26 | soosoo02@kaist.ac.kr |  |
+| Jungmyeong Kim | 석사과정 | MS 26 | jungmyeong@kaist.ac.kr |  |
+| Pornananrat Napol | 석사과정 | MS 26 | engnapol@kaist.ac.kr |  |
+| Dogyung Yoon | 석사과정 | MS 26 | dean010707@kaist.ac.kr |  |
+| 선하은 | 학부 연구생 |  | haeon703@kaist.ac.kr |  |
+| 전채훈 | 학부 연구생 |  | jeonchaehun@kaist.ac.kr |  |
+| 이태강 | 학부 연구생 |  | taekang@kaist.ac.kr |  |
+
+## 졸업생과 이전 구성원
+
+그룹 구성원 페이지의 졸업 대학원생·박사후연구원과 방문 연구자, 그룹이 적은 다음 진로다. 텍사스공대(TTU) 시기 졸업생을 포함한다.[^members]
+
+| 이름 | 학위·과정 (연도) | 랩이 적은 진로 |
+|---|---|---|
+| Yeolheon Seong | 박사후연구원 (2026) | Samsung |
+| Juntae Kim | 석사 (KAIST EE) (2026) |  |
+| Peiyuan Li | 석사 (KAIST EE) (2026) |  |
+| Lanxuan Zhang | 박사후연구원 (2025) | AMF |
+| Mehedi Hasan | 박사 (TTU ECE) (2025) | Nokia (Senior PIC Development Engineer) |
+| Shamkhal Hasanli | 석사 (KAIST EE) (2025) | DTU (PhD program, H. Hu group) |
+| Nafiz Jaidye | 박사 (TTU PHYS) (2024) | Intel (Test Engineer) |
+| Syed Z. Ahmed | 박사 (TTU ECE) (2023) | Intel (Test Engineer) |
+| Daniel Pimbi | 석사 (TTU ECE) (2023) | University of Maryland (PhD program, K. Srinivasan Group) |
+| Ishtiaque Ahmed | 박사 (TTU PHYS) (2022) | Intel (Process Engineer) |
+| Md Borhan Mia | 박사 (TTU ECE) (2022) | Lumentum → OpenLight |
+| Saleha Fatema | 석사 (TTU ECE) (2020) | Purdue University (PhD, A. Weiner group) → NIST (Postdoc) |
+| Jing Wang | 방문 연구자 (EE, 2023 Fall - 2025 Summer) |  |
+
+## 최근 논문 목록 (2021–2026)
+
+그룹 논문 목록의 2021–2026년 학술지 논문 23편이다(해설 기사 1편 포함). 사전 공개 3편과 학술대회 발표 목록은 같은 페이지에 따로 있다.[^papers]
+
+**2026**
+
+- Jihwan You\*, Dohun Koh\*, Seungyong Lee, Minseop Lee, Hoon Kim, and Sangsik Kim. "Polarization-independent directional coupler using tilted subwavelength gratings". *Journal of the Optical Society of America B 43(11), 2537-2542 (\*equal contribution)*.
+- Peiyuan Li, Yosep Shin, and Sangsik Kim. "Zero crosstalk in asymmetric multimode waveguides for higher-order mode crosstalk suppression via subwavelength gratings". *Optics Express 34(15), 28549-28561*.
+- Jaewhan Lee, H. Lee, W. Lee, H. Kim, D. Kwon, S. Lee, M. Seo, T. Kwon, S. Seo, H. Hong, S. Kang, S. Park, Y. Park, J. Park, Y. Na, I. Kang, Sangsik Kim, and J. Lee. "Strontium 1S0 → 1P1 transition frequency measurements assisted by a photonic grating chip". *Metrologia 63, 045003*.
+- Jaeu Bae, J. Kim, Sangsik Kim, and M. Song. "Closed-Loop Adaptive Pulse Shaping for Flat-Top Electro-Optic Supercontinuum Generation". *IEEE Journal of Lightwave Technology*.
+- Taewon Kim, Mehedi Hasan, Y. Choi, J. Yoon, and Sangsik Kim. "Dual-bus resonator for multi-port spectral engineering". *Laser & Photonics Reviews e02935 (Cover Image)*.
+
+**2025**
+
+- Mehedi Hasan, Seungyup Baek, A. Bernussi, and Sangsik Kim. "Modeling method for concentric ring resonators with dispersion engineering". *Optics Express 33(24), 51499-51512*.
+- Lanxuan Zhang, Q. Xie, Q. Na, D. Zhuang, X. Nie, L. Wang, Sangsik Kim, J. Song, and L. Wang. "Time-lens-based optical phased array LiDAR for ranging and accuracy enhancement". *APL Photonics 10(11), 116102*.
+- Yosep Shin, Kyungtae Kim, Jaewhan Lee, Saman Jahani, Zubin Jacob, and Sangsik Kim. "Anisotropic metamaterials for scalable photonic integrated circuits: a review on subwavelength gratings for high-density integration". *Nanophotonics 14(9), 1311-1331*.
+- Shamkhal Hasanli, Mehedi Hasan, Hyejin Yoon, Seungyong Lee, and Sangsik Kim. "Exceptional points in a passive strip waveguide". *Nanophotonics 14(8), 1301-1309*.
+
+**2024**
+
+- Nafiz Jaidye, Jaewhan Lee, Daniel Pimbi, Myoung-Hwan Kim, Ayrton Bernussi, and Sangsik Kim. "In-plane beam focusing via integrated photonic gradient-index subwavelength grating metalens". *Optics Express 32, 46225-46238*.
+- S. Ahmed, M. Hasan, K. Kim, and S. Kim. "Zero-crosstalk silicon photonic refractive index sensor with subwavelength gratings". *Nano Convergence 11, 39*.
+- G. Kim, H. Kim, Y. Jeon , I. Kim, S. Kim, S. Kim, J. Kim. "Scalable hot carrier–assisted silicon photodetector array based on ultrathin gold film". *Nanophotonics 13(7), 1049*.
+- D. Pimbi, M. Mia, N. Jaidye, I. Ahmed, M. Hasan, S. Ahmed, and S. Kim. "Integrated polarization-free Bragg filters with subwavelength gratings for photonic sensing". *Optics Express 32(2), 2147-2161*.
+
+**2023**
+
+- S. Kim. "Silicon photonic Bessel–Gaussian beam generation unlocks new possibilities for long-range sensing". *Light: Science & Applications, 12, 141 (2023) (News & Views)*.
+- M. Kabir, M. Mia, I. Ahmed, N. Jaidye, S. Ahmed, and S. Kim. "Anisotropic leaky-like perturbation with subwavelength gratings enables zero crosstalk". *Light: Science & Applications, 12, 135*.
+- I. Ahmed, S. Ahmed, N. Jaidye, M. Mia, A. Bernussi, and S. Kim. "High-density integrated delay line using extreme skin-depth subwavelength grating waveguides". *Optics Letters 48(7), 1662-1665*.
+- D. Pimbi, M. Hasan, M. Mia, N. Jaidye, and S. Kim. "Polarization-independent photonic Bragg grating filter with cladding asymmetry". *Optics Letters 48(5), 1192-1195*.
+- M. Mia, N. Jaidye, I. Ahmed, S. Ahmed, and S. Kim. "Broadband integrated polarization splitter and rotator using subwavelength grating claddings". *Optics Express 31(3), 4140-4151*.
+
+**2022**
+
+- S. Kachiraju, I. Nekrashevich, I. Ahmed, H. Farooq, L. Chang, S. Kim, and M. Kim. "Coupled surface plasmon-phonon polariton nanocavity arrays for enhanced mid-infrared absorption". *Nanophotonics 11(2), 4489-4498*.
+- A. Yulaev\*, S. Kim\*, Q. Li, D.A. Westly, B.J. Roxworthy, K. Srinivasan, and V. Aksyuk (\*equal contribution). "Exceptional points in lossy media lead to deep polynomial wave penetration with spatially uniform power loss". *Nature Nanotechnology 17, 583-589*.
+
+**2021**
+
+- M. Mia, S. Ahmed, N. Jaidye, I. Ahmed, and S. Kim. "Mode-evolution-based ultra-broadband polarization beam splitter using adiabatically tapered extreme skin-depth waveguide". *Optics Letters 46(18), 4490-4493*.
+- S. Ahmed, I. Ahmed, M. Mia, N. Jaidye, and S. Kim. "Ultra-high extinction ratio polarization beam splitter with extreme skin-depth waveguide". *Optics Letters 46(9), 2164-2167*.
+- S. Fatema, M. Mia, and S. Kim. "Multiple mode couplings in a waveguide array for broadband near-zero dispersion and supercontinuum generation". *IEEE Journal of Lightwave Technology 39, 216-222*.
+
+## 특허
+
+그룹 논문 목록의 특허 구간이다.[^papers]
+
+- Rib waveguide with optical crosstalk eliminated (발명자 S. Kim, K. Kim, and Y. Shin; 번호 Korea Patent Application No. 10-2025-0062908 (filed in 2025))
+- Plugable atomic-optical integrated circuit device (발명자 S. Kim, K. Yu, J. Lee, J. Lee, D. Yu, and H. Hong; 번호 Korea Patent Application No. 10-2025-0138712 (filed in 2025))
+- Waveguides having highly suppressed crosstalk (발명자 S. Kim and M. Mia; 번호 U.S. Patent No. US11709316B2 (2023))
+- Optical Coupler (발명자 M. Teng, M. Qi, B. Niu, J.C. Wirth, S. Kim, K. Han, Y. Xuan, and Y. Lee; 번호 U.S. Patent No. 10,197,731 (2019))
+- Optical Coupler having segmented waveguides for coupling electromagnetic field (발명자 M. Qi, M. Teng, K. Han, S. Kim, B. Niu, and Y. Lee; 번호 U.S. Patent No. 10,444,434 (2019))
+- Optical Coupler having exposed subwavelength gratings for coupling electromagnetic field (발명자 M. Qi, M. Teng, K. Han, S. Kim, B. Niu, and Y. Lee; 번호 U.S. Patent No. 10,126,500 (2018))
+
+## 소식
+
+그룹 첫 화면의 그룹 소식과 주요 소식이다.[^home]
+
+- 2026-09-24 · Jihwan and Dohun’s paper, “Polarization-Independent Directional Coupler Using Tilted Subwavelength Gratings,” has been published in the Journal of the Optical Society of America B! Congratulations!
+- 2026-07-24 · Peiyuan’s paper on “Zero crosstalk in asymmetric multimode waveguides for higher-order mode crosstalk suppression via subwavelength gratings” is published on Optics Express. Congratulations!
+- 2026-07-17 · Jaewhan’s paper on “Strontium 1S0 → 1P1 transition frequency measurements assisted by a photonic grating chip” is published in Metrologia. Congratulations!
+- 2026-07-14 · Jaeu’s paper on “Closed-Loop Adaptive Pulse Shaping for Flat-Top Electro-Optic Supercontinuum Generation” is published on Journal of Lightwave Technology. Congratulations!
+- 2026-06-17 · Jibaek and Jongeon presented their research at ECIO 2026 at ETH Zurich! Great job!
+- 2026-06-12 · Congratulations to Seungyup and Juntae on successfully defending their M.S. theses!
+- 2026-05-15 · Dr. Yeolheon Seong joined our group as an InnoCORE postdoc! Welcome!
+- 2026-03-30 · Sangsik and Minsup received the Best Teaching and Best TA Awards
+- 2026-03-07 · Taewon’s paper (our URP undergraduate) on “Dual-Bus Resonator for Multi-Port Spectral Engineering” is published on Laser & Photonics Reviews! Congratulations!
+- 2026-03-03 · Member updates: Yunjeong & Dokyung joined our group – welcome! Yoseph and Jaewoo move to PhD program, and Soomin, Jungmyeong, and Napol started their MS journey. Good luck to everyone on the next steps!
+- 2026-02-20 · Six members graduated! (MS: Yoseph, Jaewoo, Peiyuan & BS: Soomin, Jungmyeong, Napol) Congratulations on your achievement. It’s a big milestone in your career!
+- 2026-01-11 · KIM Group 2025 Recap
+- 2025-12-01 · Mehedi successfully defended his PhD! He will be joining Nokia as a Senior PIC Development Engineer. With Nokia’s acquisition of Infinera earlier this year, this is an exciting time to be joining the team. Congratulations, Mehedi! Wishing you all the best in your next steps.
+- 2025-11-27 · Mehedi’s paper on “Modeling method for concentric ring resonators with dispersion engineering” is published in Optics Express. Congratulations!
+- 2025-11-05 · Lanxuan’s paper on “Time-lens-based optical phased array LiDAR for ranging and accuracy enhancement” is published in APL Photonics journal. Congratulations!
+- 2025-09-10 · New Members! 🎉 Welcome Junyeol (MS/PhD), Jun Wang (PhD), Jungmyeong, Napol, Haeun, and Chaehun (Undergraduates)!
+- 2025-07-04 · Sangsik, Jibaek, and Soomin presented our research at the OECC 2025 conference!
+- 2025-06-18 · Taewon, our undergraduate URP student, recieved two poster awards! One from the 1st Optical Science & Opto-Semiconductor Workshop (OSW) and the other from the KAIST Optics Group students poster competetion. Good job!
+- 2025-06-05 · Shamkhal successfully defended his MS thesis on “A Study on Exceptional Points in Passive Integrated Photonic Strip Waveguides”. He will move to DTU for his PhD journey. Good luck!
+- 2025-03-30 · A Review paper by Yoseph Shin titled “Anisotropic Metamaterials for Scalable Photonic Integrated Circuits: A Review on Subwavelength Gratings for High-Density Integration” has been published in Nanophotonics journal.
+- 2023-06-02 · Our paper on “Anisotropic leaky-like perturbation with subwavelength gratings enables zero crosstalk” is published in Light: Science & Applications. Congratulations!
+- 2022-08-29 · Our group is moving to KAIST in South Korea. We have openings for postdoc, Ph.D., MS, and undergraduate positions.
+- 2022-04-21 · Sangsik’s paper on “Exceptional points in lossy media lead to deep polynomial wave penetration with spatially uniform power loss” was published in Nature Nanotechnology!
+- 2022-01-13 · Sangsik has been awarded the National Science Foundation (NSF) CAREER Award for 2022! We are excited to tackle the scaling issues inherent to integrated nanophotonics and apply subwavelength gratings for diverse photonic applications. Congratulations!
+- 2021-02-09 · Sangsik has been selected as a recipient of the 2021 KSEA (Korean-American Scientists and Engineers Association) Young Investigator Grant! Congratulations!
+
+## 연락과 위치
+
+- 교수 이메일: sangsik.kim@kaist.ac.kr, 전화 042-350-7472[^contact]
+- 위치: KAIST 정보전자공학동(E3-2) 3209호 (대전 유성구 대학로 291)[^contact]
+
+[^home]: KAIST Integrated Metaphotonics Group 누리집 첫 화면(Highlights, Group News) <https://kimgroup.kaist.ac.kr/> (2026-10-19 열람)
+[^research]: KIM 그룹 연구 페이지 <https://kimgroup.kaist.ac.kr/research/> (2026-10-19 열람)
+[^members]: KIM 그룹 구성원 페이지 <https://kimgroup.kaist.ac.kr/members/> (2026-10-19 열람)
+[^papers]: KIM 그룹 논문 목록 <https://kimgroup.kaist.ac.kr/publications/> (2026-10-19 열람)
+[^contact]: KIM 그룹 연락처 <https://kimgroup.kaist.ac.kr/contact/> (2026-10-19 열람)
+[^news]: KIM 그룹 소식 "Sangsik's paper on Exceptional points in lossy media ... was published in Nature Nanotechnology"(2022-04-21) <https://kimgroup.kaist.ac.kr/2022/04/21/sangsiks-paper-on-exceptional-points-in-lossy-media-lead-to-deep-polynomial-wave-penetration-with-spatially-uniform-power-loss-was-published-in-nature-nanotechnology/> (2026-10-19 열람)
+[^p1]: M. F. Kabir 외, S. Kim, Light: Science & Applications 12, 135 (온라인 2023-06-02). <https://doi.org/10.1038/s41377-023-01184-5> 초록 기준.
+[^p2]: J. You 외, S. Kim, Journal of the Optical Society of America B 43, 2537 (온라인 2026-10-01). <https://doi.org/10.1364/josab.612181> 초록 기준.
+[^p3]: I. Ahmed 외, S. Kim, Optics Letters 48, 1662 (온라인 2023-03-22). <https://doi.org/10.1364/ol.479003> 초록 기준.
+[^p4]: A. Yulaev 외, V. A. Aksyuk, Nature Nanotechnology 17, 583-589 (온라인 2022-04-21). <https://doi.org/10.1038/s41565-022-01114-3> 초록 기준(Semantic Scholar 등록 초록).
+[^p5]: S. Hasanli 외, S. Kim, Nanophotonics 14, 1301-1309 (온라인 2025-03-11). <https://doi.org/10.1515/nanoph-2024-0701> 초록 기준.
+[^p6]: M. Hasan, S. Baek, A. Bernussi, S. Kim, Optics Express 33, 51499 (온라인 2025-11-26). <https://doi.org/10.1364/oe.577296> 초록 기준.
+[^p7]: T. Kim 외, S. Kim, Laser & Photonics Reviews 20, e02935 (온라인 2026-03-06). <https://doi.org/10.1002/lpor.202502935> 초록 기준.
+[^p8]: N. Jaidye 외, S. Kim, Optics Express 32, 46225 (온라인 2024-12-06). <https://doi.org/10.1364/oe.539591> 초록 기준.
