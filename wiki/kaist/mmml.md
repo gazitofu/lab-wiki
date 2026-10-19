@@ -131,7 +131,7 @@
 
 **2025**
 
-- Sunggyu Lee, Dong-Yeun Koh. "Solution-Processable Redox-Active Polyimides: Synthesis and CO<sub>2</sub> Responsive Properties". *Membrane Journal*.
+- Sunggyu Lee, Dong-Yeun Koh. "Solution-Processable Redox-Active Polyimides: Synthesis and CO2 Responsive Properties". *Membrane Journal*.
 - YongSung Kwon, Daehun Kim, Injun Park, YouIn Park, SeungEun Nam, Dong-Yeun Koh. "Facile membrane upscaling via in-situ synthesis of PVA hydrogel for harsh solvent separation: From transport study to industrial application". *Chemical Engineering Journal*.
 - Sunggyu Lee, Huiryung Heo, Hyunjung Kim, Jungseob So, Jae W. Lee, Dong-Yeun Koh. "CuI-Embedded fiber sorbent with CO selective adsorption for High-Purity H2 recovery". *Chemical Engineering Journal*.
 - Howoun Jung, Kyunam Kim, Jinhong Jeong, Aqil Jamal, Dong-Yeun Koh, Jay H. Lee. "Exploring the impact of hourly variability of air condition on the efficiency of direct air capture". *Chemical Engineering Journal*.

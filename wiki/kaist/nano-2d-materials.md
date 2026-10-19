@@ -165,7 +165,7 @@
 **2021**
 
 - A. Ham , T. S. Kim , M. Kang , H. Cho\*, K. Kang\*. "Strategies for chemical vapor deposition of two-dimensional organic-inorganic halide perovskites". *iScience, 24, 103486 (2021)*.
-- M. -k. Jo , H. Heo, J. -H. Lee, S. Choi, A. Kim, H. B. Jeong, H. Y. Jeong, J. M. Yuk, D. Eom, J. Jahng, E. S. Lee, I. -y. Jung, S. R. Cho , J. Kim, S. Cho, K. Kang\* , S. Song\*. "Enhancement of Photoresponse on Narrow-Bandgap Mott Insulator α‑RuCl3 <i>via</i> Intercalation". *ACS Nano, 15, 18113-18124 (2021)*.
+- M. -k. Jo , H. Heo, J. -H. Lee, S. Choi, A. Kim, H. B. Jeong, H. Y. Jeong, J. M. Yuk, D. Eom, J. Jahng, E. S. Lee, I. -y. Jung, S. R. Cho , J. Kim, S. Cho, K. Kang\* , S. Song\*. "Enhancement of Photoresponse on Narrow-Bandgap Mott Insulator α‑RuCl3 via Intercalation". *ACS Nano, 15, 18113-18124 (2021)*.
 - S. R. Cho† , S. Ahn†, S. H. Lee†, H. Ha, T. S. Kim , M. -k. Jo , C. Song , T. H. Im, P. Rani , M. Gyeon , K. Cho , S. Song, M. S. Jang\*, Y. -H. Cho\*, K. J. Lee\*, K. Kang\*. "Universal Patterning for 2D Van der Waals Materials via Direct Optical Lithography". *Advanced Functional Materials, 31 (2021)*.
 - M. Kang† , H. -J. Chai† , H. B. Jeong, C. Park, I. -y. Jung, E. Park, M. M. Çiçek, I. Lee, B. -S. Bae, E. Durgun, J. Y. Kwak, S. Song\*, S. -Y. Choi\*, H. Y. Jeong\*, K. Kang\*. "Low-Temperature and High-Quality Growth of Bi 2 O 2 Se Layered Semiconductors via Cracking Metal–Organic Chemical Vapor Deposition". *ACS Nano, 15, 8715-8723 (2021)*.
 - H. R. Rasouli, J. Kim , N. Mehmood, A. Sheraz, M. -k. Jo , S. Song, K. Kang\* , T. S. Kasirga\*. "Electric-Field-Induced Reversible Phase Transitions in a Spontaneously Ion-Intercalated 2D Metal Oxide". *Nano Letters, 21, 3997-4005 (2021)*.
