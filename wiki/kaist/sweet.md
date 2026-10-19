@@ -338,7 +338,7 @@ PFAS 흡착·분해·재생, 과황산(강한 산화제) 활성화 촉매.[^p4][
 - [보도자료] “반도체 강국되려면 ‘초순수 산업’ 육성과 국산화 적극 서둘러야”
 - [Seminar Announcement] 22.09.01, Prof. Yoon-Seok Timothy Hong (LSBU)
 - [Seminar Announcement] 22.07.19, Prof. Ng How Yong (NUS)
-- [보도자료] [초순수 국산화](하) 반도체 강국 젖줄…"인재 양성이 핵심"
+- [보도자료] [초순수 국산화\](하) 반도체 강국 젖줄…"인재 양성이 핵심"
 - [Award 수상] 2022.05.13 : EUBCE 2022, Student Award 수상
 - 21.11.17 1st KAIST-NUS Joint Workshop on Membrane-Based Environmental Engineering Processes
 - 21.11.16 CEEK is S.U.R.E (건설 및 환경공학과 비전선포식)
