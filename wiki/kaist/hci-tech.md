@@ -1,116 +1,232 @@
-# HCI Tech Lab / Human-Centered Interactive Technologies Laboratory
+# HCI Tech Lab (Human-Centered Interactive Technologies Laboratory)
 
-윤상호 교수의 인간-컴퓨터 상호작용(HCI) 연구를 소개하는 부분 자료다. XR 입력, AI 기반 센싱, 다중모달 햅틱과 사용자경험 저작 기술을 다룬다. [랩 소개](https://hcitech.org/)와 [PI 소개](https://sanghoy.com/)가 근거이며, 연구·입력·센서·햅틱 시스템 개발을 중심으로 읽는다.
+**KAIST 문화기술대학원 · 윤상호 교수**
 
-## 공식 명단과 PI·랩 연결
+- 분야: 인간–컴퓨터 상호작용(HCI), 햅틱(촉각) 기술, 확장현실(XR) 입력, 착용형 센싱, 생성형 AI 기반 디자인 도구
+- 홈페이지: <https://hcitech.org/>
+- 근거와 출처: [HCI Tech Lab 근거 페이지](hci-tech-sources.md)
 
-| 기존 후보 ID | 공식 명단의 관측 |
-|---|---|
-| `kaist:c:meta:lab-6` | [메타버스대학원 Faculty & Labs](https://meta.kaist.ac.kr/labs/)의 HCI Tech Lab·윤상호·Meta-Convergence/Meta-XR·공식 랩 링크 |
-| `kaist:c:ct:lab-8` | [문화기술대학원 연구실 명단](https://ct.kaist.ac.kr/boards/lists/lab_board)의 Human-Centered Interactive Technologies Lab·지도교수 윤상호 |
+> 사람이 가상현실과 컴퓨터를 손과 몸으로 더 자연스럽게 다루도록, 손끝에 촉감을 주는 장갑과 장치, 몸의 움직임을 읽는 센서, 진동 패턴을 글로 만들어 주는 인공지능 같은 상호작용 기술을 만든다.[^home][^p1][^p4]
 
-[문화기술 교수명단](https://ct.kaist.ac.kr/boards/lists/faculty_board)은 윤상호 부교수를 게시하며 [공식 상세 프로필](https://ct.kaist.ac.kr/boards/view/faculty_board/119)이 hcitech.org를 연결한다. 메타버스의 [랩 상세](https://meta.kaist.ac.kr/labs/hci-tech-lab)도 윤상호와 같은 랩 사이트를 연결한다. [팀 페이지](https://hcitech.org/team)와 [개인 PI 홈페이지](https://sanghoy.com/)는 Sang Ho Yoon이 HCI Tech Lab을 이끈다고 소개한다.
+## 무엇을 연구하나
 
-이는 같은 PI·랩의 교차명단 및 명칭 관계 제안이다. 기존 두 후보를 자동 병합하거나 영구ID로 승격하지 않았으며 기존 필드값도 자동 채택하지 않았다. 연구실 고유수·기관 전수 완료를 뜻하지 않는다. 문화기술 연구실 카드의 외부 링크 자체는 이번에 확인하지 않았고 공식 PI 프로필의 링크를 연결 근거로 썼다.
+연구실은 물리 세계와 디지털 세계를 잇는 체화 지능(몸을 가진 기계가 현실과 상호작용하는 인공지능, 피지컬 AI)과 몰입형 기술(XR)로 사람의 잠재력을 키우는 것을 목표로 내건다. 주요 연구 주제는 첨단 센싱 기술, 다중 감각 햅틱 기술, 사용자 경험 저작 도구다.[^home] 교수는 HCI, 햅틱, 상호작용 기법, 착용형 컴퓨팅, 확장현실을 연구 분야로 적는다.[^ct]
 
-| 항목 | 게시 정보와 한계 |
-|---|---|
-| PI | 윤상호 · Sang Ho Yoon |
-| 문화기술 직함 | 공식 교수명단·상세의 부교수, PI와 팀의 Associate Professor |
-| 업무 연락 | 공식 문화기술 프로필의 sangho@kaist.ac.kr · 042-350-2915. 실제 연락을 시도하지 않음 |
-| 교수 공간 | 문화기술 프로필 N5동2327호, PI 홈페이지 N5 3F #2327 |
-| 랩 공간 | 랩 홈페이지 하단 N5 Room2337. 교수 공간과 구분 |
-| 추가 소속 게시 | 팀·PI 홈페이지의 전산학부·메타버스대학원·로보틱스 프로그램·AX. 별도 임용원부 대조 미수행 |
+첫 번째 갈래는 **햅틱, 곧 촉감을 만드는 기술**이다. 가상현실에서 물건을 잡아도 손에 아무 느낌이 없으면 실감이 떨어진다. 연구실은 손가락 마디마다 정전기 브레이크로 힘을 걸어 물체 모양을 느끼게 하는 130 g 장갑,[^p4] 두 지점만 눌러도 압력이 손 위를 움직이는 듯 느끼게 하는 장치,[^p3] 손가락 힘줄에 진동을 줘 손가락이 움직이는 듯한 착각을 일으키는 방법을 만들었다.[^p2]
 
-[문화기술 프로필](https://ct.kaist.ac.kr/boards/view/faculty_board/119)은 조교수·부교수 경력을 2021-09부터로 게시한다. [메타버스 PI 프로필](https://meta.kaist.ac.kr/members/4)의 Role: Professor·Department: 문화기술대학원·Status: Active 및 Entrance Date: 2022-07-01은 해당 사이트의 필드다. 일반 역할명 Professor를 정교수 직급으로, Entrance Date를 KAIST 최초 임용일로 해석하지 않는다. 임용형태·기간·실제 재직과 명단 필드의 운영상 의미는 미검증이다.
+두 번째 갈래는 **확장현실 입력과 착용형 센싱**이다. 맨손으로 가상현실 자판을 칠 때 손끝에 초음파로 공중 촉감을 주는 착용형 장치로 입력 자신감과 사용성을 높였고,[^p5] 랩 학술지 목록에는 시선과 손가락 동작을 결합한 입력, 굽은 표면 위 터치 입력 연구도 많다.[^papers]
 
-## 랩 사이트의 공개 구성원 게시 명단
+세 번째 갈래는 **생성형 AI 기반 디자인·저작 도구**다. 글로 원하는 느낌을 쓰면 진동 신호를 만들어 주는 생성 모델,[^p1] 가상 물체의 어느 부분을 어떻게 잡고 움직일지 추천해 주는 시각–언어 모델 도구,[^p6] 집 안 물건과 환자 사진으로 맞춤 재활 운동을 짜 주는 모델,[^p7] 안무가가 가상현실 안에서 춤을 만들 때 동작을 제안하고 분석해 주는 도구를 내놓았다.[^p8]
 
-[Team](https://hcitech.org/team)의 Professor 다음부터 Alumni 이전까지 **비PI 게시항목28개**다. Post-Doc1·Ph.D. Students15·M.S. Students9·Interns1·Administrative Staff2로 게시되어 있다. 이 구역에는 휴직 표시1항목도 포함된다. 실제 상근·재직 인원이나 센터 인원이 아니다. 이름·역할·공개 연구주제의 한국어 요약과 필요한 명단 주석만 옮겼다.
+## 주요 연구 주제
 
-| 이름 | 게시 구역·역할 | 공개 연구주제 요약·주석 |
+### 1. 착용형 햅틱 장치와 촉각 착각
+
+정전기 브레이크 장갑, 압력 착각, 힘줄 진동, 초음파 공중 촉각.[^p2][^p3][^p4][^p5] 대표 논문 2, 3, 4, 5.
+
+### 2. 생성형 AI와 창작·재활 도구
+
+텍스트–진동 생성, 손–물체 상호작용 저작, 재활 운동 계획, 안무 창작 지원.[^p1][^p6][^p7][^p8] 대표 논문 1, 6, 7, 8.
+
+### 3. XR 입력과 피지컬 AI
+
+시선·손 입력, 맥락 인지 인간–로봇 상호작용. 연구실은 2026년부터 한국연구재단 우수신진연구로 "공존형 인간–로봇 상호작용을 위한 맥락 인지 멀티모달 피지컬 AI" 과제를 이끈다.[^projects][^papers]
+
+## 대표 논문
+
+랩 논문 목록의 2021–2026년 동료 심사 논문 중 교수가 마지막 저자인 것에서 주제별로 골랐다(1번은 랩 목록의 공동 마지막 저자 표기). "쉽게 말하면" 칸은 각 논문의 초록만을 근거로 썼다.
+
+| # | 연도 | 논문 · 학술지 | 쉽게 말하면 | 주요 저자[^papers] |
+|---|---|---|---|---|
+| 1 | 2025 | [HapticGen: Generative Text-to-Vibration Model for Streamlining Haptic Design](https://doi.org/10.1145/3706598.3713609) · ACM CHI 2025 | 글로 원하는 느낌을 입력하면 진동 신호를 만들어 주는 생성 모델. 소리 33만 5천 개를 진동으로 바꾼 자료로 학습하고 전문 디자이너의 평가로 다시 조정했다. 32명 비교 실험에서 사실감 등 다섯 가지 체험 지표와 사용성이 기존 방식보다 좋았다.[^p1] | 공동 1저자 Youjin Sung·Kevin John, 윤상호·Hasti Seifi(랩 목록 ** 표기) |
+| 2 | 2026 | [Finger Tendon Vibration: Finger Movement Illusions for Immersive Virtual Object Interaction](https://doi.org/10.1145/3772318.3790557) · ACM CHI 2026 | 손가락 힘줄에 진동을 주면 손가락이 움직이는 듯한 착각이 생긴다. 이를 가상 물체 상호작용에 쓰는 6가지 장면과 4가지 진동 방식을 설계·평가해 지침을 만들었고, 손가락에 실제 같은 저항감을 줘 "내 손" 같은 느낌을 크게 높였다.[^p2] | 1저자 Kun-Woo Song, 마지막 저자 윤상호 |
+| 3 | 2025 | [Moving-Press: Pressure-based Moving Phantom Sensation for Immersive VR Hand Interaction](https://doi.org/10.1145/3770682) · ACM IMWUT | 고정된 두 개의 구동기로 누르는 깊이를 시간에 따라 바꾸면, 압력이 손 위를 연속으로 움직이는 듯한 착각(움직이는 유령 감각)이 생긴다는 것을 보이고 이를 쓰는 착용형 장치를 만들었다. 부피가 큰 압력 장치를 작게 만들 수 있는 방법이다.[^p3] | 공동 1저자 DongKyu Kwak·Kyungjin Seo, 마지막 저자 윤상호 |
+| 4 | 2024 | [EStatiG: Wearable Haptic Feedback with Multi-Phalanx Electrostatic Brake for Enhanced Object Perception in VR](https://doi.org/10.1145/3678567) · ACM IMWUT | 손끝뿐 아니라 손가락 마디마다 힘 되먹임을 주는 130 g 햅틱 장갑. 정전기 클러치를 겹쳐 마디별 브레이크를 만들었고, 가상 물체를 쥘 때 손가락 각도 인식과 사실감·몰입감이 크게 좋아졌다.[^p4] | 공동 1저자 Nicha Vanichvoranun·Hojeong Lee, 마지막 저자 윤상호 |
+| 5 | 2025 | [UltraBoard: Always-available Wearable Ultrasonic Mid-air Haptic Interface for Responsive and Robust VR Inputs](https://doi.org/10.1145/3731413) · ACM IMWUT | 손에 다는 초음파 위상 배열(여러 초음파 소자의 박자를 맞춰 한 점에 음압을 모으는 장치)로 손끝을 포함한 손 전체에 공중 촉감을 주는 장치. 손 위치에 맞춰 배열을 움직여 가상현실 타자 때 촉감을 꾸준히 주고, 오타를 촉감으로 알려 입력 자신감과 사용성을 높였다.[^p5] | 1저자 Changhyeon Park, 마지막 저자 윤상호 |
+| 6 | 2026 | [HOICraft: In-Situ VLM-based Authoring Tool for Part-Level Hand-Object Interaction Design in VR](https://doi.org/10.1145/3772318.3790823) · ACM CHI 2026 | 가상현실에서 물체의 어느 부분을 어떻게 잡고 움직일지 정하는 손–물체 상호작용 설계를, 시각–언어 모델(이미지와 글을 함께 이해하는 인공지능)이 상호작용할 부분을 추천하고 손 움직임과 물체 동작을 연결해 주는 도구로 도왔다. 디자이너 12명 실험에서 시행착오가 크게 줄었다.[^p6] | 1저자 Dohui Lee, 마지막 저자 윤상호 |
+| 7 | 2026 | [RehabGen: Generative Expert-in-the-Loop Vision-Language Model for Everyday Contextualized Rehabilitation Exercises](https://doi.org/10.1145/3810235) · ACM IMWUT | 환자 시점 사진과 집 안 물건을 보고 맞춤 재활 운동을 짜 주는 시각–언어 모델. 전문가 의견으로 만든 선호 자료로 모델을 조정했고, 전문가 23명 평가에서 기본 모델보다 항목 단위 선호율 57.6%를 기록했다.[^p7] | 1저자 Youjin Sung, 마지막 저자 윤상호 |
+| 8 | 2025 | [ChoreoCraft: In-situ Crafting of Choreography in Virtual Reality through Creativity Support Tool](https://doi.org/10.1145/3706598.3714220) · ACM CHI 2025 | 안무가가 가상현실 안에서 춤을 만들 때 상황에 맞는 동작을 제안하고 안무를 분석해 주는 도구. 창작의 정체를 넘고 기억 부담을 줄이며 효율을 높였다.[^p8] | 공동 1저자 Kyungeun Jung·Hyunyoung Han(랩 표기), 마지막 저자 윤상호 |
+
+## 교수와 전문 분야
+
+윤상호 교수는 미국 카네기멜런대에서 기계공학 학사·석사(2004–2008), 퍼듀대에서 기계공학 박사(2013–2017)를 받았다.[^ct] LG디스플레이 연구원(2008–2010), LG전자 주임연구원(2010–2013), 마이크로소프트 응용과학연구소 연구 엔지니어(2017–2020), 삼성전자 삼성리서치 수석연구원(2020–2021)을 거쳐 2021년 9월 KAIST 문화기술대학원에 부임했고 지금은 부교수다.[^ct] 전산학부·메타버스대학원·로봇공학 학제전공·AX학과 겸임교수다.[^people]
+
+논문으로 보면 전문 분야는 세 갈래다.
+
+- **착용형 햅틱 하드웨어**: 장갑형 힘 되먹임, 촉각 착각, 초음파 촉각.[^p2][^p3][^p4][^p5]
+- **AI 기반 상호작용 설계 도구**: 진동 생성, 상호작용 저작, 재활·창작 지원.[^p1][^p6][^p7][^p8]
+- **확장현실 입력 기법**: 시선·손 입력과 착용형 센싱.[^papers]
+
+## 응용 분야
+
+대표 논문과 과제로 보면 가상현실 게임·협업, 착용형 기기와 촉각 장갑, 재활 의료, 공연 예술 창작, 인간–로봇 공존 환경에 닿아 있다.[^p4][^p7][^p8][^projects] 2026년 ISMAR에서 최우수 논문상(Best Paper Award)과 Honorable Mention을 받았다.[^home] 졸업생은 KAIST 박사후연구원, 삼성전자, PIT IN AI 로봇팀 등으로 진출했고 상당수가 같은 연구실 박사과정으로 이어졌다.[^people]
+
+## 구성원
+
+2026년 10월 19일 랩 구성원 페이지 기준이다. 연구 주제는 랩 표기를 옮겼다. 구성원 페이지는 이메일과 시작 시점을 적지 않는다.[^people] "대표 논문 참여"는 위 대표 논문 표의 번호다.
+
+| 이름 | 과정 | 연구 주제 | 대표 논문 참여 |
+|---|---|---|---|
+| Jinwook Kim | 박사후연구원 | Multimodal Interaction |  |
+| Youjin Sung | 박사과정 | Multimodal Human-AI Interaction | 1, 7 |
+| Jina Kim | 박사과정 | Multimodal interaction & Sensing for XR |  |
+| Kyungeun Jung | 박사과정 | Motion-Aware Haptic Interaction | 8 |
+| Min-yung Kim | 박사과정 | Multimodal Interactions |  |
+| Dong Kyu Kwak | 박사과정 | Wearable Haptic Devices | 3 |
+| Soyeong Yang | 박사과정 | Viscoelastic Haptic Rendering |  |
+| Hyung Il Yi | 박사과정 |  |  |
+| Kun-Woo Song | 박사과정 |  | 2 |
+| Hojeong Lee | 박사과정 | Haptics, Soft Actuator | 4 |
+| Hanseok Jeong | 박사과정 | AI-based Sensing Technology |  |
+| Hyung Wook Yi | 박사과정 | Sensor Fabrication & Toolkit |  |
+| Kyoungwhan Mheen | 박사과정 | Eye & Hand Interaction |  |
+| Dohui Lee | 박사과정 | Human-Centered XR Interaction with AI | 6 |
+| Minju Baeck | 박사과정 | (Co-advised by Prof. Woontack Woo) |  |
+| Kyungjin Seo | 박사과정 | (On leave, working@ Samsung Global Research Tech & Experience Team) | 3 |
+| Changhyeon Park | 석사과정 | Sensing & Haptics Interaction | 5 |
+| Rachel Jungmin Kim | 석사과정 |  | 3 |
+| Murad Eynizada | 석사과정 |  |  |
+| Youngrae Kim | 석사과정 | AI-driven Haptic Effects Generation | 2 |
+| Eun Ho Kim | 석사과정 |  |  |
+| Donghee Hyun | 석사과정 |  |  |
+| HyeongJin Do | 석사과정 | Haptics, AI-based sensing |  |
+| Hyunwook Jung | 석사과정 | Human-Centered XR Interaction with AI |  |
+| Yejin Jang | 석사과정 | Haptics |  |
+| Eun Ji Shin | 학부 연구생 |  |  |
+| Nahyeong Kim | 행정 직원 |  |  |
+| EunJi Cho | 행정 직원 |  |  |
+
+## 졸업생 진로
+
+랩 구성원 페이지의 대학원 졸업생 목록이다. 기간과 진로는 랩 표기를 옮겼다.[^people]
+
+| 이름 | 학위·과정 (연도) | 랩이 적은 진로 |
 |---|---|---|
-| Jinwook Kim | Post-Doc | 다중모달 상호작용 |
-| Youjin Sung | Ph.D. Students | 다중모달 인간-AI 상호작용 |
-| Jina Kim | Ph.D. Students | XR 다중모달 상호작용·센싱 |
-| Kyungeun Jung | Ph.D. Students | 동작 인지 햅틱 상호작용 |
-| Min-yung Kim | Ph.D. Students | 다중모달 상호작용 |
-| Dong Kyu Kwak | Ph.D. Students | 웨어러블 햅틱 기기 |
-| Soyeong Yang | Ph.D. Students | 점탄성 햅틱 렌더링 |
-| Hyung Il Yi | Ph.D. Students | HCI |
-| Kun-Woo Song | Ph.D. Students | HCI |
-| Hojeong Lee | Ph.D. Students | 햅틱·소프트 액추에이터 |
-| Hanseok Jeong | Ph.D. Students | AI 기반 센싱 |
-| Hyung Wook Yi | Ph.D. Students | 센서 제작·툴킷 |
-| Kyoungwhan Mheen | Ph.D. Students | 시선·손 상호작용 |
-| Dohui Lee | Ph.D. Students | AI 기반 인간중심 XR 상호작용 |
-| Minju Baeck | Ph.D. Students | HCI; Woontack Woo 공동지도 게시 |
-| Kyungjin Seo | Ph.D. Students | HCI; On leave 게시 |
-| Changhyeon Park | M.S. Students | 센싱·햅틱 상호작용 |
-| Rachel Jungmin Kim | M.S. Students | HCI |
-| Murad Eynizada | M.S. Students | HCI |
-| Youngrae Kim | M.S. Students | AI 기반 햅틱 효과 생성 |
-| Eun Ho Kim | M.S. Students | 해당 칸 미기재 |
-| Donghee Hyun | M.S. Students | 해당 칸 미기재 |
-| HyeongJin Do | M.S. Students | 햅틱·AI 기반 센싱 |
-| Hyunwook Jung | M.S. Students | AI 기반 인간중심 XR 상호작용 |
-| Yejin Jang | M.S. Students | 햅틱 |
-| Eun Ji Shin | Interns | 해당 칸 미기재 |
-| Nahyeong Kim | Administrative Staff | 해당 칸 미기재 |
-| EunJi Cho | Administrative Staff | 해당 칸 미기재 |
+| Seo Young Oh | Ph.D. Student (Co-advised) (Fall 2023 - Summer 2026) | PostDoc, KAIST |
+| Fangqing Li | M.S. Student (Fall 2023 - Summer 2026) |  |
+| Hanseok Jeong | M.S. Student (Spring 2024 - Winter 2026) | Ph.D Student @ HCI Tech Lab, KAIST |
+| Yubin Lee | M.S. Student (Spring 2024 - Winter 2026) |  |
+| Hyung Wook Yi | M.S. Student (Fall 2023 - Winter 2026) | Ph.D Student @ HCI Tech Lab, KAIST |
+| Hojeong Lee | M.S. Student (Fall 2023 - Summer 2025) | Ph.D Student @ HCI Tech Lab, KAIST |
+| Kun-woo Song | M.S. Student (Fall 2023 - Summer 2025) | Ph.D Student @ HCI Tech Lab, KAIST |
+| Hyunyoung Han | M.S. Student (Fall 2023 - Summer 2025) | Ph.D. Student @ WIT Lab, KAIST |
+| Dongkyu Kwak | M.S. Student (Spring 2023 - Winter 2025) | Ph.D Student @ HCI Tech Lab, KAIST |
+| Soyeong Yang | M.S. Student (Spring 2023 - Winter 2025) | Ph.D Student @ HCI Tech Lab, KAIST |
+| Min-yung Kim | M.S. Student (Spring 2023 - Winter 2025) | Ph.D Student @ HCI Tech Lab, KAIST |
+| Hyung Il Yi | M.S. Student (Spring 2023 - Winter 2025) | Ph.D Student @ HCI Tech Lab, KAIST |
+| Junghoon Seo | M.S. Student (Spring 2023 - Winter 2025) | Principal Researcher @ PIT IN AI Robot Team |
+| Nicha Vanichvoranun | M.S. Student (Summer 2022 - Summer 2024) | Staff Engineer @ Samsung Electronics |
+| Kyungeun Jung | M.S. Student (Winter 2022 - Summer 2024) | Ph.D Student @ HCI Tech Lab, KAIST |
+| Kyungjin Seo | M.S. Student (Fall 2022 - Summer 2024) | Ph.D Student @ HCI Tech Lab, KAIST |
+| Jina Kim | M.S. Student (Winter 2022 - Summer 2024) | Ph.D Student @ HCI Tech Lab, KAIST |
+| Youjin Sung | M.S. Student (Spring 2022 - Summer 2023) | Ph.D Student @ HCI Tech Lab, KAIST |
+| Minjae Jo | M.S. Student (Spring 2022 - Winter 2023) |  |
 
-빈 칸은 해당 사람의 연구가 없다는 뜻이 아니다. 휴직 여부는 페이지상 표시이며 실제 고용·현재 직장을 검증한 결과가 아니다. Alumni의 학위 이력·직장·개인 연락처·사진은 이번 수집 대상에서 제외했다.
+## 최근 논문 목록 (2022–2026)
 
-## 메타버스 사이트의 별도 게시 명단
+랩 논문 목록의 동료 심사 학술대회·학술지 논문 45편이다(포스터·데모·투고 중 논문 제외). 서지는 랩 표기를 옮겼고, \*는 랩이 붙인 공동 1저자 또는 공동 교신 표시다.[^papers] 대표 논문은 위 표에서 쉬운 설명을 붙였다.
 
-[메타버스 랩 상세](https://meta.kaist.ac.kr/labs/hci-tech-lab)의 Members 구역은 아래 **7개 게시항목**을 담는다. 랩 Team과 수록 범위·학위과정·이름 표기 체계가 달라 이 명단을 별도로 보존한다. 두 목록의 갱신일·유효 기준일은 미확인이며, 한영 이름만으로 신원을 병합하거나 학위과정 변경 시점을 추정하지 않았다.
+**2026**
 
-| 이름 | 해당 사이트의 게시 역할 |
-|---|---|
-| 양소영 | PhD Course |
-| 김영래 | Master Course |
-| 이형일 | PhD Course |
-| 정경은 | PhD Course |
-| 정한석 | Master Course |
-| 김진아 | Interdisciplinary Major |
-| 이형욱 | Master Course |
+- Jina Kim, Eric J Gonzalez, Yang Zhang, Sang Ho Yoon. "GazeTune: Facilitating Precise Gaze-Driven Interactions with Cascaded Touch Input". *ACM UIST 2026*.
+- Rachel Kim, Xun Qian\*, Sang Ho Yoon\*. "DOBI: Dynamic Opportunistic Body Input via Spare Joint Recruitment for Hands-Free XR". *ACM UIST 2026*.
+- Kyoungwhan Mheen, Jinwook Kim\*, Sang Ho Yoon\*. "UniScale: Exploring Unimanual Gesture Mapping Strategies for Gaze+Pinch-based Scaling Interaction". *IEEE Transactions on Visualization and Computer Graphics (TVCG/ISMAR2026)*.
+- Minju Baeck, Yoonseok Shin, Hyunjin Lee, Boram Yoon, Woontack Woo\*, Sang Ho Yoon\*. "Sharing Roughness with Hand-Outline Visualization to Reduce Sensory Asymmetry in VR Collaboration". *IEEE Transactions on Visualization and Computer Graphics (TVCG/ISMAR2026) (Best Paper Award)*.
+- Seo Young Oh, Taejun Son, Jooyoung Lee, Woontack Woo\*, Sang Ho Yoon\*. "GeoCtrl: Finger-based Geometric Mapping and Speed-Adaptive Gain for In-Hand Object Rotation in AR/VR". *IEEE ISMAR 2026*.
+- Sungwon In, Minju Baeck, Yalong Yang, Sang Ho Yoon, Woontack Woo, Mallesham Dasari. "Understanding Organizational Strategies Across Multimodal Artifacts in Immersive Computational Notebooks". *IEEE ISMAR 2026 (Honorable Mention Award)*.
+- Hyung Il Yi, Hyung Wook Yi, Sang Ho Yoon. "Thermal Crossing: Palm-Free Thermal Rendering with Thermal Illusions". *ACM ISWC Notes and Briefs (UbiComp/ISWC 2026)*.
+- Daegeun Park, Hojeong Lee, Sang Ho Yoon, Sung-Uk Jung. "A Novel Flexible Shaft-driven Mechanism for Multidirectional Active Force Feedback in Haptic Gloves: A Preliminary Study". *IEEE Robotics and Automation Letters (RA-L)*.
+- Youjin Sung, Heejin Jeong, Xuhai "Orson" Xu, Sang Ho Yoon. "RehabGen: Generative Expert-in-the-Loop Vision-Language Model for Everyday Contextualized Rehabilitation Exercises". *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT, UbiComp/ISWC 2026)*.
+- Yubin Lee, Liwei Chan, Geehyuk Lee, Sang Ho Yoon. "CurvedTouch: Effects of Surface Curvature and Cursor Mapping Method for XR Touch Input on Curved Surface". *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT, UbiComp/ISWC 2026)*.
+- Hojeong Lee, Eunho Kim, Rachel Kim, Sang Ho Yoon. "VibGrasp: Spatiotemporal Vibration Based Multimodal Haptic Rendering with a Lightweight Exo-Glove for 3D Shape Perception". *IEEE Transactions on Haptics (TOH)*.
+- Min-yung Kim, Jinwook Kim, Ken Pfeuffer, Sang Ho Yoon. "Align-to-Scale: Mode Switching Technique for Unimanual 3D Object Manipulation with Gaze-Hand-Object Alignment in Extended Reality". *Proceedings of the ACM on Computer Graphics and Interactive Techniques (ETRA26)*.
+- Dohui Lee, Qi Sun, Sang Ho Yoon. "HOICraft: In-Situ VLM-based Authoring Tool for Part-Level Hand-Object Interaction Design in VR". *ACM CHI 2026*.
+- Kun-Woo Song, Youngrae Kim, Sang Ho Yoon. "Finger Tendon Vibration: Finger Movement Illusions for Immersive Virtual Object Interaction". *ACM CHI 2026*.
+- Soyeong Yang, Sang Ho Yoon. "AquaHaptics: Hand-based Multimodal Haptic Interactions for Immersive Virtual Underwater Experience". *IEEE Transactions on Visualization and Computer Graphics (TVCG)*.
+- Seo Young Oh, Junghoon Seo, Juyoung Lee, Boram Yoon, Woontack Woo\*, Sang Ho Yoon\*. "ForceCtrl: Hand-Raycasting with User-Defined Pinch Force for Control-Display Gain Application". *IEEE Transactions on Visualization and Computer Graphics (TVCG)*.
 
-28개와7개는 별개 출처의 게시관계 수다. 이를 고유35명으로 합산하지 않는다. 두 사이트 모두 실재직·전체인원·Alumni 전수와 구분한다.
+**2025**
 
-## 선정 논문 두 편
+- Dongkyu Kwak\*, Kyungjin Seo\*, Rachel Kim, Sang Ho Yoon. "Moving-Press: Pressure-based Moving Phantom Sensation for Immersive VR Hand Interaction". *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT, UbiComp/ISWC 2026)*.
+- Hyung Il(IL) Yi\*, Kun-Woo Song\*, Nihar Sabnis, Andrea Bianchi, Sang Ho Yoon. "InvisiBow: Finger-Held Device for Bimanual Haptic Illusions during Virtual Archery". *ACM ISWC Notes and Briefs (UbiComp/ISWC 2025)*.
+- Minju Baeck, Yoonseok Shin, Dooyoung Kim, Hyunjin Lee, Woontack Woo\*, Sang Ho Yoon\*. "Visuo-Tactile Feedback with Hand Outline Styles for Modulating Affective Roughness Perception". *IEEE Transactions on Visualization and Computer Graphics (TVCG/ISMAR2025) (Best Paper Award)*.
+- Kun-Woo Song, Sang Ho Yoon. "Neck Goes VRrr: Reducing Rotation-Induced Virtual Reality Sickness through Neck Muscle Vibrations". *IEEE Transactions on Visualization and Computer Graphics (TVCG/ISMAR2025)*.
+- Hojeong Lee, Eun Ho Kim, Sang Ho Yoon. "3D Shape Perception through Spatiotemporal Vibrotactile Patterns with Kinesthetic Feedback". *IEEE WHC2025*.
+- Changhyeon Park, Yubin Lee, Sang Ho Yoon. "UltraBoard: Always-Available Wearable Ultrasonic Mid-air Haptic Interface for Responsive and Robust VR Inputs". *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT, UbiComp/ISWC 2025)*.
+- Wonseok Roh, Hwanhee Jung, Giljoo Nam, , Dong In Lee, Hyeongcheol Park, Sang Ho Yoon, Jungseock Joo, Sangpil Kim. "Insightful Instance Features for 3D Instance Segmentation". *IEEE CVPR 2025*.
+- Jina Kim, Yang Zhang, Sang Ho Yoon. "T2IRay: Design of Thumb-to-Index based Indirect Pointing for Continuous and Robust AR/VR Input". *ACM CHI 2025 (Honorable Mention Award)*.
+- Kyungeun Jung\*, Hyunyoung Han\*, Sang Ho Yoon. "ChoreoCraft: In-situ Crafting of Choreography in Virtual Reality through Creativity Support Tool". *ACM CHI 2025 (Honorable Mention Award)*.
+- Youjin Sung\*, Kevin John\*, Hasti Seifi\*\*, Sang Ho Yoon\*\*. "HapticGen: Generative Text-to-Vibration Model for Streamlining Haptic Design". *ACM CHI 2025*.
+- Shih Ying-Lei, Tang Dongxu, Weiming Hu, Sang Ho Yoon, Yitian Shao. "VibWalk: Mapping Lower-limb Haptic Experiences of Everyday Walking". *ACM CHI 2025*.
+- Sieun Kim, Jaehwan Jeong, Sumin In, Seung Hyun Lee, Seungryong Kim, Saerom Kim, Wooyeol Baek, Sang Ho Yoon, Eugenio Culurciello, Sangpil Kim. "Semantically complex audio to video generation with audio source separation". *Engineering Applications of Artificial Intelligence*.
+- Gyeongrok Oh, Sungjune Kim, Heon Gu, Sang Ho Yoon, Jinkyu Kim, Sangpil Kim. "FPANet: Frequency-based video demoireing using frame-level post alignment". *Neural Networks*.
+- Jaehwan Jeong, Sumin In, Sieun Kim, Hannie Shin, Jongheon Jeong, Sang Ho Yoon, Jaewook Chung, Sangpil Kim. "FaceShield: Defending Facial Image against Deepfake Threats". *ICCV2025*.
+- Seunggwan Lee, Hwanhee Jung, ByoungSoo Koh, Qixing Huang, Sang Ho Yoon, Sangpil Kim. "PASTA: Part-Aware Sketch-to-3D Shape Generation with Text-Aligned Prior". *ICCV2025*.
 
-[랩 Publications](https://hcitech.org/publications)와 [기관의 CHI2025 수상 소식](https://meta.kaist.ac.kr/board/post/2361/)에 연결된 두 편을 선정했다. 각 프로젝트 페이지의 공개 연구 설명·서지·소속만 대조했으며 ACM 출판사 본문은 이번 웹 도구에서403으로 접근하지 못했다.
+**2024**
 
-| 선정 항목 | 게시 서지·귀속·연구 내용 |
-|---|---|
-| [T2IRay: Design of Thumb-to-Index based Indirect Pointing for Continuous and Robust AR/VR Input](https://t2iray.hcitech.org/) | DOI 10.1145/3706598.3713442, CHI2025. 프로젝트 BibTeX의2025-04는 서지 월이며 정확한 출판사 발행일은 미검증. Jina Kim·Sang Ho Yoon은 KAIST, Yang Zhang은 UCLA로 프로젝트에 게시. 엄지-검지의 국소좌표를 이용하는 AR/VR 연속 간접 포인팅 연구 |
-| [ChoreoCraft: In-situ Crafting of Choreography in Virtual Reality through Creativity Support Tool](https://choreocraft.hcitech.org/) | DOI 10.1145/3706598.3714220, CHI2025, 프로젝트 BibTeX2025-04. KAIST 게시소속과 윤상호 교신 표시 확인. 안무 기록·회고, 음악/동작 유사성 추천, 운동학 분석을 결합하는 VR 창작지원 시스템 |
+- Kyungjin Seo\*, Junghoon Seo\*, Hanseok Jeong, Sangpil Kim, Sang Ho Yoon. "Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation". *NeurIPS 2024*.
+- Nicha Vanichvoranun\*, Hojeong Lee\*, Seoyeon Kim, Sang Ho Yoon. "EStatiG: Wearable Haptic Feedback with Multi-Phalanx Electrostatic Brake for Enhanced Object Perception in VR". *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT, UbiComp/ISWC 2024)*.
+- Hyung Il Yi, Hojeong Lee, Sang Ho Yoon. "ThermicVib: Enabling Dynamic Thermal Sensation with Multimodal Haptic Glove for Thermal-Responsive Interaction". *IEEE ISMAR 2024*.
+- Seunghyun Lee, Seung Hyun Lee, Sieun Kim, Wonmin Byeon, Gyeongrok Oh, Sumin In, Hyeongcheol Park, Sang Ho Yoon, Sung-hee Hong, Jinkyu Kim\*, Sangpil Kim\*. "Audio-Guided Implicit Neural Representation for Local Image Stylization". *Computational Visual Media*.
+- Youjin Sung, Rachel Kim, Kun Woo Song, Yitian Shao, Sang Ho Yoon. "HapticPilot: Authoring In-situ Hand Posture-Adaptive Vibrotactile Feedback for Virtual Reality". *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT, UbiComp/ISWC 2024)*.
+- Kyungeun Jung, Sangpil Kim, Seungjae Oh\*, Sang Ho Yoon\*. "HapMotion: Motion-to-Tactile Framework with Wearable Haptic Devices for Immersive VR Performance Experience". *Springer Virtual Reality*.
+- Seunghyun Lee, Hyung-gun Chi, Wonmin Byeon, Gyeongrok Oh, Sang Ho Yoon, Hyunje Park, Wonjun Cho, Jinkyu Kim, Sangpil Kim. "Robust Sound-Guided Image Manipulation". *Neural Networks*.
+- Wonseok Roh, Hwanhee Jung, Giljoo Nam, Jinseop Yeom, Hyunje Park, Sang Ho Yoon, Sangpil Kim. "Edge-Aware 3D Instance Segmentation Network with Intelligent Semantic Prior". *IEEE CVPR 2024*.
 
-ChoreoCraft는 [프로젝트 페이지](https://choreocraft.hcitech.org/)에서 Hyunyoung Han→Kyungeun Jung→Sang Ho Yoon 순서이며 첫 두 사람의 동등 기여를 표시한다. [랩 목록](https://hcitech.org/publications)과 [기관 소식](https://meta.kaist.ac.kr/board/post/2361/)은 Kyungeun Jung→Hyunyoung Han→Sang Ho Yoon 순서로 적는다. 출처별 순서를 보존하고 하나를 출판사 확정 순서로 선택하지 않았다.
+**2023**
 
-두 연구는 랩의 명시적 목록과 기관 소식에 연결된 선정 자료다. 출판사 저자소속 블록·정확한 발행일·전문·성능의 독립 재현은 미검증이다. 프로젝트의 소속 표기를 현재 재직 검증으로 확대하지 않는다. 전체 최근5년 논문·프리프린트·투고중·채택예정 자료는 이번에 수집하지 않았고 사이트의 전체 카운터도 검증된 성과총수로 채택하지 않았다.
+- Jina Kim, Min-Yung Kim, Woosuk Lee, Sang Ho Yoon. "VibAware: Context-Aware Tap and Swipe Gestures Using Bio-Acoustic Sensing". *ACM SUI 2023*.
+- Minjae Jo, DongKyu Kwak, Sang Ho Yoon. "WriMouCon: Wrist-Mounted Haptic Controller for Rendering Physical Properties in Virtual Reality". *IEEE WHC 2023*.
+- Kyungeun Jung, Sang Ho Yoon. "Mo2Hap: Rendering VR Performance Motion Flow to Upper-body Vibrotactile Haptic Feedback". *ACM UIST Demo 2023*.
 
-## 수상 소식과 PI의 연구지원 게시 주장
+**2022**
 
-[기관 수상 소식](https://meta.kaist.ac.kr/board/post/2361/)은 Created2025-05-01·Modified2025-11-25로 표시하고 위 두 논문의 CHI2025 Honorable Mention 수상을 알린다. 기사에 적힌 학회 개최기간은2025-04-26–2025-05-01이다. 생성일·수정일·학회기간·실제 시상일은 서로 다른 필드이며 정확한 시상일과 학회 수상원부는 이번에 대조하지 않았다. 수상 소식을 논문 외의 추가 연구논문으로 세지 않는다.
+- Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, Jihyun Bae, Chanyoung Kim, Won Jeong Ryoo, Sang Ho Yoon, Jinkyu Kim, Sangpil Kim. "Sound-Guided Semantic Video Generation". *Springer ECCV 2022*.
+- Hyuckjin Jang, Taehei Kim, Seoyoung Oh, Jeongmi Lee, Sunghee Lee, Sang Ho Yoon. "Sense of Embodiment Inducement for People With Reduced Lower-body Mobility and Sensations With Partial-visuomotor Stimulation". *ACM SIGGRAPH Emerging Technologies 2022*.
+- Seunghyun Lee, Wonseok Roh, Wonmin Byeon, Sang Ho Yoon, Chanyoung Kim, Jinkyu Kim, Sangpil Kim. "Sound-Guided Semantic Image Manipulation". *IEEE CVPR 2022*.
 
-[PI 홈페이지 Recent News](https://sanghoy.com/)는2026-08-17에 Google로부터 unrestricted gift를 받았다고 게시한다. 게시 연구주제는 ‘Precise Low Power Interactions On-the-Go’다. 이는 **PI가 게시한 지원수령 주장1관계**이며 과제원부·계약·기부 측 발표·실제 수령액을 확인한 결과가 아니다. 과제ID·수행기간·금액·통화는 미확인이고 국책과제 수주나 랩의 검증된 수입으로 합산하지 않는다. 이 게시물은 선정 소식과 연구지원 관계에 중복 연결되므로 독립성과 두 건으로 합산하지 않는다.
+## 연구 과제
 
-## 항목별 확인 범위
+랩 과제 페이지의 연구실 과제(진행 10건, 완료 8건)다.[^projects]
 
-| 항목 | 상태·범위와 잔여 |
-|---|---|
-| 명칭 | 기존2후보의PI·랩명·공식링크 연결 부분 확인. 병합/영구ID승격 미적용 |
-| 소속·명단 관계 | 문화기술 부교수·메타버스 명단 연결. 추가겸무의 별도임용·Entrance Date의 의미·실재직 미검증 |
-| PI | 이름·게시직함·업무연락·교수공간 부분 확인. 원부/실재직 미검증 |
-| 공개 구성원 | 랩 current28/Meta Members7의 구역별 게시명단. 이름·역할대응·명단유효일·실재직 미검증 |
-| 연구 주제 | HCI·센싱·햅틱·XR 소개/선정2연구 부분 확인 |
-| 논문·학술발표 | 선정2서지. ChoreoCraft 저자순서차이·정확발행일·출판사소속·전체성과 잔여 |
-| 과제·연구지원 | PI의Google gift게시1관계만. 원부ID·기간·금액·기부측확인 미검증 |
-| 연구 이력 | 선정연구/기관수상소식만. 변화전수·성능재현 미검증 |
-| 뉴스·활동 | 기관수상소식1·PI gift게시1. 실제사건일·전체소식 미수집 |
-| 특허·사업화 | 미수집. 자료부재·사업화부재를 뜻하지 않음 |
+- Context-Aware Multimodal Physical AI Framework for Coexistence-Oriented Human–Robot Interaction (공존형 인간-로봇 상호작용을 위한 사용자 맥락 인지 멀티모달 피지컬 AI 프레임워크 연구) (상태 진행; 지원 National Research Foundation (NRF); program Early-Career Research Award (우수신진); 기간 2026.03 - 2031.02; 역할 Principal Investigator (PI))
+- Generative Haptics and Fine Response Inference for Flexible Tactile Interfaces (유연소재 촉각 인터페이스에 대한 지능적 촉각 생성과 미세 반응 추론 기술) (상태 진행; 지원 IITP; program Development of Hyper-sensory Cognitive Spatial Computing Technology (초감각인지공간컴퓨팅 기술개발); 기간 2025.04 - 2028.12; 역할 Principal Investigator (PI))
+- Metaverse & AI-based Rehabilitation Technology with Cognitive and Physiological Modeling (메타버스 및 인공지능을 활용한 인지·생리학 모델링 기반 재활 기술 연구) (상태 진행; 지원 IITP; program Global Research Support Program in the Digital Field (디지털분야글로벌연구지원); 기간 2024.04. - 2026.12; 역할 Principal Investigator (PI))
+- Egocentric Data Sensing and Spatial Immersive Experience Technology (화자 중심 데이터 센싱 및 공간 실감 체험 기술 개발) (상태 진행; 지원 IITP; program Development of Core Technologies for Immersive Content (실감콘텐츠핵심 원천기술개발); 기간 2026.04. - 2028.12; 역할 Co-Investigator (Co-I))
+- Multi-modal Content Creation Technology Based on Intelligent Spatial Sensory Restoration and Expansion (공간 감각의 지능형 복원·확장 기반 멀티모달 체험 콘텐츠 창작 기술 개발) (상태 진행; 지원 Korea Creative Content Agency (KOCCA); program Technology Development for Cultural Content IP Planning and Creation (문화콘텐츠 IP 기획·창작 기술개발); 기간 2026.04 - 2028.12; 역할 Co-Investigator (Co-I))
+- High-precision hand-crafting and service technologies based on physical AI (피지컬 AI 기반 고정밀 손기술 창작 및 서비스 기술 개발) (상태 진행; 지원 Korea Creative Content Agency (KOCCA); program Technology Development for Cultural Content IP Planning and Creation (문화콘텐츠 IP 기획·창작 기술개발); 기간 2026.04 - 2028.12; 역할 Co-Investigator (Co-I))
+- An AI-Powered Physical Interface through Multimodal Biophysiological Sensing Integration (생리신호 기반 멀티모달 센싱 융합을 통한 AI 물리 인터페이스 개발) (상태 진행; 지원 TIPA (중소기업기술정보진흥원); program Industry-Academia-Research Collaborative R&D (산학연 Collabo R&D); 기간 2026.04 - 2028.03; 역할 Research Contract)
+- SpaceTop: Spatial Computing HCI Technology for Everywhere XR Productivity Workstation (장소 제약 없이 XR 생산성 공간 제공을 위한 공간 컴퓨팅 HCI 기술) (상태 진행; 지원 IITP; program Information Technology Research Center (ITRC); 기간 2026.01. - 2029.12; 역할 Co-Investigator (Co-I))
+- Graduate School of Metaverse Convergence (메타버스 융합대학원) (상태 진행; 지원 IITP; program Convergence Research Program (융합연구사업단); 기간 2022.07. - 2027.12; 역할 Co-Investigator (Co-I))
+- Open XR platform for high immersive collaboration (Untact 실감형 OpenXR 플랫폼 기술 개발) (상태 진행; 지원 National Research Council of Science & Technology (NST); program Convergence Research Program (융합연구사업단); 기간 2021.11. - 2027.11; 역할 Co-Investigator (Co-I))
+- A wearable multimodal sensing framework for adaptive interaction in extended reality (확장현실 적응형 인터랙션 제공을 위한 웨어러블 멀티모달 센서 프레임워크 연구) (상태 완료; 지원 National Research Foundation (NRF); program Early-Career Research Award (우수신진); 기간 2023.03 - 2026.02; 역할 Principal Investigator (PI))
+- Motion-Haptic-Cognition Research Laboratory for Avatar-Mediated Interaction in Metaverse (메타버스를 위한 동작-촉감 통합적 사용자 인터랙션 및 아바타 행동 기술 개발) (상태 완료; 지원 National Research Foundation (NRF); program Basic Research Lab (기초연구실); 기간 2022.06 - 2025.02; 역할 Co-Investigator (Co-I))
+- Development of Real-time Virtual Convergence-based Performing Arts Education Platform Technology (실시간 실가상 융합 기반 공연예술 교육 플랫폼 기술 개발) (상태 완료; 지원 Korea Creative Content Agency (KOCCA); program Technology Development for Immersive Services in Arts and Culture (문화예술 실감서비스 기술개발); 기간 2023.04 - 2025.12; 역할 Co-Investigator (Co-I))
+- Development of an in-camera based interactive digital VFX content production pipeline technology (인카메라 기반 인터랙티브 디지털 VFX 콘텐츠 제작 파이프라인 기술개발) (상태 완료; 지원 Korea Creative Content Agency (KOCCA); program Technology Development Program for the Cultural Industry (문화산업 선도형 기술개발); 기간 2023.04 - 2025.12; 역할 Co-Investigator (Co-I))
+- 4D Content Generation and Copyright Protection with Artificial Intelligence (인공지능을 활용한 4D 실감 콘텐츠 창작물 생성 및 저작권 핵심 기술 연구개발) (상태 완료; 지원 Korea Creative Content Agency (KOCCA); program Development of Core Technologies for Next-Generation Immersive Content Copyright (차세대 실감 콘텐츠 저작권 핵심기술 개발); 기간 2022.04 - 2023.12; 역할 Co-Investigator (Co-I))
+- Enabling Clear Interaction with Wearable Active Sensing Techniques for Extended Reality (확장현실에서 명확한 인터랙션 제공을 위한 착용형 능동감지 기법 개발) (상태 완료; 지원 National Research Foundation (NRF); program Basic Research (기본연구); 기간 2022.06 - 2023.05; 역할 Principal Investigator (PI))
+- Research and Development of Immersive Haptic Interaction Generation Technology for Cultural and Artistic Performances (문화예술공연을 위한 실감 햅틱 인터랙션 생성 기술 연구 개발) (상태 완료; 지원 KAIST; program Post-AI 자체사업; 기간 2022.09 - 2022.11)
+- Multi-modal Sensing and Haptic Interface for Context-aware Interaction (상황 인지 상호 작용을 위한 다중모달 센싱 및 협력 인터페이스) (상태 완료; 지원 KAIST; program Start-up Research Grant; 기간 2021.09 - 2024.12; 역할 Principal Investigator (PI))
 
-자료 열람일은2026-10-16, 첫 성과 이력창은2021-10-13–2026-10-13이다. 2021-09 경력은 신원 맥락으로 보존한다. 수집·원문 열람·독립 검토·자료등록은 별개 상태이며, 전체성과·과제·특허·실재직 및 기관 전수는 미완료다.
+## 연락과 위치
 
-공식 연결·자료구조·공개 경계의 고정 범위 독립 검토를 통과했으며 실재직·성과·임용과 접근의 미검증은 유지한다.
+- 교수 이메일: sangho@kaist.ac.kr[^contact]
+- 교수 전화: 042-350-2915[^ct]
+- 교수실: KAIST 문화기술대학원 N5동 2327호[^ct]
+- 연구실: KAIST N5동 2337호, 우편물은 2346호 (대전 유성구 대학로 291)[^home][^contact]
+
+[^home]: 랩 첫 화면 <https://hcitech.org/> (2026-10-19 열람)
+[^people]: 랩 구성원 페이지(Team) <https://hcitech.org/team> (2026-10-19 열람)
+[^papers]: 랩 논문 목록 <https://hcitech.org/publications> (2026-10-19 열람)
+[^projects]: 랩 과제 페이지 <https://hcitech.org/projects> (2026-10-19 열람)
+[^contact]: 랩 연락처 페이지 <https://hcitech.org/contact> (2026-10-19 열람)
+[^ct]: KAIST 문화기술대학원 교수 소개(윤상호) <https://ct.kaist.ac.kr/boards/view/faculty_board/119> (2026-10-19 열람)
+[^p1]: Y. Sung, K. John, S. H. Yoon, H. Seifi, Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems, 1-24 (온라인 2025-04-25). <https://doi.org/10.1145/3706598.3713609> 초록 기준(Semantic Scholar 등록 초록).
+[^p2]: K.-W. Song, Y. Kim, S. H. Yoon, Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems, 1-17 (온라인 2026-04-13). <https://doi.org/10.1145/3772318.3790557> 초록 기준(Semantic Scholar 등록 초록).
+[^p3]: D. Kwak, K. Seo, R. Kim, S. H. Yoon, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 9, 1-24 (온라인 2025-12-02). <https://doi.org/10.1145/3770682> 초록 기준.
+[^p4]: N. Vanichvoranun, H. Lee, S. Kim, S. H. Yoon, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 8, 1-29 (온라인 2024-09-09). <https://doi.org/10.1145/3678567> 초록 기준.
+[^p5]: C. Park, Y. Lee, S. H. Yoon, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 9, 1-31 (온라인 2025-06-18). <https://doi.org/10.1145/3731413> 초록 기준.
+[^p6]: D. Lee, Q. Sun, S. H. Yoon, Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems, 1-25 (온라인 2026-04-13). <https://doi.org/10.1145/3772318.3790823> 초록 기준(Semantic Scholar 등록 초록).
+[^p7]: Y. Sung, H. Jeong, X. Xu, S. H. Yoon, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 10, 1-23 (온라인 2026-06-15). <https://doi.org/10.1145/3810235> 초록 기준.
+[^p8]: H. Han, K. Jung, S. H. Yoon, Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems, 1-21 (온라인 2025-04-25). <https://doi.org/10.1145/3706598.3714220> 초록 기준(Semantic Scholar 등록 초록).
