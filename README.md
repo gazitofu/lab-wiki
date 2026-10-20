@@ -9,7 +9,26 @@ KAIST 연구실을 한 곳에서 찾아보는 위키다. 연구실마다 한 문
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (79곳)
+## KAIST 연구실 (84곳)
+
+### 신소재공학과 (14)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [Atomic-Scale Defects Engineering Lab](wiki/kaist/atomic-defects.md) | 정성윤 교수 | 결정 속 원자 하나하나의 배열과 흐트러짐(결함)을 전자현미경으로 직접 들여다보고, 그 결함을 조절해 더 오래가는 수전해 촉매와 전지·커패시터 소재를 설계하는 연구실이다. |
+| [ECSM 연구실 (Energy Conversion & Storage Materials Lab.)](wiki/kaist/ecsm.md) | 조은애 교수 | 수소로 전기를 만드는 연료전지, 전기로 수소를 만드는 수전해 장치, 전기를 저장하는 배터리에 들어가는 핵심 소재를 만드는 연구실이다. |
+| [Funnano Lab.](wiki/kaist/funnano.md) | 정연식 교수 | 10 nm(나노미터, 1 nm는 10억분의 1 m) 이하의 아주 작은 구조를 넓은 면적에 고르게 만드는 나노 제작 기술을 개발하고, 그 구조로 질병을 진단하는 센서, 빛을 내는 양자점 소자, 수소를 만드는 촉매 같은 에너지 소자를 만든다. |
+| [광학 소재 및 코팅 연구실 (Laboratory of Optical Materials & Coating, LOMC)](wiki/kaist/sol-gel.md) | 배병수 교수 | 졸-겔 공정으로 유기물과 무기물의 장점을 함께 지닌 실록산 하이브리드 소재(하이브리머)를 만들어, 디스플레이와 LED를 보호하고 빛을 더 잘 내게 하는 봉지재, 양자점 색변환 소재, 접어도 긁힘에 강한 보호 코팅, 늘어나는 기판과 생체 센서로 쓰는 연구실이다. |
+| [나노·2차원 소재 연구실 (Nano and 2D Materials Laboratory, N2ML)](wiki/kaist/nano-2d-materials.md) | 강기범 교수 | 원자 몇 개 두께의 아주 얇은 2차원 반도체 소재를 웨이퍼 크기로 고르게 키우고, 원하는 자리에 정확히 결정을 만드는 공정을 개발해 실리콘 다음 세대의 반도체 칩을 만들려는 연구실이다. |
+| [나노스핀트로닉스 연구실 (Nano Spintronics Laboratory, NSL)](wiki/kaist/nanospin.md) | 박병국 교수 | 전자의 전하뿐 아니라 스핀(전자가 가진 자기적 성질)을 이용해, 전원이 꺼져도 데이터가 남고 전력을 적게 쓰는 메모리와 논리 소자를 만드는 연구실이다. |
+| [미래반도체기술 연구실 (Future Semiconductor Technology Laboratory, FuST Lab)](wiki/kaist/semi.md) | 김경민 교수 | 전압을 걸면 저항이 바뀌고 그 상태를 기억하는 "멤리스터"라는 새로운 반도체 소자로, 뇌처럼 계산하는 AI 반도체와 무작위성을 이용하는 보안 칩, 확률 컴퓨터를 만드는 연구실이다. |
+| [생체모방 연성 소재 연구실 (Laboratory of Biomimetic Soft Materials, Pal Research Group)](wiki/kaist/onematerials.md) | Subhajit Pal 교수 | 콜라겐이나 거미줄 같은 구조 단백질을 본떠, 단백질처럼 정밀하면서도 합성 고분자처럼 대량으로 만들 수 있는 새로운 연성 소재를 만드는 연구실이다. |
+| [에너지 소재 연구실 (Energy Materials Lab, EML)](wiki/kaist/energy-materials.md) | 신병하 교수 | 햇빛을 전기로 바꾸는 차세대 태양전지와 빛을 내는 반도체 소재를 연구한다. |
+| [에너지·지속가능성 연구실 (Laboratory for Energy and Sustainability, LE&S)](wiki/kaist/les.md) | 오지훈 교수 | 전기를 써서 이산화탄소, 폐수 속 질산염, 바이오디젤 부산물 같은 버려지는 물질을 쓸모 있는 화학물질로 바꾸는 연구실이다. |
+| [연성 나노소재 연구실 (Soft Nanomaterials Laboratory, SNML)](wiki/kaist/snml.md) | 김상욱 교수 | 고분자나 그래핀 같은 부드러운 나노 소재가 스스로 정해진 모양으로 모이게(자기조립) 하는 방법을 연구해, 반도체와 사물인터넷 부품용 나노 무늬, 복제할 수 없는 보안 표식, 사람 근육처럼 움직이는 섬유, 배터리와 수소 생산 같은 에너지 저장·변환에 쓰는 단일 원자 촉매를 만드는 연구실이다. |
+| [이상호 연구 그룹 (Laboratory of Emerging Electronics, LEE Research Group)](wiki/kaist/leegroup.md) | 이상호 교수 (신소재공학과·반도체공학대학원) | 웨이퍼 없이 고품질 단결정 전자 부품을 위로 쌓아 올리는 모놀리식 3차원 집적을 목표로, 얇은 단결정 막을 기판에서 떼어 내 옮겨 쌓는 기술, 2차원 반도체 위에 산화물 같은 3차원 소재를 이어 붙이는 기술, 블록 공중합체 자기조립으로 나노 배선을 만드는 기술을 연구하는 연구실이다. |
+| [인간증강 나노소자 연구실 (Human Augmentation Nano Device Lab, HAND)](wiki/kaist/hand.md) | 이건재 교수 | 사람 몸에 붙이거나 심을 수 있는 부드러운 전자소자로 사람의 능력을 넓히는 "인간 증강" 기술을 연구한다. |
+| [차세대 광전나노재료 연구실 (Next-Generation Optoelectronic Nanomaterials Laboratory, NGON Lab)](wiki/kaist/ngonlab.md) | 조힘찬 교수 | 용액으로 만드는 나노미터 크기의 반도체 결정(양자점, 페로브스카이트 나노결정)으로 더 선명한 디스플레이와 새로운 빛 소자를 만드는 연구실이다. |
 
 ### 물리학과 (13)
 
@@ -47,24 +66,7 @@ KAIST 연구실을 한 곳에서 찾아보는 위키다. 연구실마다 한 문
 | [집적 나노포토닉스 연구실 (Integrated Nanophotonics Lab)](wiki/kaist/integrated-nanophotonics.md) | 유경식 교수 | 빛으로 계산하고 통신하고 감지하는 아주 작은 광회로를 반도체 칩 위에 만드는 연구실이다. |
 | [해킹 연구실 (Hacking Lab)](wiki/kaist/hacking-lab.md) | 윤인수 교수 | 소프트웨어와 시스템의 보안 약점을 해커의 눈으로 찾아내고, 이를 막는 기술을 만드는 연구실이다. |
 
-### 신소재공학과 (12)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [Atomic-Scale Defects Engineering Lab](wiki/kaist/atomic-defects.md) | 정성윤 교수 | 결정 속 원자 하나하나의 배열과 흐트러짐(결함)을 전자현미경으로 직접 들여다보고, 그 결함을 조절해 더 오래가는 수전해 촉매와 전지·커패시터 소재를 설계하는 연구실이다. |
-| [ECSM 연구실 (Energy Conversion & Storage Materials Lab.)](wiki/kaist/ecsm.md) | 조은애 교수 | 수소로 전기를 만드는 연료전지, 전기로 수소를 만드는 수전해 장치, 전기를 저장하는 배터리에 들어가는 핵심 소재를 만드는 연구실이다. |
-| [Funnano Lab.](wiki/kaist/funnano.md) | 정연식 교수 | 10 nm(나노미터, 1 nm는 10억분의 1 m) 이하의 아주 작은 구조를 넓은 면적에 고르게 만드는 나노 제작 기술을 개발하고, 그 구조로 질병을 진단하는 센서, 빛을 내는 양자점 소자, 수소를 만드는 촉매 같은 에너지 소자를 만든다. |
-| [나노·2차원 소재 연구실 (Nano and 2D Materials Laboratory, N2ML)](wiki/kaist/nano-2d-materials.md) | 강기범 교수 | 원자 몇 개 두께의 아주 얇은 2차원 반도체 소재를 웨이퍼 크기로 고르게 키우고, 원하는 자리에 정확히 결정을 만드는 공정을 개발해 실리콘 다음 세대의 반도체 칩을 만들려는 연구실이다. |
-| [나노스핀트로닉스 연구실 (Nano Spintronics Laboratory, NSL)](wiki/kaist/nanospin.md) | 박병국 교수 | 전자의 전하뿐 아니라 스핀(전자가 가진 자기적 성질)을 이용해, 전원이 꺼져도 데이터가 남고 전력을 적게 쓰는 메모리와 논리 소자를 만드는 연구실이다. |
-| [미래반도체기술 연구실 (Future Semiconductor Technology Laboratory, FuST Lab)](wiki/kaist/semi.md) | 김경민 교수 | 전압을 걸면 저항이 바뀌고 그 상태를 기억하는 "멤리스터"라는 새로운 반도체 소자로, 뇌처럼 계산하는 AI 반도체와 무작위성을 이용하는 보안 칩, 확률 컴퓨터를 만드는 연구실이다. |
-| [생체모방 연성 소재 연구실 (Laboratory of Biomimetic Soft Materials, Pal Research Group)](wiki/kaist/onematerials.md) | Subhajit Pal 교수 | 콜라겐이나 거미줄 같은 구조 단백질을 본떠, 단백질처럼 정밀하면서도 합성 고분자처럼 대량으로 만들 수 있는 새로운 연성 소재를 만드는 연구실이다. |
-| [에너지 소재 연구실 (Energy Materials Lab, EML)](wiki/kaist/energy-materials.md) | 신병하 교수 | 햇빛을 전기로 바꾸는 차세대 태양전지와 빛을 내는 반도체 소재를 연구한다. |
-| [에너지·지속가능성 연구실 (Laboratory for Energy and Sustainability, LE&S)](wiki/kaist/les.md) | 오지훈 교수 | 전기를 써서 이산화탄소, 폐수 속 질산염, 바이오디젤 부산물 같은 버려지는 물질을 쓸모 있는 화학물질로 바꾸는 연구실이다. |
-| [이상호 연구 그룹 (Laboratory of Emerging Electronics, LEE Research Group)](wiki/kaist/leegroup.md) | 이상호 교수 (신소재공학과·반도체공학대학원) | 웨이퍼 없이 고품질 단결정 전자 부품을 위로 쌓아 올리는 모놀리식 3차원 집적을 목표로, 얇은 단결정 막을 기판에서 떼어 내 옮겨 쌓는 기술, 2차원 반도체 위에 산화물 같은 3차원 소재를 이어 붙이는 기술, 블록 공중합체 자기조립으로 나노 배선을 만드는 기술을 연구하는 연구실이다. |
-| [인간증강 나노소자 연구실 (Human Augmentation Nano Device Lab, HAND)](wiki/kaist/hand.md) | 이건재 교수 | 사람 몸에 붙이거나 심을 수 있는 부드러운 전자소자로 사람의 능력을 넓히는 "인간 증강" 기술을 연구한다. |
-| [차세대 광전나노재료 연구실 (Next-Generation Optoelectronic Nanomaterials Laboratory, NGON Lab)](wiki/kaist/ngonlab.md) | 조힘찬 교수 | 용액으로 만드는 나노미터 크기의 반도체 결정(양자점, 페로브스카이트 나노결정)으로 더 선명한 디스플레이와 새로운 빛 소자를 만드는 연구실이다. |
-
-### 기계공학과 (11)
+### 기계공학과 (12)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -73,6 +75,7 @@ KAIST 연구실을 한 곳에서 찾아보는 위키다. 연구실마다 한 문
 | [모바일 로보틱스·지능 연구실 (Mobile Robotics & Intelligence Laboratory, MORIN Lab)](wiki/kaist/morin.md) | 김진환 교수 | 사람이 타지 않는 배와 잠수정, 로봇이 복잡하고 불확실한 환경에서 스스로 길을 찾고 부딪히지 않게 움직이도록 만드는 연구실이다. |
 | [바이오 미세 유체 연구실 (Biomicrofluidics Laboratory, BMFL)](wiki/kaist/bmfl.md) | 전성윤 교수 | 작은 칩 안의 가느다란 통로에 사람 세포를 키워 혈관·근육·종양 같은 몸속 조직을 흉내 내고, 그 위에서 질병을 재현하고 약을 시험하는 연구실이다. |
 | [수송동력연구실 (Future Transport Power Laboratory, FTPL)](wiki/kaist/ftpl.md) | 배충식 교수, 황준식 교수 | 자동차·배·항공기를 움직이는 엔진(수송 동력 장치)을 더 깨끗하고 효율적으로 만드는 연구실이다. |
+| [연성 생체역학 연구실 (The SHIN Lab)](wiki/kaist/softbm.md) | 신현정 교수 | 우리 몸의 세포가 화학 신호뿐 아니라 당기는 힘, 흐름, 전기 같은 물리 자극에도 반응한다는 점에 주목해, 몸속 자극을 흉내 내는 세포 배양 장치와 3차원 질병 모델을 만들고 세포의 모양·움직임·힘을 기계공학 방법으로 재서 뇌 질환, 암, 흉터의 원리를 밝히는 연구실이다. |
 | [인간–기계 상호작용 연구실 (Human-Machine iNteraction Lab, HUMAN Lab)](wiki/kaist/human-lab.md) | 박용화 교수 | 기계가 사람처럼 보고(3차원 시각) 듣고(음향) 느끼게(진동) 하는 센서와 인공지능을 연구한다. |
 | [인간–로봇 상호작용 연구실 (Human-Robot Interaction Lab, HRI Lab)](wiki/kaist/hri.md) | 경기욱 교수 | 사람과 기계가 서로의 의도와 촉감을 자연스럽게 주고받게 하는 연구실이다. |
 | [저스트 두 잇 랩 (Just Do it Lab, JDL)](wiki/kaist/jdl.md) | 윤용진 교수 | 3D 프린팅으로 물건을 더 튼튼하고 정밀하게 만드는 공정과 소재를 연구하고, 인공지능으로 제조 공정을 스스로 고치게 하는 스마트 제조를 연구하는 연구실이다. |
@@ -80,22 +83,24 @@ KAIST 연구실을 한 곳에서 찾아보는 위키다. 연구실마다 한 문
 | [첨단 열 및 에너지 전달 연구실 (Advanced Thermal and Energy Transport Laboratory, ATETL)](wiki/kaist/atetl.md) | 강준상 교수 | 고체 속에서 열이 어떻게 흐르는지 연구해 반도체 칩의 열을 빼내고, 버려지는 열로 전기를 만들고, 양자컴퓨터를 극저온으로 식히는 기술을 만드는 연구실이다. |
 | [혁신 에너지 시스템 공학 연구실 (IESEL)](wiki/kaist/iesel.md) | 장대준 교수 | 액화수소를 대륙 사이로 실어 나르는 공급망, 남는 전기를 열로 저장하는 대형 저장 장치, 수소로 움직이는 배와 도심 항공기처럼 기후 위기 대응에 필요한 큰 에너지 시스템을 설계하는 연구실이다. |
 
-### 문화기술대학원 (5)
+### 문화기술대학원 (6)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
 | [HCI Tech Lab (Human-Centered Interactive Technologies Laboratory)](wiki/kaist/hci-tech.md) | 윤상호 교수 | 사람이 가상현실과 컴퓨터를 손과 몸으로 더 자연스럽게 다루도록, 손끝에 촉감을 주는 장갑과 장치, 몸의 움직임을 읽는 센서, 진동 패턴을 글로 만들어 주는 인공지능 같은 상호작용 기술을 만든다. |
 | [디지털 헤리티지 연구실 (Digital Heritage Lab)](wiki/kaist/digital-heritage.md) | 안재홍 초빙교수 | 문화유산을 3차원 스캔과 사진 기술로 정밀하게 기록하고, 메타버스·가상현실 같은 디지털 공간에서 사람들이 유산을 체험하고 이해하도록 돕는 방법을 연구하는 연구실이다. |
 | [미래공간 연구실 (Future Space Lab, FSL)](wiki/kaist/future-space.md) | 차승현 교수 | 건축과 기술을 엮어 "앞으로의 공간"을 설계하고 연구하는 연구실이다. |
+| [소셜컴퓨팅랩 (KAIST Social Computing Lab)](wiki/kaist/sociology.md) | 이원재 교수 (문화기술대학원·메타버스대학원) | 온라인 게시글, 영상, 청원, 플레이리스트, 그림 같은 대규모 디지털 자료를 자연어 처리·기계학습·연결망 분석으로 읽어, 사람들이 어떤 감정과 관계 속에서 정치·문화·건강 기술에 반응하는지 밝히는 사회학 연구실이다. |
 | [실감 아바타·에이전트 연구실 (Lifelike Avatar & Agent Laboratory, LAVA Lab)](wiki/kaist/lava.md) | 이성희 교수 | 가상현실·메타버스·게임에 나오는 아바타와 가상 캐릭터가 사람처럼 자연스럽게 움직이고 행동하게 만드는 연구실이다. |
 | [음악 및 오디오 컴퓨팅 연구실 (Music and Audio Computing Lab, MACLab)](wiki/kaist/mac.md) | 남주한 교수 | 사람이 음악을 즐기고 연주하고 만드는 방식을 기술로 넓히려는 연구실이다. |
 
-### 전산학부 (4)
+### 전산학부 (5)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
 | [KAIST HCI Lab (HCIL)](wiki/kaist/hcil.md) | 이기혁 교수 | 새로운 컴퓨터에 맞는 새로운 입력 방법을 만드는 연구실이다. |
 | [네트워크 보안 및 프라이버시 연구실 (Network Security and Privacy Research Lab, NetS&P)](wiki/kaist/netsp.md) | 강민석 교수 | 인터넷, 블록체인, 이동통신망처럼 실제로 돌아가는 네트워크 시스템에서 설계와 현실이 어긋나는 틈을 찾아 공격 가능성을 증명하고, 운영자가 실제로 쓸 수 있는 방어책을 만드는 연구실이다. |
+| [컴퓨터 비전 및 머신 러닝 랩 (KAIST Computer Vision and Learning Lab, KCVL)](wiki/kaist/tkkim.md) | 김태균 교수 | 사진이나 깊이 영상에서 사람의 손과 몸, 물체의 3차원 모양과 자세를 알아내고, 확산 모형 같은 생성 인공지능으로 손 동작이나 고해상도 이미지를 새로 만들어 내는 컴퓨터 비전·기계학습 연구실이다. |
 | [컴퓨터구조 및 시스템 연구실 (Computer Architecture and Systems Laboratory, CASys)](wiki/kaist/casys.md) | 허재혁·권영진·박종세 교수 | 컴퓨터의 하드웨어 구조와 운영체제 같은 시스템 소프트웨어를 함께 설계하는 연구실이다. |
 | [프로그래밍 시스템 연구실 (Prosys Lab)](wiki/kaist/prosys.md) | 허기홍 교수 (전산학부·정보보호대학원) | 소프트웨어 속 깊이 숨은 오류와 보안 취약점을 자동으로 찾고 고치는 도구를 만드는 연구실이다. |
 
