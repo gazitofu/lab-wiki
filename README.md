@@ -9,7 +9,7 @@ KAIST 연구실을 한 곳에서 찾아보는 위키다. 연구실마다 한 문
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (66곳)
+## KAIST 연구실 (70곳)
 
 ### 전기및전자공학부 (12)
 
@@ -43,6 +43,21 @@ KAIST 연구실을 한 곳에서 찾아보는 위키다. 연구실마다 한 문
 | [첨단 에너지 변환 저장 연구실 (AECSL, Kang Taek Lee Research Group)](wiki/kaist/aecsl.md) | 이강택 교수 | 수소를 전기로, 전기를 수소로 바꾸는 세라믹 연료전지·수전해 전지와 배터리를 연구하는 연구실이다. |
 | [혁신 에너지 시스템 공학 연구실 (IESEL)](wiki/kaist/iesel.md) | 장대준 교수 | 액화수소를 대륙 사이로 실어 나르는 공급망, 남는 전기를 열로 저장하는 대형 저장 장치, 수소로 움직이는 배와 도심 항공기처럼 기후 위기 대응에 필요한 큰 에너지 시스템을 설계하는 연구실이다. |
 
+### 물리학과 (10)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [CHARM 연구실 (Complex Heterostructures & Advanced Researches on Multiferroics Laboratory)](wiki/kaist/oxide.md) | 양찬호 교수 | 원자 수준의 정밀도로 쌓은 산화물 박막에서 전기 분극, 자성, 전자의 궤도가 서로 얽혀 나타나는 현상을 찾고, 이를 전기장으로 조절하는 방법을 연구하는 물리학 연구실이다. |
+| [나노포토닉 시스템 연구실 (Nanophotonic Systems Laboratory)](wiki/kaist/nanophotonic-systems.md) | 이한석 교수 | 빛을 아주 작은 칩 위의 고리 모양 구조에 오래 가두는 초고품질 광 공진기를 만들어, 분자를 찾아내는 중적외선 레이저와 광원, 정밀 시간·주파수 기준, 양자 기술용 부품을 하나의 칩에 구현하는 연구실이다. |
+| [다차원 원자 영상 연구실 (Multi-Dimensional Atomic Imaging Laboratory, MDAIL)](wiki/kaist/mdail.md) | 양용수 교수 | 전자현미경으로 물질을 여러 각도에서 찍어 원자 하나하나의 3차원 위치를 알아내는 연구실이다. |
+| [마이크로·서브마이크로 광학 연구실 (Micro/Submicro Optics Laboratory, MSMOL)](wiki/kaist/optics.md) | 강명수 교수 | 아주 가늘게 늘린 광섬유처럼 마이크로미터 이하 크기의 구조에 빛을 가둬, 빛과 물질이 강하게 부딪칠 때 생기는 새로운 비선형·양자 광학 현상을 찾는 연구실이다. |
+| [양자 광반도체 연구실 (Quantum and Nanobio Photonics Laboratory, QNP Lab)](wiki/kaist/qnp.md) | 조용훈 교수 | 양자점 같은 아주 작은 반도체 구조와 빛을 결합해 빛과 물질이 강하게 주고받는 현상을 연구하고, 이를 이용해 광자를 하나씩 내는 양자 광원, 아주 작은 LED 화소, 빛의 회절 한계를 넘는 영상 기술을 만드는 연구실이다. |
+| [양자 전자 상관·수송 이론 연구실 (Quantum Electron Correlation & Transport Theory Group, QECT Lab)](wiki/kaist/qet.md) | 심흥선 교수 | 나노미터에서 마이크로미터 크기의 아주 작은 전자 회로에서 나타나는 양자 현상을 수식과 수치 계산으로 연구하는 이론 물리 연구실이다. |
+| [양자광학·양자정보 연구실 (Quantum Optics and Quantum Information Laboratory, QOQI)](wiki/kaist/qoqi.md) | 라영식 교수 | 빛의 양자 상태를 실험실에서 만들고 재는 양자 광학 실험 연구실이다. |
+| [양자물성이론연구실 (Quantum nano Materials Simulation Group, QnMSG)](wiki/kaist/qnmsg.md) | 김용현 교수 | 실제 물질에서 일어나는 현상을 양자역학과 슈퍼컴퓨터로 설명하고 예측하는 이론 물리 연구실이다. |
+| [양자컴퓨팅 연구실 (Jaewook Ahn's Quantum Computing Lab)](wiki/kaist/qcl.md) | 안재욱 교수 | 레이저로 원자를 하나씩 붙잡아 원하는 모양으로 늘어놓고, 원자들 사이의 강한 상호작용을 이용해 양자컴퓨터와 양자 시뮬레이터를 만드는 연구실이다. |
+| [이원희 교수 연구실 (MFBSL)](wiki/kaist/mfbsl.md) | 이원희 교수 | 작은 칩 위에 아주 가는 물길과 센서를 만들어, 세포가 내는 아주 작은 열이나 산성도 변화를 재고 단백질이 순식간에 모양을 바꾸는 순간을 붙잡는 연구실이다. |
+
 ### 신소재공학과 (10)
 
 | 연구실 | 교수 | 한 줄 요약 |
@@ -57,18 +72,6 @@ KAIST 연구실을 한 곳에서 찾아보는 위키다. 연구실마다 한 문
 | [에너지·지속가능성 연구실 (Laboratory for Energy and Sustainability, LE&S)](wiki/kaist/les.md) | 오지훈 교수 | 전기를 써서 이산화탄소, 폐수 속 질산염, 바이오디젤 부산물 같은 버려지는 물질을 쓸모 있는 화학물질로 바꾸는 연구실이다. |
 | [인간증강 나노소자 연구실 (Human Augmentation Nano Device Lab, HAND)](wiki/kaist/hand.md) | 이건재 교수 | 사람 몸에 붙이거나 심을 수 있는 부드러운 전자소자로 사람의 능력을 넓히는 "인간 증강" 기술을 연구한다. |
 | [차세대 광전나노재료 연구실 (Next-Generation Optoelectronic Nanomaterials Laboratory, NGON Lab)](wiki/kaist/ngonlab.md) | 조힘찬 교수 | 용액으로 만드는 나노미터 크기의 반도체 결정(양자점, 페로브스카이트 나노결정)으로 더 선명한 디스플레이와 새로운 빛 소자를 만드는 연구실이다. |
-
-### 물리학과 (7)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [CHARM 연구실 (Complex Heterostructures & Advanced Researches on Multiferroics Laboratory)](wiki/kaist/oxide.md) | 양찬호 교수 | 원자 수준의 정밀도로 쌓은 산화물 박막에서 전기 분극, 자성, 전자의 궤도가 서로 얽혀 나타나는 현상을 찾고, 이를 전기장으로 조절하는 방법을 연구하는 물리학 연구실이다. |
-| [나노포토닉 시스템 연구실 (Nanophotonic Systems Laboratory)](wiki/kaist/nanophotonic-systems.md) | 이한석 교수 | 빛을 아주 작은 칩 위의 고리 모양 구조에 오래 가두는 초고품질 광 공진기를 만들어, 분자를 찾아내는 중적외선 레이저와 광원, 정밀 시간·주파수 기준, 양자 기술용 부품을 하나의 칩에 구현하는 연구실이다. |
-| [다차원 원자 영상 연구실 (Multi-Dimensional Atomic Imaging Laboratory, MDAIL)](wiki/kaist/mdail.md) | 양용수 교수 | 전자현미경으로 물질을 여러 각도에서 찍어 원자 하나하나의 3차원 위치를 알아내는 연구실이다. |
-| [마이크로·서브마이크로 광학 연구실 (Micro/Submicro Optics Laboratory, MSMOL)](wiki/kaist/optics.md) | 강명수 교수 | 아주 가늘게 늘린 광섬유처럼 마이크로미터 이하 크기의 구조에 빛을 가둬, 빛과 물질이 강하게 부딪칠 때 생기는 새로운 비선형·양자 광학 현상을 찾는 연구실이다. |
-| [양자 전자 상관·수송 이론 연구실 (Quantum Electron Correlation & Transport Theory Group, QECT Lab)](wiki/kaist/qet.md) | 심흥선 교수 | 나노미터에서 마이크로미터 크기의 아주 작은 전자 회로에서 나타나는 양자 현상을 수식과 수치 계산으로 연구하는 이론 물리 연구실이다. |
-| [양자컴퓨팅 연구실 (Jaewook Ahn's Quantum Computing Lab)](wiki/kaist/qcl.md) | 안재욱 교수 | 레이저로 원자를 하나씩 붙잡아 원하는 모양으로 늘어놓고, 원자들 사이의 강한 상호작용을 이용해 양자컴퓨터와 양자 시뮬레이터를 만드는 연구실이다. |
-| [이원희 교수 연구실 (MFBSL)](wiki/kaist/mfbsl.md) | 이원희 교수 | 작은 칩 위에 아주 가는 물길과 센서를 만들어, 세포가 내는 아주 작은 열이나 산성도 변화를 재고 단백질이 순식간에 모양을 바꾸는 순간을 붙잡는 연구실이다. |
 
 ### 문화기술대학원 (5)
 
@@ -95,6 +98,13 @@ KAIST 연구실을 한 곳에서 찾아보는 위키다. 연구실마다 한 문
 |---|---|---|
 | [지능형 네트워크 구조 연구실 (Intelligent Network Architecture Lab, INA)](wiki/kaist/ina.md) | 한동수 교수 | 인터넷 서비스와 클라우드, 그리고 인공지능을 돌리는 컴퓨터 시스템을 더 빠르고 싸게 만드는 연구실이다. |
 | [컴퓨터 비전 연구실 (CVLAB, Computer Vision Lab.)](wiki/kaist/cvlab.md) | 김승룡 교수 | 컴퓨터가 사진과 영상을 보고 3차원 공간을 복원하고, 움직임을 이해하고, 새로운 영상을 만들어 내게 하는 인공지능을 연구한다. |
+
+### 뇌인지과학과 (2)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [의사결정 뇌동역학 연구실 (Decision Brain Dynamics Laboratory)](wiki/kaist/raphe.md) | 정재승 교수 | 사람이 어떻게 결정을 내리고 다른 사람과 어울리는지, 그 과정이 정신질환에서 어떻게 달라지는지를 뇌의 움직임으로 이해하려는 뇌과학 연구실이다. |
+| [인지지능 연구실 (Cognitive Intelligence Laboratory, Paik Lab)](wiki/kaist/cogi.md) | 백세범 교수 | 뇌가 학습하기 전부터 어떻게 지능을 갖추는지를 컴퓨터 모델로 밝히고, 그 원리로 더 효율적으로 배우고 잘 잊지 않는 인공지능을 만드는 계산신경과학 연구실이다. |
 
 ### 산업및시스템공학과 (2)
 
@@ -142,12 +152,6 @@ KAIST 연구실을 한 곳에서 찾아보는 위키다. 연구실마다 한 문
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
 | [메타노믹스 연구실 (Metanomics Lab)](wiki/kaist/metanomics.md) | 정승원 교수 | 경매와 입찰, 투표 같은 규칙이 사람들의 행동을 어떻게 바꾸는지 경제학으로 따지고, 더 나은 규칙을 설계하는 연구실이다. |
-
-### 뇌인지과학과 (1)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [인지지능 연구실 (Cognitive Intelligence Laboratory, Paik Lab)](wiki/kaist/cogi.md) | 백세범 교수 | 뇌가 학습하기 전부터 어떻게 지능을 갖추는지를 컴퓨터 모델로 밝히고, 그 원리로 더 효율적으로 배우고 잘 잊지 않는 인공지능을 만드는 계산신경과학 연구실이다. |
 
 ### 문술미래전략대학원 (1)
 
