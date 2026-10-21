@@ -11,7 +11,28 @@ KAIST 연구실을 한 곳에서 찾아보는 위키다. 연구실마다 한 문
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (89곳)
+## KAIST 연구실 (94곳)
+
+### 물리학과 (16)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [CHARM 연구실 (Complex Heterostructures & Advanced Researches on Multiferroics Laboratory)](wiki/kaist/oxide.md) | 양찬호 교수 | 원자 수준의 정밀도로 쌓은 산화물 박막에서 전기 분극, 자성, 전자의 궤도가 서로 얽혀 나타나는 현상을 찾고, 이를 전기장으로 조절하는 방법을 연구하는 물리학 연구실이다. |
+| [QSD 연구실 (QSD Lab)](wiki/kaist/sekwonkim.md) | 김세권 교수 | 자석 속 수많은 스핀이 만드는 소용돌이·스커미온 같은 위상 솔리톤과 스핀파가 어떻게 생기고 움직이는지 이론으로 밝히는 연구실이다. |
+| [나노포토닉 시스템 연구실 (Nanophotonic Systems Laboratory)](wiki/kaist/nanophotonic-systems.md) | 이한석 교수 | 빛을 아주 작은 칩 위의 고리 모양 구조에 오래 가두는 초고품질 광 공진기를 만들어, 분자를 찾아내는 중적외선 레이저와 광원, 정밀 시간·주파수 기준, 양자 기술용 부품을 하나의 칩에 구현하는 연구실이다. |
+| [다차원 원자 영상 연구실 (Multi-Dimensional Atomic Imaging Laboratory, MDAIL)](wiki/kaist/mdail.md) | 양용수 교수 | 전자현미경으로 물질을 여러 각도에서 찍어 원자 하나하나의 3차원 위치를 알아내는 연구실이다. |
+| [마이크로·서브마이크로 광학 연구실 (Micro/Submicro Optics Laboratory, MSMOL)](wiki/kaist/optics.md) | 강명수 교수 | 아주 가늘게 늘린 광섬유처럼 마이크로미터 이하 크기의 구조에 빛을 가둬, 빛과 물질이 강하게 부딪칠 때 생기는 새로운 비선형·양자 광학 현상을 찾는 연구실이다. |
+| [비선형·양자 광자학 연구실 (Nonlinear and Quantum Photonics Lab, NQPL)](wiki/kaist/swol.md) | 서민교 교수 | 광자(빛의 입자)끼리 서로 영향을 주게 만드는 광학적 비선형성을 칩 위의 마이크로 공진기로 키워, 얽힌 광자쌍 같은 양자 광원과 광 변조기·주파수 빗을 만들고, 나노 구조로 빛과 물질의 상호작용을 조절하는 연구실이다. |
+| [양자 광반도체 연구실 (Quantum and Nanobio Photonics Laboratory, QNP Lab)](wiki/kaist/qnp.md) | 조용훈 교수 | 양자점 같은 아주 작은 반도체 구조와 빛을 결합해 빛과 물질이 강하게 주고받는 현상을 연구하고, 이를 이용해 광자를 하나씩 내는 양자 광원, 아주 작은 LED 화소, 빛의 회절 한계를 넘는 영상 기술을 만드는 연구실이다. |
+| [양자 전자 상관·수송 이론 연구실 (Quantum Electron Correlation & Transport Theory Group, QECT Lab)](wiki/kaist/qet.md) | 심흥선 교수 | 나노미터에서 마이크로미터 크기의 아주 작은 전자 회로에서 나타나는 양자 현상을 수식과 수치 계산으로 연구하는 이론 물리 연구실이다. |
+| [양자광학·양자정보 연구실 (Quantum Optics and Quantum Information Laboratory, QOQI)](wiki/kaist/qoqi.md) | 라영식 교수 | 빛의 양자 상태를 실험실에서 만들고 재는 양자 광학 실험 연구실이다. |
+| [양자물성이론연구실 (Quantum nano Materials Simulation Group, QnMSG)](wiki/kaist/qnmsg.md) | 김용현 교수 | 실제 물질에서 일어나는 현상을 양자역학과 슈퍼컴퓨터로 설명하고 예측하는 이론 물리 연구실이다. |
+| [양자컴퓨팅 연구실 (Jaewook Ahn's Quantum Computing Lab)](wiki/kaist/qcl.md) | 안재욱 교수 | 레이저로 원자를 하나씩 붙잡아 원하는 모양으로 늘어놓고, 원자들 사이의 강한 상호작용을 이용해 양자컴퓨터와 양자 시뮬레이터를 만드는 연구실이다. |
+| [위상 양자 물질 이론 그룹 (GY Cho's Group, Topological Quantum Matter)](wiki/kaist/gilyoungcho.md) | 조길영 교수 | 수많은 전자가 서로 강하게 얽혀 만드는 새로운 양자 상태를 수식과 컴퓨터 계산으로 찾는 이론 물리 연구 그룹이다. |
+| [응용 스핀트로닉스 연구실 (Applied Spintronics Lab)](wiki/kaist/kyungjinlee.md) | 이경진 교수 | 전자의 스핀과 궤도 운동이 만드는 새로운 전류와 자기 현상을 이론으로 밝히고, 이를 차세대 메모리와 고주파 소자에 쓰는 방법을 실험 연구진과 함께 찾는 스핀트로닉스 연구실이다. |
+| [이원희 교수 연구실 (MFBSL)](wiki/kaist/mfbsl.md) | 이원희 교수 | 작은 칩 위에 아주 가는 물길과 센서를 만들어, 세포가 내는 아주 작은 열이나 산성도 변화를 재고 단백질이 순식간에 모양을 바꾸는 순간을 붙잡는 연구실이다. |
+| [초고속 스핀 동역학 연구실 (Ultrafast Spin Dynamics Laboratory, USDL)](wiki/kaist/spintronics.md) | 김갑진 교수 | 자석 속 전자의 스핀이 시간에 따라 어떻게 움직이는지(스핀 동역학) 실험으로 관찰하고 해석해, 스핀파(마그논)와 자구벽·스커미온 같은 자성 구조를 다루는 원리를 밝히고 이를 스핀트로닉스 메모리·논리 소자 개발로 잇는 연구실이다. |
+| [초전도 양자 나노전자 연구실 (Superconducting Quantum Nanoelectronics Laboratory, SQNL)](wiki/kaist/sqnl.md) | 김은성 교수 | 밀리켈빈(켈빈의 1000분의 1) 수준의 극저온에서 나타나는 양자 현상을 실험으로 연구하는 연구실로, 지금 대학원생들은 초전도 회로로 만든 양자 비트(초전도 큐비트)를 만들고 측정·제어하는 양자 정보 연구를 하며, 최근 논문에는 2차원 초전도 박막의 양자 상전이와 흑연 위 2차원 헬륨 막의 초유체 연구도 있다. |
 
 ### 신소재공학과 (16)
 
@@ -34,25 +55,24 @@ KAIST 연구실을 한 곳에서 찾아보는 위키다. 연구실마다 한 문
 | [인간증강 나노소자 연구실 (Human Augmentation Nano Device Lab, HAND)](wiki/kaist/hand.md) | 이건재 교수 | 사람 몸에 붙이거나 심을 수 있는 부드러운 전자소자로 사람의 능력을 넓히는 "인간 증강" 기술을 연구한다. |
 | [차세대 광전나노재료 연구실 (Next-Generation Optoelectronic Nanomaterials Laboratory, NGON Lab)](wiki/kaist/ngonlab.md) | 조힘찬 교수 | 용액으로 만드는 나노미터 크기의 반도체 결정(양자점, 페로브스카이트 나노결정)으로 더 선명한 디스플레이와 새로운 빛 소자를 만드는 연구실이다. |
 
-### 물리학과 (15)
+### 기계공학과 (14)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
-| [CHARM 연구실 (Complex Heterostructures & Advanced Researches on Multiferroics Laboratory)](wiki/kaist/oxide.md) | 양찬호 교수 | 원자 수준의 정밀도로 쌓은 산화물 박막에서 전기 분극, 자성, 전자의 궤도가 서로 얽혀 나타나는 현상을 찾고, 이를 전기장으로 조절하는 방법을 연구하는 물리학 연구실이다. |
-| [QSD 연구실 (QSD Lab)](wiki/kaist/sekwonkim.md) | 김세권 교수 | 자석 속 수많은 스핀이 만드는 소용돌이·스커미온 같은 위상 솔리톤과 스핀파가 어떻게 생기고 움직이는지 이론으로 밝히는 연구실이다. |
-| [나노포토닉 시스템 연구실 (Nanophotonic Systems Laboratory)](wiki/kaist/nanophotonic-systems.md) | 이한석 교수 | 빛을 아주 작은 칩 위의 고리 모양 구조에 오래 가두는 초고품질 광 공진기를 만들어, 분자를 찾아내는 중적외선 레이저와 광원, 정밀 시간·주파수 기준, 양자 기술용 부품을 하나의 칩에 구현하는 연구실이다. |
-| [다차원 원자 영상 연구실 (Multi-Dimensional Atomic Imaging Laboratory, MDAIL)](wiki/kaist/mdail.md) | 양용수 교수 | 전자현미경으로 물질을 여러 각도에서 찍어 원자 하나하나의 3차원 위치를 알아내는 연구실이다. |
-| [마이크로·서브마이크로 광학 연구실 (Micro/Submicro Optics Laboratory, MSMOL)](wiki/kaist/optics.md) | 강명수 교수 | 아주 가늘게 늘린 광섬유처럼 마이크로미터 이하 크기의 구조에 빛을 가둬, 빛과 물질이 강하게 부딪칠 때 생기는 새로운 비선형·양자 광학 현상을 찾는 연구실이다. |
-| [양자 광반도체 연구실 (Quantum and Nanobio Photonics Laboratory, QNP Lab)](wiki/kaist/qnp.md) | 조용훈 교수 | 양자점 같은 아주 작은 반도체 구조와 빛을 결합해 빛과 물질이 강하게 주고받는 현상을 연구하고, 이를 이용해 광자를 하나씩 내는 양자 광원, 아주 작은 LED 화소, 빛의 회절 한계를 넘는 영상 기술을 만드는 연구실이다. |
-| [양자 전자 상관·수송 이론 연구실 (Quantum Electron Correlation & Transport Theory Group, QECT Lab)](wiki/kaist/qet.md) | 심흥선 교수 | 나노미터에서 마이크로미터 크기의 아주 작은 전자 회로에서 나타나는 양자 현상을 수식과 수치 계산으로 연구하는 이론 물리 연구실이다. |
-| [양자광학·양자정보 연구실 (Quantum Optics and Quantum Information Laboratory, QOQI)](wiki/kaist/qoqi.md) | 라영식 교수 | 빛의 양자 상태를 실험실에서 만들고 재는 양자 광학 실험 연구실이다. |
-| [양자물성이론연구실 (Quantum nano Materials Simulation Group, QnMSG)](wiki/kaist/qnmsg.md) | 김용현 교수 | 실제 물질에서 일어나는 현상을 양자역학과 슈퍼컴퓨터로 설명하고 예측하는 이론 물리 연구실이다. |
-| [양자컴퓨팅 연구실 (Jaewook Ahn's Quantum Computing Lab)](wiki/kaist/qcl.md) | 안재욱 교수 | 레이저로 원자를 하나씩 붙잡아 원하는 모양으로 늘어놓고, 원자들 사이의 강한 상호작용을 이용해 양자컴퓨터와 양자 시뮬레이터를 만드는 연구실이다. |
-| [위상 양자 물질 이론 그룹 (GY Cho's Group, Topological Quantum Matter)](wiki/kaist/gilyoungcho.md) | 조길영 교수 | 수많은 전자가 서로 강하게 얽혀 만드는 새로운 양자 상태를 수식과 컴퓨터 계산으로 찾는 이론 물리 연구 그룹이다. |
-| [응용 스핀트로닉스 연구실 (Applied Spintronics Lab)](wiki/kaist/kyungjinlee.md) | 이경진 교수 | 전자의 스핀과 궤도 운동이 만드는 새로운 전류와 자기 현상을 이론으로 밝히고, 이를 차세대 메모리와 고주파 소자에 쓰는 방법을 실험 연구진과 함께 찾는 스핀트로닉스 연구실이다. |
-| [이원희 교수 연구실 (MFBSL)](wiki/kaist/mfbsl.md) | 이원희 교수 | 작은 칩 위에 아주 가는 물길과 센서를 만들어, 세포가 내는 아주 작은 열이나 산성도 변화를 재고 단백질이 순식간에 모양을 바꾸는 순간을 붙잡는 연구실이다. |
-| [초고속 스핀 동역학 연구실 (Ultrafast Spin Dynamics Laboratory, USDL)](wiki/kaist/spintronics.md) | 김갑진 교수 | 자석 속 전자의 스핀이 시간에 따라 어떻게 움직이는지(스핀 동역학) 실험으로 관찰하고 해석해, 스핀파(마그논)와 자구벽·스커미온 같은 자성 구조를 다루는 원리를 밝히고 이를 스핀트로닉스 메모리·논리 소자 개발로 잇는 연구실이다. |
-| [초전도 양자 나노전자 연구실 (Superconducting Quantum Nanoelectronics Laboratory, SQNL)](wiki/kaist/sqnl.md) | 김은성 교수 | 밀리켈빈(켈빈의 1000분의 1) 수준의 극저온에서 나타나는 양자 현상을 실험으로 연구하는 연구실로, 지금 대학원생들은 초전도 회로로 만든 양자 비트(초전도 큐비트)를 만들고 측정·제어하는 양자 정보 연구를 하며, 최근 논문에는 2차원 초전도 박막의 양자 상전이와 흑연 위 2차원 헬륨 막의 초유체 연구도 있다. |
+| [EXO 연구실 (Exoskeleton Laboratory, EXO-Lab)](wiki/kaist/exo.md) | 공경철 교수 | 사람이 입는 로봇(착용형 로봇)을 만드는 연구실이다. |
+| [메카트로닉스·시스템·제어 연구실 (Mechatronics, Systems and Control Laboratory, MSC Lab)](wiki/kaist/msc.md) | 김경수 교수 | 전기차를 움직이는 모터와 배터리를 똑똑하게 제어하고, 차와 로봇이 스스로 보고 판단해 안전하게 움직이도록 만드는 연구실이다. |
+| [모바일 로보틱스·지능 연구실 (Mobile Robotics & Intelligence Laboratory, MORIN Lab)](wiki/kaist/morin.md) | 김진환 교수 | 사람이 타지 않는 배와 잠수정, 로봇이 복잡하고 불확실한 환경에서 스스로 길을 찾고 부딪히지 않게 움직이도록 만드는 연구실이다. |
+| [바이오 미세 유체 연구실 (Biomicrofluidics Laboratory, BMFL)](wiki/kaist/bmfl.md) | 전성윤 교수 | 작은 칩 안의 가느다란 통로에 사람 세포를 키워 혈관·근육·종양 같은 몸속 조직을 흉내 내고, 그 위에서 질병을 재현하고 약을 시험하는 연구실이다. |
+| [수송동력연구실 (Future Transport Power Laboratory, FTPL)](wiki/kaist/ftpl.md) | 배충식 교수, 황준식 교수 | 자동차·배·항공기를 움직이는 엔진(수송 동력 장치)을 더 깨끗하고 효율적으로 만드는 연구실이다. |
+| [연성 생체역학 연구실 (The SHIN Lab)](wiki/kaist/softbm.md) | 신현정 교수 | 우리 몸의 세포가 화학 신호뿐 아니라 당기는 힘, 흐름, 전기 같은 물리 자극에도 반응한다는 점에 주목해, 몸속 자극을 흉내 내는 세포 배양 장치와 3차원 질병 모델을 만들고 세포의 모양·움직임·힘을 기계공학 방법으로 재서 뇌 질환, 암, 흉터의 원리를 밝히는 연구실이다. |
+| [인간–기계 상호작용 연구실 (Human-Machine iNteraction Lab, HUMAN Lab)](wiki/kaist/human-lab.md) | 박용화 교수 | 기계가 사람처럼 보고(3차원 시각) 듣고(음향) 느끼게(진동) 하는 센서와 인공지능을 연구한다. |
+| [인간–로봇 상호작용 연구실 (Human-Robot Interaction Lab, HRI Lab)](wiki/kaist/hri.md) | 경기욱 교수 | 사람과 기계가 서로의 의도와 촉감을 자연스럽게 주고받게 하는 연구실이다. |
+| [저스트 두 잇 랩 (Just Do it Lab, JDL)](wiki/kaist/jdl.md) | 윤용진 교수 | 3D 프린팅으로 물건을 더 튼튼하고 정밀하게 만드는 공정과 소재를 연구하고, 인공지능으로 제조 공정을 스스로 고치게 하는 스마트 제조를 연구하는 연구실이다. |
+| [첨단 에너지 변환 저장 연구실 (AECSL, Kang Taek Lee Research Group)](wiki/kaist/aecsl.md) | 이강택 교수 | 수소를 전기로, 전기를 수소로 바꾸는 세라믹 연료전지·수전해 전지와 배터리를 연구하는 연구실이다. |
+| [첨단 열 및 에너지 전달 연구실 (Advanced Thermal and Energy Transport Laboratory, ATETL)](wiki/kaist/atetl.md) | 강준상 교수 | 고체 속에서 열이 어떻게 흐르는지 연구해 반도체 칩의 열을 빼내고, 버려지는 열로 전기를 만들고, 양자컴퓨터를 극저온으로 식히는 기술을 만드는 연구실이다. |
+| [초규모 광 제어 및 계측 연구실 (Ultra-Scale Photonic Control and Measurement Group, UPCaM)](wiki/kaist/upcam.md) | 김정원 교수 | 일정한 간격의 수많은 빛 성분으로 이루어진 레이저 빛(광주파수 빗)을 잡음이 매우 낮게 만들고, 이를 써서 전기·빛 신호의 시각을 펨토초 수준으로 맞추거나 반도체 구조를 깎지 않고 정밀하게 재는 기술을 연구하는 연구실이다. |
+| [초정밀 광측정·광가공·지능화 연구실 (Ultra-Precision Metrology, Manufacturing and Machine Learning Lab., UPM3)](wiki/kaist/upm2.md) | 김영진 교수 | 극초단 레이저를 공통 기반으로 적외선부터 극자외선까지 이르는 가간섭 광원(파동의 마루와 골이 고르게 맞춰진 빛)을 개발하고, 이를 반도체·이차전지·반도체 패키징의 초정밀 측정, 탄소·금속 소자의 레이저 가공과 합성, 시간·주파수 표준, 차세대 우주 임무에 적용하는 연구실이다. |
+| [혁신 에너지 시스템 공학 연구실 (IESEL)](wiki/kaist/iesel.md) | 장대준 교수 | 액화수소를 대륙 사이로 실어 나르는 공급망, 남는 전기를 열로 저장하는 대형 저장 장치, 수소로 움직이는 배와 도심 항공기처럼 기후 위기 대응에 필요한 큰 에너지 시스템을 설계하는 연구실이다. |
 
 ### 전기및전자공학부 (13)
 
@@ -72,24 +92,7 @@ KAIST 연구실을 한 곳에서 찾아보는 위키다. 연구실마다 한 문
 | [집적 나노포토닉스 연구실 (Integrated Nanophotonics Lab)](wiki/kaist/integrated-nanophotonics.md) | 유경식 교수 | 빛으로 계산하고 통신하고 감지하는 아주 작은 광회로를 반도체 칩 위에 만드는 연구실이다. |
 | [해킹 연구실 (Hacking Lab)](wiki/kaist/hacking-lab.md) | 윤인수 교수 | 소프트웨어와 시스템의 보안 약점을 해커의 눈으로 찾아내고, 이를 막는 기술을 만드는 연구실이다. |
 
-### 기계공학과 (12)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [EXO 연구실 (Exoskeleton Laboratory, EXO-Lab)](wiki/kaist/exo.md) | 공경철 교수 | 사람이 입는 로봇(착용형 로봇)을 만드는 연구실이다. |
-| [메카트로닉스·시스템·제어 연구실 (Mechatronics, Systems and Control Laboratory, MSC Lab)](wiki/kaist/msc.md) | 김경수 교수 | 전기차를 움직이는 모터와 배터리를 똑똑하게 제어하고, 차와 로봇이 스스로 보고 판단해 안전하게 움직이도록 만드는 연구실이다. |
-| [모바일 로보틱스·지능 연구실 (Mobile Robotics & Intelligence Laboratory, MORIN Lab)](wiki/kaist/morin.md) | 김진환 교수 | 사람이 타지 않는 배와 잠수정, 로봇이 복잡하고 불확실한 환경에서 스스로 길을 찾고 부딪히지 않게 움직이도록 만드는 연구실이다. |
-| [바이오 미세 유체 연구실 (Biomicrofluidics Laboratory, BMFL)](wiki/kaist/bmfl.md) | 전성윤 교수 | 작은 칩 안의 가느다란 통로에 사람 세포를 키워 혈관·근육·종양 같은 몸속 조직을 흉내 내고, 그 위에서 질병을 재현하고 약을 시험하는 연구실이다. |
-| [수송동력연구실 (Future Transport Power Laboratory, FTPL)](wiki/kaist/ftpl.md) | 배충식 교수, 황준식 교수 | 자동차·배·항공기를 움직이는 엔진(수송 동력 장치)을 더 깨끗하고 효율적으로 만드는 연구실이다. |
-| [연성 생체역학 연구실 (The SHIN Lab)](wiki/kaist/softbm.md) | 신현정 교수 | 우리 몸의 세포가 화학 신호뿐 아니라 당기는 힘, 흐름, 전기 같은 물리 자극에도 반응한다는 점에 주목해, 몸속 자극을 흉내 내는 세포 배양 장치와 3차원 질병 모델을 만들고 세포의 모양·움직임·힘을 기계공학 방법으로 재서 뇌 질환, 암, 흉터의 원리를 밝히는 연구실이다. |
-| [인간–기계 상호작용 연구실 (Human-Machine iNteraction Lab, HUMAN Lab)](wiki/kaist/human-lab.md) | 박용화 교수 | 기계가 사람처럼 보고(3차원 시각) 듣고(음향) 느끼게(진동) 하는 센서와 인공지능을 연구한다. |
-| [인간–로봇 상호작용 연구실 (Human-Robot Interaction Lab, HRI Lab)](wiki/kaist/hri.md) | 경기욱 교수 | 사람과 기계가 서로의 의도와 촉감을 자연스럽게 주고받게 하는 연구실이다. |
-| [저스트 두 잇 랩 (Just Do it Lab, JDL)](wiki/kaist/jdl.md) | 윤용진 교수 | 3D 프린팅으로 물건을 더 튼튼하고 정밀하게 만드는 공정과 소재를 연구하고, 인공지능으로 제조 공정을 스스로 고치게 하는 스마트 제조를 연구하는 연구실이다. |
-| [첨단 에너지 변환 저장 연구실 (AECSL, Kang Taek Lee Research Group)](wiki/kaist/aecsl.md) | 이강택 교수 | 수소를 전기로, 전기를 수소로 바꾸는 세라믹 연료전지·수전해 전지와 배터리를 연구하는 연구실이다. |
-| [첨단 열 및 에너지 전달 연구실 (Advanced Thermal and Energy Transport Laboratory, ATETL)](wiki/kaist/atetl.md) | 강준상 교수 | 고체 속에서 열이 어떻게 흐르는지 연구해 반도체 칩의 열을 빼내고, 버려지는 열로 전기를 만들고, 양자컴퓨터를 극저온으로 식히는 기술을 만드는 연구실이다. |
-| [혁신 에너지 시스템 공학 연구실 (IESEL)](wiki/kaist/iesel.md) | 장대준 교수 | 액화수소를 대륙 사이로 실어 나르는 공급망, 남는 전기를 열로 저장하는 대형 저장 장치, 수소로 움직이는 배와 도심 항공기처럼 기후 위기 대응에 필요한 큰 에너지 시스템을 설계하는 연구실이다. |
-
-### 문화기술대학원 (6)
+### 문화기술대학원 (7)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -99,6 +102,7 @@ KAIST 연구실을 한 곳에서 찾아보는 위키다. 연구실마다 한 문
 | [소셜컴퓨팅랩 (KAIST Social Computing Lab)](wiki/kaist/sociology.md) | 이원재 교수 (문화기술대학원·메타버스대학원) | 온라인 게시글, 영상, 청원, 플레이리스트, 그림 같은 대규모 디지털 자료를 자연어 처리·기계학습·연결망 분석으로 읽어, 사람들이 어떤 감정과 관계 속에서 정치·문화·건강 기술에 반응하는지 밝히는 사회학 연구실이다. |
 | [실감 아바타·에이전트 연구실 (Lifelike Avatar & Agent Laboratory, LAVA Lab)](wiki/kaist/lava.md) | 이성희 교수 | 가상현실·메타버스·게임에 나오는 아바타와 가상 캐릭터가 사람처럼 자연스럽게 움직이고 행동하게 만드는 연구실이다. |
 | [음악 및 오디오 컴퓨팅 연구실 (Music and Audio Computing Lab, MACLab)](wiki/kaist/mac.md) | 남주한 교수 | 사람이 음악을 즐기고 연주하고 만드는 방식을 기술로 넓히려는 연구실이다. |
+| [총체적 경험 크리에이티브 AI 연구실 (Total Experience Creative AI Lab, TX Lab)](wiki/kaist/tx.md) | 이진준 교수 (문화기술대학원·메타버스대학원) | 소리·빛·향·분위기처럼 여러 감각이 한데 어우러지는 '총체적 경험(Total Experience)'을 주제로, 데이터·XR·AI 같은 새 기술로 미디어 아트 작품을 만들고 그 작품을 공학과 미학의 연구로 풀어내는 연구실이다. |
 
 ### 전산학부 (5)
 
@@ -117,6 +121,14 @@ KAIST 연구실을 한 곳에서 찾아보는 위키다. 연구실마다 한 문
 | [다물리통합 원자력 열수력 연구실 (MIGHTY Lab)](wiki/kaist/mighty.md) | 성지현 교수 | 원자로 안에서 냉각수가 끓으며 열을 빼앗는 과정을 실험과 계산으로 밝히고, 소형 모듈 원자로 같은 차세대 원자로와 우주용 원자력 전지를 연구하는 연구실이다. |
 | [저온 플라즈마 공학 연구실 (Applied Plasma Research & Innovation Lab, KAIST–APRIL)](wiki/kaist/plasmalab.md) | 박상후 교수 | 플라즈마(전자와 이온으로 이루어진 이온화 기체)를 낮은 온도에서 만들고 재는 연구실이다. |
 | [핵융합 및 기체방전물리 연구실 (Gas Discharge Physics Laboratory, GDPL)](wiki/kaist/gdpl.md) | 최원호 교수 | 플라즈마(기체 원자가 전자와 이온으로 쪼개진 상태)를 연구하는 연구실이다. |
+
+### 조천식모빌리티대학원 (3)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [교통·도시계획 AI 연구실 (TUPA, Transport and Urban Planning with AI)](wiki/kaist/tupa.md) | 김인희 교수 | 사람들이 도시에서 더 안전하고 편하게 이동하도록 교통 시스템을 인공지능과 시뮬레이션으로 연구하는 연구실이다. |
+| [전자파 적합성 연구실 (EMC Lab, Electromagnetic Compatibility Lab)](wiki/kaist/emc.md) | 안승영 교수 | 전자기기가 서로 전자파로 방해하지 않게 하고, 칩 안의 고속 신호와 전력이 깨끗하게 전달되게 하며, 전기차를 선 없이 안전하게 충전하는 기술을 연구한다. |
+| [지속가능 교통 운영 및 계획 연구실 (Transportation Operation and Planning for Sustainability Lab., TOPS)](wiki/kaist/tops.md) | 장기태 교수 (조천식모빌리티대학원·녹색성장지속가능대학원) | 도로·대중교통·차량에서 나오는 자료로 사람들이 어떻게 이동하는지 분석하고, 교통 신호와 차량 군 운영, 자율주행·공유 모빌리티 같은 미래 교통 서비스까지 교통 체계를 더 안전하고 효율적이며 지속가능하게 운영하고 계획하는 방법을 연구하는 연구실이다. |
 
 ### 김재철AI대학원 (2)
 
@@ -138,13 +150,6 @@ KAIST 연구실을 한 곳에서 찾아보는 위키다. 연구실마다 한 문
 |---|---|---|
 | [DAIM 연구실 (DAIM Labs)](wiki/kaist/daim.md) | 장영재 교수 | 반도체·디스플레이 공장 안에서 수백 대의 운반 로봇이 서로 막히지 않고 제때 물건을 나르도록 길을 정하고 일을 배정하는 방법을 연구하는 연구실이다. |
 | [통계적 의사결정 연구실 (Statistical Decision Making Lab, SDM)](wiki/kaist/statistical-decision-making.md) | 송호승 교수 (산업및시스템공학과·데이터사이언스대학원) | 데이터가 언제 달라졌는지, 두 데이터 묶음이 정말 다른지, 두 종류의 변수가 서로 관련이 있는지를 엄밀하게 판단하는 통계 방법을 만드는 연구실이다. |
-
-### 조천식모빌리티대학원 (2)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [교통·도시계획 AI 연구실 (TUPA, Transport and Urban Planning with AI)](wiki/kaist/tupa.md) | 김인희 교수 | 사람들이 도시에서 더 안전하고 편하게 이동하도록 교통 시스템을 인공지능과 시뮬레이션으로 연구하는 연구실이다. |
-| [전자파 적합성 연구실 (EMC Lab, Electromagnetic Compatibility Lab)](wiki/kaist/emc.md) | 안승영 교수 | 전자기기가 서로 전자파로 방해하지 않게 하고, 칩 안의 고속 신호와 전력이 깨끗하게 전달되게 하며, 전기차를 선 없이 안전하게 충전하는 기술을 연구한다. |
 
 ### 항공우주공학과 (2)
 
