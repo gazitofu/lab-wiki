@@ -3,6 +3,8 @@
 **KAIST 물리학과 · 이경진 교수**
 
 - 분야: 스핀트로닉스 이론, 스핀-궤도 토크와 궤도 전자공학(오비트로닉스), 스핀 펌핑과 스핀 수송, 페리자성·반강자성 스핀트로닉스, 마그논(스핀파)과 양자 얽힘, 차세대 자기 메모리(MRAM)·고주파 발진기
+- 대분야: 물리·양자, 전기전자·반도체·광학
+- 태그: 스핀트로닉스[^research], 궤도 전자공학[^p2][^p3][^p4], 마그논[^p6][^p7], 자기 메모리[^research], 응집물질 이론[^p6]
 - 홈페이지: <https://sites.google.com/site/kyungjinlee1>
 - 근거와 출처: [Applied Spintronics Lab 근거 페이지](kyungjinlee-sources.md)
 

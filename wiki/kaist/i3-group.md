@@ -3,6 +3,8 @@
 **KAIST 전기및전자공학부 · 강익성 교수**
 
 - 분야: 계산 현미경(computational microscopy), 적응 광학, 물리 기반 인공지능 영상 복원, X선 3차원 나노 영상, 반도체 비파괴 계측
+- 대분야: 전기전자·반도체·광학, 컴퓨팅·AI
+- 태그: 광학 영상·현미경[^p1][^p2][^research], X선 영상·회절[^p4][^p5][^research], 반도체 계측·검사[^research], 과학·공학 AI[^research]
 - 홈페이지: <http://kangimaging.com/>
 - 근거와 출처: [I³ Group 근거 페이지](i3-group-sources.md)
 

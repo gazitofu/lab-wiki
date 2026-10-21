@@ -3,6 +3,8 @@
 **KAIST 신소재공학과 · 조은애 교수**
 
 - 분야: 수소 연료전지 촉매, 수전해(물 전기분해) 촉매, 차세대 리튬이온전지 소재, 부식과 전기도금
+- 대분야: 소재, 에너지·환경·지구
+- 태그: 전기화학 촉매[^research][^electrolysis], 연료전지[^p1][^p3], 수전해[^electrolysis][^p4][^p5], 이차전지 소재[^battery][^p7], 부식·전기도금[^corrosion]
 - 홈페이지: <https://www.ecsm-kaist.net/>
 - 근거와 출처: [ECSM 연구실 근거 페이지](ecsm-sources.md)
 

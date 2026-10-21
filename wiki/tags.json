@@ -1,0 +1,3745 @@
+{
+ "version": "1.0",
+ "updated": "2026-10-21",
+ "fields": [
+  {
+   "id": "math-statistics",
+   "name_ko": "수학·통계",
+   "definition": "수학적 원리·모형·추론·최적화"
+  },
+  {
+   "id": "physics",
+   "name_ko": "물리·양자",
+   "definition": "물질·상호작용·광학·양자 원리와 측정"
+  },
+  {
+   "id": "chemistry",
+   "name_ko": "화학",
+   "definition": "물질의 구조·반응·합성·분석"
+  },
+  {
+   "id": "basic-life",
+   "name_ko": "기초생명·생물물리",
+   "definition": "비임상 생명 원리·정량 측정·생물물리. 순수 질병·치료 연구는 범위 기준에 따라 제외"
+  },
+  {
+   "id": "computing-ai",
+   "name_ko": "컴퓨팅·AI",
+   "definition": "계산·소프트웨어·학습 알고리즘·데이터·보안"
+  },
+  {
+   "id": "electrical-electronics",
+   "name_ko": "전기전자·반도체·광학",
+   "definition": "회로·소자·반도체·통신·전자기·센서 시스템"
+  },
+  {
+   "id": "mechanical-robotics",
+   "name_ko": "기계·로봇·제조",
+   "definition": "기계 시스템·역학·열·유체·항공우주·제어·로봇·설계·제조"
+  },
+  {
+   "id": "materials",
+   "name_ko": "소재",
+   "definition": "재료의 구조·물성·합성·기능·공정"
+  },
+  {
+   "id": "chemical-bioengineering",
+   "name_ko": "화학공정·바이오공학",
+   "definition": "반응·분리·공정·생물 설계·생산 플랫폼"
+  },
+  {
+   "id": "energy-environment",
+   "name_ko": "에너지·환경·지구",
+   "definition": "에너지 전환·저장·자원·기후·환경의 원리와 기술"
+  },
+  {
+   "id": "civil-infrastructure",
+   "name_ko": "건설·도시·인프라",
+   "definition": "구조물·건설·지반·도시·교통·인프라 시스템"
+  },
+  {
+   "id": "industrial-systems",
+   "name_ko": "산업·시스템",
+   "definition": "생산·운영·복잡계·시스템 설계와 최적화"
+  },
+  {
+   "id": "social-humanities",
+   "name_ko": "인문·사회·경제",
+   "definition": "사람·사회·경제·문화 현상을 이론과 데이터로 다루는 연구 (2026-10-21 추가 제안)"
+  }
+ ],
+ "tags": [
+  {
+   "id": "water-electrolysis",
+   "name_ko": "수전해",
+   "name_en": "Water electrolysis",
+   "axis": "application",
+   "fields": [
+    "energy-environment",
+    "materials"
+   ],
+   "aliases": [
+    "물 전기분해",
+    "electrolyzer",
+    "수전해 장치"
+   ],
+   "definition": "전기로 물을 분해해 수소와 산소를 만드는 기술과 그 촉매·전극·장치.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "fuel-cell",
+   "name_ko": "연료전지",
+   "name_en": "Fuel cell",
+   "axis": "application",
+   "fields": [
+    "energy-environment",
+    "materials"
+   ],
+   "aliases": [
+    "연료 전지"
+   ],
+   "definition": "수소 같은 연료와 산소의 반응에서 바로 전기를 얻는 장치와 그 촉매·전극·전해질.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "solid-oxide-cell",
+   "name_ko": "고체산화물 연료전지·수전해 전지",
+   "name_en": "Solid oxide cells",
+   "axis": "object",
+   "fields": [
+    "energy-environment",
+    "materials"
+   ],
+   "aliases": [
+    "SOFC",
+    "SOEC",
+    "고체산화물 연료전지",
+    "고체산화물 수전해",
+    "solid oxide fuel cell",
+    "양성자 전도 세라믹 전지"
+   ],
+   "definition": "세라믹 전해질을 높은 온도에서 써서 연료로 전기를 만들거나 전기로 수소를 만드는 전지.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "고체산화물 전지만 하는 랩에는 연료전지·수전해를 겹쳐 달지 않는다."
+  },
+  {
+   "id": "electrocatalyst",
+   "name_ko": "전기화학 촉매",
+   "name_en": "Electrocatalysts",
+   "axis": "object",
+   "fields": [
+    "chemistry",
+    "materials"
+   ],
+   "aliases": [
+    "전극 촉매",
+    "electrocatalyst",
+    "전기 촉매"
+   ],
+   "definition": "전극 표면에서 전기화학 반응을 빠르게 일으키는 물질. 수전해·연료전지·이산화탄소 전환에 쓰인다.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "촉매 설계·반응 원리 자체가 서술된 주제일 때 단다. 응용(수전해·연료전지·CO2 전환)은 그 응용이 서술됐을 때 따로 단다."
+  },
+  {
+   "id": "single-atom-catalyst",
+   "name_ko": "단일 원자 촉매",
+   "name_en": "Single-atom catalysts",
+   "axis": "object",
+   "fields": [
+    "chemistry",
+    "materials"
+   ],
+   "aliases": [
+    "SAC",
+    "single-atom catalyst",
+    "단원자 촉매"
+   ],
+   "definition": "금속 원자를 하나씩 떨어뜨려 지지체에 붙인 촉매.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "photocatalysis",
+   "name_ko": "광촉매·광전기화학",
+   "name_en": "Photocatalysis and photoelectrochemistry",
+   "axis": "object",
+   "fields": [
+    "chemistry",
+    "energy-environment"
+   ],
+   "aliases": [
+    "광촉매",
+    "photocatalyst",
+    "광전기화학",
+    "photoelectrochemical",
+    "인공 광합성"
+   ],
+   "definition": "빛을 받아 화학 반응을 일으키는 촉매와, 빛과 전기로 물·이산화탄소·질소를 다른 물질로 바꾸는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "co2-conversion",
+   "name_ko": "이산화탄소 전환",
+   "name_en": "CO2 conversion",
+   "axis": "application",
+   "fields": [
+    "energy-environment",
+    "chemistry"
+   ],
+   "aliases": [
+    "CO2 전환",
+    "이산화탄소 환원",
+    "CO2 reduction",
+    "CO2RR",
+    "탄소 자원화"
+   ],
+   "definition": "이산화탄소를 전기·빛·열로 연료나 화학 원료로 바꾸는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "carbon-capture-storage",
+   "name_ko": "탄소 포집·저장",
+   "name_en": "Carbon capture and storage",
+   "axis": "application",
+   "fields": [
+    "energy-environment",
+    "chemical-bioengineering"
+   ],
+   "aliases": [
+    "탄소 포집",
+    "이산화탄소 포집",
+    "CCS",
+    "carbon capture",
+    "직접 공기 포집",
+    "DAC",
+    "이산화탄소 수송"
+   ],
+   "definition": "공기나 배출 가스, 바닷물에서 이산화탄소를 붙잡아 모으고 옮기거나 저장하는 기술. 포집한 이산화탄소를 바로 전환하는 포집·전환 결합 공정도 포함한다.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "ammonia",
+   "name_ko": "암모니아 생산·활용",
+   "name_en": "Ammonia production and use",
+   "axis": "application",
+   "fields": [
+    "energy-environment",
+    "chemistry"
+   ],
+   "aliases": [
+    "암모니아 합성",
+    "암모니아 연료",
+    "ammonia synthesis",
+    "ammonia fuel"
+   ],
+   "definition": "암모니아를 전기·빛으로 만들거나 연료·수소 운반체로 쓰는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "battery-materials",
+   "name_ko": "이차전지 소재",
+   "name_en": "Battery materials",
+   "axis": "object",
+   "fields": [
+    "materials",
+    "energy-environment"
+   ],
+   "aliases": [
+    "배터리 소재",
+    "이차전지",
+    "리튬이온전지",
+    "lithium-ion battery",
+    "secondary battery",
+    "양극재",
+    "음극재"
+   ],
+   "definition": "충전해 다시 쓰는 전지의 전극·전해질 소재와 그 구조.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "solid-state-battery",
+   "name_ko": "전고체 전지",
+   "name_en": "All-solid-state batteries",
+   "axis": "object",
+   "fields": [
+    "materials",
+    "energy-environment"
+   ],
+   "aliases": [
+    "전고체 배터리",
+    "all-solid-state battery",
+    "solid-state battery",
+    "고체 전해질"
+   ],
+   "definition": "액체 전해질 대신 고체 전해질을 쓰는 이차전지.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "battery-management",
+   "name_ko": "배터리 관리 시스템",
+   "name_en": "Battery management systems",
+   "axis": "application",
+   "fields": [
+    "electrical-electronics",
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "BMS",
+    "battery management system",
+    "배터리 관리",
+    "충전 상태 추정"
+   ],
+   "definition": "배터리의 전압·온도·충전 상태를 재고 안전하게 충방전하도록 제어하는 회로와 알고리즘.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "solar-cell",
+   "name_ko": "태양전지",
+   "name_en": "Solar cells",
+   "axis": "application",
+   "fields": [
+    "energy-environment",
+    "materials"
+   ],
+   "aliases": [
+    "태양 전지",
+    "solar cell",
+    "photovoltaic",
+    "탠덤 태양전지"
+   ],
+   "definition": "빛을 받아 바로 전기를 만드는 소자.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "halide-perovskite",
+   "name_ko": "할라이드 페로브스카이트",
+   "name_en": "Halide perovskites",
+   "axis": "object",
+   "fields": [
+    "materials"
+   ],
+   "aliases": [
+    "halide perovskite",
+    "metal halide perovskite",
+    "금속 할라이드 페로브스카이트"
+   ],
+   "definition": "태양전지·발광 소자에 쓰이는, 할로젠 원소가 들어간 페로브스카이트 결정 구조의 반도체 소재.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "quantum-dot-nanocrystal",
+   "name_ko": "콜로이드 양자점",
+   "name_en": "Colloidal quantum dots",
+   "axis": "object",
+   "fields": [
+    "materials",
+    "chemistry"
+   ],
+   "aliases": [
+    "colloidal quantum dot",
+    "나노결정 양자점",
+    "양자점 나노결정"
+   ],
+   "definition": "용액에서 합성하는 아주 작은 반도체 결정. 크기에 따라 흡수하고 내는 빛의 색이 달라진다.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "에피 성장 양자점 광원은 양자 광학, 게이트 양자점은 양자 수송 태그."
+  },
+  {
+   "id": "thermoelectrics",
+   "name_ko": "열전",
+   "name_en": "Thermoelectrics",
+   "axis": "object",
+   "fields": [
+    "materials",
+    "physics"
+   ],
+   "aliases": [
+    "열전 소재",
+    "thermoelectric",
+    "열전 변환",
+    "열전 현상"
+   ],
+   "definition": "온도 차이로 전기를 만들거나 전기로 온도 차이를 만드는 현상과 소재.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "energy-harvesting",
+   "name_ko": "에너지 하베스팅",
+   "name_en": "Energy harvesting",
+   "axis": "application",
+   "fields": [
+    "electrical-electronics",
+    "energy-environment"
+   ],
+   "aliases": [
+    "에너지 수확",
+    "TENG",
+    "마찰전기 발전"
+   ],
+   "definition": "주변의 움직임·열·빛·전파에서 작은 전력을 모아 기기를 움직이는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "마찰 대전 현상 자체의 연구는 마찰전기 태그."
+  },
+  {
+   "id": "heat-transfer",
+   "name_ko": "열전달·열관리",
+   "name_en": "Heat transfer and thermal management",
+   "axis": "method",
+   "fields": [
+    "mechanical-robotics",
+    "energy-environment"
+   ],
+   "aliases": [
+    "열전달",
+    "열관리",
+    "heat transfer",
+    "thermal management",
+    "비등 열전달",
+    "방열 설계"
+   ],
+   "definition": "열이 전도·대류·복사·끓음으로 옮겨 가는 과정을 다루고 장치의 열을 빼거나 막는 공학.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "고체 속 열 수송 물리·열물성 측정은 고체 열 수송 태그."
+  },
+  {
+   "id": "thermal-energy-storage",
+   "name_ko": "열에너지 저장",
+   "name_en": "Thermal energy storage",
+   "axis": "application",
+   "fields": [
+    "energy-environment"
+   ],
+   "aliases": [
+    "열 저장",
+    "축열",
+    "TESS"
+   ],
+   "definition": "열을 저장해 두었다가 필요할 때 꺼내 쓰는 에너지 저장 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "hydrogen-storage-transport",
+   "name_ko": "수소 저장·운송",
+   "name_en": "Hydrogen storage and transport",
+   "axis": "application",
+   "fields": [
+    "energy-environment",
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "수소 저장",
+    "수소 운송",
+    "액화수소",
+    "hydrogen storage",
+    "liquid hydrogen"
+   ],
+   "definition": "수소를 압축·액화·흡착 등으로 저장하고 옮기는 기술과 그 소재·설비.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "hydrogen-mobility",
+   "name_ko": "수소 모빌리티",
+   "name_en": "Hydrogen mobility",
+   "axis": "application",
+   "fields": [
+    "mechanical-robotics",
+    "energy-environment"
+   ],
+   "aliases": [
+    "수소 엔진",
+    "수소 선박",
+    "수소차",
+    "hydrogen engine",
+    "hydrogen vehicle"
+   ],
+   "definition": "수소를 연료로 쓰는 엔진·연료전지로 움직이는 차량·선박·항공기의 추진 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "combustion",
+   "name_ko": "연소·엔진",
+   "name_en": "Combustion and engines",
+   "axis": "object",
+   "fields": [
+    "mechanical-robotics",
+    "energy-environment"
+   ],
+   "aliases": [
+    "연소",
+    "combustion",
+    "내연기관",
+    "엔진 연소"
+   ],
+   "definition": "연료가 공기와 섞여 타는 과정과 이를 이용하는 엔진.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "nuclear-fusion",
+   "name_ko": "핵융합",
+   "name_en": "Nuclear fusion",
+   "axis": "application",
+   "fields": [
+    "energy-environment",
+    "physics"
+   ],
+   "aliases": [
+    "fusion energy",
+    "핵융합로",
+    "토카막",
+    "tokamak"
+   ],
+   "definition": "가벼운 원자핵을 합쳐 에너지를 얻는 기술. 토카막은 자기장으로 고온 플라즈마를 가두는 장치다.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "nuclear-reactor",
+   "name_ko": "원자로·원자력 시스템",
+   "name_en": "Nuclear reactor systems",
+   "axis": "application",
+   "fields": [
+    "energy-environment",
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "원자로",
+    "원자력",
+    "nuclear reactor",
+    "소형 모듈 원자로",
+    "SMR",
+    "원자력 전지"
+   ],
+   "definition": "핵분열 에너지로 열과 전기를 만드는 원자로와 그 냉각·안전, 방사성 동위원소로 전기를 만드는 원자력 전지.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "plasma-physics",
+   "name_ko": "플라즈마",
+   "name_en": "Plasma science",
+   "axis": "object",
+   "fields": [
+    "physics",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "플라즈마 물리",
+    "plasma physics",
+    "plasma"
+   ],
+   "definition": "기체가 이온과 전자로 갈라진 상태인 플라즈마의 성질과 거동.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "플라즈마 기초나 여러 플라즈마 분야 전체를 서술한 랩에만 단다."
+  },
+  {
+   "id": "low-temperature-plasma",
+   "name_ko": "저온 플라즈마 응용",
+   "name_en": "Low-temperature plasma applications",
+   "axis": "application",
+   "fields": [
+    "physics",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "대기압 플라즈마",
+    "저온 플라즈마",
+    "플라즈마 처리",
+    "cold plasma",
+    "atmospheric pressure plasma",
+    "반도체 플라즈마 공정"
+   ],
+   "definition": "상온에 가까운 온도의 플라즈마를 반도체 공정, 표면 처리, 물 처리 등에 쓰는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "plasma-diagnostics",
+   "name_ko": "플라즈마 진단",
+   "name_en": "Plasma diagnostics",
+   "axis": "method",
+   "fields": [
+    "physics"
+   ],
+   "aliases": [
+    "플라즈마 계측"
+   ],
+   "definition": "레이저·분광·영상으로 플라즈마의 밀도와 온도 등을 재는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "electric-propulsion",
+   "name_ko": "우주 전기 추진",
+   "name_en": "Electric propulsion",
+   "axis": "application",
+   "fields": [
+    "mechanical-robotics",
+    "physics"
+   ],
+   "aliases": [
+    "전기 추진",
+    "홀 추력기",
+    "Hall thruster",
+    "플라즈마 추진"
+   ],
+   "definition": "전기로 플라즈마나 이온을 가속해 위성·우주선을 미는 추진 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "hypersonics",
+   "name_ko": "극초음속 공기열역학",
+   "name_en": "Hypersonic aerothermodynamics",
+   "axis": "object",
+   "fields": [
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "극초음속",
+    "hypersonic",
+    "재진입",
+    "re-entry",
+    "스크램제트",
+    "scramjet"
+   ],
+   "definition": "소리보다 훨씬 빠르게 나는 비행체 주위의 공기 흐름과 가열, 대기권 재진입 때의 열 보호를 다루는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "rarefied-gas-dynamics",
+   "name_ko": "희박 기체 역학",
+   "name_en": "Rarefied gas dynamics",
+   "axis": "method",
+   "fields": [
+    "mechanical-robotics",
+    "physics"
+   ],
+   "aliases": [
+    "희박 기체",
+    "DSMC",
+    "rarefied gas"
+   ],
+   "definition": "기체 분자가 드물어 보통의 유체 방정식이 맞지 않는 높은 고도·진공 조건의 흐름을 입자 단위로 계산하는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "flow-combustion-diagnostics",
+   "name_ko": "유동·연소 진단",
+   "name_en": "Flow and combustion diagnostics",
+   "axis": "method",
+   "fields": [
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "유동 계측",
+    "연소 진단",
+    "레이저 진단",
+    "flow diagnostics",
+    "TDLAS"
+   ],
+   "definition": "레이저·고속 카메라·분광으로 흐름과 불꽃의 속도·온도·성분을 재는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "측정 대상이 유동·화염이면 이 태그만 달고 광학 센서·분광기는 겹쳐 달지 않는다."
+  },
+  {
+   "id": "memristor",
+   "name_ko": "멤리스터",
+   "name_en": "Memristor",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics",
+    "materials"
+   ],
+   "aliases": [
+    "저항 변화 소자",
+    "저항 변화 메모리",
+    "RRAM",
+    "ReRAM",
+    "resistive switching"
+   ],
+   "definition": "걸린 전압의 이력에 따라 저항이 바뀌고 그 상태를 기억하는 두 단자 소자.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "RRAM 소자 연구는 이 태그. 낸드·DRAM 같은 메모리 제품·공정은 메모리 반도체 소자."
+  },
+  {
+   "id": "neuromorphic-device",
+   "name_ko": "뉴로모픽 소자",
+   "name_en": "Neuromorphic devices",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics",
+    "materials"
+   ],
+   "aliases": [
+    "뉴로모픽",
+    "뇌 모방 소자",
+    "neuromorphic",
+    "인공 시냅스",
+    "인공 뉴런 소자"
+   ],
+   "definition": "신경세포와 시냅스의 동작을 흉내 내 정보를 처리하는 반도체 소자.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "in-memory-computing",
+   "name_ko": "메모리 내 연산",
+   "name_en": "In-memory computing",
+   "axis": "method",
+   "fields": [
+    "electrical-electronics",
+    "computing-ai"
+   ],
+   "aliases": [
+    "PIM",
+    "processing-in-memory",
+    "인메모리 컴퓨팅",
+    "프로세싱 인 메모리"
+   ],
+   "definition": "데이터를 메모리와 프로세서 사이로 옮기지 않고 메모리 안이나 가까이에서 계산하는 방식.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "memory-device",
+   "name_ko": "메모리 반도체 소자",
+   "name_en": "Memory devices",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "메모리 소자",
+    "메모리 반도체",
+    "memory device",
+    "낸드 플래시",
+    "3D NAND",
+    "DRAM"
+   ],
+   "definition": "정보를 저장하는 반도체 소자. 낸드 플래시·DRAM과 새로운 원리의 비휘발성 메모리를 포함한다.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "ferroelectrics",
+   "name_ko": "강유전체",
+   "name_en": "Ferroelectrics",
+   "axis": "object",
+   "fields": [
+    "materials",
+    "physics"
+   ],
+   "aliases": [
+    "강유전체 메모리",
+    "ferroelectric",
+    "FeRAM",
+    "FeFET",
+    "강유전 소재"
+   ],
+   "definition": "전기장을 걸지 않아도 전기 분극이 남고 그 방향을 전기장으로 뒤집을 수 있는 물질과 이를 쓰는 소자.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "magnetic-memory",
+   "name_ko": "자기 메모리",
+   "name_en": "Magnetic memory",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics",
+    "physics"
+   ],
+   "aliases": [
+    "MRAM",
+    "STT-MRAM",
+    "SOT-MRAM",
+    "자기 메모리 소자"
+   ],
+   "definition": "자성체의 자화 방향으로 0과 1을 저장하는 비휘발성 메모리.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "spintronics",
+   "name_ko": "스핀트로닉스",
+   "name_en": "Spintronics",
+   "axis": "object",
+   "fields": [
+    "physics",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "스핀 전자공학",
+    "스핀 소자",
+    "스핀 토크"
+   ],
+   "definition": "전자의 전하뿐 아니라 스핀(전자가 가진 자석 성질)을 정보 처리에 쓰는 분야와 소자.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "자기 메모리·궤도 전자공학·마그논의 상위 개념. 랩이 스핀트로닉스를 넓게 서술할 때만 함께 단다."
+  },
+  {
+   "id": "orbitronics",
+   "name_ko": "궤도 전자공학",
+   "name_en": "Orbitronics",
+   "axis": "object",
+   "fields": [
+    "physics"
+   ],
+   "aliases": [
+    "오비트로닉스",
+    "궤도 토크",
+    "orbital torque"
+   ],
+   "definition": "전자나 마그논의 궤도 각운동량 흐름을 정보 처리에 쓰는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "magnonics",
+   "name_ko": "마그논",
+   "name_en": "Magnonics",
+   "axis": "object",
+   "fields": [
+    "physics"
+   ],
+   "aliases": [
+    "마그노닉스",
+    "스핀파",
+    "spin wave",
+    "magnon"
+   ],
+   "definition": "자성체 속 스핀 배열의 파동인 마그논(스핀파)을 연구하고 정보 전달에 쓰는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "topological-solitons",
+   "name_ko": "위상 솔리톤·스커미온",
+   "name_en": "Topological solitons and skyrmions",
+   "axis": "object",
+   "fields": [
+    "physics",
+    "materials"
+   ],
+   "aliases": [
+    "스커미온",
+    "skyrmion",
+    "메론",
+    "meron",
+    "위상 솔리톤",
+    "위상 극성 구조",
+    "polar topology"
+   ],
+   "definition": "자성이나 전기 분극의 방향이 꼬인 채 안정하게 유지되는 나노 크기 구조(스커미온·메론·소용돌이 등)와 그 동역학.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "2d-materials",
+   "name_ko": "2차원 소재",
+   "name_en": "2D materials",
+   "axis": "object",
+   "fields": [
+    "materials",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "2차원 물질",
+    "이차원 소재",
+    "그래핀",
+    "graphene",
+    "전이금속 칼코겐화물",
+    "TMD",
+    "MoS2",
+    "이황화몰리브데넘",
+    "MXene",
+    "모아레"
+   ],
+   "definition": "원자 한 층에서 몇 층 두께의 얇은 판 모양 물질. 그래핀·전이금속 칼코겐화물·질화붕소·MXene 등.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "next-gen-transistor",
+   "name_ko": "차세대 트랜지스터·논리 소자",
+   "name_en": "Next-generation transistors and logic",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "차세대 트랜지스터",
+    "beyond-CMOS",
+    "터널링 트랜지스터",
+    "다진 논리 소자",
+    "3진 논리"
+   ],
+   "definition": "새로운 소재·구조·동작 원리로 기존 실리콘 트랜지스터의 한계를 넘으려는 논리 소자.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "새 소자 구조·동작 원리가 서술된 주제일 때 단다. 2차원 소재 성장만 있으면 2차원 소재만."
+  },
+  {
+   "id": "oxide-semiconductor",
+   "name_ko": "산화물 반도체",
+   "name_en": "Oxide semiconductors",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics",
+    "materials"
+   ],
+   "aliases": [
+    "IGZO",
+    "산화갈륨",
+    "Ga2O3",
+    "oxide semiconductor",
+    "산화물 박막 트랜지스터"
+   ],
+   "definition": "인듐·갈륨·아연 산화물처럼 산소가 들어간 반도체와 그 박막 트랜지스터·전력 소자.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "power-semiconductor",
+   "name_ko": "전력 반도체",
+   "name_en": "Power semiconductors",
+   "axis": "application",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "전력 소자",
+    "power device",
+    "power semiconductor",
+    "SiC 전력 소자",
+    "GaN 전력 소자"
+   ],
+   "definition": "큰 전압·전류를 켜고 끄거나 바꾸는 반도체 소자.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "3d-integration",
+   "name_ko": "3차원 집적",
+   "name_en": "3D integration",
+   "axis": "method",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "모놀리식 3차원 집적",
+    "M3D",
+    "monolithic 3D",
+    "3D 집적",
+    "적층 집적"
+   ],
+   "definition": "소자 층을 한 칩 안에서 위로 쌓아 집적도를 높이는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "advanced-packaging",
+   "name_ko": "첨단 반도체 패키징",
+   "name_en": "Advanced semiconductor packaging",
+   "axis": "method",
+   "fields": [
+    "electrical-electronics",
+    "materials"
+   ],
+   "aliases": [
+    "반도체 패키징",
+    "advanced packaging",
+    "하이브리드 본딩",
+    "hybrid bonding",
+    "칩렛",
+    "chiplet",
+    "팬아웃"
+   ],
+   "definition": "칩을 기판·다른 칩과 연결하고 보호하는 기술. 칩을 쌓거나 나란히 붙이는 접합·배선·소재를 포함한다.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "thin-film-growth",
+   "name_ko": "박막 성장·에피택시",
+   "name_en": "Thin-film growth and epitaxy",
+   "axis": "method",
+   "fields": [
+    "materials",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "에피택시",
+    "epitaxy",
+    "MOCVD",
+    "화학기상증착",
+    "CVD",
+    "펄스 레이저 증착",
+    "PLD",
+    "원격 에피택시"
+   ],
+   "definition": "기판 위에 원자 배열을 맞춰 얇은 결정 막을 기르는 공정.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "atomic-layer-deposition",
+   "name_ko": "원자층 증착",
+   "name_en": "Atomic layer deposition",
+   "axis": "method",
+   "fields": [
+    "materials",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "ALD",
+    "선택 영역 원자층 증착"
+   ],
+   "definition": "원료 기체를 번갈아 흘려 원자 한 층씩 막을 쌓는 공정.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "laser-photonic-processing",
+   "name_ko": "레이저·광 공정",
+   "name_en": "Laser and photonic processing",
+   "axis": "method",
+   "fields": [
+    "materials",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "레이저 공정",
+    "laser processing",
+    "레이저 리프트오프",
+    "광 소결",
+    "플래시 램프"
+   ],
+   "definition": "레이저나 강한 빛을 짧게 쬐어 소재를 붙이고 떼고 굽거나 합성하는 공정.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "semiconductor-metrology",
+   "name_ko": "반도체 계측·검사",
+   "name_en": "Semiconductor metrology",
+   "axis": "method",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "반도체 계측",
+    "반도체 검사",
+    "비파괴 검사",
+    "metrology"
+   ],
+   "definition": "반도체 소재·소자의 구조·두께·결함·전기적 특성을 재고 찾아내는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "device-simulation",
+   "name_ko": "소자 설계 시뮬레이션",
+   "name_en": "Device design simulation",
+   "axis": "method",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "TCAD",
+    "소자 시뮬레이션",
+    "device simulation",
+    "광회로 시뮬레이션"
+   ],
+   "definition": "반도체·광학 소자의 동작을 컴퓨터로 계산해 설계하는 방법과 도구.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "integrated-circuit-design",
+   "name_ko": "집적회로 설계",
+   "name_en": "Integrated circuit design",
+   "axis": "method",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "IC 설계",
+    "회로 설계",
+    "반도체 설계",
+    "IC design"
+   ],
+   "definition": "칩에 들어갈 전자 회로를 설계하는 일.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "emc-signal-integrity",
+   "name_ko": "전자파 적합성·신호 무결성",
+   "name_en": "EMC and signal integrity",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "EMC",
+    "전자파 적합성",
+    "전자파 간섭",
+    "EMI",
+    "신호 무결성",
+    "전력 무결성",
+    "signal integrity"
+   ],
+   "definition": "전자 기기가 내는 전자파가 다른 기기나 사람에게 해를 주지 않게 하고, 칩·기판 안에서 신호와 전력이 깨끗하게 전달되게 하는 설계.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "wireless-power-transfer",
+   "name_ko": "무선 전력 전송",
+   "name_en": "Wireless power transfer",
+   "axis": "application",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "무선 충전",
+    "무선전력전송",
+    "wireless charging",
+    "WPT"
+   ],
+   "definition": "전선 없이 자기장·전자기파로 전력을 보내는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "mems",
+   "name_ko": "MEMS 미세 기계 소자",
+   "name_en": "MEMS",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics",
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "미세전자기계시스템",
+    "광 MEMS",
+    "micro-electromechanical"
+   ],
+   "definition": "반도체 공정으로 만든 아주 작은 기계 구조와 이를 쓴 센서·구동 소자.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "topological-matter",
+   "name_ko": "위상 물질",
+   "name_en": "Topological matter",
+   "axis": "object",
+   "fields": [
+    "physics"
+   ],
+   "aliases": [
+    "위상 절연체",
+    "topological insulator",
+    "위상 상",
+    "topological phase",
+    "위상 질서",
+    "위상 초전도체",
+    "마요라나",
+    "Majorana"
+   ],
+   "definition": "전자 상태가 위상수학적 성질로 분류되어 가장자리·표면에 특별한 전도 상태 같은 현상이 나타나는 물질.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "strongly-correlated",
+   "name_ko": "강상관 전자계",
+   "name_en": "Strongly correlated electrons",
+   "axis": "object",
+   "fields": [
+    "physics"
+   ],
+   "aliases": [
+    "강상관계",
+    "strongly correlated",
+    "강상관 물질",
+    "콘도 효과"
+   ],
+   "definition": "전자들 사이의 상호작용이 커서 전자 하나씩으로는 설명할 수 없는 현상이 나타나는 물질.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "superconductivity",
+   "name_ko": "초전도",
+   "name_en": "Superconductivity",
+   "axis": "object",
+   "fields": [
+    "physics",
+    "materials"
+   ],
+   "aliases": [
+    "초전도체",
+    "superconductor"
+   ],
+   "definition": "낮은 온도에서 전기 저항이 사라지는 현상과 그 물질.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "anyons-fqh",
+   "name_ko": "애니온·분수 양자 홀",
+   "name_en": "Anyons and fractional quantum Hall",
+   "axis": "object",
+   "fields": [
+    "physics"
+   ],
+   "aliases": [
+    "애니온",
+    "anyon",
+    "분수 양자 홀",
+    "fractional quantum Hall",
+    "편조 통계"
+   ],
+   "definition": "2차원에서만 나타나는 입자 통계를 따르는 들뜸(애니온)과 이를 품은 분수 양자 홀 상태.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "condensed-matter-theory",
+   "name_ko": "응집물질 이론",
+   "name_en": "Condensed matter theory",
+   "axis": "method",
+   "fields": [
+    "physics"
+   ],
+   "aliases": [
+    "고체 이론",
+    "응집물질 물리 이론"
+   ],
+   "definition": "고체·액체 속 많은 입자의 집단 현상을 수학적 모형과 계산으로 설명하는 이론 연구.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "first-principles-calculation",
+   "name_ko": "제1원리 계산",
+   "name_en": "First-principles calculation",
+   "axis": "method",
+   "fields": [
+    "physics",
+    "materials",
+    "chemistry"
+   ],
+   "aliases": [
+    "DFT",
+    "밀도범함수론",
+    "density functional theory",
+    "ab initio",
+    "전자구조 계산"
+   ],
+   "definition": "실험값을 넣지 않고 양자역학 방정식으로 물질의 전자 구조와 성질을 계산하는 방법.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "quantum-computing",
+   "name_ko": "양자 컴퓨팅",
+   "name_en": "Quantum computing",
+   "axis": "application",
+   "fields": [
+    "physics",
+    "computing-ai"
+   ],
+   "aliases": [
+    "양자컴퓨터",
+    "양자 컴퓨터",
+    "quantum computer",
+    "양자 시뮬레이션",
+    "양자 시뮬레이터"
+   ],
+   "definition": "양자 중첩·얽힘을 이용해 계산하는 컴퓨터와 그 하드웨어·알고리즘.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "quantum-error-correction",
+   "name_ko": "양자 오류 정정·완화",
+   "name_en": "Quantum error correction and mitigation",
+   "axis": "method",
+   "fields": [
+    "physics",
+    "computing-ai"
+   ],
+   "aliases": [
+    "QEC",
+    "quantum error correction",
+    "양자 오류 정정",
+    "양자 오류 완화",
+    "quantum error mitigation"
+   ],
+   "definition": "양자 컴퓨터의 계산 오류를 부호로 바로잡거나(정정) 결과에서 줄이는(완화) 방법.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "quantum-information",
+   "name_ko": "양자 정보·얽힘",
+   "name_en": "Quantum information and entanglement",
+   "axis": "object",
+   "fields": [
+    "physics"
+   ],
+   "aliases": [
+    "양자 정보",
+    "양자 얽힘",
+    "quantum information",
+    "entanglement",
+    "양자정보이론"
+   ],
+   "definition": "양자 상태로 정보를 표현·처리·측정하는 원리. 얽힘은 떨어진 입자들의 상태가 함께 정해지는 양자 상관이며, 응집물질 속 다체 얽힘 연구를 포함한다.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "quantum-communication",
+   "name_ko": "양자 통신·네트워크",
+   "name_en": "Quantum communication and networks",
+   "axis": "application",
+   "fields": [
+    "physics",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "양자 통신",
+    "양자 네트워크",
+    "양자 키 분배",
+    "QKD",
+    "quantum key distribution",
+    "양자 인터넷"
+   ],
+   "definition": "양자 상태로 정보를 보내거나 비밀 키를 나누는 통신 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "quantum-sensing-metrology",
+   "name_ko": "양자 계측·센싱",
+   "name_en": "Quantum sensing and metrology",
+   "axis": "application",
+   "fields": [
+    "physics"
+   ],
+   "aliases": [
+    "양자 센싱",
+    "양자 센서",
+    "양자 계측",
+    "quantum sensing",
+    "quantum metrology"
+   ],
+   "definition": "양자 성질을 이용해 고전적 방법보다 정밀하게 재는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "quantum-photonics",
+   "name_ko": "양자 광학·광양자 기술",
+   "name_en": "Quantum photonics",
+   "axis": "object",
+   "fields": [
+    "physics",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "양자 광학",
+    "quantum optics",
+    "단일 광자",
+    "단일 광자 광원",
+    "single photon source",
+    "압축광"
+   ],
+   "definition": "빛의 양자 상태(단일 광자, 얽힌 광자, 압축광 등)를 만들고 다루고 재는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "photonic-integrated-circuit",
+   "name_ko": "광집적회로",
+   "name_en": "Photonic integrated circuits",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics",
+    "physics"
+   ],
+   "aliases": [
+    "PIC",
+    "실리콘 포토닉스",
+    "silicon photonics",
+    "photonic integrated circuit",
+    "광 집적 회로",
+    "집적 광학",
+    "integrated photonics",
+    "박막 리튬나이오베이트",
+    "TFLN"
+   ],
+   "definition": "빛을 보내고 나누고 바꾸는 광학 부품을 한 칩 위에 모은 회로.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "optical-frequency-comb",
+   "name_ko": "광 주파수 빗",
+   "name_en": "Optical frequency combs",
+   "axis": "object",
+   "fields": [
+    "physics",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "주파수 빗",
+    "마이크로콤",
+    "microcomb",
+    "frequency comb",
+    "광 주파수 콤"
+   ],
+   "definition": "일정한 간격으로 늘어선 많은 파장의 빛으로 이루어진 광원. 정밀 측정·통신·분광에 쓴다.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "nonlinear-optics",
+   "name_ko": "비선형 광학",
+   "name_en": "Nonlinear optics",
+   "axis": "object",
+   "fields": [
+    "physics"
+   ],
+   "aliases": [
+    "고조파 발생",
+    "광 매개 증폭"
+   ],
+   "definition": "센 빛에서 물질의 반응이 빛의 세기에 비례하지 않아 새 파장이 생기는 것 같은 현상과 그 응용.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "metamaterials",
+   "name_ko": "메타물질·메타광학",
+   "name_en": "Metamaterials and metaoptics",
+   "axis": "object",
+   "fields": [
+    "physics",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "메타물질",
+    "메타표면",
+    "메타렌즈",
+    "metamaterial",
+    "metasurface",
+    "서브파장 격자",
+    "음의 푸아송 비",
+    "오그제틱",
+    "auxetic",
+    "역학 메타물질"
+   ],
+   "definition": "재료보다 작은 인공 구조를 배열해 자연 물질에 없는 광학·역학 성질을 만드는 소재와 소자.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "non-hermitian-photonics",
+   "name_ko": "비에르미트 광학",
+   "name_en": "Non-Hermitian photonics",
+   "axis": "object",
+   "fields": [
+    "physics"
+   ],
+   "aliases": [
+    "예외점",
+    "exceptional point",
+    "non-Hermitian",
+    "비에르미트 포토닉스"
+   ],
+   "definition": "빛이 새거나 증폭되는 광학계에서 나타나는 특이한 상태(예외점 등)를 연구하고 이용하는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "optical-communication",
+   "name_ko": "광통신",
+   "name_en": "Optical communication",
+   "axis": "application",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "광 송수신기",
+    "광 트랜시버",
+    "광 인터커넥트",
+    "optical interconnect",
+    "가시광 통신"
+   ],
+   "definition": "빛으로 데이터를 주고받는 통신 기술과 그 송수신 부품.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "optical-computing",
+   "name_ko": "광 컴퓨팅",
+   "name_en": "Optical computing",
+   "axis": "application",
+   "fields": [
+    "electrical-electronics",
+    "computing-ai"
+   ],
+   "aliases": [
+    "광 신경망",
+    "optical neural network",
+    "광 이징 머신",
+    "photonic computing",
+    "광 연산"
+   ],
+   "definition": "전자 대신 빛으로 계산하는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "display-light-emitting",
+   "name_ko": "디스플레이·발광 소자",
+   "name_en": "Displays and light-emitting devices",
+   "axis": "application",
+   "fields": [
+    "electrical-electronics",
+    "materials"
+   ],
+   "aliases": [
+    "디스플레이",
+    "발광 다이오드",
+    "LED",
+    "OLED",
+    "QLED",
+    "display",
+    "색변환",
+    "봉지재"
+   ],
+   "definition": "빛을 내는 소자와 이를 모은 화면의 소재·구조·공정.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "micro-led",
+   "name_ko": "마이크로 LED",
+   "name_en": "Micro-LED",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics",
+    "materials"
+   ],
+   "aliases": [
+    "마이크로LED",
+    "micro LED",
+    "microLED",
+    "μLED"
+   ],
+   "definition": "아주 작은 무기 발광 다이오드와 이를 화면·광원으로 쓰는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "photodetector",
+   "name_ko": "광검출기",
+   "name_en": "Photodetectors",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "광 검출기",
+    "photodetector",
+    "광센서 소자"
+   ],
+   "definition": "빛을 받아 전기 신호로 바꾸는 소자.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "optical-sensing",
+   "name_ko": "광학 센서·분광기",
+   "name_en": "Optical sensors and spectrometers",
+   "axis": "application",
+   "fields": [
+    "electrical-electronics",
+    "physics"
+   ],
+   "aliases": [
+    "광학 센서",
+    "분광기",
+    "spectrometer",
+    "optical sensor",
+    "분자 분광"
+   ],
+   "definition": "빛의 세기·파장 변화로 물질이나 생체 신호를 재는 센서와 분광 장치.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "유동·화염 계측은 유동·연소 진단."
+  },
+  {
+   "id": "optical-imaging-microscopy",
+   "name_ko": "광학 영상·현미경",
+   "name_en": "Optical imaging and microscopy",
+   "axis": "method",
+   "fields": [
+    "physics",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "광학 현미경",
+    "초해상도 현미경",
+    "계산 영상",
+    "computational imaging",
+    "적응 광학",
+    "adaptive optics",
+    "광학 영상"
+   ],
+   "definition": "빛으로 작은 대상을 보고 기록하는 현미경·카메라와, 계산으로 영상을 더 선명하게 복원하는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "ultrafast-dynamics",
+   "name_ko": "초고속 분광·동역학",
+   "name_en": "Ultrafast spectroscopy and dynamics",
+   "axis": "method",
+   "fields": [
+    "chemistry",
+    "physics"
+   ],
+   "aliases": [
+    "초고속 분광",
+    "펨토초",
+    "femtosecond",
+    "ultrafast",
+    "펌프-프로브",
+    "광화학 동역학",
+    "들뜬 상태 동역학",
+    "excited-state dynamics"
+   ],
+   "definition": "아주 짧은 레이저·전자 펄스로 분자·전자의 빠른 변화와 빛을 받은 뒤의 화학 반응을 시간 순서대로 재는 연구.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "electron-microscopy",
+   "name_ko": "전자현미경",
+   "name_en": "Electron microscopy",
+   "axis": "method",
+   "fields": [
+    "materials",
+    "physics"
+   ],
+   "aliases": [
+    "TEM",
+    "투과전자현미경",
+    "STEM",
+    "전자 토모그래피",
+    "초고속 전자현미경"
+   ],
+   "definition": "빛 대신 전자빔으로 원자 수준까지 물질 구조를 보는 장비와 분석 기법.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "cryo-em",
+   "name_ko": "극저온 전자현미경",
+   "name_en": "Cryo-electron microscopy",
+   "axis": "method",
+   "fields": [
+    "basic-life",
+    "physics"
+   ],
+   "aliases": [
+    "cryo-EM",
+    "cryoEM",
+    "크라이오 전자현미경",
+    "극저온 전자 현미경"
+   ],
+   "definition": "시료를 아주 낮은 온도로 얼려 전자현미경으로 단백질·나노 구조를 보는 기법.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "x-ray-imaging",
+   "name_ko": "X선 영상·회절",
+   "name_en": "X-ray imaging and diffraction",
+   "axis": "method",
+   "fields": [
+    "physics",
+    "materials"
+   ],
+   "aliases": [
+    "X선",
+    "엑스선",
+    "X-ray",
+    "X선 회절",
+    "XRD",
+    "X선 토모그래피"
+   ],
+   "definition": "X선으로 물질 내부를 비추거나 원자 배열을 재는 기법.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "block-copolymer-self-assembly",
+   "name_ko": "블록 공중합체 자기조립",
+   "name_en": "Block copolymer self-assembly",
+   "axis": "method",
+   "fields": [
+    "materials",
+    "chemistry"
+   ],
+   "aliases": [
+    "블록 공중합체",
+    "block copolymer",
+    "BCP",
+    "유도 자기조립",
+    "DSA",
+    "분자 자기조립"
+   ],
+   "definition": "성질이 다른 고분자 사슬이 이어진 블록 공중합체가 스스로 나노미터 크기의 무늬를 만드는 현상과 이를 이용한 패터닝.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "nanopatterning",
+   "name_ko": "나노 패터닝·전사",
+   "name_en": "Nanopatterning and transfer",
+   "axis": "method",
+   "fields": [
+    "materials",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "나노 패터닝",
+    "나노 전사 인쇄",
+    "nanotransfer printing",
+    "리소그래피",
+    "lithography",
+    "광 패터닝",
+    "나노 임프린트"
+   ],
+   "definition": "아주 작은 무늬를 소재 표면에 새기거나 다른 기판으로 옮겨 찍는 공정.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "soft-materials",
+   "name_ko": "연성 소재·고분자",
+   "name_en": "Soft materials and polymers",
+   "axis": "object",
+   "fields": [
+    "materials",
+    "chemistry"
+   ],
+   "aliases": [
+    "고분자",
+    "polymer",
+    "소프트 매터",
+    "soft matter",
+    "연성 소재",
+    "하이드로겔",
+    "hydrogel"
+   ],
+   "definition": "고분자·젤·액정처럼 부드럽고 쉽게 모양이 바뀌는 소재와 그 합성.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "biomaterials",
+   "name_ko": "생체재료·조직 공학",
+   "name_en": "Biomaterials and tissue engineering",
+   "axis": "object",
+   "fields": [
+    "materials",
+    "chemical-bioengineering"
+   ],
+   "aliases": [
+    "생체 재료",
+    "biomaterial",
+    "조직 공학",
+    "tissue engineering",
+    "조직 재생",
+    "의료용 접착제"
+   ],
+   "definition": "몸 안에 넣거나 세포·조직과 맞닿아 쓰는 소재와 조직을 되살리는 공학.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "sustainable-materials",
+   "name_ko": "순환·지속가능 소재",
+   "name_en": "Sustainable and recyclable materials",
+   "axis": "application",
+   "fields": [
+    "materials",
+    "energy-environment"
+   ],
+   "aliases": [
+    "재활용 소재",
+    "생분해",
+    "biodegradable",
+    "recyclable",
+    "지속가능 소재"
+   ],
+   "definition": "재활용하거나 자연에서 분해되도록 설계한 소재.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "artificial-muscle",
+   "name_ko": "인공 근육",
+   "name_en": "Artificial muscles",
+   "axis": "object",
+   "fields": [
+    "materials",
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "artificial muscle",
+    "인공근육",
+    "섬유 구동기"
+   ],
+   "definition": "전기·열·화학 자극으로 늘었다 줄었다 하며 힘을 내는 소재·구동기.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "ceramics",
+   "name_ko": "세라믹 소재",
+   "name_en": "Ceramics",
+   "axis": "object",
+   "fields": [
+    "materials"
+   ],
+   "aliases": [
+    "세라믹",
+    "ceramic",
+    "적층 세라믹 커패시터",
+    "MLCC"
+   ],
+   "definition": "금속 산화물 등을 높은 온도로 굳힌 무기 소재와 그 부품.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "defect-engineering",
+   "name_ko": "결함 공학",
+   "name_en": "Defect engineering",
+   "axis": "method",
+   "fields": [
+    "materials",
+    "physics"
+   ],
+   "aliases": [
+    "결함 제어",
+    "산소 결함",
+    "입계 편석"
+   ],
+   "definition": "결정 속 빈자리·불순물·경계 같은 결함을 일부러 만들거나 다스려 소재 성질을 바꾸는 방법.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "corrosion-electroplating",
+   "name_ko": "부식·전기도금",
+   "name_en": "Corrosion and electroplating",
+   "axis": "application",
+   "fields": [
+    "materials",
+    "chemistry"
+   ],
+   "aliases": [
+    "부식",
+    "corrosion",
+    "전기도금",
+    "electroplating",
+    "도금"
+   ],
+   "definition": "금속이 산화돼 상하는 부식을 막고 전기로 금속 막을 입히는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "flexible-stretchable-electronics",
+   "name_ko": "유연·신축 전자",
+   "name_en": "Flexible and stretchable electronics",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics",
+    "materials"
+   ],
+   "aliases": [
+    "유연 전자",
+    "신축성 전자",
+    "flexible electronics",
+    "stretchable electronics",
+    "플렉서블 전자",
+    "액체 금속 전자",
+    "가변 강성 전자"
+   ],
+   "definition": "휘거나 늘어나거나 단단함이 바뀌어도 동작하는 전자 소자와 그 소재·구조.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "wearable-biosensor",
+   "name_ko": "착용형 생체 센서",
+   "name_en": "Wearable biosensors",
+   "axis": "application",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "웨어러블 센서",
+    "착용형 센서",
+    "wearable sensor",
+    "피부 부착 센서"
+   ],
+   "definition": "몸에 붙이거나 입어 맥박·혈압·땀·움직임 같은 생체 신호를 재는 센서.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "몸에 붙이거나 입는다고 서술된 센서만."
+  },
+  {
+   "id": "implantable-bioelectronics",
+   "name_ko": "이식형·생체 전자 기기",
+   "name_en": "Implantable and bioelectronic devices",
+   "axis": "application",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "이식형 기기",
+    "생체 이식",
+    "implantable device",
+    "bioelectronics",
+    "바이오 일렉트로닉스"
+   ],
+   "definition": "몸 안에 넣거나 신경·조직에 맞대어 신호를 재고 자극하는 전자 기기.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "neural-interface",
+   "name_ko": "신경 인터페이스·뇌-컴퓨터 인터페이스",
+   "name_en": "Neural and brain-computer interfaces",
+   "axis": "application",
+   "fields": [
+    "electrical-electronics",
+    "basic-life"
+   ],
+   "aliases": [
+    "뇌-컴퓨터 인터페이스",
+    "BCI",
+    "brain-computer interface",
+    "신경 인터페이스",
+    "뇌 이식 장치"
+   ],
+   "definition": "뇌·신경의 신호를 읽거나 자극해 기계와 잇는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "뇌·신경과 기계를 잇는 것이 목적일 때. 몸에 넣는 전자 기기 일반은 이식형·생체 전자 기기."
+  },
+  {
+   "id": "diagnostics-biosensor",
+   "name_ko": "진단 기기·바이오센서",
+   "name_en": "Diagnostics and biosensors",
+   "axis": "application",
+   "fields": [
+    "electrical-electronics",
+    "chemical-bioengineering"
+   ],
+   "aliases": [
+    "바이오센서",
+    "biosensor",
+    "체외 진단",
+    "현장 진단",
+    "point-of-care",
+    "분자진단",
+    "PCR"
+   ],
+   "definition": "혈액·체액·세포에서 질병 표지나 분자를 찾아내는 센서와 진단 장치.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "microfluidics",
+   "name_ko": "미세유체",
+   "name_en": "Microfluidics",
+   "axis": "method",
+   "fields": [
+    "mechanical-robotics",
+    "chemical-bioengineering"
+   ],
+   "aliases": [
+    "미세 유체",
+    "랩온어칩",
+    "lab-on-a-chip"
+   ],
+   "definition": "아주 가는 관로에서 적은 양의 액체를 흘리고 섞고 나누는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "organ-on-chip",
+   "name_ko": "장기 칩·체외 질병 모델",
+   "name_en": "Organ-on-a-chip and in vitro disease models",
+   "axis": "application",
+   "fields": [
+    "chemical-bioengineering",
+    "basic-life"
+   ],
+   "aliases": [
+    "장기 칩",
+    "organ-on-a-chip",
+    "미세생리시스템",
+    "MPS",
+    "체외 질병 모델"
+   ],
+   "definition": "세포를 칩이나 3차원 틀에서 키워 장기·질병의 일부 기능을 몸 밖에서 재현한 모형.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "mechanobiology",
+   "name_ko": "세포역학·기계생물학",
+   "name_en": "Mechanobiology",
+   "axis": "object",
+   "fields": [
+    "basic-life",
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "메카노바이올로지",
+    "세포 역학",
+    "cell mechanics"
+   ],
+   "definition": "세포가 힘을 내고 느끼는 방식과 물리 자극이 세포 행동을 바꾸는 원리.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "bioimage-analysis",
+   "name_ko": "생물 영상 분석",
+   "name_en": "Bioimage analysis",
+   "axis": "application",
+   "fields": [
+    "computing-ai",
+    "basic-life"
+   ],
+   "aliases": [
+    "세포 영상 분석",
+    "세포 추적",
+    "cell tracking"
+   ],
+   "definition": "현미경으로 찍은 세포·조직 영상을 컴퓨터로 분석하는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "structural-biology",
+   "name_ko": "구조생물학",
+   "name_en": "Structural biology",
+   "axis": "object",
+   "fields": [
+    "basic-life",
+    "chemistry"
+   ],
+   "aliases": [
+    "단백질 구조",
+    "단백질 복합체 구조"
+   ],
+   "definition": "단백질 같은 생체 분자의 3차원 구조를 밝혀 기능을 이해하는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "wearable-robot",
+   "name_ko": "착용형 로봇·외골격",
+   "name_en": "Wearable robots and exoskeletons",
+   "axis": "application",
+   "fields": [
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "외골격 로봇",
+    "exoskeleton",
+    "wearable robot",
+    "웨어러블 로봇",
+    "엑소스켈레톤"
+   ],
+   "definition": "사람 몸에 입혀 움직임을 돕거나 힘을 더해 주는 로봇.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "rehabilitation-assistive",
+   "name_ko": "재활·보조·접근성 기술",
+   "name_en": "Rehabilitation and assistive technology",
+   "axis": "application",
+   "fields": [
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "재활 로봇",
+    "보조 기술",
+    "assistive technology",
+    "rehabilitation robot",
+    "의수",
+    "의족",
+    "접근성",
+    "accessibility"
+   ],
+   "definition": "장애가 있거나 다친 사람의 움직임·감각·생활을 돕는 로봇·기기·인터페이스.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "soft-robotics",
+   "name_ko": "소프트 로보틱스",
+   "name_en": "Soft robotics",
+   "axis": "object",
+   "fields": [
+    "mechanical-robotics",
+    "materials"
+   ],
+   "aliases": [
+    "소프트 로봇",
+    "soft robot",
+    "부드러운 로봇"
+   ],
+   "definition": "부드럽고 잘 휘는 소재로 만든 로봇과 구동기.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "haptics",
+   "name_ko": "햅틱",
+   "name_en": "Haptics",
+   "axis": "object",
+   "fields": [
+    "computing-ai",
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "촉각 기술",
+    "haptic",
+    "촉각 인터페이스",
+    "촉각 피드백"
+   ],
+   "definition": "진동·힘·온도 등으로 사람에게 촉감을 전하거나 촉각을 재는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "human-robot-interaction",
+   "name_ko": "인간–로봇 상호작용",
+   "name_en": "Human-robot interaction",
+   "axis": "object",
+   "fields": [
+    "mechanical-robotics",
+    "computing-ai"
+   ],
+   "aliases": [
+    "HRI",
+    "인간-로봇 상호작용"
+   ],
+   "definition": "사람과 로봇이 안전하고 자연스럽게 함께 일하고 소통하는 방법.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "legged-humanoid-robot",
+   "name_ko": "보행·휴머노이드 로봇",
+   "name_en": "Legged and humanoid robots",
+   "axis": "object",
+   "fields": [
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "휴머노이드",
+    "humanoid",
+    "보행 로봇",
+    "다리 로봇",
+    "legged robot",
+    "사족 보행"
+   ],
+   "definition": "다리로 걷는 로봇과 사람 모양 로봇의 설계·제어.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "autonomous-driving",
+   "name_ko": "자율주행",
+   "name_en": "Autonomous driving",
+   "axis": "application",
+   "fields": [
+    "mechanical-robotics",
+    "computing-ai"
+   ],
+   "aliases": [
+    "자율 주행",
+    "self-driving",
+    "자율주행차",
+    "ADAS"
+   ],
+   "definition": "사람 대신 차량이 주변을 인식하고 경로를 정해 스스로 달리는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "marine-robotics",
+   "name_ko": "해양 로봇·자율운항선박",
+   "name_en": "Marine robotics and autonomous ships",
+   "axis": "application",
+   "fields": [
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "자율운항선박",
+    "무인 수상정",
+    "무인 잠수정",
+    "AUV",
+    "USV",
+    "해양 로봇",
+    "autonomous ship"
+   ],
+   "definition": "물 위·물속을 스스로 다니는 배와 잠수정의 항법·제어.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "robot-navigation-slam",
+   "name_ko": "로봇 항법·SLAM",
+   "name_en": "Robot navigation and SLAM",
+   "axis": "method",
+   "fields": [
+    "mechanical-robotics",
+    "computing-ai"
+   ],
+   "aliases": [
+    "SLAM",
+    "로봇 항법",
+    "localization",
+    "경로 계획",
+    "path planning",
+    "위치 추정"
+   ],
+   "definition": "로봇이 자기 위치를 추정하고 지도를 만들며 갈 길을 정하는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "multi-robot-logistics",
+   "name_ko": "다중 로봇 협업·물류 자동화",
+   "name_en": "Multi-robot systems and logistics automation",
+   "axis": "application",
+   "fields": [
+    "mechanical-robotics",
+    "industrial-systems"
+   ],
+   "aliases": [
+    "다중 로봇",
+    "물류 로봇",
+    "AGV",
+    "AMR",
+    "OHT",
+    "multi-robot",
+    "물류 자동화",
+    "다중 로봇 협업",
+    "작업 할당"
+   ],
+   "definition": "여러 대의 로봇·운반차가 일을 나누고 경로를 조정해 탐색·운반 임무를 함께 하게 하는 계획과 제어.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "electric-vehicle",
+   "name_ko": "전기차",
+   "name_en": "Electric vehicles",
+   "axis": "application",
+   "fields": [
+    "mechanical-robotics",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "전기 자동차",
+    "electric vehicle",
+    "전동화",
+    "전기차 모터 제어"
+   ],
+   "definition": "배터리와 전기 모터로 움직이는 차량의 구동계(모터·인버터) 제어와 전동화 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "전기차용 BMS·무선충전만 있으면 해당 태그만."
+  },
+  {
+   "id": "prognostics-health-management",
+   "name_ko": "고장 진단·수명 예측",
+   "name_en": "Prognostics and health management",
+   "axis": "application",
+   "fields": [
+    "mechanical-robotics",
+    "industrial-systems"
+   ],
+   "aliases": [
+    "PHM",
+    "예지 정비",
+    "predictive maintenance",
+    "고장 진단",
+    "기계 진단"
+   ],
+   "definition": "기계의 진동·소리 같은 신호로 고장을 미리 알아내고 남은 수명을 예측하는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "additive-manufacturing",
+   "name_ko": "3D 프린팅",
+   "name_en": "Additive manufacturing",
+   "axis": "method",
+   "fields": [
+    "mechanical-robotics",
+    "materials"
+   ],
+   "aliases": [
+    "적층 제조",
+    "3D printing",
+    "3차원 프린팅"
+   ],
+   "definition": "재료를 한 층씩 쌓아 물체를 만드는 제조 방법.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "smart-manufacturing",
+   "name_ko": "스마트 제조",
+   "name_en": "Smart manufacturing",
+   "axis": "application",
+   "fields": [
+    "industrial-systems",
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "스마트 팩토리",
+    "smart factory",
+    "제조 AI",
+    "자율 제조"
+   ],
+   "definition": "공장 설비와 공정을 데이터·인공지능으로 감시하고 스스로 조정하게 하는 제조 방식.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "digital-twin",
+   "name_ko": "디지털 트윈",
+   "name_en": "Digital twin",
+   "axis": "method",
+   "fields": [
+    "industrial-systems",
+    "computing-ai"
+   ],
+   "aliases": [],
+   "definition": "실제 장치·공정·도시를 컴퓨터 안에 똑같이 재현해 시험하고 예측하는 모형.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "audio-acoustics",
+   "name_ko": "음향·오디오 AI",
+   "name_en": "Audio and acoustic intelligence",
+   "axis": "method",
+   "fields": [
+    "computing-ai",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "오디오 신호 처리",
+    "audio signal processing",
+    "음향 인식",
+    "인공 청각",
+    "소리 합성"
+   ],
+   "definition": "소리를 재고 분석·인식·합성하는 신호 처리와 인공지능.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "music-ai",
+   "name_ko": "음악 AI",
+   "name_en": "Music AI",
+   "axis": "application",
+   "fields": [
+    "computing-ai",
+    "social-humanities"
+   ],
+   "aliases": [
+    "음악 정보 검색",
+    "MIR",
+    "music information retrieval",
+    "음악 생성",
+    "AI 작곡"
+   ],
+   "definition": "음악을 컴퓨터가 이해·검색·생성·연주하게 하는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "computer-vision",
+   "name_ko": "컴퓨터 비전",
+   "name_en": "Computer vision",
+   "axis": "method",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "영상 인식",
+    "이미지 인식",
+    "visual recognition",
+    "초해상도",
+    "super-resolution",
+    "영상 복원"
+   ],
+   "definition": "사진·영상에서 물체·사람·장면을 알아보고, 화질을 복원하거나 높이는 인공지능 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "3d-reconstruction",
+   "name_ko": "3차원 복원·인식",
+   "name_en": "3D reconstruction",
+   "axis": "method",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "3D 복원",
+    "3차원 비전",
+    "3D vision",
+    "3차원 스캔",
+    "자세 추정",
+    "pose estimation"
+   ],
+   "definition": "사진·영상·센서 자료에서 물체·사람·공간의 3차원 모양과 위치·자세를 알아내는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "generative-ai",
+   "name_ko": "생성 인공지능",
+   "name_en": "Generative AI",
+   "axis": "method",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "생성형 AI",
+    "생성 AI",
+    "GenAI",
+    "확산 모형",
+    "diffusion model",
+    "영상 생성",
+    "이미지 생성"
+   ],
+   "definition": "학습한 데이터와 비슷한 새 이미지·영상·소리·글을 만들어 내는 인공지능.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "multimodal-ai",
+   "name_ko": "멀티모달 AI",
+   "name_en": "Multimodal AI",
+   "axis": "method",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "멀티모달",
+    "multimodal",
+    "비전-언어 모델",
+    "VLM",
+    "vision-language"
+   ],
+   "definition": "이미지·영상·소리·글처럼 종류가 다른 자료를 함께 이해하고 다루는 인공지능.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "large-language-model",
+   "name_ko": "대형 언어 모델",
+   "name_en": "Large language models",
+   "axis": "method",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "LLM",
+    "거대 언어 모델",
+    "대규모 언어 모델",
+    "large language model"
+   ],
+   "definition": "많은 글을 학습해 글을 이해하고 만들어 내는 큰 인공지능 모델과 그 활용.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "LLM이 연구의 핵심 구성 요소일 때(모델, LLM 추론·학습 시스템, LLM 기반 에이전트). 부수적 도구 사용은 제외."
+  },
+  {
+   "id": "ai-systems-infrastructure",
+   "name_ko": "AI 시스템·인프라",
+   "name_en": "AI systems and infrastructure",
+   "axis": "object",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "AI 시스템",
+    "ML systems",
+    "딥러닝 시스템",
+    "AI 인프라",
+    "LLM 서빙"
+   ],
+   "definition": "인공지능 모델을 빠르고 싸게 학습·추론하도록 하는 컴퓨터 시스템 소프트웨어·하드웨어.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "ai-accelerator-hardware",
+   "name_ko": "AI 반도체·가속기",
+   "name_en": "AI accelerator hardware",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics",
+    "computing-ai"
+   ],
+   "aliases": [
+    "AI 가속기",
+    "AI accelerator",
+    "NPU",
+    "AI chip",
+    "AI 칩"
+   ],
+   "definition": "인공지능 계산을 빠르고 적은 전력으로 하도록 만든 칩과 하드웨어 구조.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "PIM 가속기는 메모리 내 연산과 함께 달 수 있다. \"AI 반도체\" 검색은 트렌드 사전이 여러 태그로 푼다."
+  },
+  {
+   "id": "computer-architecture",
+   "name_ko": "컴퓨터 구조·운영체제",
+   "name_en": "Computer architecture and operating systems",
+   "axis": "object",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "컴퓨터 구조",
+    "운영체제",
+    "computer architecture",
+    "operating system",
+    "CXL",
+    "메모리 시스템"
+   ],
+   "definition": "프로세서·메모리 같은 컴퓨터 하드웨어의 구조와 이를 관리하는 운영체제.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "computer-networking",
+   "name_ko": "컴퓨터 네트워크",
+   "name_en": "Computer networking",
+   "axis": "object",
+   "fields": [
+    "computing-ai",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "networking",
+    "데이터센터 네트워크",
+    "인터넷 라우팅",
+    "network systems"
+   ],
+   "definition": "컴퓨터들이 데이터를 주고받는 인터넷·데이터센터 통신망의 구조와 전송 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "wireless-communication",
+   "name_ko": "무선·이동통신",
+   "name_en": "Wireless and mobile communication",
+   "axis": "application",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "이동통신",
+    "무선 통신",
+    "wireless communication",
+    "MIMO",
+    "5G 이동통신",
+    "6G 이동통신",
+    "셀룰러"
+   ],
+   "definition": "전파로 휴대폰·기지국·기기 사이에 데이터를 주고받는 통신 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "coding-theory",
+   "name_ko": "오류 정정 부호",
+   "name_en": "Error-correcting codes",
+   "axis": "method",
+   "fields": [
+    "electrical-electronics",
+    "math-statistics"
+   ],
+   "aliases": [
+    "채널 코딩",
+    "channel coding",
+    "error correcting code",
+    "ECC",
+    "부호 이론"
+   ],
+   "definition": "전송·저장 중 생긴 오류를 찾아 고칠 수 있도록 데이터에 덧붙이는 부호.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "software-security",
+   "name_ko": "소프트웨어·시스템 보안",
+   "name_en": "Software and system security",
+   "axis": "application",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "시스템 보안",
+    "소프트웨어 보안",
+    "취약점 분석",
+    "software security",
+    "system security",
+    "해킹"
+   ],
+   "definition": "운영체제·프로그램·펌웨어의 취약점을 찾아 공격을 막는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "fuzzing",
+   "name_ko": "퍼징",
+   "name_en": "Fuzzing",
+   "axis": "method",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "퍼즈 테스트",
+    "fuzz testing"
+   ],
+   "definition": "무작위에 가까운 입력을 대량으로 넣어 프로그램 오류와 취약점을 찾는 시험 기법.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "program-analysis",
+   "name_ko": "프로그램 분석·검증",
+   "name_en": "Program analysis and verification",
+   "axis": "method",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "프로그램 분석",
+    "정적 분석",
+    "static analysis",
+    "형식 검증",
+    "formal verification",
+    "바이너리 분석",
+    "컴파일러 검증"
+   ],
+   "definition": "프로그램을 실행하지 않거나 실행해 보며 오류·보안 문제를 찾고 올바름을 증명하는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "network-security-privacy",
+   "name_ko": "네트워크 보안·프라이버시",
+   "name_en": "Network security and privacy",
+   "axis": "application",
+   "fields": [
+    "computing-ai",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "네트워크 보안",
+    "프라이버시",
+    "privacy",
+    "network security",
+    "DDoS",
+    "이동통신 보안",
+    "익명 통신",
+    "물리계층 보안"
+   ],
+   "definition": "통신망을 오가는 데이터와 사용자를 공격·감청·추적에서 지키는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "보안·프라이버시가 목적이면 이 태그, 망 구조·전송 성능이면 컴퓨터 네트워크."
+  },
+  {
+   "id": "hardware-security",
+   "name_ko": "하드웨어 보안",
+   "name_en": "Hardware security",
+   "axis": "application",
+   "fields": [
+    "electrical-electronics",
+    "computing-ai"
+   ],
+   "aliases": [
+    "PUF",
+    "물리적 복제 방지",
+    "진성 난수 발생기",
+    "TRNG",
+    "보안 소자",
+    "신뢰 실행 환경",
+    "TEE"
+   ],
+   "definition": "칩·소자의 물리 성질로 암호 키를 만들거나 지키고, 하드웨어 수준에서 공격을 막는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "blockchain",
+   "name_ko": "블록체인",
+   "name_en": "Blockchain",
+   "axis": "object",
+   "fields": [
+    "computing-ai",
+    "social-humanities"
+   ],
+   "aliases": [
+    "암호화폐",
+    "cryptocurrency",
+    "분산 원장"
+   ],
+   "definition": "여러 참여자가 같은 거래 기록을 나눠 갖고 함께 검증하는 분산 장부 기술과 그 위의 암호화폐 경제.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "reinforcement-learning",
+   "name_ko": "강화학습",
+   "name_en": "Reinforcement learning",
+   "axis": "method",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "역강화학습",
+    "inverse reinforcement learning"
+   ],
+   "definition": "시행착오로 보상을 가장 크게 하는 행동을 배우는 기계학습 방법.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "방법 태그: 랩이 연구 방법으로 내세우거나 대표 논문의 핵심 방법일 때만."
+  },
+  {
+   "id": "statistical-inference",
+   "name_ko": "통계적 추론·검정",
+   "name_en": "Statistical inference and testing",
+   "axis": "method",
+   "fields": [
+    "math-statistics"
+   ],
+   "aliases": [
+    "통계 검정",
+    "가설 검정",
+    "A/B 검정",
+    "A/B test",
+    "비모수 통계",
+    "hypothesis testing"
+   ],
+   "definition": "자료로 가설을 검정하고 불확실성을 따지는 통계 방법.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "anomaly-change-detection",
+   "name_ko": "이상·변화점 탐지",
+   "name_en": "Anomaly and change-point detection",
+   "axis": "method",
+   "fields": [
+    "math-statistics",
+    "computing-ai"
+   ],
+   "aliases": [
+    "이상 탐지",
+    "변화점 탐지",
+    "anomaly detection",
+    "change-point detection",
+    "이상치 탐지"
+   ],
+   "definition": "데이터 흐름에서 평소와 다른 값이나 성질이 바뀌는 순간을 찾아내는 방법.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "self-driving-lab",
+   "name_ko": "자율 실험실·AI 실험 설계",
+   "name_en": "Self-driving labs and AI experiment design",
+   "axis": "method",
+   "fields": [
+    "computing-ai",
+    "materials"
+   ],
+   "aliases": [
+    "자율 실험실",
+    "self-driving lab",
+    "자율 실험",
+    "베이지안 최적화",
+    "Bayesian optimization"
+   ],
+   "definition": "인공지능이 다음 실험 조건을 고르고 장비가 실험을 이어 가며 소재·화학 조건을 찾는 방식.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "사람 대상 실험의 적응형 설계는 제외."
+  },
+  {
+   "id": "ai-for-science",
+   "name_ko": "과학·공학 AI",
+   "name_en": "AI for science and engineering",
+   "axis": "method",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "AI for science",
+    "과학 AI",
+    "물리 기반 AI",
+    "physics-informed AI",
+    "과학을 위한 인공지능"
+   ],
+   "definition": "인공지능을 물리·화학·재료·기후 같은 과학·공학 문제의 계산·측정·해석에 쓰는 연구.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "공정 운영 최적화 AI는 해당 응용 태그(스마트 제조·수처리 등)로."
+  },
+  {
+   "id": "hci",
+   "name_ko": "인간–컴퓨터 상호작용",
+   "name_en": "Human-computer interaction",
+   "axis": "object",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "HCI",
+    "인간-컴퓨터 상호작용",
+    "사용자 인터페이스",
+    "인터랙션 디자인"
+   ],
+   "definition": "사람이 컴퓨터·기기를 더 쉽고 자연스럽게 쓰도록 입력·출력과 사용 경험을 설계하고 평가하는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "HCI를 연구 분야로 따로 서술한 랩에만. 햅틱·XR만 있으면 해당 태그만."
+  },
+  {
+   "id": "xr",
+   "name_ko": "가상·증강현실",
+   "name_en": "Virtual, augmented and mixed reality",
+   "axis": "object",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "XR",
+    "VR",
+    "AR",
+    "MR",
+    "가상현실",
+    "증강현실",
+    "혼합현실",
+    "확장현실",
+    "virtual reality",
+    "augmented reality",
+    "mixed reality"
+   ],
+   "definition": "컴퓨터가 만든 가상 공간이나 현실에 겹친 가상 정보를 보고 조작하게 하는 기술과 그 기기·콘텐츠·상호작용 연구.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "가상현실을 실험 도구로만 쓰면 달지 않는다. \"메타버스\" 검색은 트렌드 사전이 푼다."
+  },
+  {
+   "id": "digital-human-avatar",
+   "name_ko": "디지털 휴먼·아바타",
+   "name_en": "Digital humans and avatars",
+   "axis": "object",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "아바타",
+    "avatar",
+    "디지털 휴먼",
+    "digital human",
+    "캐릭터 애니메이션",
+    "모션 캡처",
+    "motion capture",
+    "동작 생성"
+   ],
+   "definition": "사람의 모습과 움직임을 컴퓨터 속에 재현한 캐릭터와 이를 만들고 움직이는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "computational-neuroscience",
+   "name_ko": "계산신경과학",
+   "name_en": "Computational neuroscience",
+   "axis": "method",
+   "fields": [
+    "basic-life",
+    "computing-ai"
+   ],
+   "aliases": [
+    "계산 신경과학",
+    "뇌 동역학",
+    "커넥톰",
+    "connectome"
+   ],
+   "definition": "뇌와 신경 회로가 정보를 처리하는 원리를 수학 모형과 계산으로 밝히는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "brain-inspired-ai",
+   "name_ko": "뇌 모방 인공지능",
+   "name_en": "Brain-inspired AI",
+   "axis": "method",
+   "fields": [
+    "computing-ai",
+    "basic-life"
+   ],
+   "aliases": [
+    "뉴로-AI",
+    "NeuroAI",
+    "뇌에서 배운 인공지능"
+   ],
+   "definition": "뇌의 구조와 학습 방식에서 착안한 인공지능 알고리즘.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "cognitive-science",
+   "name_ko": "인지과학·의사결정",
+   "name_en": "Cognitive science and decision making",
+   "axis": "object",
+   "fields": [
+    "basic-life",
+    "social-humanities"
+   ],
+   "aliases": [
+    "인지과학",
+    "cognitive science",
+    "의사결정",
+    "decision making",
+    "인지 모델링",
+    "정신물리학",
+    "신경경제학"
+   ],
+   "definition": "사람의 지각·주의·기억·의사결정이 어떻게 이루어지는지 실험과 계산 모형으로 연구하는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "computational-social-science",
+   "name_ko": "계산 사회과학",
+   "name_en": "Computational social science",
+   "axis": "method",
+   "fields": [
+    "social-humanities",
+    "computing-ai"
+   ],
+   "aliases": [
+    "사회 연결망 분석",
+    "social network analysis",
+    "소셜 데이터 분석"
+   ],
+   "definition": "온라인 기록·연결망 같은 대규모 자료와 계산 방법으로 사회 현상을 연구하는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "economics-market-design",
+   "name_ko": "경제 이론·시장 설계",
+   "name_en": "Economic theory and market design",
+   "axis": "method",
+   "fields": [
+    "social-humanities",
+    "math-statistics"
+   ],
+   "aliases": [
+    "메커니즘 설계",
+    "mechanism design",
+    "경매 이론",
+    "auction theory",
+    "시장 설계",
+    "매칭 이론",
+    "미시경제"
+   ],
+   "definition": "경매·매칭처럼 사람들의 선택이 모여 좋은 결과를 내도록 규칙을 설계하는 경제 이론.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "culture-heritage-arts",
+   "name_ko": "문화유산·예술 기술",
+   "name_en": "Cultural heritage and arts technology",
+   "axis": "application",
+   "fields": [
+    "social-humanities",
+    "computing-ai"
+   ],
+   "aliases": [
+    "디지털 헤리티지",
+    "digital heritage",
+    "문화유산",
+    "문화 기술",
+    "가상 박물관"
+   ],
+   "definition": "문화유산과 문화·예술을 디지털로 기록·분석·전시하는 기술과 문화·예술 자료의 계산 분석.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "architecture-space-design",
+   "name_ko": "건축·공간 설계",
+   "name_en": "Architecture and spatial design",
+   "axis": "application",
+   "fields": [
+    "civil-infrastructure",
+    "social-humanities"
+   ],
+   "aliases": [
+    "건축 설계",
+    "공간 디자인",
+    "architectural design",
+    "공간 설계"
+   ],
+   "definition": "사람이 머무는 건물과 공간을 데이터·인공지능·가상현실로 설계하고 평가하는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "transport-urban-planning",
+   "name_ko": "교통·도시 계획",
+   "name_en": "Transportation and urban planning",
+   "axis": "application",
+   "fields": [
+    "civil-infrastructure"
+   ],
+   "aliases": [
+    "교통 계획",
+    "도시 계획",
+    "transportation",
+    "urban planning",
+    "교통 시뮬레이션",
+    "도시 과학",
+    "교통안전",
+    "운전자 행동",
+    "보행자 안전"
+   ],
+   "definition": "사람과 차량의 이동, 교통안전과 운전자 행동을 분석해 교통 체계와 도시 공간을 계획하는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "climate-weather",
+   "name_ko": "기후·극한 기상",
+   "name_en": "Climate and extreme weather",
+   "axis": "object",
+   "fields": [
+    "energy-environment"
+   ],
+   "aliases": [
+    "기후 변화",
+    "climate change",
+    "극한 기상",
+    "기후 모델",
+    "기상 재해",
+    "기후 위험"
+   ],
+   "definition": "기후 변화와 홍수·가뭄·폭염 같은 극한 기상의 원인과 영향을 관측·모형으로 연구하는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "water-treatment",
+   "name_ko": "수처리",
+   "name_en": "Water treatment",
+   "axis": "application",
+   "fields": [
+    "energy-environment",
+    "civil-infrastructure"
+   ],
+   "aliases": [
+    "폐수 처리",
+    "초순수",
+    "과불화화합물 제거",
+    "PFAS"
+   ],
+   "definition": "물에서 오염물을 걸러 내거나 분해해 마시는 물·공업용수·초순수를 만들고 폐수를 정화하는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "membrane-separation",
+   "name_ko": "분리막",
+   "name_en": "Membrane separation",
+   "axis": "method",
+   "fields": [
+    "chemical-bioengineering",
+    "materials"
+   ],
+   "aliases": [
+    "멤브레인",
+    "membrane",
+    "분리막 공정",
+    "기체 분리"
+   ],
+   "definition": "아주 작은 구멍이나 성질 차이로 특정 분자만 통과시키는 얇은 막으로 물질을 나누는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "lasers",
+   "name_ko": "레이저 광원",
+   "name_en": "Lasers",
+   "axis": "object",
+   "fields": [
+    "physics",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "레이저",
+    "laser",
+    "광섬유 레이저",
+    "fiber laser",
+    "모드 잠금 레이저",
+    "mode-locked laser",
+    "브릴루앙 레이저"
+   ],
+   "definition": "빛을 증폭해 방향과 파장이 고른 빛을 내는 광원과 그 설계.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "optical-microresonator",
+   "name_ko": "광 미세 공진기",
+   "name_en": "Optical microresonators",
+   "axis": "object",
+   "fields": [
+    "physics",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "광 공진기",
+    "마이크로 공진기",
+    "microresonator",
+    "초고품질 공진기",
+    "ultra-high-Q resonator",
+    "링 공진기"
+   ],
+   "definition": "빛을 칩 위의 작은 고리·원반 구조 안에 오래 가두어 세기를 키우는 광학 구조.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "quantum-transport",
+   "name_ko": "양자 수송·메조스코픽 물리",
+   "name_en": "Quantum transport and mesoscopic physics",
+   "axis": "object",
+   "fields": [
+    "physics"
+   ],
+   "aliases": [
+    "양자 수송",
+    "quantum transport",
+    "메조스코픽",
+    "mesoscopic physics",
+    "전하 수송",
+    "전자 양자 광학",
+    "단일 전자"
+   ],
+   "definition": "작은 전도체에서 전자가 흐를 때 드러나는 양자 현상과 이를 재고 설명하는 연구.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "atomic-physics",
+   "name_ko": "원자 물리·광집게 원자 배열",
+   "name_en": "Atomic physics and optical tweezer arrays",
+   "axis": "object",
+   "fields": [
+    "physics"
+   ],
+   "aliases": [
+    "원자 물리",
+    "광집게",
+    "optical tweezers",
+    "중성 원자",
+    "neutral atom",
+    "리드버그 원자",
+    "Rydberg atom",
+    "냉각 원자"
+   ],
+   "definition": "레이저로 원자를 붙잡고 식히고 옮겨 배열하며 그 양자 상태를 다루는 연구.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "probabilistic-computing",
+   "name_ko": "확률 컴퓨팅",
+   "name_en": "Probabilistic computing",
+   "axis": "method",
+   "fields": [
+    "electrical-electronics",
+    "computing-ai"
+   ],
+   "aliases": [
+    "확률 비트",
+    "p-bit",
+    "probabilistic bit",
+    "볼츠만 머신"
+   ],
+   "definition": "0과 1을 무작위로 오가는 확률 비트로 최적화·추론 같은 계산을 하는 방식과 그 소자.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "sol-gel-hybrid",
+   "name_ko": "졸-겔·유무기 하이브리드 소재",
+   "name_en": "Sol-gel and organic-inorganic hybrid materials",
+   "axis": "object",
+   "fields": [
+    "materials",
+    "chemistry"
+   ],
+   "aliases": [
+    "졸-겔",
+    "sol-gel",
+    "유무기 하이브리드",
+    "실록산",
+    "siloxane",
+    "하이브리머"
+   ],
+   "definition": "용액 속 전구체가 반응해 고체 그물 구조가 되는 졸-겔 공정과 이 공정으로 만든 유기물·무기물 혼성 소재.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "triboelectricity",
+   "name_ko": "마찰전기",
+   "name_en": "Triboelectricity",
+   "axis": "object",
+   "fields": [
+    "physics",
+    "materials"
+   ],
+   "aliases": [
+    "마찰 대전",
+    "contact electrification",
+    "triboelectric"
+   ],
+   "definition": "서로 다른 물질이 닿았다 떨어질 때 전하가 옮겨 가는 현상과 그 원리.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "thermal-transport",
+   "name_ko": "고체 열 수송·열물성 측정",
+   "name_en": "Solid-state thermal transport and metrology",
+   "axis": "object",
+   "fields": [
+    "physics",
+    "materials"
+   ],
+   "aliases": [
+    "열 수송",
+    "thermal transport",
+    "포논",
+    "phonon",
+    "열전도율",
+    "thermal conductivity",
+    "열물성 측정"
+   ],
+   "definition": "고체 속에서 열이 원자 진동(포논)과 전자로 전달되는 원리와 열전도율 같은 열 성질을 재는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "biogas",
+   "name_ko": "바이오가스·혐기성 소화",
+   "name_en": "Biogas and anaerobic digestion",
+   "axis": "application",
+   "fields": [
+    "energy-environment",
+    "chemical-bioengineering"
+   ],
+   "aliases": [
+    "바이오가스",
+    "혐기성 소화",
+    "anaerobic digestion",
+    "유기성 폐기물 에너지화"
+   ],
+   "definition": "산소 없이 미생물로 음식물 쓰레기 같은 유기물을 분해해 메탄을 얻는 공정.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "robot-actuators-sensors",
+   "name_ko": "로봇 구동기·센서",
+   "name_en": "Robot actuators and sensors",
+   "axis": "object",
+   "fields": [
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "구동기",
+    "actuator",
+    "직렬 탄성 구동기",
+    "series elastic actuator",
+    "힘·토크 센서",
+    "force-torque sensor",
+    "로봇 센서"
+   ],
+   "definition": "로봇 관절을 움직이는 모터·구동 장치와 로봇이 힘·접촉을 재는 센서.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "medical-robotics",
+   "name_ko": "수술·의료 로봇",
+   "name_en": "Surgical and medical robots",
+   "axis": "application",
+   "fields": [
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "수술 로봇",
+    "surgical robot",
+    "의료 로봇",
+    "medical robot"
+   ],
+   "definition": "수술을 돕거나 몸 안을 살피고 치료하는 로봇.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "vibration-noise",
+   "name_ko": "진동·소음 공학",
+   "name_en": "Vibration and noise engineering",
+   "axis": "method",
+   "fields": [
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "진동",
+    "vibration",
+    "진동 해석",
+    "충격 절연",
+    "진동 절연",
+    "구조 동역학",
+    "소음"
+   ],
+   "definition": "기계와 구조물의 진동·충격·소리를 해석하고 줄이거나 막는 공학.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "lidar-3d-sensing",
+   "name_ko": "라이다·3차원 거리 센싱",
+   "name_en": "LiDAR and 3D depth sensing",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics",
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "라이다",
+    "LiDAR",
+    "ToF",
+    "깊이 센서",
+    "depth sensing",
+    "3차원 거리 측정"
+   ],
+   "definition": "빛을 쏘아 되돌아오는 시간이나 위상으로 물체까지 거리와 3차원 모양을 재는 센서.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "high-speed-interface",
+   "name_ko": "고속 유선 인터페이스",
+   "name_en": "High-speed wireline interfaces",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "SerDes",
+    "고속 직렬 통신",
+    "고속 인터페이스",
+    "wireline transceiver",
+    "칩렛 인터페이스",
+    "메모리 인터페이스"
+   ],
+   "definition": "칩과 칩, 칩과 메모리 사이에서 데이터를 아주 빠르게 주고받는 유선 송수신 회로.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "plasmonics",
+   "name_ko": "플라즈모닉스",
+   "name_en": "Plasmonics",
+   "axis": "object",
+   "fields": [
+    "physics",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "나노플라즈모닉스",
+    "표면 플라즈몬",
+    "surface plasmon",
+    "SERS",
+    "표면증강 라만"
+   ],
+   "definition": "금속 나노 구조 표면의 전자 진동(플라즈몬)으로 빛을 아주 좁은 곳에 모으고 다루는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "hydrology",
+   "name_ko": "수문·물 순환",
+   "name_en": "Hydrology and water cycle",
+   "axis": "object",
+   "fields": [
+    "energy-environment",
+    "civil-infrastructure"
+   ],
+   "aliases": [
+    "수문학",
+    "hydrology",
+    "물 순환",
+    "water cycle",
+    "지면 모델",
+    "land surface model"
+   ],
+   "definition": "비·증발·하천·지하수로 이어지는 물의 순환과 지면과 대기 사이의 물·에너지 교환을 관측·모형으로 다루는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "remote-sensing",
+   "name_ko": "위성 원격탐사",
+   "name_en": "Satellite remote sensing",
+   "axis": "method",
+   "fields": [
+    "energy-environment",
+    "computing-ai"
+   ],
+   "aliases": [
+    "원격탐사",
+    "remote sensing",
+    "위성 영상",
+    "위성 자료",
+    "satellite data",
+    "지구 관측"
+   ],
+   "definition": "위성·항공기 센서로 지표와 대기를 멀리서 관측하고 그 자료를 분석하는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "world-model",
+   "name_ko": "월드 모델",
+   "name_en": "World models",
+   "axis": "method",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "세계 모형",
+    "world model",
+    "월드 모형"
+   ],
+   "definition": "행동이나 조건에 따라 다음 장면·상태가 어떻게 바뀔지 예측하도록 세상을 학습한 인공지능 모델.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "digital-fashion",
+   "name_ko": "디지털 패션·의복 시뮬레이션",
+   "name_en": "Digital fashion and garment simulation",
+   "axis": "application",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "디지털 패션",
+    "digital fashion",
+    "의복 시뮬레이션",
+    "garment simulation",
+    "옷감 시뮬레이션",
+    "의복 패턴"
+   ],
+   "definition": "옷의 재단 패턴과 옷감의 움직임을 컴퓨터로 만들고 시뮬레이션하는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "smart-building",
+   "name_ko": "스마트홈·스마트빌딩",
+   "name_en": "Smart homes and buildings",
+   "axis": "application",
+   "fields": [
+    "civil-infrastructure",
+    "computing-ai"
+   ],
+   "aliases": [
+    "스마트홈",
+    "smart home",
+    "스마트빌딩",
+    "smart building",
+    "실내 환경"
+   ],
+   "definition": "센서·데이터·인공지능으로 집과 건물의 환경과 설비를 살피고 조절하는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-10-21",
+   "change": "T46a 초안: KAIST 84곳 분야 줄·주요 연구 주제에서 군집화"
+  },
+  {
+   "date": "2026-10-21",
+   "change": "T46a v0.2: 부여 6묶음의 신규 요청 38건·어휘 메모 52건 판정. 신규 태그 20, 정의·별칭·이름 손질, 태거용 경계 규칙(note), 대분야 기계·로봇·제조 정의에 열·유체·항공우주 명시"
+  },
+  {
+   "date": "2026-10-21",
+   "change": "v1.0 사용자 승인(T46-G): 대분야 「인문·사회·경제」 추가, 별칭 규칙(같은 대상 표기와 별도 태그 없는 하위 용어, 2글자 별칭은 질의 전체 일치), 1곳 태그 유지(KAIST 전수 뒤 재검토), 트렌드 검색어 25건, 어휘 본체 그대로 확정"
+  }
+ ]
+}

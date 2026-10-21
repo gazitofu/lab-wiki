@@ -3,6 +3,8 @@
 **KAIST 신소재공학과 · 정성윤 교수**
 
 - 분야: 수전해 촉매(그린수소), 산화물 에너지 소재, 원자 수준 전자현미경 분석, 적층 세라믹 커패시터, 이차전지 양극재
+- 대분야: 소재, 에너지·환경·지구
+- 태그: 전기화학 촉매[^research][^p1][^p4], 수전해[^p1], 전자현미경[^research][^p3], 결함 공학[^research][^p5][^p6], 세라믹 소재[^p5][^p6], 이차전지 소재[^p7][^p8]
 - 홈페이지: <https://sites.google.com/site/atomicscaledefects/> (랩 사이트 이름 Atomic-Scale Defects in Crystals)
 - 근거와 출처: [Atomic-Scale Defects Engineering Lab 근거 페이지](atomic-defects-sources.md)
 

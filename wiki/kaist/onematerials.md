@@ -3,6 +3,8 @@
 **KAIST 신소재공학과 · Subhajit Pal 교수**
 
 - 분야: 아미노산 같은 천연 원료로 만드는 정밀 고분자 합성(리빙 중합), 조직 재생·지혈·봉합용 생체재료(하이드로겔, 의료용 접착제), 재활용·분해 가능한 고성능 지속가능 소재
+- 대분야: 소재, 화학
+- 태그: 연성 소재·고분자[^research], 생체재료·조직 공학[^research], 순환·지속가능 소재[^research]
 - 홈페이지: <https://www.onematerialslab.com/>
 - 근거와 출처: [Pal Research Group 근거 페이지](onematerials-sources.md)
 

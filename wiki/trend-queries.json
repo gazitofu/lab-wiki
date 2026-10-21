@@ -1,0 +1,433 @@
+{
+ "version": "1.0",
+ "updated": "2026-10-21",
+ "trends": [
+  {
+   "id": "on-device-ai-chip",
+   "query": "온디바이스 AI 칩",
+   "aliases": [
+    "엣지 AI 칩",
+    "on-device AI",
+    "엣지 AI 하드웨어"
+   ],
+   "tags": [
+    "ai-accelerator-hardware",
+    "in-memory-computing",
+    "neuromorphic-device",
+    "memristor",
+    "probabilistic-computing"
+   ],
+   "note": "기기 안에서 AI를 돌리는 저전력 칩. 소자(멤리스터·뉴로모픽)부터 구조(메모리 내 연산)까지 묶는다",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "ai-memory",
+   "query": "HBM·AI 메모리",
+   "aliases": [
+    "HBM",
+    "고대역폭 메모리",
+    "AI 메모리"
+   ],
+   "tags": [
+    "memory-device",
+    "advanced-packaging",
+    "in-memory-computing",
+    "computer-architecture",
+    "3d-integration",
+    "high-speed-interface"
+   ],
+   "note": "AI 연산용 고대역폭 메모리와 그 적층·패키징·시스템",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "next-gen-memory",
+   "query": "차세대 메모리",
+   "aliases": [
+    "차세대 비휘발성 메모리",
+    "emerging memory"
+   ],
+   "tags": [
+    "memory-device",
+    "memristor",
+    "ferroelectrics",
+    "magnetic-memory"
+   ],
+   "note": "낸드·DRAM 다음 원리의 메모리",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "physical-ai",
+   "query": "피지컬 AI",
+   "aliases": [
+    "Physical AI",
+    "임바디드 AI",
+    "embodied AI",
+    "체화 인공지능"
+   ],
+   "tags": [
+    "wearable-robot",
+    "legged-humanoid-robot",
+    "robot-navigation-slam",
+    "smart-manufacturing",
+    "human-robot-interaction",
+    "multi-robot-logistics",
+    "robot-actuators-sensors",
+    "world-model"
+   ],
+   "note": "현실 세계에서 몸을 가지고 움직이는 AI. 로봇·제조 쪽 태그로 푼다",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "hydrogen-economy",
+   "query": "수소 경제",
+   "aliases": [
+    "수소 에너지",
+    "hydrogen economy"
+   ],
+   "tags": [
+    "water-electrolysis",
+    "fuel-cell",
+    "solid-oxide-cell",
+    "hydrogen-storage-transport",
+    "hydrogen-mobility",
+    "ammonia"
+   ],
+   "note": "수소 생산·저장·운송·활용 전 단계",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "green-hydrogen",
+   "query": "그린수소",
+   "aliases": [
+    "그린 수소",
+    "green hydrogen",
+    "청정수소"
+   ],
+   "tags": [
+    "water-electrolysis",
+    "solid-oxide-cell",
+    "photocatalysis"
+   ],
+   "note": "재생에너지 전기·빛으로 물에서 얻는 수소",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "ccus",
+   "query": "CCUS",
+   "aliases": [
+    "탄소 포집·활용·저장",
+    "CCU",
+    "탄소 포집 활용"
+   ],
+   "tags": [
+    "carbon-capture-storage",
+    "co2-conversion"
+   ],
+   "note": "이산화탄소 포집과 전환·저장",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "e-fuel",
+   "query": "e-Fuel",
+   "aliases": [
+    "이퓨얼",
+    "합성 연료",
+    "탄소중립 연료"
+   ],
+   "tags": [
+    "co2-conversion",
+    "hydrogen-mobility",
+    "combustion",
+    "ammonia"
+   ],
+   "note": "수소와 이산화탄소 등으로 만든 합성 연료와 그 연소",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "next-gen-battery",
+   "query": "차세대 배터리",
+   "aliases": [
+    "차세대 이차전지",
+    "next-generation battery"
+   ],
+   "tags": [
+    "battery-materials",
+    "solid-state-battery",
+    "battery-management"
+   ],
+   "note": "전고체 등 차세대 전지와 관리 기술",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "quantum-technology",
+   "query": "양자 기술",
+   "aliases": [
+    "양자 과학기술",
+    "quantum technology"
+   ],
+   "tags": [
+    "quantum-computing",
+    "quantum-communication",
+    "quantum-sensing-metrology",
+    "quantum-photonics",
+    "quantum-information",
+    "quantum-error-correction",
+    "atomic-physics"
+   ],
+   "note": "양자 컴퓨팅·통신·센싱 전반",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "new-space",
+   "query": "뉴스페이스",
+   "aliases": [
+    "우주항공",
+    "민간 우주",
+    "new space"
+   ],
+   "tags": [
+    "electric-propulsion",
+    "hypersonics",
+    "rarefied-gas-dynamics",
+    "remote-sensing"
+   ],
+   "note": "위성 추진·재진입 등 우주 기술. 위성 통신은 전문 검색으로 함께 확인",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "ai-datacenter",
+   "query": "AI 데이터센터",
+   "aliases": [
+    "AI 데이터 센터",
+    "AI datacenter"
+   ],
+   "tags": [
+    "ai-systems-infrastructure",
+    "ai-accelerator-hardware",
+    "computer-networking",
+    "optical-communication",
+    "heat-transfer",
+    "high-speed-interface"
+   ],
+   "note": "AI 학습·추론 설비의 시스템·통신·냉각",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "optical-interconnect-ai",
+   "query": "광 인터커넥트·CPO",
+   "aliases": [
+    "CPO",
+    "co-packaged optics",
+    "광 패키징"
+   ],
+   "tags": [
+    "optical-communication",
+    "photonic-integrated-circuit",
+    "advanced-packaging"
+   ],
+   "note": "칩과 칩 사이를 빛으로 잇는 기술",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "digital-healthcare",
+   "query": "디지털 헬스케어",
+   "aliases": [
+    "디지털 헬스",
+    "digital health",
+    "헬스케어 기기"
+   ],
+   "tags": [
+    "wearable-biosensor",
+    "diagnostics-biosensor",
+    "implantable-bioelectronics",
+    "neural-interface",
+    "bioimage-analysis",
+    "medical-robotics"
+   ],
+   "note": "진단·모니터링 기기와 의료 데이터 분석",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "electroceuticals",
+   "query": "전자약",
+   "aliases": [
+    "electroceutical",
+    "bioelectronic medicine"
+   ],
+   "tags": [
+    "implantable-bioelectronics",
+    "neural-interface"
+   ],
+   "note": "전기·빛 자극으로 치료하는 기기",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "metaverse",
+   "query": "메타버스",
+   "aliases": [
+    "metaverse",
+    "공간 컴퓨팅",
+    "spatial computing"
+   ],
+   "tags": [
+    "xr",
+    "digital-human-avatar",
+    "haptics"
+   ],
+   "note": "가상 공간·아바타·실감 상호작용",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "ai-agent",
+   "query": "AI 에이전트",
+   "aliases": [
+    "AI agent",
+    "에이전틱 AI",
+    "agentic AI"
+   ],
+   "tags": [
+    "large-language-model",
+    "reinforcement-learning"
+   ],
+   "note": "스스로 계획하고 도구를 쓰는 AI",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "cybersecurity",
+   "query": "사이버보안",
+   "aliases": [
+    "사이버 보안",
+    "cybersecurity",
+    "정보보호"
+   ],
+   "tags": [
+    "software-security",
+    "network-security-privacy",
+    "hardware-security",
+    "fuzzing",
+    "program-analysis"
+   ],
+   "note": "소프트웨어·네트워크·하드웨어 보안 전반",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "climate-tech",
+   "query": "기후테크",
+   "aliases": [
+    "기후 기술",
+    "climate tech",
+    "탄소중립"
+   ],
+   "tags": [
+    "carbon-capture-storage",
+    "co2-conversion",
+    "water-electrolysis",
+    "climate-weather",
+    "thermal-energy-storage",
+    "sustainable-materials",
+    "biogas",
+    "hydrology"
+   ],
+   "note": "탄소 감축·기후 적응 기술",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "smart-mobility",
+   "query": "스마트 모빌리티",
+   "aliases": [
+    "미래 모빌리티",
+    "future mobility"
+   ],
+   "tags": [
+    "autonomous-driving",
+    "electric-vehicle",
+    "transport-urban-planning",
+    "hydrogen-mobility",
+    "lidar-3d-sensing"
+   ],
+   "note": "자율주행·전동화·교통 체계",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "ai-materials-discovery",
+   "query": "AI 신소재 탐색",
+   "aliases": [
+    "AI 소재 개발",
+    "materials informatics",
+    "소재 인포매틱스"
+   ],
+   "tags": [
+    "self-driving-lab",
+    "first-principles-calculation",
+    "ai-for-science"
+   ],
+   "note": "AI와 계산으로 소재를 찾는 방식",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "semiconductor-supply-chain",
+   "query": "반도체 소부장",
+   "aliases": [
+    "반도체 소재·부품·장비",
+    "반도체 장비"
+   ],
+   "tags": [
+    "thin-film-growth",
+    "atomic-layer-deposition",
+    "semiconductor-metrology",
+    "low-temperature-plasma",
+    "advanced-packaging",
+    "water-treatment"
+   ],
+   "note": "반도체 공정 소재·장비·검사와 공정 용수",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "perovskite-tandem",
+   "query": "페로브스카이트 탠덤",
+   "aliases": [
+    "페로브스카이트 태양전지",
+    "perovskite tandem"
+   ],
+   "tags": [
+    "solar-cell",
+    "halide-perovskite"
+   ],
+   "note": "차세대 태양전지",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "wearable-device",
+   "query": "웨어러블 디바이스",
+   "aliases": [
+    "웨어러블",
+    "wearable device"
+   ],
+   "tags": [
+    "wearable-biosensor",
+    "flexible-stretchable-electronics",
+    "wearable-robot",
+    "haptics"
+   ],
+   "note": "몸에 착용하는 전자 기기와 로봇",
+   "added": "2026-10-21"
+  },
+  {
+   "id": "ai-semiconductor",
+   "query": "AI 반도체",
+   "aliases": [
+    "AI semiconductor"
+   ],
+   "tags": [
+    "ai-accelerator-hardware",
+    "in-memory-computing",
+    "neuromorphic-device",
+    "memristor",
+    "optical-computing",
+    "probabilistic-computing"
+   ],
+   "note": "AI 계산용 칩 전반. 가속기 구조부터 새 소자까지 묶는다",
+   "added": "2026-10-21"
+  }
+ ]
+}
