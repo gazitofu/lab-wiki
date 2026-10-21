@@ -1,5 +1,5 @@
 {
- "version": "1.0",
+ "version": "1.1",
  "updated": "2026-10-21",
  "fields": [
   {
@@ -1739,6 +1739,36 @@
    "merged_into": null
   },
   {
+   "id": "terahertz",
+   "name_ko": "테라헤르츠 분광·소자",
+   "name_en": "Terahertz spectroscopy and devices",
+   "axis": "method",
+   "fields": [
+    "physics",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "테라헤르츠",
+    "terahertz",
+    "THz",
+    "테라헤르츠 분광",
+    "THz spectroscopy",
+    "테라헤르츠 시간영역 분광",
+    "THz-TDS",
+    "테라헤르츠 소자",
+    "테라헤르츠 스핀트로닉스"
+   ],
+   "definition": "마이크로파와 적외선 사이 주파수의 전자기파인 테라헤르츠파로 물질의 전자·자성 성질을 재는 분광 기술과, 테라헤르츠파를 내거나 검출하는 소자.",
+   "related": [
+    "ultrafast-dynamics",
+    "spintronics",
+    "magnonics"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "테라헤르츠파를 쓰는 측정·소자 연구일 때 단다. 통신 주파수 대역 이야기만 있으면 무선 통신."
+  },
+  {
    "id": "electron-microscopy",
    "name_ko": "전자현미경",
    "name_en": "Electron microscopy",
@@ -2269,7 +2299,10 @@
     "촉각 기술",
     "haptic",
     "촉각 인터페이스",
-    "촉각 피드백"
+    "촉각 피드백",
+    "전자 피부",
+    "e-skin",
+    "electronic skin"
    ],
    "definition": "진동·힘·온도 등으로 사람에게 촉감을 전하거나 촉각을 재는 기술.",
    "related": [],
@@ -2514,7 +2547,18 @@
     "audio signal processing",
     "음향 인식",
     "인공 청각",
-    "소리 합성"
+    "소리 합성",
+    "공간 음향",
+    "음성 향상",
+    "음원 분리",
+    "목표 음원 추출",
+    "음향 사건 탐지",
+    "spatial audio",
+    "speech enhancement",
+    "sound source separation",
+    "target sound extraction",
+    "sound event localization and detection",
+    "SELD"
    ],
    "definition": "소리를 재고 분석·인식·합성하는 신호 처리와 인공지능.",
    "related": [],
@@ -3740,6 +3784,10 @@
   {
    "date": "2026-10-21",
    "change": "v1.0 사용자 승인(T46-G): 대분야 「인문·사회·경제」 추가, 별칭 규칙(같은 대상 표기와 별도 태그 없는 하위 용어, 2글자 별칭은 질의 전체 일치), 1곳 태그 유지(KAIST 전수 뒤 재검토), 트렌드 검색어 25건, 어휘 본체 그대로 확정"
+  },
+  {
+   "date": "2026-10-21",
+   "change": "v1.1 사용자 승인(census-09 어휘 안건): 신규 태그 「테라헤르츠 분광·소자」, 음향·오디오 AI 별칭(공간 음향·음성 향상·음원 분리·목표 음원 추출·음향 사건 탐지·SELD 등), 햅틱 별칭(전자 피부·e-skin). 「초유체·초고체」(sqnl 요청)는 보류하고 KAIST 전수 뒤 다시 본다"
   }
  ]
 }
