@@ -8,17 +8,17 @@
 - 홈페이지: <https://urbandesignlab.kaist.ac.kr>
 - 근거와 출처: [도시설계연구실 근거 페이지](urbandesignlab-sources.md)
 
-> "도시를 어떻게 더 좋게 만들 수 있을까"를 묻고, 사람이 도시에서 일상을 꾸려 가는 데 건물과 도시 환경이 어떤 역할을 하는지를 도시설계와 도시 데이터 분석으로 탐구하는 연구실이다.[^team]
+> "도시를 어떻게 더 좋게 만들 수 있을까"를 묻고, 사람이 도시에서 일상을 꾸려 가는 데 건물과 도시 환경이 어떤 역할을 하는지를 도시설계와 도시 데이터 분석으로 탐구하는 연구실이다.[^team][^lababout]
 
 ## 무엇을 연구하나
 
-연구실은 KAIST 건설및환경공학과 김영철 교수가 이끄는 도시설계 연구실이다.[^cee][^news] KAIST 스마트시티연구센터의 연구실 소개는 연구실의 질문을 "HOW CAN WE MAKE A CITY BETTER?(도시를 어떻게 더 좋게 만들 수 있을까?)"로 내걸고, 연구실의 설계와 연구가 모두 사람이 도시 생활을 이어 가며 날마다 겪는 어려움 속에서 건물과 도시 환경이 맡는 역할을 탐구한다고 적는다.[^team] 메타버스대학원 참여 연구실 목록은 연구실의 관심 분야를 Urban Design(도시설계), Spatial Analysis(공간 분석), Urban Sustainability(도시의 지속가능성), Data-Driven Urbanism(데이터 기반 도시 연구), Urban Identity(도시 정체성)로 적고,[^metalab] 녹색성장지속가능대학원 교수진 목록은 교수의 분야를 도시설계, 도시분석, 스마트시티로 적는다.[^gggs]
+연구실은 KAIST 건설및환경공학과 김영철 교수가 이끄는 도시설계 연구실이다.[^cee][^news] KAIST 스마트시티연구센터의 연구실 소개와 연구실 누리집 About 페이지는 연구실의 질문을 "HOW CAN WE MAKE A CITY BETTER?(도시를 어떻게 더 좋게 만들 수 있을까?)"로 내걸고, 연구실의 설계와 연구가 모두 사람이 도시 생활을 이어 가며 날마다 겪는 어려움 속에서 건물과 도시 환경이 맡는 역할을 탐구한다고 적는다.[^team][^lababout] 메타버스대학원 참여 연구실 목록은 연구실의 관심 분야를 Urban Design(도시설계), Spatial Analysis(공간 분석), Urban Sustainability(도시의 지속가능성), Data-Driven Urbanism(데이터 기반 도시 연구), Urban Identity(도시 정체성)로 적고,[^metalab] 녹색성장지속가능대학원 교수진 목록은 교수의 분야를 도시설계, 도시분석, 스마트시티로 적는다.[^gggs]
 
-연구실 소개는 연구를 두 갈래로 나눈다.[^team] 첫째는 혁신적·실험적·창의적인 도시설계다. 도시설계에 실험적인 접근을 시도하고, 설계 방법과 사업에서 환경적·사회적 지속가능성을 높이며, 도시의 공간 구성(길과 공간이 서로 어떻게 이어지고 배치되는지)과 정체성을 분석해 사람들의 일상 경험과 삶을 지키려 한다. 복합 용도 개발(주거·상업·업무 같은 여러 쓰임을 한 지역이나 건물에 함께 넣는 개발), 주거 단지, 도시 재생 사업의 도시설계도 한다.[^team] 둘째는 도시 데이터 기반 분석이다. 도시에서 생겨나는 데이터로 도시의 상태를 분석하고, 공간 구성·도시에 대한 사람들의 인식·도시 정체성·재개발의 영향을 살피며, 공간 빅데이터와 사회 빅데이터로 도시의 특성을 찾아낸다. 도시 공간 연결망(urban spatial network)을 바탕으로 도시의 공간 구성을 분석하고, 도시 연결망과 사회·공간·문화·경제·환경 특성 사이의 상관도 분석한다.[^team]
+연구실 소개는 연구를 두 갈래로 나눈다.[^team][^lababout] 첫째는 혁신적·실험적·창의적인 도시설계다. 도시설계에 실험적인 접근을 시도하고, 설계 방법과 사업에서 환경적·사회적 지속가능성을 높이며, 도시의 공간 구성(길과 공간이 서로 어떻게 이어지고 배치되는지)과 정체성을 분석해 사람들의 일상 경험과 삶을 지키려 한다. 복합 용도 개발(주거·상업·업무 같은 여러 쓰임을 한 지역이나 건물에 함께 넣는 개발), 주거 단지, 도시 재생 사업의 도시설계도 한다.[^team] 둘째는 도시 데이터 기반 분석이다. 도시에서 생겨나는 데이터로 도시의 상태를 분석하고, 공간 구성·도시에 대한 사람들의 인식·도시 정체성·재개발의 영향을 살피며, 공간 빅데이터와 사회 빅데이터로 도시의 특성을 찾아낸다. 도시 공간 연결망(urban spatial network)을 바탕으로 도시의 공간 구성을 분석하고, 도시 연결망과 사회·공간·문화·경제·환경 특성 사이의 상관도 분석한다.[^team]
 
 교수는 녹색성장지속가능대학원 인터뷰에서 도시의 물리적 공간 데이터와 환경 인식, 에너지, 경제처럼 도시를 만들고 관리할 때 얽히는 여러 요소가 서로 어떤 관계에 있는지를 주로 연구한다고 소개했다.[^interview] 스마트하고(smart), 회복력 있고(resilient), 지속가능한(sustainable) 도시를 KAIST에서 하겠다고 한 세 가지로 들었고, 지속가능한 도시 가운데서도 에너지 문제, 곧 도시 안에서 에너지를 어디에 어떻게 나누고 효율적으로 적게 쓸 수 있는지에 관심이 많아 수소에너지를 도입했을 때의 대응과 에너지 공유 공동체의 구성에 관심을 가졌고, 온실가스 흡수원(대기 중 온실가스를 빨아들여 저장하는 숲·녹지 같은 곳)이 될 녹지 공간을 어떻게 배치하고 확보할지 같은 공간적 특징도 보았다고 말했다.[^interview] 인터뷰 당시 참여하던 과제는 온실가스 흡수를 늘리려면 어느 공간이 적절한지 최적의 공간을 찾는 일이었다.[^interview] 교수는 자기 분야에서 잘 알려진 방법으로 공간 구문(space syntax, 도시의 길과 공간이 이어진 짜임을 연결망으로 분석하는 이론과 방법)을 들었다.[^interview] 건설및환경공학과 교수 소개는 교수가 스마트시티와 기후변화를 고려하는 도시설계와 도시분석을 하고, 기계학습과 인공지능으로 도시의 보이지 않는 특성을 찾으려 한다고 적는다.[^cee]
 
-대표 논문으로 보면 연구는 네 갈래로 모인다. 첫째, 어린이와 보행자가 거리에서 얼마나 쉽게 다니고 어떻게 움직이는지 지도 자료와 영상으로 분석한다(대표 논문 1, 2).[^p1][^p2] 둘째, 택시 이용 자료로 도시의 토지 이용을 읽어 내고, 인공지능으로 토지 이용 계획안을 제안하는 도구를 만든다(대표 논문 3, 4).[^p3][^p4] 셋째, 도시의 열환경, 곧 더위에 취약한 곳과 사람들이 더위를 어떻게 느끼는지를 데이터로 분석한다(대표 논문 5, 6).[^p5][^p6] 넷째, 소셜미디어 글과 공개 데이터로 장소에서 사람들이 겪는 소리 경험과 관광객·주민 사이의 갈등을 공간으로 짚는다(대표 논문 7, 8).[^p7][^p8] 최근 논문 목록에는 폭염 관련 사망을 설명하는 기계학습 모형, 신호등 횡단보도의 대기 시간이 보행 접근에 주는 영향, 온라인 예약이 되는 식당의 입지 특성, 자율주행차 시대를 대비한 도시 요소 재설계, 생명 친화적 도시(biophilic urbanism)로 기후변화 적응력을 높이는 틀을 다룬 논문도 있다.[^papers]
+대표 논문으로 보면 연구는 네 갈래로 모인다. 첫째, 어린이와 보행자가 거리에서 얼마나 쉽게 다니고 어떻게 움직이는지 지도 자료와 영상으로 분석한다(대표 논문 1, 2).[^p1][^p2] 둘째, 택시 이용 자료로 도시의 토지 이용을 읽어 내고, 인공지능으로 토지 이용 계획안을 제안하는 도구를 만든다(대표 논문 3, 4).[^p3][^p4] 셋째, 도시의 열환경, 곧 더위에 취약한 곳과 사람들이 더위를 어떻게 느끼는지를 데이터로 분석한다(대표 논문 5, 6).[^p5][^p6] 넷째, 소셜미디어 글과 공개 데이터로 장소에서 사람들이 겪는 소리 경험과 관광객·주민 사이의 갈등을 공간으로 짚는다(대표 논문 7, 8).[^p7][^p8] 최근 논문 목록에는 폭염 관련 사망을 설명하는 기계학습 모형, 신호등 횡단보도의 대기 시간이 보행 접근에 주는 영향, 온라인 예약이 되는 식당의 입지 특성, 자율주행차 시대를 대비한 도시 요소 재설계, 생명 친화적 도시(biophilic urbanism)로 기후변화 적응력을 높이는 틀을 다룬 논문도 있다.[^papers] 연구실 누리집 소식에 따르면 2024–2026년에는 서울 북촌 한옥마을의 거리 단위 관광 수요를 추정해 오버투어리즘 관리에 쓰는 연구(2024년 제14회 공간 구문 심포지엄 발표), 이동 데이터로 한강공원 같은 수변 공원의 이용 양상과 공간 가치를 밝히는 연구(2024 서울 데이터 펠로우십 최우수 연구 과제), 생성형 인공지능과 규칙 기반 추론(정해 둔 규칙에 따라 결론을 끌어내는 방식)을 공간 지식 그래프(장소와 개념 사이의 관계를 연결망으로 정리한 자료)로 이어 도시 토지 이용 구상 계획을 세우는 연구(2026년 ICAPPS 발표)를 했다.[^labnews]
 
 ## 주요 연구 주제
 
@@ -55,7 +55,7 @@
 
 ## 교수와 전문 분야
 
-김영철 교수는 KAIST 건설및환경공학과 부교수이고 연구 분야는 도시설계, 학과 트랙은 스마트 도시 시스템이다.[^cee][^ceelist] 녹색성장지속가능대학원 교수진 목록에도 녹색성장지속가능대학원·건설및환경공학과 교수로 올라 있으며,[^gggs] 교수는 인터뷰에서 자신을 건설및환경공학과와 녹색성장지속가능대학원 겸임 교수로 소개했다.[^interview] 서울대학교 건축학과에서 공학사(1999)를, 같은 대학원 건축학과에서 공학석사(2001)를 받았고, 미국 미시간대학교 대학원 건축및도시계획대학에서 건축학박사(2011)를 받았다.[^cee] 서울대학교 환경설계연구실 연구조교(1999–2001), 종합건축사사무소 건원(2001–2005), 미시간대학교 연구조교(2005–2010), 홍콩시티대학교(City University of Hong Kong) 건축및토목공학과 조교수(2012–2015)를 거쳐 2016년 KAIST 건설및환경공학과 조교수가 됐고 2019년부터 부교수다.[^cee] 2017년부터 KAIST 스마트시티연구센터 센터장을 맡고 있으며, 2020–2022년 대통령소속 국가건축정책위원회(6기) 위원을 지냈다.[^cee] 스마트시티연구센터 People 페이지는 교수를 센터의 2대 센터장(2nd Director, 2017–present)으로 적고, 홍콩시티대학교에서 자신이 만든 도시설계·지역계획 석사과정(Master of Urban Design and Regional Planning)의 부책임자(associate programme leader)를 맡았다고 적는다.[^people]
+김영철 교수는 KAIST 건설및환경공학과 부교수이고 연구 분야는 도시설계, 학과 트랙은 스마트 도시 시스템이다.[^cee][^ceelist] 녹색성장지속가능대학원 교수진 목록에도 녹색성장지속가능대학원·건설및환경공학과 교수로 올라 있으며,[^gggs] 교수는 인터뷰에서 자신을 건설및환경공학과와 녹색성장지속가능대학원 겸임 교수로 소개했다.[^interview] 서울대학교 건축학과에서 공학사(1999)를, 같은 대학원 건축학과에서 공학석사(2001)를 받았고, 미국 미시간대학교 대학원 건축및도시계획대학에서 건축학박사(2011)를 받았다.[^cee] 서울대학교 환경설계연구실 연구조교(1999–2001), 종합건축사사무소 건원(2001–2005), 미시간대학교 연구조교(2005–2010), 홍콩시티대학교(City University of Hong Kong) 건축및토목공학과 조교수(2012–2015)를 거쳐 2016년 KAIST 건설및환경공학과 조교수가 됐고 2019년부터 부교수다.[^cee] 2017년부터 KAIST 스마트시티연구센터 센터장을 맡고 있으며, 2020–2022년 대통령소속 국가건축정책위원회(6기) 위원을 지냈다.[^cee] 스마트시티연구센터 People 페이지는 교수를 센터의 2대 센터장(2nd Director, 2017–present)으로 적고, 홍콩시티대학교에서 자신이 만든 도시설계·지역계획 석사과정(Master of Urban Design and Regional Planning)의 부책임자(associate programme leader)를 맡았다고 적는다.[^people] 연구실 누리집 People 페이지는 교수를 건축사(Architect)로 적고, 홍콩시티대학교에서 건축학 석사과정(Master of Architecture)의 부책임자(2014–2015)도 맡았으며 국토교통부 건축사 면허가 있다고 적는다. 같은 페이지가 꼽는 교수의 설계·연구 관심사는 도시설계와 이론, 도시 재개발과 재활성화, 문화 간 비교, 지식 확산, 아시아의 주거 설계와 개발, 인공지능을 활용한 데이터 기반 공간 분석이다.[^labpeople]
 
 건설및환경공학과 교수 소개는 교수를 도시설계가, 건축사, 연구자, 교육자로 소개하고, 도시와 건축의 설계·이론·역사를 가르친다고 적는다.[^cee] 주된 연구는 도시설계와 도시개발의 역사와 이론에 바탕을 두고 도시에서 사람의 행동과 사회적 책임을 다루는 것이며, 보통 사람들이 도시 생활을 이어 가도록 돕는 도시 환경의 지속적인 발전에 기여하고자 한다고 밝힌다.[^cee] 주요 연구 분야로 도시설계, 도시분석, 스마트시티, 공간분석, 도시데이터분석, 마스터플래닝(지역 전체의 토지 이용과 건물·도로 배치를 큰 그림으로 짜는 계획), 건축설계, 도시재개발을 든다.[^cee] 교수는 인터뷰 당시 학부생에게 도시건축학개론을 가르치며 도시의 용도와 밀도, 용적률 같은 개념을 다룬다고 말했다.[^interview]
 
@@ -67,35 +67,61 @@
 
 스마트시티연구센터 소식에 따르면 연구실은 2022년 가상·증강현실과 공간 디자인을 결합해 지하 도시에서 사람이 오래 살 수 있도록 하는 공간 설계 기술 개발 과제를 시작했고, 2023년 건축물의 공개 정보로 소규모 건축물의 에너지 등급을 낮은 비용으로 매기는 알고리즘 개발을 시작했다.[^news] 2023년에는 관악구 스마트도시 서비스 기획·실증 리빙랩(주민이 직접 지역 문제를 찾고 서비스를 기획·실험하는 현장 실험실) 운영에 참여했고, 디지털 트윈을 활용한 도시계획·관리 디지털 자동화 기술, 도심항공교통(UAM) 인프라 관리와 확장현실 기반 건축물 통합관리를 다루는 스마트+빌딩 연구개발, 탄소중립을 위한 스마트그린산업단지 통합 에너지 관리, 도시 혁신을 위한 산업단지 재구조화 공간계획관리 기술의 기획에 참여했다.[^news] 연구실은 자율주행차·도로·가상현실 속 도시의 미래 모습을 담은 2050년 국토 도시 미래상 발표에도 참여했다.[^news]
 
-교수는 공간 구문론으로 공간의 주요 특징을 끌어내 도시 개발과 관리에 컨설팅하는 일을 하고 싶다고 말하고, 함께 연구하는 학생들이 도시의 개발과 관리에서 역할을 하기를 기대한다고 밝혔다.[^interview] 대표 논문들은 거리 수준의 보행 접근으로 접근이 적은 어린이가 사는 취약 지역을 짚어 내고,[^p1] 도시 안 열 취약성 분석 틀을 제공하며,[^p5] 도시계획가가 시민의 소리 경험을 이해하는 도구를 내놓고,[^p7] 오버투어리즘 관리 전략이 필요한 지역을 찾는 데 쓰일 수 있다고 보았다.[^p8] 연구실 석사과정생 두 명은 「AI 임대차 리스크 조회 플랫폼, 깡전킬러」로 2022년 스마트시티 창업아이디어 공모전에서 우수상을 받았다.[^news] 연구실 박사과정생이던 최준용 박사는 2024년 단국대학교 도시계획부동산학부 조교수가 됐다.[^news]
+교수는 공간 구문론으로 공간의 주요 특징을 끌어내 도시 개발과 관리에 컨설팅하는 일을 하고 싶다고 말하고, 함께 연구하는 학생들이 도시의 개발과 관리에서 역할을 하기를 기대한다고 밝혔다.[^interview] 대표 논문들은 거리 수준의 보행 접근으로 접근이 적은 어린이가 사는 취약 지역을 짚어 내고,[^p1] 도시 안 열 취약성 분석 틀을 제공하며,[^p5] 도시계획가가 시민의 소리 경험을 이해하는 도구를 내놓고,[^p7] 오버투어리즘 관리 전략이 필요한 지역을 찾는 데 쓰일 수 있다고 보았다.[^p8] 연구실 석사과정생 두 명은 「AI 임대차 리스크 조회 플랫폼, 깡전킬러」로 2022년 스마트시티 창업아이디어 공모전에서 우수상을 받았다.[^news] 연구실 박사과정생이던 최준용 박사는 2024년 단국대학교 도시계획부동산학부 조교수가 됐다.[^news] 누리집 소식에 따르면 Yesuel Kim 박사는 2025년 9월 한동대학교 School of AI Convergence 조교수가, 박철웅(Chulwoong Park) 박사는 2026년 9월 한양대학교 Graduate School of Urban Studies의 Department of Urban and Regional Development Management 조교수가 됐다. 노원준(Wonjun No) 박사는 2024년 11월 Korea Research Institute for Human Settlements(KRIHS)의 Smart Cities and Disaster Prevention Research Center에, 변기영(Giyoung Byun) 박사는 2024년 4월 Architecture and Urban Research Institute(AURI)에 Associate Research Fellow로 합류했다.[^labnews]
 
 ## 구성원
 
-KAIST 스마트시티연구센터 소식(2021–2023년 게시)에 도시설계연구실 사람으로 이름이 나온 구성원이다. 과정은 소식이 적은 표기이고 괄호 안은 그 소식의 게시 연월이다. 연구 주제 칸은 소식에 실린 발표 제목이다.[^news] 최준용과 노원준의 2024년 3월 진로 소식은 아래 「졸업생과 이전 구성원」 표에도 정리했다.[^news] "대표 논문 참여"는 위 대표 논문 표의 번호이며, 같은 이름의 저자를 같은 사람으로 보아 표시했다.
+연구실 누리집 People 페이지의 Researcher 목록과, 누리집 소식이 2026년 3월 석사과정 시작을 알린 두 사람(Jung Woo JANG, Jiwon Kim)이다.[^labpeople][^labnews] 이름과 과정, 시작 연도는 People 페이지 표기이고, 두 사람의 과정은 소식의 표기다. 연구 주제 칸은 누리집 소식이 그 사람의 관심 분야로 적은 내용이며 괄호 안은 소식의 게시 연월이다.[^labnews] People 페이지의 Researcher 목록에는 PARK Chulwoong(박사과정, 2022–)도 있지만, 2026년 9월 누리집 소식은 그가 이 연구실에서 박사·석사 학위를 받고 한양대학교 조교수로 임용됐다고 알린다. 그래서 아래 「졸업생과 이전 구성원」 표에 있다.[^labpeople][^labnews] "대표 논문 참여"는 위 대표 논문 표의 번호이며, 같은 이름의 저자를 같은 사람으로 보아 표시했다.
 
-| 이름 | 과정 | 연구 주제 | 대표 논문 참여 |
-|---|---|---|---|
-| 김예슬(Yesuel Kim) | 박사과정 (2022-08 소식) | 정적 및 동적 지표를 고려한 도시 열환경 계획의 종합 프레임워크 (발표) | 5, 6 |
-| 노원준(Wonjun No) | 박사과정 (2023-10 소식) | 아동친화도시를 위한 거리에서의 아동 이동 행태 이해 (발표) | 1, 2, 3, 4, 8 |
-| 변기영(Gi Young Byun) | 박사과정 (2023-10 소식) | 인간 기반 평가 기반의 다차원 도시 이미지 데이터를 활용한 도시 성장과 쇠퇴 인식 (발표) |  |
-| 박철웅(Chulwoong Park) | 박사과정 (2022-11 소식) | 적대적 생성 모델을 활용한 AI 기반 도시 블록 생성에 관한 연구 (2021 발표) | 4, 8 |
-| 최준용(Junyong Choi) | 박사과정 (2022-11 소식) | 서울의 도시 모빌리티 데이터를 활용한 리테일 센터 분류 (발표) | 1, 2, 3, 4 |
-| 이소정(Sojung Lee) | 석사과정 (2022-11 소식) |  |  |
-| 노소정 | 석사과정 (2022-11 소식) |  |  |
-| 오무열(Mooyeol Oh) |  |  |  |
+| 이름 | 과정 | 시작 | 연구 주제 | 대표 논문 참여 |
+|---|---|---|---|---|
+| KIM Jae Man | 박사과정 | 2017- (육아휴직 중, on parental leave) |  |  |
+| LEE Ha Kyeong | 박사과정 | 2020- |  |  |
+| KIM Jiyoung | 박사과정 | 2021- |  | 8 |
+| LEE Haneul | 박사과정 | 2021- |  | 7 |
+| NOH Seo Yeon | 박사과정 | 2023- | 도시 회복력, 그리고 그것이 사람의 인식과 움직임에 미치는 결정적 영향 (2023-02 소식) |  |
+| SUH Hanew | 박사과정 | 2023- | 도시 여가 장소와 활동의 시간에 따른 변화 (2025-09 소식) | 8 |
+| KIM Jaewon | 박사과정 | 2023- | 도시 네트워크 분석, 사운드스케이프 (2023-08 소식, 석사과정 시작 때) |  |
+| KIM Chulhyun | 석사과정 | 2024- | 3차원 도시 형태와 초기 계획안의 자동 생성 (2024-09 소식) |  |
+| Pamela Anna Joya | 석사과정 | 2025- | 도시 인공지능으로 도시 침수를 줄이는 연구 (2025-08 소식) |  |
+| Jung Woo JANG | 석사과정 (2026-03 소식) | 2026-03-01 | GeoAI(지리 정보에 인공지능을 쓰는 연구) (2026-03 소식) |  |
+| Jiwon Kim | 석사과정 (2026-03 소식) |  | 도시 에너지와 기후변화 (2026-03 소식) |  |
 
 ## 졸업생과 이전 구성원
 
-스마트시티연구센터 소식이 진로를 적은 사람이다. 두 사람 모두 2022–2023년 소식에 도시설계연구실 박사과정으로 나오고, 학위 칸의 "Dr."는 진로 소식의 표기다.[^news]
+연구실 누리집 People 페이지 Alumni 목록의 2021–2025년 구역과, 2026년 9월 누리집 소식이 임용을 알린 박철웅(Chulwoong Park)이다. 학위·과정 칸은 연구실에 있을 때의 과정과 기간이고, 진로 칸은 페이지가 적은 다음 소속·직위 표기 그대로다.[^labpeople][^labnews] 석사과정을 마치고 같은 연구실 박사과정으로 이어간 사람은 페이지대로 Alumni 목록과 위 구성원 표에 함께 나온다. 한글 이름은 스마트시티연구센터 소식이 같은 사람의 영문 이름과 함께 적은 경우에만 붙였다.[^news]
 
-| 이름 | 학위·과정 (연도) | 소식이 적은 진로 |
+| 이름 | 학위·과정 (연도) | 랩이 적은 진로 |
 |---|---|---|
-| 최준용(Junyong Choi) | Dr. | 단국대학교 도시계획부동산학부 조교수 (2024-03 소식) |
-| 노원준(Wonjun No) | Dr. | Center for Anthropocene Studies and Smart City Research Center, Post-Doctoral Researcher (2024-03 소식) |
+| 박철웅(Chulwoong Park) | 박사·석사(PhD and MSc, 2026-09 소식) | Assistant Professor, Department of Urban and Regional Development Management, Graduate School of Urban Studies, Hanyang University (2026년 9월 임용); 소식이 적은 경력 Research Fellow at Birmingham City University |
+| KIM Jaewon | 석사과정 (2023-2025) | PhD Student at KAIST |
+| OH Jeunghee | 석사과정 (2023-2025) | IGIS[X] Asset Management |
+| OH Minseok | 박사과정 (2019-24) | LG CNS |
+| 노원준(NO Wonjun) | 박사과정 (2020-24) | KAIST Postdoctoral Researcher, Korea Research Institute for Human Settlements |
+| 변기영(BYUN Gi Young) | 박사과정 (2019-24) | Architecture and Urban Research Institute (AURI) |
+| NOH Sojung | 석사과정 (2022-2024) | LG CNS |
+| KIM Ye Seul | 박사과정 (2019-2023) | Land and Housing Research Institute, Handong Global University Assistant Professor |
+| 최준용(CHOI Junyong) | 박사과정 (2020-2023) | University of Glasgow Postdoctoral Researcher, Dankook University Assistant Professor |
+| 오무열(OH Mooyeol) | 석사과정 (2021-2023) | GS E&C |
+| Estefania Ayelen Rodriguez Del Puerto | 석사과정 (2021-23) | Global Green Growth Institute, UN Environment Programme |
+| LEE Sojeong | 석사과정 (2021-2023) | Shinhan Bank |
+| JANG Kee Moon | 박사과정 (2018-2022) | MIT Postdoctoral Researcher |
+| 박철웅(PARK Chul Woong) | 석사과정 (2020-2022) | Researcher and PhD Student at KAIST |
+| PARK Uy Yoon | 석사과정 (2018-2022) | Hanhwa Ocean |
+| LEE Sunghee | 박사후연구원 (2019-2021) | Ulsan Research Institute |
+| KIM Giseop | 박사과정 (2021-2021) | NAVER LABS |
+| KIM Chanho | 석사과정 (2020-2021) | NDIS |
+| LEE Ha Neul | 석사과정 (2019-2021) | PhD Student at KAIST |
+| KIM Jinha | 석사과정 (2019-2021) | United Nations Development Programme |
+| LEE Ji Sun | 학부 연구생 (2021 Summer) |  |
+| PARK Hyeonseo | 학부 연구생 (2021 Summer) |  |
+| Benedict Fabia | 학부 연구생 (2021 Summer) |  |
+| Anna Joya | 학부 연구생 (2021 Summer) |  |
+| Noh Jae Chang | 학부 연구생(2021 Summer), Undergraduate Independent Study Student (2021 Fall) |  |
 
 ## 최근 논문 목록 (2021–2026)
 
-김영철 교수가 저자로 참여한 2021–2026년 학술지 논문 31편과 책 속 장 2편이다. 저자·제목·학술지 표기와 권·쪽은 출판사가 등록한 서지를 따랐다.[^papers]
+김영철 교수가 저자로 참여한 2021–2026년 학술지 논문 34편과 책 속 장 2편, 잡지 글 1편이다. 학술지 논문과 책 속 장의 저자·제목·학술지 표기와 권·쪽은 출판사가 등록한 서지를 따랐고, 잡지 SPACE(공간)의 글 1편은 연구실 누리집 Publication 페이지의 표기 그대로다.[^papers][^labpub]
 
 **2026**
 
@@ -138,6 +164,8 @@ KAIST 스마트시티연구센터 소식(2021–2023년 게시)에 도시설계�
 - Yesuel Kim, Hwasoo Yeo, Youngchul Kim. "Estimating urban spatial temperatures considering anthropogenic heat release factors focusing on the mobility characteristics". *Sustainable Cities and Society 85, 104073*.
 - Yesuel Kim, Youngchul Kim. "Explainable heat-related mortality with random forest and SHapley Additive exPlanations (SHAP) models". *Sustainable Cities and Society 79, 103677*.
 - Junyong Choi, Wonjun No, Minju Park, Youngchul Kim. "Inferring land use from spatialtemporal taxi ride data". *Applied Geography 142, 102688*.
+- KANG Bumjoon, KIM Saehoon, KIM Youngchul, PARK Sohyun (2022) Again, querting the current situation in urban design: on knowledge production in urban design, editer by KIM Jeoungeun, PARK Jiyoung, SPACE, Volume 651: 108-117, Feburary.
+- Ryan A. Ramirez, Gi-Jun Lee, Shin-Kyu Choi, Tae-Hyuk Kwon, Young-Chul Kim, Hee-Hwan Ryu, Sangyoung Kim, Byungeol Bae, Chiho Hyun. "Monitoring of construction-induced urban ground deformations using Sentinel-1 PS-InSAR: The case study of tunneling in Dangjin, Korea". *International Journal of Applied Earth Observation and Geoinformation 108, 102721*.
 - Giyoung Byun, Wonjun No, Chulwoong Park, Ha-Kyeong Lee, Youngchul Kim. "Predicting the Potential of Rainfall Disaster Risk using Cellular Automata in Small Urban Declining Areas". *KIEAE Journal 22(6), 29-35*.
 - Sunghee Lee, Kee Moon Jang, Nayoon Kang, Jaeman Kim, Minseok Oh, Youngchul Kim. "Redesigning urban elements and structures considering autonomous vehicles: Preparing design strategies for wide implementation in cities". *Cities 123, 103595*.
 
@@ -145,7 +173,9 @@ KAIST 스마트시티연구센터 소식(2021–2023년 게시)에 도시설계�
 
 - Ye-Suel Kim, Jaeman Kim, Youngchul Kim. "A Comparative Analysis of Heatwave Vulnerable Regions using Heat Index Frequency, Heat-related Mortality and Heatwave Vulnerability Assessment". *KIEAE Journal 21(6), 13-21*.
 - Sunghee Lee, Youngchul Kim. "A framework of biophilic urbanism for improving climate change adaptability in urban environments". *Urban Forestry & Urban Greening 61, 127104*.
+- Hyemin Cho, Junyong Choi, Wonjun No, Minseok Oh, Youngchul Kim. "Accessibility of welfare facilities for elderly people in Daejeon, South Korea considering public transportation accessibility". *Transportation Research Interdisciplinary Perspectives 12, 100514*.
 - Giyoung Byun, Wonjun No, Chul Woong Park, Ha-Kyeong Lee, Kee Moon Jang, Youngchul Kim. "Analysis of the Disaster Risk Assessment for Urban Declining Areas by Applying Weights of Risk Indicators : Focused on Heavy Rainfall and Snow". *KIEAE Journal 21(6), 23-30*.
+- Gyeol Han, Yong-Min Kim, Hyunwoo Kim, Tae-Min Oh, Ki-Il Song, Ayoung Kim, Youngchul Kim, Youngtae Cho, Tae-Hyuk Kwon. "Auto-detection of acoustic emission signals from cracking of concrete structures using convolutional neural networks: Upscaling from specimen". *Expert Systems with Applications 186, 115863*.
 - Minseok Oh, Kee Moon Jang, Youngchul Kim. "Empirical analysis of building energy consumption and urban form in a large city: A case of Seoul, South Korea". *Energy and Buildings 245, 111046*.
 
 ## 과제
@@ -162,44 +192,81 @@ KAIST 스마트시티연구센터 소식(2021–2023년 게시)에 도시설계�
 
 ## 수상
 
-스마트시티연구센터 소식의 수상 글이다. 2021년 한국생태환경건축학회 추계국제학술발표대회 글의 국문은 상 이름을 우수논문발표상으로, 2022년 ICAPPS 글의 국문은 최우수 발표상 3개로 적는다. 이 밖에 2022년 11월 제33회 KKHTCNN 심포지엄 참가 글은 연구실이 논문 10편을 발표했고 박철웅 박사과정이 best presentation award(국문 최우수 발표상)를 받았다고 적는다.[^news]
+연구실 누리집 소식과 스마트시티연구센터 소식의 수상 글이다.[^labnews][^news] 2021년 한국생태환경건축학회 추계국제학술발표대회 글의 국문은 상 이름을 우수논문발표상으로, 2022년 ICAPPS 글의 국문은 최우수 발표상 3개로 적는다. 이 밖에 2022년 11월 제33회 KKHTCNN 심포지엄 참가 글은 연구실이 논문 10편을 발표했고 박철웅 박사과정이 best presentation award(국문 최우수 발표상)를 받았다고 적는다.[^news]
 
+- 2026-08-20 · Mr. Chulhyun Kim received the Young Planner Award at 2026 ICAPPS
+- 2024-11-28 · Ms. Hanew SUH, Ms. Junghee OH, Dr. Wonjun No Honored with Seoul Metropolitan City Mayor’s Award at 2024 Seoul Data Fellowship.
 - 2022-11-11 · 2022 스마트시티 창업아이디어 공모전 우수상 수상
-- 2022-08-19 · Urban Design Lab Won Three Best Presentation Awards at 2022 ICAPPS
+- 2022-08-19 · Three Best Presentation Awards at 2022 ICAPPS
 - 2021-11-12 · Won Best Presentation Award at International Conference of KIEAE 2021
 
 ## 소식
 
-스마트시티연구센터 소식 가운데 연구실과 교수의 논문 게재, 학회 발표, 세미나, 연구회 참여, 구성원 진로 글이다. 날짜는 글의 게시일이고 제목은 게시된 그대로다.[^news]
+연구실 누리집 소식(news 태그)과 스마트시티연구센터 소식 가운데 연구실과 교수의 논문 게재, 학회 발표, 세미나, 연구회 참여, 구성원의 입학·진로·장학 글이다. 같은 일을 두 곳이 모두 알린 글은 누리집 글로 적었다. 날짜는 글의 게시일이고 제목은 게시된 그대로다.[^labnews][^news]
 
+- 2026-09-08 · Mr. Jung Woo JANG selected for the Master’s Research Grant by the National Research Foundation of Korea (NRF)
+- 2026-09-07 · Seminar “Strategies and Roadmap for Expanding Open Access to AI-Ready Public Building Data” on September 8, 2026
+- 2026-09-01 · Dr. Chulwoong Park appointed as Assistant Professor at Hanyang University
+- 2026-08-20 · KAIST Urban Design Lab Participated in 2026 ICAPPS
+- 2026-03-24 · Seminar “AI-Powered Urban Innovation and Policy Measurements for AI City” on March 24, 2026
+- 2026-03-02 · Mr. Jung Woo JANG starts his Master’s program
+- 2026-03-02 · Mr. Jiwon Kim starts his Master’s program
+- 2025-10-28 · Seminar “Urban Analysis Through Mobility Data” on December 28, 2025
+- 2025-09-02 · Ms. Pamela Anna Joya selected as a scholarship recipient by the Hyundai Motor Chung Mong-Koo Foundation
+- 2025-09-01 · Ms. Hanew SUH receives NRF PhD Fellowship
+- 2025-09-01 · Dr. Yesuel Kim appointed as Assistant Professor at Handong Global University
+- 2025-08-31 · Ms. Pamela Anna Joya starts her MSc program
+- 2025-08-22 · KAIST Urban Design Lab Participated in 2025 ICAPPS
+- 2025-02-01 · Dr. Yesul Kim joins LHRI - Land and Housing Research Institute
+- 2024-11-01 · Dr. Wonjun No joins KRIHS - Korea Research Institute for Human Settlements
+- 2024-09-01 · Mr. Chulhyun Kim starts his MSc program
+- 2024-07-17 · Seminar “Generative AI Applications and Implications for Urban Design Research” on July 30, 2024
+- 2024-06-29 · Mr. Chulwoong Park presented a paper at 14 SSS, Nicosia, Cyprus
+- 2024-05-17 · Dr. Wonjun No receives Sejong Research Fellowship: Children’s behavior and safety analysis framework on urban streets based on computer vision for child-friendly cities
+- 2024-05-14 · Seminar “Research Approaches in Climate-responsive Urban Design and Planning” on May 21, 2024
+- 2024-04-15 · Dr. Giyoung Byun joins AURI - Architecture and Urban Research Institute
+- 2024-03-01 · Dr. Wonjun No starts his postdoctoral studies at the KAIST Center for Anthropocene Studies and KAIST Smart City Research Center
 - 2024-03-01 · Dr. CHOI Junyong appointed as Assistant Professor at Dankook University
-- 2024-03-01 · Dr. Wonjun No joins Center for Anthropocene Studies and Smart City Research Center
+- 2024-02-17 · Mr. Wonjun No successfully finished his visiting research at the University of Washington
 - 2024-02-07 · CLTC and KAIST Establish Partnership to Advance Smart City Research
 - 2024-01-23 · Prof. Kim and Prof. Han delivered lectures at the California Lighting Technology Center, UC Davis
-- 2024-01-01 · An Article “How do children move and behave on streets? Vision-based movement behavior analysis using children's trajectories in urban surveillance systems” published in Applied Geography
+- 2024-01-02 · An Article “Children’s walking to urban services: An analysis of pedestrian access to social infrastructures and its relationship with land use” published in International Journal of Geographical Information Science
+- 2024-01-01 · An Article “How do children move and behave on streets? Vision-based movement behavior analysis using children’s trajectories in urban surveillance systems” published in Applied Geography
 - 2024-01-01 · An article Deep Learning-Based analytic framework using comprehensive urbanization index for heat vulnerability assessment in urban areas published in Expert Systems With Applications
+- 2023-12-14 · Mr. Wonjun No successfully defends his doctoral dissertation in his final presentation.
 - 2023-12-11 · Seminar “WHY CITIES MATTER: Architecture engages the city through a myriad of encounters” on December 12, 2023
 - 2023-11-26 · Urban Design Lab Participates in the 34th KKHTCNN
 - 2023-11-21 · Seminar “Challenges in Urban Design to create a Smart Net-Zero City” on November 21, 2023
-- 2023-10-22 · Mr. Wonjun No and Mr. Gi Young Byun presented their dissertations at ACSP 2023, Chicago, Unite State
+- 2023-10-22 · Mr. Wonjun No and Mr. Gi Young Byun presented their dissertations at ACSP 2023, Chicago, USA
+- 2023-09-01 · Dr. Junyong Choi joins the University of Glasgow Urban Big Data Centre
 - 2023-09-01 · An article: Global regionalization of heat environment quality perception based on K-means clustering and Google trends data is published in Sustainable Cities and Society
+- 2023-08-28 · Mr. Jaewon Kim starts his MSc program
+- 2023-08-28 · Ms. Hanew Suh starts her PhD program
 - 2023-07-17 · Prof. YoungKim Participates in the Organization of the Net-Zero Spatial Planning Research Group
 - 2023-07-04 · The 2050 National Urban Future Plan
 - 2023-07-01 · An Article “How do crosswalk delays affect pedestrian access in zoning areas? Walking access reduction by signalized crosswalks in Seoul, South Korea” published in Applied Geography
 - 2023-06-05 · Seminar “Technology and the Smart City: A Retrospective on Working in South Korea and the US” on June 5, 2023
-- 2023-01-02 · An Article “Children’s walking to urban services: An analysis of pedestrian access to social infrastructures and its relationship with land use” published in International Journal of Geographical Information Science
+- 2023-02-27 · Ms. NOH Seo Yeon starts her PhD program
+- 2023-02-26 · Ms. OH Jeunghee starts her MSc program
+- 2023-02-01 · Dr. JANG Kee Moon joins MIT Senseable City Lab
+- 2023-01-02 · Ms. SUH Hanew joins KAIST Urban Design Lab
 - 2023-01-01 · An article : Measuring taxi ridesharing effects and its spatiotemporal pattern in Seoul, Korea
 - 2022-11-19 · Urban Design Lab attended KKHTCNN 33 in Singapore
-- 2022-11-06 · Mr. CHOI Junyong presented his dissertation at ACSP 2022, Toronto, Canada
+- 2022-11-04 · Mr. CHOI Junyong presented his dissertation at ACSP 2022, Toronto, Canada
 - 2022-09-14 · Seminar “Living & Lifestyle innovator, Proptech HOMES Company” on September 20, 2022
+- 2022-09-05 · EDISON+KAIST Seminar “Urban Design Automation and Big Data Application Idea Seminar” 15 Sep
 - 2022-08-29 · Ms. Kim Yesuel presented a paper at WPSC-ASPA 2022, Bali, Indonesia
+- 2022-08-19 · KAIST Urban Design Lab Participated in 2022 ICAPPS
 - 2022-06-24 · Mr. Choi Junyong presented a paper at 13 Space Syntax Symposium, Bergen, Norway
 - 2022-06-04 · KAIST Urban Design Lab participated in EDRA54 Greenville, South Carolina, USA
-- 2022-05-01 · An Article “Inferring land use from spatialtemporal taxi ride data” published in Applied Geography
+- 2022-05-24 · Mr. Kee Moon Jang successfully defends his doctoral dissertation in his final presentation.
+- 2022-05-22 · An article “Inferring land use from spatialtemporal taxi ride data” published in Applied Geography
 - 2022-04-23 · Two papers presented at 2022 Spring Conference of Korea Planning Association
 - 2022-04-01 · An article : Development of an AI advisor for conceptual land use planning is published in Cities.
-- 2022-01-18 · 2022 Winter Urban Design Lab Workshop - OpenCV and Human Movement Detection
-- 2021-11-25 · Prof. Young Kim's Lab Participated in 2021 Fall Conference of the Korean Society of Climate Change Research in Ulsan, Korea
+- 2022-02-28 · Ms. Noh Sojung starts her MSc program
+- 2022-01-21 · 2022 Winter Lab Workshop - OpenCV and Human Movement Detection
+- 2021-11-25 · Participated in 2021 Fall Conference of the Korean Society of Climate Change Research in Ulsan, Korea
+- 2021-11-12 · Three paper presented at the International Conference of KIEAE 2021
 - 2021-10-21 · Prof. Young Kim participates in the initiative of the Space Society Research Group
 
 ## 연락과 위치
@@ -224,3 +291,7 @@ KAIST 스마트시티연구센터 소식(2021–2023년 게시)에 도시설계�
 [^ceelist]: KAIST 건설및환경공학과 전임교수 목록 <https://cee.kaist.ac.kr/boards/lists/professor/sc_category/1> (2026-10-22 열람)
 [^news]: KAIST 스마트시티연구센터 블로그에 실린 도시설계연구실·김영철 교수 관련 글(2021-10-21–2024-03-01 게시) <https://smartcity.kaist.ac.kr/> (글별 주소는 근거 페이지, 2026-10-22 열람)
 [^papers]: 2021–2026년 학술지 논문·책 속 장의 출판사 등록 서지(Crossref) <https://api.crossref.org/> (저자 확인 기준은 근거 페이지, 2026-10-22 조회)
+[^lababout]: 도시설계연구실 누리집 About 페이지 <https://urbandesignlab.kaist.ac.kr/about> (2026-10-22 열람)
+[^labpeople]: 도시설계연구실 누리집 People 페이지 <https://urbandesignlab.kaist.ac.kr/people> (Professor·Researcher·Alumni, 2026-10-22 열람)
+[^labpub]: 도시설계연구실 누리집 Publication 페이지 <https://urbandesignlab.kaist.ac.kr/publication> (Book / Book Chapter·Journal, 2026-10-22 열람)
+[^labnews]: 도시설계연구실 누리집 news 태그 게시물(2021-11-12–2026-09-08 게시) <https://urbandesignlab.kaist.ac.kr/tagged/news> (2026-10-22 열람)
