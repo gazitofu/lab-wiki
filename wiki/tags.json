@@ -1,6 +1,6 @@
 {
- "version": "1.1",
- "updated": "2026-10-21",
+ "version": "1.2",
+ "updated": "2026-10-22",
  "fields": [
   {
    "id": "math-statistics",
@@ -1116,6 +1116,35 @@
    "merged_into": null
   },
   {
+   "id": "optical-precision-metrology",
+   "name_ko": "광학 정밀 계측",
+   "name_en": "Precision optical metrology",
+   "axis": "method",
+   "fields": [
+    "physics",
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "광학 정밀계측",
+    "정밀 광학 계측",
+    "간섭계 측정",
+    "광 간섭 측정",
+    "절대거리 측정",
+    "optical precision metrology",
+    "interferometric measurement",
+    "absolute distance measurement"
+   ],
+   "definition": "빛의 간섭·비행시간·위상을 이용해 길이·거리·두께·표면 형상을 정밀하게 재는 측정 기술.",
+   "related": [
+    "semiconductor-metrology",
+    "lidar-3d-sensing",
+    "optical-frequency-comb"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "측정 대상이 반도체 공정이면 반도체 계측·검사를 함께 단다. 빛의 세기·파장 변화로 물질을 재는 센서는 광학 센서·분광기, 3차원 거리 센서 기기는 라이다·3차원 거리 센싱. 양자 상태를 재는 간섭 실험은 달지 않는다."
+  },
+  {
    "id": "device-simulation",
    "name_ko": "소자 설계 시뮬레이션",
    "name_en": "Device design simulation",
@@ -1503,6 +1532,39 @@
    "related": [],
    "status": "active",
    "merged_into": null
+  },
+  {
+   "id": "precision-timing",
+   "name_ko": "정밀 타이밍·시간 주파수 전송",
+   "name_en": "Precision timing and time-frequency transfer",
+   "axis": "application",
+   "fields": [
+    "physics",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "정밀 타이밍",
+    "타이밍 동기화",
+    "시각 동기화",
+    "시간·주파수 전송",
+    "주파수 전송",
+    "클록 분배",
+    "시간 주파수 표준",
+    "precision timing",
+    "timing synchronization",
+    "time-frequency transfer",
+    "frequency transfer",
+    "clock distribution"
+   ],
+   "definition": "시각과 주파수의 기준 신호를 정밀하게 만들고, 여러 장치나 먼 거리 사이에서 맞추거나 광섬유·자유공간 링크로 전달하는 기술.",
+   "related": [
+    "optical-frequency-comb",
+    "lasers",
+    "optical-communication"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "기준 신호를 맞추거나 나르는 연구, 또는 시간·주파수 기준 자체를 만드는 연구를 서술할 때 단다. 광원 개발만 있으면 광 주파수 빗·레이저 광원."
   },
   {
    "id": "nonlinear-optics",
@@ -3242,6 +3304,35 @@
    "merged_into": null
   },
   {
+   "id": "media-art",
+   "name_ko": "미디어 아트·인터랙티브 설치",
+   "name_en": "Media art and interactive installation",
+   "axis": "application",
+   "fields": [
+    "social-humanities",
+    "computing-ai"
+   ],
+   "aliases": [
+    "미디어 아트",
+    "뉴미디어 아트",
+    "인터랙티브 설치",
+    "인터랙티브 아트",
+    "media art",
+    "new media art",
+    "interactive installation",
+    "interactive art"
+   ],
+   "definition": "영상·소리·센서·컴퓨터 같은 기술 매체로 작품을 만들어 전시·공연하는 예술과, 관객의 움직임이나 신호에 반응하는 설치 작품을 만드는 연구.",
+   "related": [
+    "culture-heritage-arts",
+    "xr",
+    "hci"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "랩이 작품 창작·설치·공연을 연구로 내세울 때 단다. 문화유산 기록·전시 기술만 있으면 문화유산·예술 기술."
+  },
+  {
    "id": "architecture-space-design",
    "name_ko": "건축·공간 설계",
    "name_en": "Architecture and spatial design",
@@ -3788,6 +3879,10 @@
   {
    "date": "2026-10-21",
    "change": "v1.1 사용자 승인(census-09 어휘 안건): 신규 태그 「테라헤르츠 분광·소자」, 음향·오디오 AI 별칭(공간 음향·음성 향상·음원 분리·목표 음원 추출·음향 사건 탐지·SELD 등), 햅틱 별칭(전자 피부·e-skin). 「초유체·초고체」(sqnl 요청)는 보류하고 KAIST 전수 뒤 다시 본다"
+  },
+  {
+   "date": "2026-10-22",
+   "change": "v1.2 사용자 승인(census-10 어휘 안건): 신규 태그 「정밀 타이밍·시간 주파수 전송」(upcam 요청), 「광학 정밀 계측」(upm2 요청), 「미디어 아트·인터랙티브 설치」(tx 요청). 「구조광·광학 소용돌이」(swol)와 「데이터 소리화·시각화」(tx)는 한 곳에만 해당해 보류하고 KAIST 전수 뒤 다시 본다. tops의 교통 운영·지능형 교통체계·통행 행태와 upm2의 레이저 직접묘화(DLW)는 하위 주제라 별칭이 아니라 trend-queries.json 검색어 항목(지능형 교통체계·교통 운영, 통행 행태, 레이저 직접묘화)으로 넣고, 레이저 유도 그래핀(소재 이름)은 넣지 않았다"
   }
  ]
 }

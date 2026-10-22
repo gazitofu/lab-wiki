@@ -1,6 +1,6 @@
 {
- "version": "1.0",
- "updated": "2026-10-21",
+ "version": "1.1",
+ "updated": "2026-10-22",
  "trends": [
   {
    "id": "on-device-ai-chip",
@@ -428,6 +428,50 @@
    ],
    "note": "AI 계산용 칩 전반. 가속기 구조부터 새 소자까지 묶는다",
    "added": "2026-10-21"
+  },
+  {
+   "id": "its-traffic-operation",
+   "query": "지능형 교통체계·교통 운영",
+   "aliases": [
+    "지능형 교통체계",
+    "ITS",
+    "intelligent transportation system",
+    "교통 운영",
+    "traffic operation"
+   ],
+   "tags": [
+    "transport-urban-planning",
+    "autonomous-driving"
+   ],
+   "note": "정보통신 기술로 교통 상황을 감지·제어하는 체계와 교통 운영. 교통·도시 계획의 하위 주제라 별칭이 아니라 검색어로 둔다",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "travel-behavior",
+   "query": "통행 행태",
+   "aliases": [
+    "travel behavior"
+   ],
+   "tags": [
+    "transport-urban-planning"
+   ],
+   "note": "사람이 이동 수단·경로·시간을 고르고 이동하는 방식과 그 분석. 교통·도시 계획의 하위 주제라 별칭이 아니라 검색어로 둔다",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "laser-direct-writing",
+   "query": "레이저 직접묘화",
+   "aliases": [
+    "DLW",
+    "direct laser writing",
+    "레이저 직접 패터닝"
+   ],
+   "tags": [
+    "laser-photonic-processing",
+    "nanopatterning"
+   ],
+   "note": "레이저를 직접 쬐어 소재에 무늬나 구조를 그리는 가공. 레이저·광 공정의 하위 기법이라 별칭이 아니라 검색어로 둔다",
+   "added": "2026-10-22"
   }
  ]
 }
