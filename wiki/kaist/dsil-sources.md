@@ -54,7 +54,7 @@
 
 - 연구실 누리집은 첫 화면, People, PI, Alumni, Research, Publications 절의 다섯 목록 페이지, Presentations & Talks 절의 세 페이지, News, Contact와 모집 분야 세부 8쪽을 읽었다. 국문 누리집은 첫 화면, People, PI, Alumni, Research, News, Contact를 읽었다. Gallery 페이지는 연구실 행사 사진 모음이라 쓰지 않았고, Facilities 페이지에는 본문이 없다. 졸업생 개인 페이지와 소식 개별 글은 2건(2026년 9월 2·3일 글)만 열었다.
 - People 페이지는 학기별 명단(2026 Spring, 2026 Summer)을 고를 수 있고 처음 열 때 가장 최근 학기인 2026 Summer를 보여 준다. 구성원 표는 그 명단의 23명(교수 제외)이고, 2026 Spring에만 있는 Sanghyun Lee 1명은 표에 넣지 않고 구성원 도입문에 적었다. 과정 칸은 구성원 소개(학력·경력)에서 "present"로 끝나는 줄의 과정(MS-PhD는 석박사통합과정, MS는 석사과정, PhD는 박사과정, BS는 학사과정, Postdoc은 박사후연구원)과 그 줄의 학교·학과다. Dongol Cho는 그런 줄이 없어 과정 칸을 비웠다.
-- 구성원 이메일은 소개에 적힌 학교 주소(kaist.ac.kr, unist.ac.kr, korea.ac.kr, sookmyung.ac.kr)만 실었고, 학교 밖 개인 메일 주소 1건은 싣지 않았다. 읽은 누리집과 학과 페이지에는 이메일 무단 수집 거부 문구가 없다.
+- 구성원 이메일은 소개에 적힌 학교 주소(kaist.ac.kr, unist.ac.kr, korea.ac.kr, sookmyung.ac.kr)만 실었고, 학교 밖 개인 메일 주소 1건은 싣지 않았다. 반도체시스템공학과 교수진·연구실 목록 페이지에는 이메일 자동 수집 거부 문구가 있어 그 페이지의 이메일은 쓰지 않았고, 연구실 누리집과 그 밖에 읽은 학과 페이지에는 이메일 수집 거부 문구가 없다.
 - 졸업생 표는 Alumni 페이지 Alumni 칸 6명과 Intern 칸 5명 전부다. 각 항목의 연구 주제 줄은 표에 옮기지 않았다.
 - 논문 목록은 International Journals 49편 가운데 2021–2026년 연도 구역 27편(2026년 6, 2025년 3, 2024년 7, 2023년 5, 2022년 2, 2021년 4), Domestic Journals 3편 전부(2026년 2, 2023년 1), Conference Proceedings 20편 가운데 2021–2026년 연도 구역 16편(2026년 5, 2025년 5, 2024년 2, 2022년 3, 2021년 1)이다. 2016–2020년 국제 학술지 22편과 2019–2020년 학회 논문 4편은 범위 밖이다.
 - 학회 발표는 Invited Talks 11건 전부(2026년 3, 2025년 3, 2024년 4, 2023년 1), International Conferences 28건 가운데 2021–2026년 24건에서 Conference Proceedings와 제목이 같은 16건([005]–[012], [021]–[028])을 뺀 8건([013]–[020], 모두 2025년), Domestic Conferences 38건 전부(2026년 17, 2025년 18, 2024년 3)다. 2019–2020년 국제 학회 발표 4건은 범위 밖이다.

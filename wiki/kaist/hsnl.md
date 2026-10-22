@@ -166,7 +166,6 @@ CMOS 이미지 센서(CIS)는 CMOS 반도체 공정으로 만든 능동 화소 �
 
 - 위치: 전기및전자공학부동(E3-2) 1223-1호[^ssel]
 - 전화: 교수 042-350-3471, 연구실 042-350-5471[^home]
-- 교수 이메일: khyang@kaist.ac.kr[^ssep]
 [^p1]: X. Yang, K. Yang, IEEE Journal of the Electron Devices Society 12, 993-1002 (2024). <https://doi.org/10.1109/jeds.2024.3486736> 초록 기준(Semantic Scholar 등록 초록).
 [^p2]: X. Yang, S. Lee, S. Hong, K. Yang, 2022 Asia-Pacific Microwave Conference (APMC), 103-105 (2022). <https://doi.org/10.23919/apmc55665.2022.9999821> 초록 기준(Semantic Scholar 등록 초록).
 [^p3]: J.-H. Yoo 외, D.-H. Kim, 2024 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits), 1-2 (2024). <https://doi.org/10.1109/vlsitechnologyandcir46783.2024.10631365> 초록 기준(Semantic Scholar 등록 초록).

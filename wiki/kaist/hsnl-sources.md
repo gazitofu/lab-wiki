@@ -20,7 +20,7 @@
 | Publication 메뉴 International Patent 탭 | <http://hsnl.kaist.ac.kr/?page_id=1442> | 2026-10-22 | 교수 특허 주제 |
 | Publication 메뉴 Domestic Patent 탭 | <http://hsnl.kaist.ac.kr/?page_id=1448> | 2026-10-22 | 교수 특허 주제 |
 | KAIST 반도체시스템공학과 연구실 목록 | <https://sse.kaist.ac.kr/research-laboratory/> | 2026-10-22 | 연구실 이름, 연구 분야 키워드, 위치, 누리집 주소 |
-| KAIST 반도체시스템공학과 교수진 | <https://sse.kaist.ac.kr/professor/> | 2026-10-22 | 연구분야(반도체 소자 및 공정), 교수 이메일 |
+| KAIST 반도체시스템공학과 교수진 | <https://sse.kaist.ac.kr/professor/> | 2026-10-22 | 연구분야(반도체 소자 및 공정) |
 | Crossref 서지(대표 논문 후보 9편의 제목 조회) | <https://api.crossref.org/> | 2026-10-22 | 대표 논문 DOI·서지·저자 순서 |
 | Semantic Scholar 등록 초록 | <https://api.semanticscholar.org/> | 2026-10-22 | 대표 논문 1–4 초록 |
 
@@ -48,7 +48,7 @@ RTD 갈래의 2021–2026년 논문인 International Conference 109번(Compound 
 
 - 누리집은 WordPress 사이트이고, 메뉴 링크는 같은 사이트의 hsnl02.cafe24.com 주소를 가리킨다. 페이지는 hsnl.kaist.ac.kr 주소에서 같은 page_id로 읽었다. 첫 화면, Introduction, Research, Professor, Postdoctoral Researchers, Students, Alumni, Publication 메뉴의 여섯 탭(International Journal·Conference·Patent, Domestic Journal·Conference·Patent)을 읽었고, Album 페이지(연구실 사진)는 열지 않았다. 누리집에는 소식·수상·과제 목록 메뉴가 없다.
 - Professor 페이지는 영문과 국문 두 부분으로 같은 내용을 싣는다. 수상 5건은 모두 2001–2011년 것이라 「교수와 전문 분야」에만 적었다.
-- 구성원 표는 Postdoctoral Researchers 페이지 1명과 Students 페이지 1명, 모두 2명이다. 두 페이지의 좌우명(Motto) 칸은 옮기지 않았다. Students 페이지의 과정 칸 「Integrated Master/Ph.D (석/박사 통합과정)」는 석박사통합과정으로 옮겼다. 이메일은 두 페이지가 적은 KAIST 주소이고, 누리집과 학과 페이지에 이메일 무단 수집 거부 문구는 없다.
+- 구성원 표는 Postdoctoral Researchers 페이지 1명과 Students 페이지 1명, 모두 2명이다. 두 페이지의 좌우명(Motto) 칸은 옮기지 않았다. Students 페이지의 과정 칸 「Integrated Master/Ph.D (석/박사 통합과정)」는 석박사통합과정으로 옮겼다. 이메일은 두 페이지가 적은 KAIST 주소다. 연구실 누리집에는 이메일 수집 거부 문구가 없고, 반도체시스템공학과 교수진·연구실 목록 페이지에는 이메일 자동 수집 거부 문구가 있어 그 페이지에만 있는 교수 이메일은 싣지 않았다.
 - 졸업생 표는 Alumni 페이지 44명 전부다. 학위·과정 칸은 Education 칸의 마지막 줄을 옮겼고, Education 칸이 비어 있는 4명(Daehee Kim, Myounghoon Yoon, Seunghoon Kim, Sungsik Lee)은 비웠다. Education 칸에 연월이 없는 4명(MaengKyu Kim, JaeHong Park, JaeJin Lim, DongHo Ha)은 연도 없이 적었다. Alumni 페이지의 이메일 칸은 옮기지 않았다.
 - 논문 목록은 International Journal 탭 1–64번 가운데 날짜가 2021년 이후인 62–64번, International Conference 탭 1–114번 가운데 109–114번, Domestic Conference 탭 1–52번 가운데 40–52번이다. Domestic Journal 탭은 1–4번(2001–2009년)뿐이다. Domestic Conference 47·48번은 날짜 칸이 Jan. 2024인데 학회 이름이 The 32st Korean Conference on Semiconductors로 적혀 있어, 페이지 표기 그대로 옮겼다.
 - 특허는 International Patent 탭 1–18번(2002–2010년, 출원 항목 포함)과 Domestic Patent 탭 1–30번(날짜가 있는 마지막 항목 2015년 8월, 날짜 칸이 빈 출원 항목 포함)이다. 모두 2021년 전이라 목록으로 싣지 않고 「교수와 전문 분야」에서 주제만 소개했다.

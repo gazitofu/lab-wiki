@@ -53,7 +53,7 @@
 ## 확인한 범위와 확인하지 못한 점
 
 - 누리집은 PHP 페이지로 된 사이트다. 첫 화면, Introduction, Research와 하위 페이지 둘(AI Processor, Embedded SoC), Projects, Publications 세 페이지, Chip Gallery, Class, Members, 교수 페이지, Contact를 읽었다. Introduction의 "For Prospective Members of ICSL (PDF)" 문서와 논문 목록의 IEEE Xplore 링크는 열지 않았다. 첫 화면의 Multimedia Application Processor와 Others 항목에는 하위 페이지가 없다.
-- 구성원 표는 Members 페이지 Ph.D. COURSE 3명과 M.S. COURSE 11명, 모두 14명이다. 시작 연월은 각 구성원의 마지막 학력 줄(예: Ph.D. KAIST (2025.03~))이고, 학사·석사 학교 줄은 옮기지 않았다. 이메일은 페이지가 적은 연구실 도메인 주소다. 누리집과 학과 페이지에는 이메일 무단 수집 거부 문구가 없다.
+- 구성원 표는 Members 페이지 Ph.D. COURSE 3명과 M.S. COURSE 11명, 모두 14명이다. 시작 연월은 각 구성원의 마지막 학력 줄(예: Ph.D. KAIST (2025.03~))이고, 학사·석사 학교 줄은 옮기지 않았다. 이메일은 페이지가 적은 연구실 도메인 주소다. 반도체시스템공학과 교수진·연구실 목록 페이지에는 이메일 자동 수집 거부 문구가 있어 그 페이지의 이메일은 쓰지 않았고, 연구실 누리집과 그 밖에 읽은 학과 페이지에는 이메일 수집 거부 문구가 없다.
 - 졸업생 표는 같은 페이지의 Ph.D. ALUMNI 24명(1999–2023년)과 M.S. ALUMNI 75명(1998–2026년), 모두 99명이다. 석사 졸업생 4명은 진로 칸이 비어 있다. 일부 졸업생 이름에 걸린 소속 기관 누리집 링크는 열지 않았다.
 - 논문 목록은 International Journal 페이지 135줄(1997–2026년) 가운데 2021–2026년 29줄(2026년 11, 2025년 7, 2024년 3, 2023년 1, 2022년 3, 2021년 4)이다. 2026년 구역의 두 줄은 Early Access로 적혀 있고, 2025년 구역의 비트 오류율 평가 논문은 학술지 30권 1호로 적혀 있으나 누리집 연도 구역을 따랐다. International Conference 페이지는 125줄(1996–2019년), Domestic Conference 페이지는 69줄(1996–2015년)이라 2021–2026년 항목이 없다.
 - 과제는 Projects 페이지 Current Projects 2건이고, Previous Projects 27건은 기간이 적혀 있지 않아 목록에 싣지 않고 과제 절 도입에 두 건만 예로 들었다.
