@@ -20,7 +20,8 @@
 | KAIST 메타버스대학원 TX Lab 소개 | <https://meta.kaist.ac.kr/labs/tx-lab> | 2026-10-21 | 연구 분야, 대표 논문 2·5의 DOI 대조 |
 | 교수 개인 누리집 첫 화면 | <https://leejinjoon.com/> | 2026-10-21 | 작품과 전시(교수 누리집), 강연과 대담, 책거리 풀이 |
 | 교수 개인 누리집 ARTIST 페이지 | <https://leejinjoon.com/about> | 2026-10-21 | 선정·초청·펠로십, 작품 소장처 |
-| 대표 논문 6편 초록·서지 | Crossref(대표 논문 1, 2, 4), NIME 논문 페이지 <https://nime.org/proc/nime2024_5/index.html>(3), Semantic Scholar(5, 6) | 2026-10-21 | 대표 논문 "쉽게 말하면", 각주 p1–p6 |
+| 대표 논문 1–6 초록·서지 | Crossref(대표 논문 1, 2, 4), NIME 논문 페이지 <https://nime.org/proc/nime2024_5/index.html>(3), Semantic Scholar(5, 6) | 2026-10-21 | 대표 논문 "쉽게 말하면", 각주 p1–p6 |
+| 대표 논문 7·8 초록(ISEA Symposium Archives 발표 페이지) | <https://www.isea-symposium-archives.org/presentation/improvibration-a-vibrotactile-system-for-conveying-weight-sharing-in-contact-improvisation-to-enhance-audience-experience-presented-by-kim-choi-kim-and-lee/>, <https://www.isea-symposium-archives.org/presentation/hear-the-voice-of-wind-a-virtual-reconfiguration-of-transition-at-the-yeongdeunggut-with-3d-point-clouds-presented-by-chung-lee-kim-her-and-lee/> | 2026-10-22 | 대표 논문 7·8 "쉽게 말하면", 각주 p7·p8 |
 
 ## 이름·직급·위치 표기 차이
 
@@ -36,18 +37,19 @@
 
 1–3. 데이터와 소리로 옮긴 감각 경험(Leonardo 2025, Leonardo 2026, NIME 2024).
 4–5. AI 미술과 비판적 해석(Leonardo 2023, ARTECH 2025).
-6. 몸·뇌 신호와 관객 인터랙션(CHI EA 2024).
+6–7. 몸·뇌 신호와 관객 인터랙션(CHI EA 2024, ISEA 2025).
+8. 디지털 문화유산(ISEA 2025).
 
-2를 뺀 다섯 편은 이진준 교수가 마지막 저자인 논문이다. 2는 교수가 6명 중 5번째 저자이고 마지막 저자는 Yasuaki Kakehi(NEWS 글이 도쿄대 X-Lab을 이끄는 교수로 적는 사람)인데, 박사과정 Youngjun Choi가 함께 만든 작품을 다룬 학술지 논문이라 넣었다(2024년 1월 Ars Electronica 단체전 NEWS 글). 4의 초록은 작품을 "artist Jinjoon Lee and his TX Creative Media Lab at KAIST"가 만들었다고 적는다. 여섯 편 모두 교수가 KAIST에 온 2021년 8월 이후 논문이다.
+2를 뺀 일곱 편은 이진준 교수가 마지막 저자인 논문이다. 2는 교수가 6명 중 5번째 저자이고 마지막 저자는 Yasuaki Kakehi(NEWS 글이 도쿄대 X-Lab을 이끄는 교수로 적는 사람)인데, 박사과정 Youngjun Choi가 함께 만든 작품을 다룬 학술지 논문이라 넣었다(2024년 1월 Ars Electronica 단체전 NEWS 글). 4의 초록은 작품을 "artist Jinjoon Lee and his TX Creative Media Lab at KAIST"가 만들었다고 적는다. 여덟 편 모두 교수가 KAIST에 온 2021년 8월 이후 논문이다.
 
-RESEARCH 페이지 13편 가운데 초록을 구한 것은 이 6편이다. 나머지 7편(ISEA International 2024·2025 발표 5편, 한국HCI학회 발표 1편, International Computer Music Conference 2023 발표 1편)은 Crossref와 Semantic Scholar에서 초록을 찾지 못했고 랩 목록에 논문 페이지 링크도 없어 대표 논문에서 뺐다. 그래서 대표 논문은 6편이고, 셋째 갈래는 1편, 넷째 갈래(디지털 문화유산)는 대표 논문 없이 ABOUT 페이지와 NEWS 글, 논문 목록의 발표 제목으로 썼다.
+RESEARCH 페이지 13편 가운데 Crossref, Semantic Scholar, 논문 페이지에서 초록을 구한 것은 1–6이다. 랩 목록에 논문 페이지 링크가 없는 나머지 7편 가운데 ISEA International 2024·2025 발표 5편은 ISEA Symposium Archives의 발표 페이지에 초록이 실려 있다. 그중 셋째 갈래의 7(ImproVibration)과, 대표 논문이 없던 넷째 갈래의 8(Hear the Voice of Wind)을 넣었다. 같은 아카이브에 초록이 있는 Monochromatic Urban Patchwork(ISEA 2024), Interpreting Chaekgeori in the Digital Age, Mourning Dew(둘 다 ISEA 2025)는 넣지 않았다. 기존 1–6은 그대로 두고, 대표 논문이 1편뿐이던 셋째 갈래와 대표 논문이 없던 넷째 갈래를 채우는 7·8만 더했다. International Computer Music Conference 2023 발표(Micro-variation of Sound Objects)와 한국HCI학회 2025 발표(Hyperscanning Analysis in VR Train Simulator)는 초록을 구하지 못해 뺐다. 두 편 모두 Crossref 제목 검색 응답에서 같은 논문을 확인하지 못했고, Semantic Scholar 제목 검색에서 Hyperscanning은 결과가 없었으며 Micro-variation은 검색 결과를 확인하지 못했다. 연구실 포트폴리오 사이트(txlab.cargo.site)의 논문 페이지는 내용이 공개되어 있지 않았다.
 
-- 제목 표기: 1은 랩 목록이 "Transcoding Literati Tradition", Crossref가 "Traditions"다. 4는 랩 목록이 "A Story of Colonization, Told Through the Lens of Al", Crossref가 "A Story of Oppression, Told through the Lens of AI"이고, 랩 목록의 링크가 같은 논문(Leonardo 56(6), 561)을 가리킨다. 5는 랩 목록이 "Charateristics", Crossref가 "Characteristics"다. 대표 논문 표에는 Crossref 제목을, 최근 논문 목록에는 랩 표기를 썼다.
+- 제목 표기: 1은 랩 목록이 "Transcoding Literati Tradition", Crossref가 "Traditions"다. 4는 랩 목록이 "A Story of Colonization, Told Through the Lens of Al", Crossref가 "A Story of Oppression, Told through the Lens of AI"이고, 랩 목록의 링크가 같은 논문(Leonardo 56(6), 561)을 가리킨다. 5는 랩 목록이 "Charateristics", Crossref가 "Characteristics"다. 8의 1저자는 랩 목록이 "Meeyung Chung", ISEA 아카이브가 "Mia Meeyung Chung"으로 적고, 나머지 저자 넷의 이름과 순서는 같다. 대표 논문 표에는 Crossref 제목을, 최근 논문 목록에는 랩 표기를 썼다.
 - 연도와 DOI: 2는 랩 목록 2025년 구역에 있지만 Leonardo 59(5)(2026년 10월)로 출판돼 표에는 2026으로 적었다. 2와 5의 DOI는 메타버스대학원 TX Lab 소개의 Publications 표기와 같다. 1의 DOI는 랩 목록 링크 주소 안의 DOI다. 3의 DOI(10.5281/zenodo.13904772)는 NIME 논문 페이지에 적힌 DOI다.
 
 ## 확인한 범위와 확인하지 못한 점
 
-- "쉽게 말하면"은 각 논문의 초록만 근거로 썼다. 3의 초록은 NIME 논문 페이지에 게시된 초록이고, 5와 6은 Semantic Scholar에 등록된 초록이다.
+- "쉽게 말하면"은 각 논문의 초록만 근거로 썼다. 3의 초록은 NIME 논문 페이지에 게시된 초록이고, 5와 6은 Semantic Scholar에 등록된 초록이며, 7과 8은 ISEA Symposium Archives 발표 페이지에 게시된 초록이다.
 - 최근 논문 목록은 RESEARCH 페이지 13편 전체다(2025년 8편, 2024년 3편, 2023년 2편; 학술지 3편, 학회·워크숍 발표 10편). 페이지에는 같은 목록이 화면 크기별로 두 번 실려 있다.
 - 작품과 전시(연구실 소식)·과제·수상·소식은 NEWS 글 116건(목록 1–8쪽, RSS 피드 1–7쪽 15건씩과 8쪽 11건) 전체에서 골랐다. 연구실 생활 글 32건(학기 초·말 모임, 스승의 날·파티·명절·학교 축제·결혼 축하, 단체 사진, 학위 논문 심사 통과와 졸업 축하, 인턴 합류·이직·휴학 인사, 영화제 나들이와 교수 공연·전시 관람, 학교 유튜브 영상 촬영)은 넣지 않았다. 나머지 84건 가운데 작품과 전시 16건, 과제 2건, 수상 6건, 소식 59건을 넣었고, 1건(Group Exhibition in MMCA Cheongju)은 아래와 같이 교수 누리집 항목으로 대신했다.
 - NEWS 글 가운데 95건은 게시일이 2025년 7월 8–9일이고 본문 날짜는 2022–2025년이어서, 게시일이 행사일과 다른 글이 많다. 그래서 목록의 날짜는 각 글 본문 첫 줄의 날짜 표기를 그대로 썼다. 본문 첫 줄에 날짜가 없는 2건(Technical Lead of Audible Garden, Forum, Art in the age of Generative AI and Metaverse)은 날짜 없이 적었다. EBS 출연 글은 본문 날짜가 "2 Dep, 2025"로 적혀 있어 게시일(2025-12-03)로 적었다. 교수 누리집은 같은 방송을 "1 December 2025"로 적는다.

@@ -4,7 +4,7 @@
 
 - 분야: 미디어 아트, 데이터 기반 예술·디자인(데이터 시각화·소리화), 사운드 아트, 크리에이티브 AI와 AI 미술의 미학, 가상·확장현실(XR) 공연과 총체적 경험 설계, 뇌파·생체 신호를 쓰는 브레인 아트, 디지털 문화유산
 - 대분야: 인문·사회·경제, 컴퓨팅·AI
-- 태그: 문화유산·예술 기술[^about][^p1][^p4], 음악 AI[^p2][^p3], 생성 인공지능[^p5][^profdetail], 신경 인터페이스·뇌-컴퓨터 인터페이스[^profdetail][^news], 햅틱[^p6], 가상·증강현실[^about][^profdetail]
+- 태그: 문화유산·예술 기술[^about][^p1][^p4], 음악 AI[^p2][^p3], 생성 인공지능[^p5][^profdetail], 신경 인터페이스·뇌-컴퓨터 인터페이스[^profdetail][^news], 햅틱[^p6][^p7], 가상·증강현실[^about][^profdetail]
 - 홈페이지: <https://tx.kaist.ac.kr>
 - 근거와 출처: [TX Lab 근거 페이지](tx-sources.md)
 
@@ -22,9 +22,9 @@
 
 둘째 갈래는 **AI 미술과 비판적 해석**이다. 대표 논문에서는 인공지능 물체 검출기와 소리화 기법을 쓴 미디어 아트 작품으로 동남아시아 사회 주변부 사람들의 목소리 없음을 상징하고, 맥락에서 떼어 해석될 때 그들이 어떻게 잘못 재현되고 오해되는지를 보였다.[^p4] 또 AI 미술 작품이 여러 시간·문화·미학의 층을 한꺼번에 품는 '퍼진 다중성'을 지닌다고 분석하고, 이를 다룰 새 미학의 틀이 필요하다고 주장했다.[^p5] 교수 상세 소개는 교수가 가드네틱스(Gardenetics)라는 이론 틀로 통제 대신 가꿈을 사이버네틱스(기계와 생명체의 제어와 통신을 다루는 학문)식 사고의 윤리적 대안으로 제안하고, 데이터와 인공지능을 대하는 비판적 모델로 삼는다고 적는다.[^profdetail]
 
-셋째 갈래는 **몸·뇌 신호와 관객 인터랙션**이다. 대표 논문에서는 대형 프로젝션 매핑 전시에 촉감을 더하려고 전자석 하나로 영구 자석 세 개를 따로 움직이는 장치 EMPop을 만들었고, 사용자가 방향과 세기를 구별할 수 있음을 확인했다.[^p6] 연구실 소식에 따르면 2023년 7월 연구용 뇌파 측정 장치(Emotiv EPOC X 14CH)를 들였고, 2024년 태국 단체전에 낸 교수의 작품은 연구실이 연구 중인 여러 사람의 뇌파 인터랙션을 썼다.[^news] 2025년 9월에는 비침습 뇌파 신호로 잠재 벡터를 조정하는 생성형 BCI 시스템 개발 과제가 한국연구재단(NRF)의 Excellent Young Researcher (Seed) Program에 선정됐다.[^news] 글로 지시하는 이미지 생성 모델의 한계를 뇌파로 풀려는 과제라고 적는다.[^news] 최근 논문 목록에는 VR 열차 시뮬레이터 훈련을 하이퍼스캐닝(여러 사람의 뇌 활동을 동시에 재는 방법)으로 분석한 발표(한국HCI학회, 2025)와 접촉 즉흥 춤에서 무게를 나누는 움직임을 관객에게 진동 촉각으로 전하는 시스템(ISEA 2025) 발표가 있다.[^research]
+셋째 갈래는 **몸·뇌 신호와 관객 인터랙션**이다. 대표 논문에서는 대형 프로젝션 매핑 전시에 촉감을 더하려고 전자석 하나로 영구 자석 세 개를 따로 움직이는 장치 EMPop을 만들었고, 사용자가 방향과 세기를 구별할 수 있음을 확인했다.[^p6] 또 접촉 즉흥 춤에서 무용수들이 서로 무게를 나누는 움직임을 무용수 등에 붙인 압력 센서로 재고, 이를 관객이 앉은 의자 등받이의 진동으로 전하는 시스템 ImproVibration을 제안했다.[^p7] 연구실 소식에 따르면 2023년 7월 연구용 뇌파 측정 장치(Emotiv EPOC X 14CH)를 들였고, 2024년 태국 단체전에 낸 교수의 작품은 연구실이 연구 중인 여러 사람의 뇌파 인터랙션을 썼다.[^news] 2025년 9월에는 비침습 뇌파 신호로 잠재 벡터를 조정하는 생성형 BCI 시스템 개발 과제가 한국연구재단(NRF)의 Excellent Young Researcher (Seed) Program에 선정됐다.[^news] 글로 지시하는 이미지 생성 모델의 한계를 뇌파로 풀려는 과제라고 적는다.[^news] 최근 논문 목록에는 VR 열차 시뮬레이터 훈련을 하이퍼스캐닝(여러 사람의 뇌 활동을 동시에 재는 방법)으로 분석한 발표(한국HCI학회, 2025)도 있다.[^research]
 
-넷째 갈래는 **디지털 문화유산**이다. 연구실 소식에 따르면 2023년 2월 제주 칠머리당 영등굿 전승자 이용옥을 인터뷰해 목소리 자료를 모았고, 같은 달 제주에서 작품 「Hear the voice of wind」를 위한 3차원 자료와 소리 자료를 모았다.[^news] 최근 논문 목록에는 영등굿의 전이 과정을 3차원 점구름(물체 표면을 수많은 점의 좌표로 나타낸 자료)으로 가상 재구성한 발표, 감로도(Nectar Ritual Painting)를 디지털 목탁으로 이야기하는 발표, 책거리를 디지털 시대에 해석한 발표가 있다(모두 ISEA 2025).[^research] 책거리는 책과 여러 물건을 함께 그린 한국 전통 정물화다.[^site]
+넷째 갈래는 **디지털 문화유산**이다. 연구실 소식에 따르면 2023년 2월 제주 칠머리당 영등굿 전승자 이용옥을 인터뷰해 목소리 자료를 모았고, 같은 달 제주에서 작품 「Hear the voice of wind」를 위한 3차원 자료와 소리 자료를 모았다.[^news] 대표 논문에서는 이 작품을 기술과 무속 신앙을 잇는 테크노샤머니즘의 본보기로 들며, 바람의 여신 영등할머니를 모시는 유네스코 지정 의례인 제주 칠머리당 영등굿을 3차원 점구름(물체 표면을 수많은 점의 좌표로 나타낸 자료)으로 가상 공간에 재현하고, 의례의 소리·시각 상징·이야기를 소리에 반응하는 시각화로 묶어 VR 속에서 돌아다닐 수 있게 했다.[^p8] 최근 논문 목록에는 감로도(Nectar Ritual Painting)를 디지털 목탁으로 이야기하는 발표와 책거리를 디지털 시대에 해석한 발표도 있다(둘 다 ISEA 2025).[^research] 책거리는 책과 여러 물건을 함께 그린 한국 전통 정물화다.[^site]
 
 ## 주요 연구 주제
 
@@ -38,11 +38,11 @@ AI 물체 검출과 소리화로 주변부 사람들의 목소리를 다룬 작�
 
 ### 3. 몸·뇌 신호와 관객 인터랙션
 
-프로젝션 매핑 전시의 전자석 촉각 장치, 뇌파·생체 신호를 쓰는 브레인 아트와 생성형 BCI.[^p6][^profdetail][^news] 대표 논문 6.
+프로젝션 매핑 전시의 전자석 촉각 장치, 접촉 즉흥 춤의 무게 나눔을 관객에게 전하는 진동 의자, 뇌파·생체 신호를 쓰는 브레인 아트와 생성형 BCI.[^p6][^p7][^profdetail][^news] 대표 논문 6, 7.
 
 ### 4. 디지털 문화유산
 
-영등굿·감로도·책거리 같은 한국 문화유산의 디지털 재구성과 현장 자료 수집.[^about][^news][^research]
+영등굿을 3차원 점구름으로 재현한 VR 작품, 감로도·책거리 같은 한국 문화유산의 디지털 재구성과 현장 자료 수집.[^p8][^about][^news][^research] 대표 논문 8.
 
 ## 대표 논문
 
@@ -56,6 +56,8 @@ AI 물체 검출과 소리화로 주변부 사람들의 목소리를 다룬 작�
 | 4 | 2023 | [gOd, mOther and sOldier: A Story of Oppression, Told through the Lens of AI](https://doi.org/10.1162/leon_a_02365) · Leonardo | 이진준 작가와 그의 KAIST 연구실(TX Creative Media Lab)이 구상하고 만들었으며 동남아시아의 현지 협업자 여덟 명이 원격으로 함께 실현한 작품 「gOd, mOther and sOldier: Nowhere in Somewhere Series 2022」를 소개한다. 인공지능 기반 물체 검출기와 소리화 기법을 미디어 아트 작품에 써서 동남아시아 사회 주변부 사람들의 목소리 없음을 상징했다. 이 알고리즘과 개념, 그리고 작품 전체가 주변부 사람들이 맥락에서 떼어 해석될 때 어떻게 잘못 재현되고 오해되는지를 예술로 보여 준다.[^p4] | 1저자 A. Gambardella, 마지막 저자 이진준 |
 | 5 | 2025 | [Toward Diffused Multiplicity: Palimpsestic Characteristics in AI Art](https://doi.org/10.1145/3773699.3774367) · ARTECH 2025 | AI 미술에서 새로 나타나는 성질인 '퍼진 다중성'을 살피며, 여러 시간·문화·미학의 층이 이런 계산 시스템 안에 어떻게 들어 있는지 분석했다. 하나의 일관된 미적 정체성을 지키는 전통적인 예술 생산과 달리, AI 작품은 여러 해석 가능성을 동시에 품은 팰림프세스트적 대상(팰림프세스트는 원래 글을 지우고 그 위에 다시 쓴 양피지 문서를 뜻한다)으로 작동한다고 본다. 신경망을 합성 매체로 분석하고 관련 작품을 살펴, 이 구조가 예술적 정체성의 기존 범주에 도전하고 한 사람의 인지 능력을 넘어서는 문화 기록물에 다가가게 하며 끊임없이 생성되어 가는 가능성을 담을 새 미학 틀을 요구한다는 것을 보였다. AI 미술은 단순한 기술 발전이 아니라 계산 과정을 통해 복잡성을 보존하는 새 형태의 문화 생산이라고 주장했다.[^p5] | 1저자 Y. Choi, 마지막 저자 이진준 |
 | 6 | 2024 | [EMPop: Pin Based Electromagnetic Actuation for Projection Mapping](https://doi.org/10.1145/3613905.3648642) · CHI EA '24 | 인터랙티브 미디어 아트가 발전하면서 대형 프로젝션 매핑(건물 벽 같은 넓은 면에 영상을 맞춰 비추는 기법) 전시에서 시청각을 넘는 다감각 경험을 줄 기술이 필요해졌지만, 기존 촉각 피드백 장치는 부피가 크고 복잡해 넓은 공간에 쓰기 어렵다. 전자석과 영구 자석으로 된 간단한 구성으로 프로젝션 매핑을 더 상호작용적으로 만드는 EMPop을 제안했고, 전자석 하나의 전류를 조절해 영구 자석 세 개를 하나씩 따로 움직이게 했다. 방향과 피드백 세기를 전하는 능력을 평가하니 사용자들이 방향을 바르게 알아보고 세기 단계를 구별했으며, 참가자들은 실감 나고 몰입되는 경험이라고 즐겼다. 박물관과 미술관의 인터랙티브 설치를 풍부하게 할 가능성을 시사했다.[^p6] | 1저자 S. Kim, 마지막 저자 이진준 |
+| 7 | 2025 | [ImproVibration: A Vibrotactile System for Conveying Weight-Sharing in Contact Improvisation to Enhance Audience Experience](https://www.isea-symposium-archives.org/presentation/improvibration-a-vibrotactile-system-for-conveying-weight-sharing-in-contact-improvisation-to-enhance-audience-experience-presented-by-kim-choi-kim-and-lee/) · ISEA 2025 | 접촉 즉흥(Contact Improvisation, 무용수들이 몸을 맞댄 채 즉흥으로 움직이는 춤)은 뉴턴의 운동 제3법칙(작용·반작용 법칙)에 뿌리를 두고 무용수끼리 무게를 나누는 것을 핵심 신체 상호작용으로 삼지만, 공연 예술의 기존 촉각 방식은 이런 미묘하고 핵심적인 움직임을 잡아 전하지 못하는 경우가 많다. 무용수의 등에 압력 센서를 붙여 무게가 옮겨 가는 정도를 수치로 재고, 이를 진동 촉각 피드백으로 바꿔 관객이 앉은 촉각 의자의 등받이로 전하는 ImproVibration을 제안했다. 예비 시험에서 관객은 진동 피드백 덕분에 무용수들의 상호작용을 더 직관적으로 느끼고 공연을 경험으로 이해하게 되었으며, 무용수와 관객이 몸의 감각을 함께 나눌 가능성이 보였다.[^p7] | 1저자 Y. Kim, 마지막 저자 이진준 |
+| 8 | 2025 | [Hear the Voice of Wind: A Virtual Reconfiguration of Transition at the Yeongdeunggut with 3D Point Clouds](https://www.isea-symposium-archives.org/presentation/hear-the-voice-of-wind-a-virtual-reconfiguration-of-transition-at-the-yeongdeunggut-with-3d-point-clouds-presented-by-chung-lee-kim-her-and-lee/) · ISEA 2025 | 예술·기술·영성이 만나는 지점을 이진준 작가와 TX Creative Media Lab이 만든 가상 작품 「Hear the Voice of Wind」를 통해 살폈다. 테크노샤머니즘(기술과 무속 신앙을 잇는 흐름)의 본보기로, 바람의 여신 영등할머니를 모시는 제주의 유네스코 지정 의례 제주 칠머리당 영등굿을 디지털로 재현했다. 3차원 점구름 기술로 의례의 소리 신호, 시각 상징, 이야기를 소리에 반응하는 시각화로 묶어 가상 공간에 의례의 우주를 다시 세웠고, VR 환경에서 사용자는 이 우주를 돌아다니며 서로 이어진 점구름 풍경 속에서 다른 존재와 기대어 있는 존재(interbeing)가 된다. 가상 공간에 깃든 경계성(여기와 저기 사이에 걸친 상태)을 보여 주며, 기술의 매개가 그 결과로 사람의 의식을 바꿔 놓을 수 있는 가능성을 강조했다.[^p8] | 1저자 M. Chung, 마지막 저자 이진준 |
 
 ## 교수와 전문 분야
 
@@ -65,7 +67,7 @@ AI 물체 검출과 소리화로 주변부 사람들의 목소리를 다룬 작�
 
 연구실과 교수 누리집의 최근 소식으로 보면 교수는 국내외에서 AI와 예술에 관한 강연을 이어 가고 있다. 2024년 싱가포르에서 열린 제29회 CAADRIA(아시아 컴퓨터 지원 건축 설계 연구 학회)와 제28회 부천국제판타스틱영화제 AI 국제 콘퍼런스에서 기조 강연을 했고,[^news] 2025년 9월 중국 광저우미술학원 국제 포럼 기조연설, 2025년 11월 영국 SOAS 런던대·셰필드대 특강, 2026년 3월 홍콩시립대와 6월 도쿄예술대 특강을 했다.[^site]
 
-논문으로 보면 전문 분야는 세 갈래다. 첫째, 영상·글·생체 신호를 소리와 이미지로 옮기는 멀티모달 미디어 아트다(대표 논문 1–3).[^p1][^p2][^p3] 둘째, 인공지능을 쓰는 미술의 비평과 미학이다(대표 논문 4, 5).[^p4][^p5] 셋째, 관객에게 촉감을 전하는 인터랙티브 설치 기술이다(대표 논문 6).[^p6]
+논문으로 보면 전문 분야는 네 갈래다. 첫째, 영상·글·생체 신호를 소리와 이미지로 옮기는 멀티모달 미디어 아트다(대표 논문 1–3).[^p1][^p2][^p3] 둘째, 인공지능을 쓰는 미술의 비평과 미학이다(대표 논문 4, 5).[^p4][^p5] 셋째, 관객에게 촉감을 전하는 인터랙티브 설치 기술이다(대표 논문 6, 7).[^p6][^p7] 넷째, 한국 문화유산의 의례를 가상 공간에 다시 구성하는 작업이다(대표 논문 8).[^p8]
 
 ## 응용 분야
 
@@ -77,8 +79,8 @@ AI 물체 검출과 소리화로 주변부 사람들의 목소리를 다룬 작�
 
 | 이름 | 과정 | 연구 주제 | 이메일 | 대표 논문 참여 |
 |---|---|---|---|---|
-| Meeyung Chung | 박사과정 | Curatorship and Criticism, CreativeHeritage | meechung@kaist.ac.kr | 4 |
-| Youngjun Choi | 박사과정 | TotaleXpeience, Atmosphere | youngjun.choi@kaist.ac.kr | 1, 2, 3, 5 |
+| Meeyung Chung | 박사과정 | Curatorship and Criticism, CreativeHeritage | meechung@kaist.ac.kr | 4, 8 |
+| Youngjun Choi | 박사과정 | TotaleXpeience, Atmosphere | youngjun.choi@kaist.ac.kr | 1, 2, 3, 5, 7 |
 | Jihyun Park | 박사과정 | Total Experience, Multi-sensory Experience, Digital Aesthetics | jihyunpark@kaist.ac.kr |  |
 | Doyo Choi | 박사과정 | BrainArt, Human Interaction | doyochoi@kaist.ac.kr | 4, 6 |
 | Seowoo Lee | 박사과정 | Spatial Design, Human Interation, Cognitive Design | seowoo.lee@kaist.ac.kr |  |
@@ -300,3 +302,5 @@ AI 물체 검출과 소리화로 주변부 사람들의 목소리를 다룬 작�
 [^p4]: A. Gambardella, M. Chung, D. Choi, J. Lee, Leonardo 56, 561-567 (온라인 2023-12-01). <https://doi.org/10.1162/leon_a_02365> 초록 기준.
 [^p5]: Y. Choi, J. Lee, Proceedings of the 2025 12th International Conference on Digital and Interactive Arts: Media Art Cultures, Communities & Territories, 1-6 (온라인 2026-04-13). <https://doi.org/10.1145/3773699.3774367> 초록 기준(Semantic Scholar 등록 초록).
 [^p6]: S. Kim, D. Choi, J. Lee, Extended Abstracts of the CHI Conference on Human Factors in Computing Systems, 1-4 (온라인 2024-05-11). <https://doi.org/10.1145/3613905.3648642> 초록 기준(Semantic Scholar 등록 초록).
+[^p7]: Y. Kim, Y. Choi, S. Kim, J. Lee, ISEA International 2025 (2025). <https://www.isea-symposium-archives.org/presentation/improvibration-a-vibrotactile-system-for-conveying-weight-sharing-in-contact-improvisation-to-enhance-audience-experience-presented-by-kim-choi-kim-and-lee/> 초록 기준(학회 아카이브 게시 초록).
+[^p8]: M. Chung 외, J. Lee, ISEA International 2025 (2025). <https://www.isea-symposium-archives.org/presentation/hear-the-voice-of-wind-a-virtual-reconfiguration-of-transition-at-the-yeongdeunggut-with-3d-point-clouds-presented-by-chung-lee-kim-her-and-lee/> 초록 기준(학회 아카이브 게시 초록).
