@@ -1,0 +1,66 @@
+# AiSLab 근거와 출처
+
+본문: [고급지능시스템 연구실 (Advanced Intelligent Systems Lab, AiSLab)](aislab.md) · 작성 2026-10-23
+
+## 읽은 자료
+
+| 자료 | 주소 | 열람일 | 본문에서 쓴 곳 |
+|---|---|---|---|
+| 연구실 누리집 첫 화면 | <https://aislab.snu.ac.kr/> | 2026-10-23 | 연구실 영문 이름과 약칭, 교수 Editor 임명 소식, 「소식」 절 |
+| 누리집 Professor 페이지 | <https://aislab.snu.ac.kr/professor/> | 2026-10-23 | 직위·소속, 연구 초점(AI-RAN, ISAC, 분산 기계학습), Broadcom 경력, IEEE Senior Member, 교수 이메일·전화·사무실, 태그 줄 |
+| 누리집 People 페이지 | <https://aislab.snu.ac.kr/current-researchers/> | 2026-10-23 | 「구성원」 표, 「졸업생과 이전 구성원」 표, 졸업생 진로 |
+| 누리집 Research 페이지 | <https://aislab.snu.ac.kr/%ec%9d%b8%ec%82%ac%eb%a7%90-3/> | 2026-10-23 | 한 줄 요약, 세 연구 갈래(AI-Native RAN, Distributed Intelligence, Connected Robotics)의 설명, 응용 분야, 태그 줄 |
+| 누리집 Publication 페이지 | <https://aislab.snu.ac.kr/%eb%85%bc%eb%ac%b8/> | 2026-10-23 | 최근 논문 목록, 국제 학회 발표, 국내 학회·학술지 논문, 특허와 표준, 대표 논문 저자, 교수 논문의 시기별 주제, 3GPP 기고 |
+| 누리집 Information 페이지 | <https://aislab.snu.ac.kr/information/> | 2026-10-23 | 연구 도구(NVIDIA AoDT, Sionna, cuPHY·cuMAC, ROS 2)와 자체 교육 과정 |
+| 누리집 Events 페이지 | <https://aislab.snu.ac.kr/events/> | 2026-10-23 | 연구실의 이전 이력(UNIST, POSTECH, 서울대, NMRI 소속), 「소식」 절 |
+| 교수 CV(2026년 9월판 PDF, Professor 페이지의 Curriculum Vitae 연결) | <https://aislab.snu.ac.kr/wp-content/uploads/sites/229/2026/09/CV_202609.pdf> | 2026-10-23 | 학위 논문, 경력, 학회·편집 활동, 서울대 보직, 새 과목, 연구 관심, 기술 이전, 「과제」·「수상」 절 |
+| 전기·정보공학부 연구실 목록 | <https://ece.snu.ac.kr/research-faculty/research/lab> | 2026-10-23 | 국문 연구실 이름, 세 연구그룹 등재 |
+| 전기·정보공학부 연구실 상세(고급지능시스템 연구실) | <https://ece.snu.ac.kr/research-faculty/research/lab?md=view&labidx=145> | 2026-10-23 | 연구실 소개, 네 연구 분야(ISAC 포함), 무선 파운데이션 모델·LLM 접목·연합 학습 설명, 주소, 태그 줄 |
+| 전기·정보공학부 전임교수 목록 | <https://ece.snu.ac.kr/research-faculty/faculty/full-time> | 2026-10-23 | 직위(부교수) |
+| 전기·정보공학부 교수 상세(양현종) | <https://ece.snu.ac.kr/research-faculty/faculty/full-time?md=view&profid=p903> | 2026-10-23 | 학력, 주요경력, 전공·분야·Research Interest, 전화·사무실 |
+| 대표 논문 1–8 초록·서지 | Crossref(서지), Semantic Scholar(초록) | 2026-10-23 | 대표 논문 "쉽게 말하면", 각주 p1–p8 |
+
+## 이름·직급·위치 표기 차이
+
+- **연구실 이름**: 학부 연구실 목록과 교수 상세는 「고급지능시스템 연구실」로 적고, 연구실 목록은 이 연구실을 인공지능 및 머신러닝 연구그룹, 통신 네트워크 연구그룹, 통신 시스템 연구그룹 세 곳에 올린다. 학부 연구실 상세는 제목 「고급지능시스템 연구실」 아래 영문 "Advanced Intelligent Systems Laboratory"를 적고, 소개 글 첫 줄은 「지능형 통신 및 시스템 연구실 (AISLab)」, 본문은 "지능형 통신 및 시스템 연구실(AISLab)"으로 적는다. 누리집 제목은 "Advanced Intelligent Systems Lab"이고 소식은 "AiSLab", Information 페이지 본문은 "The Wireless AI Lab"으로 적는다. 본문 제목은 학부 목록의 국문 이름과 누리집의 영문 이름·약칭을 썼다.
+- **교수 이름**: 누리집과 논문 목록은 "Hyun Jong Yang", 학부 교수 상세는 "양현종"과 "Yang, Hyun Jong"으로 적는다. Crossref 기록은 "Hyun Jong Yang"이고, 대표 논문 각주는 이름을 줄여 "H. J. Yang"으로 적었다.
+- **직위**: 누리집 Professor 페이지 "Associate Professor", 학부 전임교수 목록 "양현종부교수", 학부 교수 상세 "양현종 부교수 / Associate Professor", CV "Associate Professor, Electrical and Computer Engineering & Institute of New Media and Communications, Seoul National University"다.
+- **소속과 연구소**: 누리집 Professor 페이지는 "Advanced Intelligent Systems Lab / New Media Communications Research Institute (NMRI) / Department of Electrical and Computer Engineering / Seoul National University"로 적고, Short Bio는 "affiliated with the New Media Communications Research Institute"로 적는다. CV는 같은 연구소를 "Institute of New Media and Communications"로 적고, CV 과제 이름 「Establishment of an International Collaborative Research Platform for the Institute of New Media and Communications (국제협력연구 플랫폼 구축, 뉴미디어통신공동연구소)」(CV는 두 국문 구절 사이에 줄표를 쓴다)가 국문 이름을 함께 적는다. Events 페이지는 "Aug 2025 Lab became affiliated with the New Media Communications Research Institute (NMRI), SNU."로 적는다. 본문 머리 둘째 줄에는 학부만 적고 연구소는 본문에 적었다. 학부 공식 이름은 "전기·정보공학부"이고, 학부 교수 상세의 주요경력은 "전기정보공학부", 누리집은 "Department of Electrical and Computer Engineering", 누리집 머리글은 "Dep. EE, Seoul National University"로 적는다.
+- **부임 시기와 이전 소속**: CV 경력은 "Associate Professor, Seoul National University, Sep 2024 – Present", "Associate Professor, POSTECH, Jul 2020 – Aug 2024", "Assistant / Associate Professor, UNIST, Sep 2013 – Jul 2020"이다. Events 페이지는 "Sep 2024 The lab successfully relocated to Seoul National University (SNU), Department of Electrical and Computer Engineering.", "Jul 2020 The lab relocated to POSTECH, Department of Electrical Engineering.", "Sep 2014 Foundation of the Lab at UNIST, Department of Electrical Engineering."로 적는다. 교수 재직은 UNIST 2013년 9월부터지만 연구실 시작은 2014년 9월로 적혀 있다. Short Bio는 "Before joining SNU in 2024, he was a faculty member at POSTECH (2020-2024) and UNIST (2013-2020) in their respective Departments of Electrical Engineering."이고, 학부 교수 상세는 "조교수/부교수, 전기전자컴퓨터공학부, 울산과학기술원 (2013~2020)", "부교수, 전자전기공학과, 포항공과대학교, (2020~2024)", "부교수, 전기정보공학부, 서울대학교 (2024~현재)"로 적는다. 본문은 학과 이름을 쓰지 않고 학교 이름만 적었다.
+- **학력**: 학부 교수 상세는 "한국과학기술원 (2004), 전기 및 전자공학과, 공학사", "한국과학기술원 (2006), 전기 및 전자공학과, 공학석사", "한국과학기술원 (2010), 전기 및 전자공학과, 공학박사"로, CV는 "B.S. in Electrical Engineering, KAIST, Mar 2000 – Feb 2004", "M.S. ..., Mar 2004 – Feb 2006", "Ph.D. ..., Mar 2006 – Aug 2010"으로, Short Bio는 "B.S., M.S., and Ph.D. degrees in Electrical Engineering from KAIST"로 적는다.
+- **경력의 세부**: 학부 교수 상세는 "스탠포드 대학교, 박사 후 연구원 (2011)", "브로드컴, 시스템 엔지니어 (2012~2013)"로 적고, CV는 "Post-doctoral Researcher, Stanford University, Dept. of Electrical Engineering, Dec 2011 – Oct 2012", "Staff II, Systems Design Engineer, Broadcom Corp., Oct 2012 – Sep 2013"으로 적는다. KRISO 박사후연구원("Post-doctoral Researcher (Military Duty Service), KRISO, Sep 2010 – Nov 2011"), Stanford 방문 대학원생("Visiting Graduate Student, Stanford University, Sep 2009 – Mar 2010"), EgoVid Inc.("Founder / CEO / CTO, EgoVid Inc., Sep 2016 – Jul 2020, Developed AI-controlled SEM and privacy-preserving deep learning technologies")는 CV에만 있다. 본문의 "대표·기술 책임자"는 "Founder / CEO / CTO"를 옮긴 것이다.
+- **편집 활동 표기**: Short Bio는 "serves as an Associate Editor for several prestigious journals"로, CV는 학술지별로 "Editor"로 적는다. 본문은 CV 표기를 따랐고, 첫 화면 소식은 IEEE TCOM(2026년 2월)과 IEEE TVT(2026년 3월) Editor 임명을 따로 적는다. IEEE Senior Member는 Short Bio와 CV("Senior Member, IEEE, 2025 – Present")에 있다. 한국연구재단 전문위원 임기는 CV 표기 "Sep. 2024 – Aug. 2026 (term extended thereafter)"다.
+- **연락처**: 누리집 Professor 페이지는 "Phone +82-2-880-1789", "Office Room 528, Bldg. 302, Seoul National University", 학부 교수 상세는 "TEL 02-880-1789", "OFFICE 302동 528호", CV는 "Rm. 528, Bldg. 302 & Rm. 209, Bldg. 132, Seoul National University"로 적는다. 교수 이메일 hjyang@snu.ac.kr은 누리집 Professor 페이지에 글자로 보이며, 누리집 페이지들의 원본에는 이메일 무단 수집을 거부하는 문구가 없다. 학부 페이지 네 쪽(연구실 목록·상세, 전임교수 목록, 교수 상세)은 공통 꼬리말에 「이메일무단수집거부」 링크가 있어, 본문의 교수 이메일은 누리집 Professor 페이지만 근거로 달았다. 누리집 꼬리말의 주소와 전화(08826 서울시 관악구 관악로1 서울대학교, T. 02-880-5114)는 대학 대표 연락처라 쓰지 않았고, 주소는 학부 연구실 상세의 꼬리말 표기를 썼다.
+- **구성원**: People 페이지 Post-doc 칸 1명(Post-Doctoral Researcher), Graduate Students 칸 8명(Ph.D. Course 1, M.S.-Ph.D. Course 6, M.S. Course 1), Current Intern Students 칸 6명(Undergrad Intern)이다. 「시작」 칸은 카드의 현재 과정 줄에서 옮겼다(Hyeonsu Lyu "Post-doc @SNU (Mar 2026 - Present)", Hosung Joo "Ph.D. Course @POSTECH (2021/09 - Present)", Sojeong Park·Minwoo Kim·Sehyun Ryu "M.S.-Ph.D.-combined @POSTECH (… - Present)", Jaehyun Choi·Yumin Kim·Minjae Lee "M.S.-Ph.D.-combined @SNU (Since …)", Seunghyun Lee "M.S. Course @SNU (Since 2026/03)"). 카드의 다른 줄(학사 학교, Hosung Joo의 "Antenna Engineer, ETRI (Mar. 2019 – Feb. 2021)", Hyeonsu Lyu의 "Ph.D. @POSTECH (2026)"과 "Visiting Scholar @UT Austin (Aug 2025 - Jan 2026)", Sehyun Ryu의 "Visiting Student @Stanford (Aug. 2026 - Jan. 2027)", Seunghyun Lee의 "Staff Engineer @Samsung Electronics (Since 2025)")은 표에 옮기지 않았고, Seunghyun Lee 카드의 "*Affiliated with Samsung"은 과정 칸 괄호에 넣었다. 대학원생 카드의 Email 단추는 주소를 화면에 글자로 보여 주지 않고 문자 참조로 바꿔 적은 링크라 구성원 이메일은 싣지 않았다. Sehyun Ryu 카드의 Email 단추는 Sojeong Park 카드와 같은 주소로 이어진다. CV의 Supervised Students 칸은 2026년 지도 학생을 "13 graduate students under supervision, 7 Ph.D. students and 6 M.S. students in the Department of Electrical and Computer Engineering"으로 적어 People 페이지의 대학원생 8명과 다르다. 본문 표는 People 페이지 기준이다.
+- **인턴 이름**: People 페이지의 "Wonil Kim", "Jeonghyun Ahn"을 첫 화면 소식(2025년 12월–2026년 2월 인턴 명단)은 "Won-il Kim", "Junghyun Ahn"으로, Publication 페이지 Submitted 구역의 한 논문은 "Junghyun An"으로 적는다.
+- **졸업생**: People 페이지 Alumni & Long-term Interns 칸은 박사 6(UNIST 5, POSTECH 1), 석사 4(UNIST 2, POSTECH 2), 장기 인턴 2다. CV Supervised Students 칸과 다른 점: Jonggyu Jang은 People "(Ph.D. 2021 UNIST)", CV 연도 칸 2022, Myeung Un Kim은 People "(Ph.D. 2019 UNIST)", CV "Myoung Un Kim … 2020", Yein Heo는 People "(M.S. 2022 POSTECH)", CV "(M.S. from UNIST) 2022"다. Yeongjun Kim의 진로는 People "System Engineer @ Samsung Electronics (S.LSI)", CV "Researcher, Samsung Electronics (DS Division)", 첫 화면 소식(2024년 2월) "hired by Samsung Electronics (S.LSI) as a Researcher"다. CV의 석사 졸업생 "Sunkee Baik (M.S. from Seoul National University) 2026"은 People 페이지에 없다. Jungyeon Koh의 진로 "Ph.D. Student @ .... University"는 People 페이지 표기 그대로다. 본문 표는 People 페이지 기준이다.
+
+## 대표 논문을 고른 이유
+
+교수는 2024년 9월 서울대에 부임했다(CV 경력, Events 페이지). 그래서 후보는 Publication 페이지 J 칸 가운데 2024년 9월 뒤 학술지에 실린 논문으로 했고, 연구 갈래는 Research 페이지의 세 칸과 학부 연구실 상세의 ISAC 칸을 따랐다.
+
+1–3. AI 네이티브 무선 접속망과 언어 모델(IEEE TVT 2026년 7월, IEEE TCOM 2026, IEEE TVT 2026년 1월). 학부 연구실 상세의 Selected Publications 첫 칸도 1과 3을 든다.
+4–5. 분산 학습과 에지 지능(IEEE JSAC 2026, IEEE TMC 2024년 12월). 학부 연구실 상세의 둘째 칸도 두 논문을 든다.
+6–7. 통신과 센싱의 통합(IEEE TWC 2026, IEEE IoTJ 2026).
+8. 네트워크로 연결된 협력 로봇(IEEE Communications Surveys & Tutorials 2026). 학부 연구실 상세의 셋째 칸도 이 논문을 든다.
+
+- 교수 역할: 1–7은 랩 목록에서 교수 이름에 교신저자 표시(*)가 있고, 8은 교수가 1저자(교신 표시 없음)다. 2와 5는 랩 목록에 공동 1저자 표시((=))가 있다. 여덟 편 모두 랩 목록과 Crossref 기록의 저자 수와 순서가 같다.
+- 게재 시기: Crossref 기록의 인쇄판 날짜는 1 2026년 7월(75권 7호), 3 2026년 1월(75권 1호), 5 2024년 12월(23권 12호), 7 2026년 10월(13권 20호)이고, 2·4·6·8은 2026년(2 TCOM 74권, 4 JSAC 44권, 6 TWC 25권, 8 COMST 28권)이다. 랩 목록은 2와 7을 "early access"로 적는다. 5는 인쇄판이 2024년 12월이고 온라인 선공개 날짜는 Crossref 기록에 없으며, 논문 작업이 POSTECH 시기와 겹치는지는 알 수 없다.
+- 제목 표기: 2는 랩 목록 "Compressed-CSI Feedback with Near Real-time Domain Adaptation", Crossref "Compressed-CSI Feedback With Near Real-Time Domain Adaptation"이고, 6은 랩 목록 "MIMO-OFDM", Crossref "MIMO–OFDM"이다. 대표 논문 표에는 Crossref 제목을, 최근 논문 목록에는 랩 표기를 썼다.
+- 바꾼 후보: 첫 갈래에서 처음 고른 「Large Multimodal Model-Empowered Task-Oriented Autonomous Communications: Design Methodology and Implementation Challenges」(IEEE Vehicular Technology Magazine, 2025년 11월, 교수 1저자)는 Crossref 기록과 Semantic Scholar DOI 조회 응답에 초록이 없어, 초록이 있는 같은 갈래의 2로 바꿨다.
+- 고르지 않은 논문: J 칸의 게재 승인(accepted) 논문 「Generalized Influence Functions for Better Model Change Estimates」(NeurIPS 2026)와 「Heterogeneity-Aware Compression-Ratio Orchestration for Multi-User CSI Feedback in AI-RAN」(JCN 2026)은 출판 기록이 아직 없어 고르지 않았다. 2021년–2024년 8월 논문(POSTECH 시기)은 대표 논문에 넣지 않고 「교수와 전문 분야」에서 목록 근거로만 소개했다.
+
+## 확인한 범위와 확인하지 못한 점
+
+- "쉽게 말하면"은 각 논문의 초록만 근거로 썼다. 여덟 편 모두 Semantic Scholar에 등록된 초록이고, 서지(권·쪽·날짜)는 Crossref 기록이다.
+- Publication 페이지 머리의 건수 표기는 Journals & Top Conferences 69, International Conferences 59, Domestic Papers 50, Patents & Standards 55, Book Chapters 1, Submitted 20(합계 254)이고, 직접 센 항목 수와 같다. J·C·D·P는 각각 1번부터 끝 번호까지 빠지거나 겹치는 번호가 없다. 연도 구역마다 적힌 건수(예: 2026년 J 16·B 1·C 6·D 7·P 3)도 직접 센 수와 같다.
+- 2021–2026년 연도 구역의 항목은 J 38(J32–J69; 2026년 16, 2025년 6, 2024년 5, 2023년 4, 2022년 5, 2021년 2), B 1(2026년), C 22(C38–C59; 2026년 6, 2025년 7, 2024년 4, 2023년 1, 2022년 4, 2021년 0), D 40(D11–D50; 2026년 7, 2025년 1, 2024년 4, 2023년 12, 2022년 9, 2021년 7), P 20(P36–P55; 2026년 3, 2025년 5, 2024년 5, 2023년 1, 2022년 3, 2021년 3)이다. 번호는 날짜 순서와 꼭 맞지는 않는다(J55는 2025년 구역, J53·J54·J56은 2026년 구역). 2021년 구역에는 2021년 10월 22일 이전 항목도 들어 있다.
+- Submitted 구역 20건(제목을 밝히지 않은 심사 중 논문 1건 포함)은 투고·심사 중이라 목록에 넣지 않았다. 이 가운데 「Split LDPC Decoding for Latency-Constrained Relay Networks」는 같은 제목이 2026년 구역 C57(ICTC 2026 발표 예정)에도 있다.
+- 목록 줄 끝의 링크 이름 묶음 「(Conference, Program, Proceedings )」·「(Conference, Program )」과 줄 안의 서식 찌꺼기 「0.5em0.5em」, 링크 이름 「Paper」·「arXiv」는 목록에서 뺐다. 나머지 글자는 페이지 표기 그대로다.
+- 특허: 2021년 구역의 P36과 P37은 번호가 같은 KR 10-2021-0186361로 적혀 있다(2020년 구역의 P34·P35도 KR 10-2020-0154384로 같다). 2024–2026년 항목에는 "(filed)"가 붙고 2021–2023년 항목에는 상태 표기가 없다. 게시된 대로 옮겼다.
+- 과제: CV Research Projects 칸은 38건이다. 끝난 달이 2021년 11월 이후인 23건을 실었다. 「Development of a privacy-based behavior-aware dataset management/performance assessment GUI」(2021년 6월–10월)는 끝난 날짜를 알 수 없어 넣지 않았다.
+- 수상: CV Awards and Honors 칸 10건 가운데 2021년 이후 7건이다. 삼성 휴먼테크 논문대상 장려상은 CV가 "Feb. 2026", 첫 화면 소식이 "Apr 2026 Hyeonsu Lyu will receive the Encouragement Award at the 32nd Samsung Humantech Paper Awards."로 날짜가 다르다. KICS Winter Conference Best Paper Award(2023년 2월)는 Publication 페이지 D29 줄 끝의 "(Best Paper Award)"와 같은 일이다.
+- 소식: 첫 화면 Recent News 10건·Old News 3건과 Events 페이지 Lab Footprints 7건 가운데 2021년 이후 글 15건이다. 연구실 행사 글 3건(첫 화면과 Events 페이지의 2026년 2월 수원 Winter Lab Workshop 두 건, 2023년 8월 USA Research Tour)은 싣지 않았고, 2021년 이전 두 건(2020년 7월 POSTECH 이전, 2014년 9월 UNIST 시작)은 본문의 연혁에만 썼다. Events 페이지의 Important Target Dates 표(투고 마감 예상일)는 쓰지 않았다.
+- 학부 연구실 상세의 Selected Publications는 일부 논문의 상태를 Publication 페이지보다 이전 것으로 적는다(예: Fed-ZOE "under review", 다중 로봇 네트워크 개관 논문 "under review, 2025", Vehicular Technology Magazine 논문 제목 "Large Language and Multimodal Models for Task-Oriented Autonomous Communications: Opportunities and Challenges, accepted, 2026"). 본문 목록은 Publication 페이지 기준이다.
+- 교수 논문의 시기별 주제는 Publication 페이지 J 칸의 제목을 연도 구역별로 묶어 본 것이다.
+- CV는 PDF 문서라 글자를 뽑아 읽었다. 학부 연구실 상세에 붙은 소개자료(poster.pdf)와 누리집 영문 전환 페이지(/en/), 사이트맵에 남은 견본 페이지는 읽지 않았다. 논문 PDF는 열지 않았다.
