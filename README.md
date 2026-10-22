@@ -11,9 +11,9 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (165곳)
+## KAIST 연구실 (170곳)
 
-### 기계공학과 (44)
+### 기계공학과 (49)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -22,6 +22,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [Solids Lab @ KAIST (Hansohl Research LAB)](wiki/kaist/continuum.md) | 조한솔 교수 | 고체와 응집 물질(원자·분자가 촘촘히 모여 있는 고체·액체 상태의 물질)이 크게 변형되고 흐르고 서로 작용할 때의 역학 원리를 밝히고, 그 이해를 바탕으로 극한·다중 물리 환경에서 쓸 새 소재, 미세구조, 장치를 더 잘 설계하도록 돕는 연구실이다. |
 | [극한소재역학 및 신뢰성 평가 연구실 (iCaRE Lab., in-situ Characterization and Reliability Evaluation Laboratory)](wiki/kaist/icare.md) | 심기동 교수 | 여러 크기와 환경에서 소재가 힘을 받을 때 어떻게 변형되고 부서지는지를 재고, 그 원리를 써서 더 강하고 믿을 수 있는 소재와 구조를 만드는 연구실이다. |
 | [근골격 운동역학 연구실 (Musculoskeletal BioDynamics Lab)](wiki/kaist/mskbiodyn.md) | 구승범 교수 | 사람이 걸을 때 뼈와 근육, 신경이 움직임을 어떻게 만들어 내는지 재고 계산하는 연구실이다. |
+| [로봇 및 시뮬레이션 연구실 (RS Lab)](wiki/kaist/rslab.md) | 이두용 교수 | 혈관 시술에 쓰는 가이드와이어의 끝을 스스로 휘게 하는 의료 기구, 조작자의 손에 힘을 전하는 햅틱 장치와 그 제어, 수술과 의료 시술을 컴퓨터로 재현하는 의료 시뮬레이션을 연구하는 기계공학과 연구실이다. |
 | [로봇 제어 & 설계 연구실 (Dynamic Robot Control & Design Lab, DRCD Lab)](wiki/kaist/dynamicrobot.md) | 박해원 교수 | 다리로 걷고 뛰는 로봇을 직접 설계해 만들고, 그 로봇이 험한 지형이나 벽과 천장 위에서도 빠르고 안정적으로 움직이도록 제어하는 기계공학과 연구실이다. |
 | [로봇지능 연구실 (RaiLab)](wiki/kaist/railab.md) | 황보제민 교수 | 네 다리로 걷는 로봇을 직접 설계해 만들고, 강화학습으로 거칠거나 미끄럽거나 무른 지형을 지나는 보행 제어기를 개발하는 연구실이다. |
 | [멀티스케일 에너지 연구실 (Multiscale Energy Laboratory, MEL)](wiki/kaist/mel.md) | 남영석 교수 | 액체와 기체가 서로 바뀌는 상변화 현상을 마이크로·나노 크기에서 밝히고, 그 이해를 반도체·데이터센터·전기차 부품의 열을 빼는 냉각 기술과 새 열 소재로 잇는 기계공학과 연구실이다. |
@@ -33,7 +34,9 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [생산 및 계측 연구실 (MNIL)](wiki/kaist/mnil.md) | 이정철 교수 | 반도체 공정으로 만드는 미세한 기계 구조와 이를 쓰는 정밀 측정을 연구하는 기계공학과 연구실이다. |
 | [생체기계 연구실 (Biorobotics Lab)](wiki/kaist/biorobotics.md) | 김정 교수 | 사람과 기계가 몸으로 맞닿아 함께 일하는 환경을 겨냥해, 로봇이 촉감을 느끼게 하는 로봇 피부와 촉각 센서, 근육의 전기 신호로 사람의 움직임 의도를 알아내는 기술, 사람 몸에 입히는 착용형 로봇, 부드러운 소재로 만든 소프트 로봇을 연구하는 기계공학과 연구실이다. |
 | [생체역학 연구실 (Biomechanics Lab)](wiki/kaist/biomech.md) | 박수경 교수 | 사람이 걷고, 균형을 잡고, 운동하는 움직임을 역학 모델로 설명하고 예측하는 연구실이다. |
+| [생체융합 시스템 공학 연구실 (Biohybrid Systems Engineering Lab)](wiki/kaist/biosel24.md) | 안송이 교수 | 미세 가공과 3D 프린팅으로 생체 재료와 기능성 재료를 엮어, 몸속 조직의 미세 환경을 몸 밖에서 재현하는 바이오 하이브리드 장치를 만드는 기계공학과 연구실이다. |
 | [수송동력연구실 (Future Transport Power Laboratory, FTPL)](wiki/kaist/ftpl.md) | 배충식 교수, 황준식 교수 | 자동차·배·항공기를 움직이는 엔진(수송 동력 장치)을 더 깨끗하고 효율적으로 만드는 연구실이다. |
+| [스마트 에너지 소재 및 응용 연구실 (SMILE Lab, SMART MATERIALS & ENERGY Laboratory)](wiki/kaist/misokimgroup.md) | 김미소 교수 | 압전 소재와 음향·기계적 메타물질로 주변의 진동과 소리에서 전기를 얻는 에너지 하베스팅, 외부 전원 없이 움직임을 재는 자가발전 센서를 연구하는 기계공학과 연구실이다. |
 | [신경재활공학 연구실 (Neuro-Rehabilitation Engineering Laboratory)](wiki/kaist/rehab.md) | 박형순 교수 | 다치거나 신경계 질환을 앓아 몸을 움직이기 어려운 사람의 재활을 돕는 로봇과 기기, 평가 방법을 만드는 연구실이다. |
 | [신에너지변환시스템연구실 (New Energy Conversion System Laboratory, NECS)](wiki/kaist/necs.md) | 배중면 교수 (기계공학과·녹색성장지속가능대학원·안보과학기술대학원) | 디젤 같은 탄화수소 연료에서 수소를 뽑아내는 개질 반응기와 촉매, 수소를 액체 유기물·암모니아·금속에 담아 저장하는 기술, 수소를 전기로 바꾸는 고체산화물 연료전지를 함께 연구하는 수소 에너지 연구실이다. |
 | [연성 생체역학 연구실 (The SHIN Lab)](wiki/kaist/softbm.md) | 신현정 교수 | 우리 몸의 세포가 화학 신호뿐 아니라 당기는 힘, 흐름, 전기 같은 물리 자극에도 반응한다는 점에 주목해, 몸속 자극을 흉내 내는 세포 배양 장치와 3차원 질병 모델을 만들고 세포의 모양·움직임·힘을 기계공학 방법으로 재서 뇌 질환, 암, 흉터의 원리를 밝히는 연구실이다. |
@@ -43,6 +46,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [인간–기계 상호작용 연구실 (Human-Machine iNteraction Lab, HUMAN Lab)](wiki/kaist/human-lab.md) | 박용화 교수 | 기계가 사람처럼 보고(3차원 시각) 듣고(음향) 느끼게(진동) 하는 센서와 인공지능을 연구한다. |
 | [인간–로봇 상호작용 연구실 (Human-Robot Interaction Lab, HRI Lab)](wiki/kaist/hri.md) | 경기욱 교수 | 사람과 기계가 서로의 의도와 촉감을 자연스럽게 주고받게 하는 연구실이다. |
 | [저스트 두 잇 랩 (Just Do it Lab, JDL)](wiki/kaist/jdl.md) | 윤용진 교수 | 3D 프린팅으로 물건을 더 튼튼하고 정밀하게 만드는 공정과 소재를 연구하고, 인공지능으로 제조 공정을 스스로 고치게 하는 스마트 제조를 연구하는 연구실이다. |
+| [저온공학 연구실 (Cryogenic Engineering Laboratory)](wiki/kaist/cryokaist.md) | 정상권 교수 | 아주 낮은 온도를 만드는 냉동기와, 그 온도에서 쓰이는 초전도 기기·액체 수소·액화 공기 시스템의 냉각과 열전달을 연구하는 기계공학과 연구실이다. |
 | [전산역학 및 구조시스템 연구실 (CMSS Laboratory, Computational Mechanics and Structural Systems)](wiki/kaist/cmss.md) | 이필승 교수 | 구조물과 유체가 받는 힘과 그에 따른 움직임을 수학 모델로 나타내고, 유한요소법을 바탕으로 효율적인 수치 해석 방법을 만드는 연구실이다. |
 | [전산역학 및 생체역학 연구실 (Computational Mechanics and Biomechanics Laboratory, CMB Lab)](wiki/kaist/cmb.md) | 김현진 교수 | 몸속의 피 흐름과 혈관·조직이 받는 힘, 그리고 둘이 서로 주고받는 영향을 컴퓨터 계산으로 밝히는 방법을 만드는 연구실이다. |
 | [정밀 메카트로닉스 연구실 (Precision Mechatronics Laboratory, PML)](wiki/kaist/pml.md) | 노민균 교수 | 전동기와 자기 부상 장치 같은 전기기계 하드웨어와 그 제어를 처음부터 함께 설계하는 기계공학과 연구실이다. |
@@ -54,6 +58,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [초규모 광 제어 및 계측 연구실 (Ultra-Scale Photonic Control and Measurement Group, UPCaM)](wiki/kaist/upcam.md) | 김정원 교수 | 일정한 간격의 수많은 빛 성분으로 이루어진 레이저 빛(광주파수 빗)을 잡음이 매우 낮게 만들고, 이를 써서 전기·빛 신호의 시각을 펨토초 수준으로 맞추거나 반도체 구조를 깎지 않고 정밀하게 재는 기술을 연구하는 연구실이다. |
 | [초소형 기전 공학 연구실 (Micro Mechanical System Technology Lab., MMST Lab.)](wiki/kaist/mmst.md) | 이승섭 교수 | 반도체 소자를 만드는 공정을 고쳐 쓴 미세 가공 기술로, 전기나 기계 장치로 움직이는 아주 작은 기계 소자인 MEMS를 만드는 기계공학과 연구실이다. |
 | [초정밀 광측정·광가공·지능화 연구실 (Ultra-Precision Metrology, Manufacturing and Machine Learning Lab., UPM3)](wiki/kaist/upm2.md) | 김영진 교수 | 극초단 레이저를 공통 기반으로 적외선부터 극자외선까지 이르는 가간섭 광원(파동의 마루와 골이 고르게 맞춰진 빛)을 개발하고, 이를 반도체·이차전지·반도체 패키징의 초정밀 측정, 탄소·금속 소자의 레이저 가공과 합성, 시간·주파수 표준, 차세대 우주 임무에 적용하는 연구실이다. |
+| [초정밀 적층제조 (나노 3차원 프린팅) 연구실 (The Kim Lab @ KAIST, Nanoscale Manufacturing Laboratory)](wiki/kaist/kimlabkaist.md) | 김지태 교수 | 3D 프린팅을 나노미터 수준의 정밀도로 끌어올려 전자·광·양자 소자를 실제로 생산하는 제조 플랫폼으로 만들려는 기계공학과 연구실이다. |
 | [최적 설계 연구실 (AI-based Design Optimization Laboratory, AIDOL)](wiki/kaist/idol.md) | 이익진 교수 | 실제 공학 현장에는 시스템 고장을 일으킬 수 있는 불확실성이 많다는 데서 출발해, 신뢰도를 확보하면서 시스템의 기능을 최대로 하는 설계 방법을 연구한다. |
 | [컴퓨터원용 정형가공 연구실 (Computer-Aided Net Shape Manufacturing Laboratory, CANESM)](wiki/kaist/canesm.md) | 윤정환 교수 | 가벼운 소재와 구조물을 높은 신뢰성으로 설계·해석·제조하는 것을 연구 초점으로 삼는 기계공학과 연구실이다. |
 | [파동에너지(소음/진동) 제어 연구실 (Wave Energy Control Lab)](wiki/kaist/wave.md) | 전원주 교수 | 소리와 진동을 파동 에너지로 보고, 특별한 모양과 배열의 인공 구조를 설계해 구조물의 진동을 줄이고 소음을 흡수·차단하는 연구실이다. |
