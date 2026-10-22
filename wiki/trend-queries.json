@@ -1,5 +1,5 @@
 {
- "version": "1.2",
+ "version": "1.3",
  "updated": "2026-10-22",
  "trends": [
   {
@@ -505,6 +505,34 @@
     "hci"
    ],
    "note": "멀리 있는 사람들이 한자리에 있는 것처럼 만나거나 함께 일하게 하는 기술. XR에 한정되지 않아 가상·증강현실의 별칭이 아니라 검색어로 둔다(혼합현실 텔레프레즌스·XR 원격 협업은 별칭)",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "nanomedicine",
+   "query": "나노의학",
+   "aliases": [
+    "나노 의학",
+    "nanomedicine"
+   ],
+   "tags": [
+    "biomaterials",
+    "diagnostics-biosensor",
+    "chiral-materials"
+   ],
+   "note": "나노 소재를 질병의 진단·치료에 쓰는 의학 분야. 약물 전달 소재보다 넓어 생체재료·조직 공학의 별칭이 아니라 검색어로 둔다(약물 전달은 별칭)",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "chirality",
+   "query": "카이랄성",
+   "aliases": [
+    "키랄성",
+    "chirality"
+   ],
+   "tags": [
+    "chiral-materials"
+   ],
+   "note": "거울상과 겹쳐지지 않는 구조의 성질. 분자·결정·빛 등 여러 대상에 두루 쓰는 속성이라 카이랄 소재·광학의 별칭이 아니라 검색어로 둔다",
    "added": "2026-10-22"
   }
  ]

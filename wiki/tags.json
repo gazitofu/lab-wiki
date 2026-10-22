@@ -1,5 +1,5 @@
 {
- "version": "1.3",
+ "version": "1.4",
  "updated": "2026-10-22",
  "fields": [
   {
@@ -268,7 +268,10 @@
     "lithium-ion battery",
     "secondary battery",
     "양극재",
-    "음극재"
+    "음극재",
+    "소듐 이온 전지",
+    "나트륨 이온 전지",
+    "sodium-ion battery"
    ],
    "definition": "충전해 다시 쓰는 전지의 전극·전해질 소재와 그 구조.",
    "related": [],
@@ -730,6 +733,51 @@
    "status": "active",
    "merged_into": null,
    "note": "측정 대상이 유동·화염이면 이 태그만 달고 광학 센서·분광기는 겹쳐 달지 않는다."
+  },
+  {
+   "id": "fluid-mechanics",
+   "name_ko": "유체역학·유동",
+   "name_en": "Fluid mechanics and flow",
+   "axis": "method",
+   "fields": [
+    "mechanical-robotics",
+    "energy-environment"
+   ],
+   "aliases": [
+    "유체역학",
+    "유체 역학",
+    "유동",
+    "유동 해석",
+    "전산유체역학",
+    "CFD",
+    "난류",
+    "자유수면 유동",
+    "수면파",
+    "중력-표면장력파",
+    "초공동",
+    "환기 초공동",
+    "공기 윤활",
+    "항력 저감",
+    "fluid mechanics",
+    "fluid dynamics",
+    "computational fluid dynamics",
+    "turbulence",
+    "free-surface flow",
+    "water waves",
+    "supercavitation",
+    "drag reduction"
+   ],
+   "definition": "액체와 기체가 흐르는 모양과 그 흐름이 물체에 주는 힘(압력·항력)을 이론·실험·계산으로 밝히는 분야.",
+   "related": [
+    "flow-combustion-diagnostics",
+    "rarefied-gas-dynamics",
+    "microfluidics",
+    "hypersonics",
+    "marine-robotics"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "흐름 자체의 원리·해석·제어를 연구할 때 단다. 흐름을 재는 레이저·카메라 측정 기법만 있으면 유동·연소 진단, 진공·고고도의 희박한 기체는 희박 기체 역학, 아주 가는 관로에서 액체를 다루면 미세유체, 극초음속 비행체는 극초음속 공기열역학."
   },
   {
    "id": "memristor",
@@ -1636,7 +1684,14 @@
     "음의 푸아송 비",
     "오그제틱",
     "auxetic",
-    "역학 메타물질"
+    "역학 메타물질",
+    "음향 메타물질",
+    "음향 메타표면",
+    "탄성 메타물질",
+    "포노닉 결정",
+    "acoustic metamaterial",
+    "acoustic metasurface",
+    "phononic crystal"
    ],
    "definition": "재료보다 작은 인공 구조를 배열해 자연 물질에 없는 광학·역학 성질을 만드는 소재와 소자.",
    "related": [],
@@ -1878,7 +1933,15 @@
     "투과전자현미경",
     "STEM",
     "전자 토모그래피",
-    "초고속 전자현미경"
+    "초고속 전자현미경",
+    "액체상 전자현미경",
+    "액체상 투과전자현미경",
+    "그래핀 액체 셀",
+    "실시간 전자현미경",
+    "in situ TEM",
+    "liquid-phase TEM",
+    "liquid cell TEM",
+    "graphene liquid cell"
    ],
    "definition": "빛 대신 전자빔으로 원자 수준까지 물질 구조를 보는 장비와 분석 기법.",
    "related": [],
@@ -2010,7 +2073,10 @@
     "조직 공학",
     "tissue engineering",
     "조직 재생",
-    "의료용 접착제"
+    "의료용 접착제",
+    "약물 전달",
+    "약물 전달체",
+    "drug delivery"
    ],
    "definition": "몸 안에 넣거나 세포·조직과 맞닿아 쓰는 소재와 조직을 되살리는 공학.",
    "related": [],
@@ -3763,7 +3829,13 @@
     "충격 절연",
     "진동 절연",
     "구조 동역학",
-    "소음"
+    "소음",
+    "음향 블랙홀",
+    "공력음향",
+    "팬 소음",
+    "acoustic black hole",
+    "aeroacoustics",
+    "fan noise"
    ],
    "definition": "기계와 구조물의 진동·충격·소리를 해석하고 줄이거나 막는 공학.",
    "related": [],
@@ -3833,6 +3905,38 @@
    "related": [],
    "status": "active",
    "merged_into": null
+  },
+  {
+   "id": "chiral-materials",
+   "name_ko": "카이랄 소재·광학",
+   "name_en": "Chiral materials and chiral optics",
+   "axis": "object",
+   "fields": [
+    "materials",
+    "chemistry"
+   ],
+   "aliases": [
+    "카이랄 소재",
+    "카이랄 광학",
+    "카이랄 나노소재",
+    "원편광 이색성",
+    "카이랄성 유도 스핀 선택성",
+    "CISS",
+    "chiral materials",
+    "chiral optics",
+    "circular dichroism",
+    "chiral-induced spin selectivity"
+   ],
+   "definition": "거울에 비친 모습과 겹쳐지지 않는 비대칭 구조(카이랄성)를 가진 분자·나노 소재를 만들고, 그 구조가 빛의 편광이나 전자의 스핀과 주고받는 성질을 연구하는 분야.",
+   "related": [
+    "plasmonics",
+    "metamaterials",
+    "photodetector",
+    "spintronics"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "카이랄성을 만들거나 조절하는 것이 연구의 중심일 때 단다. 카이랄 소재를 쓴 소자·바이오 응용은 해당 응용 태그를 함께 단다."
   },
   {
    "id": "hydrology",
@@ -3997,6 +4101,10 @@
   {
    "date": "2026-10-22",
    "change": "v1.3 사용자 승인(census-11 어휘 안건, 「권고대로」): 신규 태그 「컴퓨터 그래픽스·기하 처리」(visualai 요청, lava에도 부여), 「스마트 그리드·전력 관리」(vil 요청), 「공간 분석·지리정보(GIS)」(urbandesignlab 요청). vcl 요청 「시선 추적·시선 기반 상호작용」은 「인간–컴퓨터 상호작용」에 시선 기반 상호작용 별칭으로, uvrlab 요청 「원격 협업·텔레프레즌스」는 「가상·증강현실」에 XR 조건이 붙은 표기(혼합현실 텔레프레즌스, XR 원격 협업)의 별칭으로 넣었다(규칙 V-2). 조건 없는 시선 추적과 원격 협업·텔레프레즌스는 trend-queries.json 검색어 항목으로 두었다"
+  },
+  {
+   "date": "2026-10-22",
+   "change": "v1.4 사용자 승인(census-12 어휘 안건, 「권고대로」): 신규 태그 「유체역학·유동」(wfm 요청의 자유수면 유동·수면파와 수중 항력 저감을 하위 용어 별칭으로)과 「카이랄 소재·광학」(yeom-lab 요청). 규칙 V-2 별칭: 음향 메타물질·포노닉 결정 → 메타물질·메타광학, 음향 블랙홀·공력음향 → 진동·소음 공학(wave 요청), 액체상 전자현미경 → 전자현미경, 소듐 이온 전지 → 이차전지 소재(yuklab 요청), 약물 전달 → 생체재료·조직 공학(yeom-lab 요청). 나노의학은 trend-queries.json 검색어로 두었다. 파력·조류 에너지(wfm)는 근거가 연구실 소개뿐이라 보류하고 KAIST 전수 뒤 다시 본다. 카이랄성(일반 구조 속성)은 별칭이 아니라 검색어로 두었다"
   }
  ]
 }
