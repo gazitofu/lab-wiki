@@ -11,9 +11,9 @@ KAIST 연구실을 한 곳에서 찾아보는 위키다. 연구실마다 한 문
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (125곳)
+## KAIST 연구실 (130곳)
 
-### 전기및전자공학부 (31)
+### 전기및전자공학부 (36)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -21,12 +21,14 @@ KAIST 연구실을 한 곳에서 찾아보는 위키다. 연구실마다 한 문
 | [CAST Lab (CAST Hardware Innovation Lab)](wiki/kaist/castlab.md) | 김주영 교수 | 인공지능 계산을 빠르고 적은 전력으로 처리하는 전용 하드웨어를 칩 회로부터 컴퓨터 구조, FPGA 서버 시스템까지 함께 설계해, 앞으로의 인공지능 응용을 위한 고성능·확장형 컴퓨팅 플랫폼을 만드는 연구실이다. |
 | [Cho's Circuits & Systems Lab (CCS)](wiki/kaist/ccs.md) | 조성환 교수 (전기및전자공학부·반도체시스템공학과) | 알고리즘과 시스템 구조부터 회로 기법까지 여러 단계를 함께 고려해 아날로그 집적회로를 설계하는 연구실로, 유선·무선 통신용 고속 회로, 센서용 저전력 회로, 기계학습·메모리 회로를 칩으로 만든다. |
 | [Device-to-System Integration Lab (DSIL)](wiki/kaist/dsil.md) | 권지민 교수 (전기및전자공학부·AI시스템학과) | 차세대 AI 하드웨어에 쓸 반도체 기술을 소자에서 패키징, 시스템까지 이어서 연구하는 연구실이다. |
+| [EPIC Lab (Embedded Processor & Intelligent Computing Lab)](wiki/kaist/epiclab.md) | 이영주 교수 (전기및전자공학부·AI시스템학과) | 기계학습 모델, 차세대 통신, 사람 중심의 사물인터넷 기기처럼 특정 응용에 맞춘 임베디드 프로세서를 알고리즘, 컴퓨터 구조, 시스템 온 칩 설계까지 함께 다뤄, 에너지 효율이 높은 하드웨어·소프트웨어 구성 요소를 만드는 연구실이다. |
 | [IPC Lab (Integrated Power Circuit Laboratory)](wiki/kaist/ipc.md) | 백재일 교수 | 새로 떠오르는 응용과 앞으로의 응용에 쓸, 더 작고 더 큰 전력을 다루는 집적 전력전자(전력 칩)를 만드는 방법을 연구하는 연구실이다. |
 | [I³ Group (Intelligence, Imaging & Integration Group)](wiki/kaist/i3-group.md) | 강익성 교수 | 렌즈·측정 장치와 인공지능을 함께 설계해, 살아 있는 쥐의 뇌 속 신경세포나 반도체 칩 내부 같은 작은 3차원 구조를 부수지 않고 선명하게 보는 영상 기술을 만든다. |
 | [I³ Group (Intelligence, Imaging & Integration Group)](wiki/kaist/iksungk.md) | 강익성 교수 | 광학 장치와 측정 방식, 물리 법칙을 담은 인공지능을 함께 설계해 작은 대상의 3차원 구조를 부수지 않고 선명하게 보는 계산 현미경을 만드는 연구실이다. |
 | [KAIST 집적 메타포토닉스 그룹 (KAIST Integrated Metaphotonics Group, KIM Group)](wiki/kaist/integrated-metaphotonics.md) | 김상식 교수 | 부피 큰 광학 장치를 작은 칩 위의 광회로로 바꾸는 연구를 하는 그룹이다. |
 | [VLSI 연구실 (KAIST VLSI Research Lab)](wiki/kaist/bongjin.md) | 김봉진 교수 (전기및전자공학부·반도체시스템공학과·AI시스템학과) | 계산과 통신을 맡는 집적회로와 시스템을 칩으로 설계해 만드는 연구실이다. |
 | [가변적 기계학습 알고리즘 연구실 (FlexML Lab, Flexible Machine Learning Lab)](wiki/kaist/insuhan.md) | 한인수 교수 | 대형 언어 모델 같은 큰 인공지능 모델을 더 빠르게, 더 적은 메모리로 돌리는 기계학습 알고리즘을 이론적 바탕 위에서 만들고 분석하는 연구실이다. |
+| [광자 시스템 연구실 (Photonics Systems Research Lab, PSRL)](wiki/kaist/psrl.md) | 김훈 교수 | 빛으로 데이터를 주고받는 광 통신 시스템을 연구하는 연구실이다. |
 | [권경하 연구그룹 (Kwon Research Group)](wiki/kaist/kwon-group.md) | 권경하 교수 | 아날로그와 디지털이 섞인 반도체 회로를 설계해, 전기차 배터리 상태를 정밀하게 재는 칩, 인공지능 반도체의 메모리를 빠르게 잇는 통신 칩, 피부에 붙이거나 몸에 넣는 무선 건강 측정 장치를 만드는 연구실이다. |
 | [나노전자·뉴로모픽 소자 연구실 (Nanoelectronic And Neuromorphic Device Lab, NAND Lab)](wiki/kaist/nand.md) | 조병진 교수 | 스마트폰과 AI 서버의 저장장치에 쓰이는 낸드 플래시와 DRAM 메모리를 새 소재로 더 빠르고 오래가게 만드는 반도체 소자 연구실이다. |
 | [뇌 계측 및 컴퓨팅 연구실 (Neuro-Instrumentation & Computational Analysis Lab, NICA)](wiki/kaist/nica.md) | 윤영규 교수 | 뇌와 생체 조직을 빛으로 관찰하는 광학 영상 기술과, 그렇게 얻은 큰 영상 데이터를 분석하는 계산·인공지능 기술을 함께 개발하는 연구실이다. |
@@ -39,13 +41,16 @@ KAIST 연구실을 한 곳에서 찾아보는 위키다. 연구실마다 한 문
 | [양자정보이론 연구실 (QIT @ KAIST)](wiki/kaist/qitkaist.md) | 배준우 교수 | 양자역학으로 정보를 다룰 때 무엇이 가능하고 어디까지가 한계인지를 이론으로 밝히는 연구실이다. |
 | [원자 수준 소자 시뮬레이션 연구실 (Atomic-Scale Device Simulation Lab)](wiki/kaist/nanocore.md) | 김용훈 교수 | 실험값 없이 양자역학 방정식만으로 원자 수준에서 계산해, 실리콘 다음 세대 반도체 소자가 어떻게 작동할지 미리 설계하는 연구실이다. |
 | [저차원 전자 시스템 연구실 (Low-dimensional Electron Systems Lab, LESL)](wiki/kaist/lesl.md) | 이가영 교수 | 원자 몇 겹 두께의 얇은 반도체 속에서 전자가 어떻게 움직이는지 재고, 그 성질을 살려 실리콘 다음 세대의 트랜지스터와 빛 센서를 만드는 연구실이다. |
+| [정보 및 통신 연구실 (InfoLab)](wiki/kaist/infolab.md) | 이시현 교수 | 차세대 무선 통신과 데이터 처리 시스템의 근본 한계와 효율적인 알고리즘을 연구하는 연구실이다. |
 | [제어연구실 (Control Lab, Ctrl Lab)](wiki/kaist/control.md) | 장동의 교수 | 드론과 로봇 같은 기계 시스템이 원하는 대로 움직이고 자기 위치와 자세를 정확히 알도록 하는 제어·추정 이론을 세우고, 강화학습 같은 인공지능 방법을 더해 드론 비행, 혈관 시술용 가이드와이어 조종, 메모리 신호 보정, 화학 가스 분류에 쓰는 연구실이다. |
 | [지능형 통신시스템 연구실 (Intelligent Communication Systems Lab., ICL)](wiki/kaist/icl.md) | 최준일 교수 | 6G 이동통신과 그 이후의 핵심 기술이 될 새로운 무선통신 시스템을 연구하고, 신호처리·확률론·최적화·랜덤 행렬 이론·압축 센싱·기계학습을 분석 도구로 쓰는 연구실이다. |
+| [지능형전력효율설계연구실 (SEED Lab, Smart Energy-Efficient Design Lab)](wiki/kaist/seed.md) | 정완영 교수 (전기및전자공학부·AI시스템학과) | 작고 스스로 움직이는 시스템에 들어갈 저전력 집적회로를 만드는 연구실이다. |
 | [집적 나노포토닉스 연구실 (Integrated Nanophotonics Lab)](wiki/kaist/integrated-nanophotonics.md) | 유경식 교수 | 빛으로 계산하고 통신하고 감지하는 아주 작은 광회로를 반도체 칩 위에 만드는 연구실이다. |
 | [집적 컴퓨터 시스템 연구실 (ICSL, Integrated Computer Systems Lab.)](wiki/kaist/ics.md) | 박인철 교수 | 컴퓨터 구조와 임베디드 프로세서, 그리고 통신 시스템의 오류 정정과 인공지능 연산 등 계산이 많은 디지털 기능 블록의 칩 내부 회로 구조를 설계하는 연구실이다. |
 | [집적 회로 및 마이크로 시스템 연구실 (IMPACT Lab)](wiki/kaist/impact.md) | 제민규 교수 | 센서 신호를 읽는 회로, 무선 통신 회로, 전력을 공급하는 회로, 시간을 재는 회로, 계산하는 회로를 집적회로로 설계하고, 이를 모아 몸에 넣는 의료 기기·무선 센서 노드·모바일 기기 같은 작은 마이크로시스템을 만드는 연구실이다. |
 | [초고속 나노소자 연구실 (HSNL, High Speed Nanoelectronics Lab.)](wiki/kaist/hsnl.md) | 양경훈 교수 (전기및전자공학부·반도체시스템공학과) | 전자가 양자역학 효과로 장벽을 뚫고 지나가는 현상을 쓰는 공명 터널링 다이오드(RTD)로 테라헤르츠 신호원과 고속·저전력 회로를 만들고, 나노 CMOS·화합물 반도체 트랜지스터의 고주파 특성을 재어 모형으로 나타내며, 질화갈륨 고출력 소자와 CMOS 이미지 센서를 연구하는 연구실이다. |
 | [컴퓨터 시스템 및 네트워크 연구실 (Computer System & Network Lab, CSNL)](wiki/kaist/icn.md) | 김동준 교수 | 컴퓨터 구조와 상호연결망(프로세서·메모리·컴퓨터 사이에서 데이터를 나르는 연결망), 하드웨어 보안을 연구하는 연구실이다. |
+| [컴퓨터 시스템 아키텍쳐 연구실 (VIA Research Group, Vertically Integrated Architecture)](wiki/kaist/via.md) | 유민수 교수 | 반도체 집적회로 기술, 컴퓨터 시스템 구조, 응용과 알고리즘을 함께 최적화하는 방식으로 앞으로의 인공지능 시스템을 위한 고성능 컴퓨터 구조를 연구하는 연구실이다. |
 | [해킹 연구실 (Hacking Lab)](wiki/kaist/hacking-lab.md) | 윤인수 교수 | 소프트웨어와 시스템의 보안 약점을 해커의 눈으로 찾아내고, 이를 막는 기술을 만드는 연구실이다. |
 | [회로설계 연구실 (Circuit Lab)](wiki/kaist/icdesignlab.md) | 김현식 교수 | 화면을 움직이는 디스플레이 구동 칩, 전자 기기에 맞는 전압을 만들어 공급하는 전력 관리 칩, 센서 신호를 읽어 내는 판독 칩을 아날로그 집적회로로 설계하고, 이 지식을 모아 완전한 시스템 온 칩을 만들려는 연구실이다. |
 
