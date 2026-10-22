@@ -60,16 +60,16 @@ KAIST에서 연구실을 연 뒤의 소식을 보면, 2026년 3월 KAIST PICORE(
 
 ## 구성원
 
-누리집 Team 페이지의 석사과정(MS Students) 1명, 연구원(Research Associates) 1명, 학부 연구생(Undergraduate Interns) 4명이다. 과정 칸 괄호 안의 M2·U1–U3과 학과 표기(KAIST EE·KAIST SSE), 연구 주제는 페이지 표기 그대로다.[^team] "대표 논문 참여"는 위 대표 논문 표의 번호이며, 같은 이름의 저자를 같은 사람으로 보아 표시했다.
+누리집 Team 페이지의 석사과정(MS Students) 1명, 연구원(Research Associates) 1명, 학부 인턴(Undergraduate Interns) 4명이다. 과정 칸 괄호 안의 M2·U1–U3과 학과 표기(KAIST EE·KAIST SSE), 연구 주제는 페이지 표기 그대로다.[^team] "대표 논문 참여"는 위 대표 논문 표의 번호이며, 같은 이름의 저자를 같은 사람으로 보아 표시했다.
 
 | 이름 | 과정 | 연구 주제 | 이메일 | 대표 논문 참여 |
 |---|---|---|---|---|
 | Bonha Woo | 석사과정 (M2) | Computational Microscopy ／ Adaptive Optics |  |  |
 | Yunkyu Lee | 연구원 | Computational Microscopy ／ Adaptive Optics |  |  |
-| Hyeonbin Jo | 학부 연구생 (U3, KAIST EE) | Computational Metrology ／ Holography | johyeonbin01@kaist.ac.kr |  |
-| Hoseung Bin | 학부 연구생 (U3, KAIST EE) | Computational Microscopy ／ Adaptive Optics | hoseungbin@kaist.ac.kr |  |
-| Donghyuk Lee | 학부 연구생 (U2, KAIST EE) | Computational Microscopy ／ Adaptive Optics | dhlee4832@kaist.ac.kr |  |
-| Seungjun Ahn | 학부 연구생 (U1, KAIST SSE) | Computational Metrology ／ Holography | yoninf@kaist.ac.kr |  |
+| Hyeonbin Jo | 학부 인턴 (U3, KAIST EE) | Computational Metrology ／ Holography | johyeonbin01@kaist.ac.kr |  |
+| Hoseung Bin | 학부 인턴 (U3, KAIST EE) | Computational Microscopy ／ Adaptive Optics | hoseungbin@kaist.ac.kr |  |
+| Donghyuk Lee | 학부 인턴 (U2, KAIST EE) | Computational Microscopy ／ Adaptive Optics | dhlee4832@kaist.ac.kr |  |
+| Seungjun Ahn | 학부 인턴 (U1, KAIST SSE) | Computational Metrology ／ Holography | yoninf@kaist.ac.kr |  |
 
 ## 최근 논문 목록 (2021–2026)
 
