@@ -4,7 +4,7 @@
 
 - 분야: 고체산화물 연료전지(SOFC), 연료 개질과 수소 생산, 분리막 반응기, 수소 저장(액상 유기 수소 운반체·암모니아·금속 수소화물), 연료전지 시스템, 전산유체역학 해석
 - 대분야: 에너지·환경·지구, 기계·로봇·제조
-- 태그: 고체산화물 연료전지·수전해 전지[^utilization][^p1][^p2], 수소 저장·운송[^storage][^p3], 암모니아 생산·활용[^storage][^utilization], 열전달·열관리[^storage], 유체역학·유동[^numerical][^production]
+- 태그: 수소 생산·연료 개질[^production][^area][^melist], 고체산화물 연료전지·수전해 전지[^utilization][^p1][^p2], 수소 저장·운송[^storage][^p3], 암모니아 생산·활용[^storage][^utilization], 열전달·열관리[^storage], 유체역학·유동[^numerical][^production]
 - 홈페이지: <https://www.necs.kr>
 - 근거와 출처: [신에너지변환시스템연구실 근거 페이지](necs-sources.md)
 

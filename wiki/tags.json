@@ -1,5 +1,5 @@
 {
- "version": "1.4",
+ "version": "1.5",
  "updated": "2026-10-22",
  "fields": [
   {
@@ -87,6 +87,41 @@
    "related": [],
    "status": "active",
    "merged_into": null
+  },
+  {
+   "id": "hydrogen-production",
+   "name_ko": "수소 생산·연료 개질",
+   "name_en": "Hydrogen production and fuel reforming",
+   "axis": "application",
+   "fields": [
+    "energy-environment",
+    "chemical-bioengineering"
+   ],
+   "aliases": [
+    "수소 생산",
+    "연료 개질",
+    "수증기 개질",
+    "자열 개질",
+    "디젤 개질",
+    "개질기",
+    "수소 정제",
+    "hydrogen production",
+    "fuel reforming",
+    "steam reforming",
+    "autothermal reforming",
+    "reformer",
+    "hydrogen purification"
+   ],
+   "definition": "탄화수소 같은 연료를 화학 반응으로 바꿔(개질) 수소가 많은 가스를 만들고 정제하는 기술과 그 반응기·촉매·공정.",
+   "related": [
+    "water-electrolysis",
+    "hydrogen-storage-transport",
+    "fuel-cell",
+    "ammonia"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "연료 개질을 통한 수소 생산·정제 공정이나 그 반응기·촉매를 연구할 때 단다. 수전해만 연구하면 수전해를 단다. 개질과 수전해를 각각 연구할 때는 각 근거에 따라 함께 달 수 있다. 암모니아를 원료로 수소를 얻는 공정을 연구하면 암모니아 생산·활용을 함께 단다."
   },
   {
    "id": "fuel-cell",
@@ -2888,6 +2923,38 @@
    "note": "LLM이 연구의 핵심 구성 요소일 때(모델, LLM 추론·학습 시스템, LLM 기반 에이전트). 부수적 도구 사용은 제외."
   },
   {
+   "id": "graph-ml",
+   "name_ko": "그래프 기계학습·지식 그래프",
+   "name_en": "Graph machine learning and knowledge graphs",
+   "axis": "method",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "그래프 기계학습",
+    "지식 그래프",
+    "그래프 신경망",
+    "GNN",
+    "그래프 학습",
+    "지식 그래프 임베딩",
+    "그래프 마이닝",
+    "graph machine learning",
+    "knowledge graph",
+    "graph neural network",
+    "graph learning",
+    "knowledge graph embedding",
+    "graph mining"
+   ],
+   "definition": "개체와 그 사이의 관계를 점과 선(그래프)으로 나타낸 자료에서 기계학습으로 관계를 예측하고 표현을 배우는 방법, 그리고 사실을 개체·관계로 정리한 지식 그래프를 만들고 쓰는 연구.",
+   "related": [
+    "large-language-model",
+    "multimodal-ai"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "그래프 구조의 자료를 다루는 학습·추론이 연구의 중심일 때 단다. 그래프 신경망을 도구로만 쓰는 응용 연구는 그 응용 태그만."
+  },
+  {
    "id": "ai-systems-infrastructure",
    "name_ko": "AI 시스템·인프라",
    "name_en": "AI systems and infrastructure",
@@ -2985,7 +3052,13 @@
     "MIMO",
     "5G 이동통신",
     "6G 이동통신",
-    "셀룰러"
+    "셀룰러",
+    "위성통신",
+    "위성 통신",
+    "비지상 네트워크",
+    "NTN",
+    "satellite communication",
+    "non-terrestrial network"
    ],
    "definition": "전파로 휴대폰·기지국·기기 사이에 데이터를 주고받는 통신 기술.",
    "related": [],
@@ -3157,6 +3230,42 @@
    "status": "active",
    "merged_into": null,
    "note": "방법 태그: 랩이 연구 방법으로 내세우거나 대표 논문의 핵심 방법일 때만."
+  },
+  {
+   "id": "control-theory",
+   "name_ko": "제어 이론·제어 공학",
+   "name_en": "Control theory and control engineering",
+   "axis": "method",
+   "fields": [
+    "electrical-electronics",
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "제어 이론",
+    "제어 공학",
+    "확률 제어",
+    "최적 제어",
+    "강건 제어",
+    "비선형 제어",
+    "모델 예측 제어",
+    "MPC",
+    "control theory",
+    "control engineering",
+    "stochastic control",
+    "optimal control",
+    "robust control",
+    "nonlinear control",
+    "model predictive control"
+   ],
+   "definition": "시스템이 원하는 대로 움직이도록 측정값을 바탕으로 입력을 정하는 방법을 수학 모형으로 설계하고, 그 안정성과 성능을 분석하는 분야.",
+   "related": [
+    "reinforcement-learning",
+    "robot-navigation-slam",
+    "autonomous-driving"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "제어기 설계나 제어 이론을 연구로 내세울 때 단다. 특정 기계(로봇·차량 등)를 다루면 그 응용 태그를 함께 단다. 학습으로 행동 정책만 찾으면 강화학습."
   },
   {
    "id": "statistical-inference",
@@ -4105,6 +4214,10 @@
   {
    "date": "2026-10-22",
    "change": "v1.4 사용자 승인(census-12 어휘 안건, 「권고대로」): 신규 태그 「유체역학·유동」(wfm 요청의 자유수면 유동·수면파와 수중 항력 저감을 하위 용어 별칭으로)과 「카이랄 소재·광학」(yeom-lab 요청). 규칙 V-2 별칭: 음향 메타물질·포노닉 결정 → 메타물질·메타광학, 음향 블랙홀·공력음향 → 진동·소음 공학(wave 요청), 액체상 전자현미경 → 전자현미경, 소듐 이온 전지 → 이차전지 소재(yuklab 요청), 약물 전달 → 생체재료·조직 공학(yeom-lab 요청). 나노의학은 trend-queries.json 검색어로 두었다. 파력·조류 에너지(wfm)는 근거가 연구실 소개뿐이라 보류하고 KAIST 전수 뒤 다시 본다. 카이랄성(일반 구조 속성)은 별칭이 아니라 검색어로 두었다"
+  },
+  {
+   "date": "2026-10-22",
+   "change": "v1.5 사용자 승인(census-13 어휘 안건, 「권고대로」): 신규 태그 「제어 이론·제어 공학」(acss), 「그래프 기계학습·지식 그래프」(bdi-lab), 「수소 생산·연료 개질」(necs). 위성통신·비지상 네트워크는 「무선·이동통신」의 하위 용어 별칭(규칙 V-2, acai). 동형 암호·프라이버시 보호 계산(castlab)은 「네트워크 보안·프라이버시」가 통신망을 오가는 데이터 보호로 정의돼 있어 별칭이 아니라 trend-queries.json 검색어로 두었다. 이징 머신·물리 영감 계산(bongjin)과 FPGA·재구성형 하드웨어(castlab)는 한 곳에만 해당해 보류한다"
   }
  ]
 }

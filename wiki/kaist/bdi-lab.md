@@ -4,7 +4,7 @@
 
 - 분야: 그래프 기계학습, 딥러닝, 지식 그래프, 데이터 마이닝, 빅데이터 분석, 데이터 과학
 - 대분야: 컴퓨팅·AI
-- 태그: 대형 언어 모델[^areas][^p8], 멀티모달 AI[^areas][^p5], 이상·변화점 탐지[^areas][^projects]
+- 태그: 그래프 기계학습·지식 그래프[^about][^areas][^p1], 대형 언어 모델[^areas][^p8], 멀티모달 AI[^areas][^p5], 이상·변화점 탐지[^areas][^projects]
 - 홈페이지: <https://bdi-lab.kaist.ac.kr/>
 - 근거와 출처: [빅데이터 지능 연구실 근거 페이지](bdi-lab-sources.md)
 

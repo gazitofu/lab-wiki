@@ -1,5 +1,5 @@
 {
- "version": "1.3",
+ "version": "1.4",
  "updated": "2026-10-22",
  "trends": [
   {
@@ -533,6 +533,24 @@
     "chiral-materials"
    ],
    "note": "거울상과 겹쳐지지 않는 구조의 성질. 분자·결정·빛 등 여러 대상에 두루 쓰는 속성이라 카이랄 소재·광학의 별칭이 아니라 검색어로 둔다",
+   "added": "2026-10-22"
+  },
+  {
+   "id": "homomorphic-encryption",
+   "query": "동형 암호·프라이버시 보호 계산",
+   "aliases": [
+    "동형 암호",
+    "동형암호",
+    "프라이버시 보호 계산",
+    "homomorphic encryption",
+    "privacy-preserving computation"
+   ],
+   "tags": [
+    "ai-accelerator-hardware",
+    "hardware-security",
+    "network-security-privacy"
+   ],
+   "note": "암호화된 데이터를 풀지 않고 그대로 계산하는 암호 기술과 그 가속 하드웨어. 통신망 보안 태그의 하위 용어가 아니어서 별칭이 아니라 검색어로 둔다",
    "added": "2026-10-22"
   }
  ]
