@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (213곳)
+## KAIST 연구실 (218곳)
 
 ### 기계공학과 (53)
 
@@ -124,7 +124,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [혼성신호 집적회로 연구실 (Mixed Signal Integrated Circuits Lab, MSICL)](wiki/kaist/msicl.md) | 류승탁 교수 | 아날로그 신호와 디지털 신호를 서로 바꾸는 데이터 변환기를 중심으로 아날로그·혼성 신호 집적회로를 설계하는 연구실이다. |
 | [회로설계 연구실 (Circuit Lab)](wiki/kaist/icdesignlab.md) | 김현식 교수 | 화면을 움직이는 디스플레이 구동 칩, 전자 기기에 맞는 전압을 만들어 공급하는 전력 관리 칩, 센서 신호를 읽어 내는 판독 칩을 아날로그 집적회로로 설계하고, 이 지식을 모아 완전한 시스템 온 칩을 만들려는 연구실이다. |
 
-### 신소재공학과 (20)
+### 신소재공학과 (25)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -132,6 +132,9 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [Chang Lab (Molecular Imaging and Brain-Inspired Semiconductor Lab)](wiki/kaist/changlabkaist.md) | 장재범 교수 (신소재공학과·생명과학과) | 조직 영상을 정밀 공학 시스템으로 다뤄, 새로운 화학과 자동화 공정, AI 기반 분석, 나노 공정을 묶어 대규모 정량 공간 생물학 데이터를 만드는 신소재공학과 연구실이다. |
 | [ECSM 연구실 (Energy Conversion & Storage Materials Lab.)](wiki/kaist/ecsm.md) | 조은애 교수 | 수소로 전기를 만드는 연료전지, 전기로 수소를 만드는 수전해 장치, 전기를 저장하는 배터리에 들어가는 핵심 소재를 만드는 연구실이다. |
 | [Funnano Lab.](wiki/kaist/funnano.md) | 정연식 교수 | 10 nm(나노미터, 1 nm는 10억분의 1 m) 이하의 아주 작은 구조를 넓은 면적에 고르게 만드는 나노 제작 기술을 개발하고, 그 구조로 질병을 진단하는 센서, 빛을 내는 양자점 소자, 수소를 만드는 촉매 같은 에너지 소자를 만든다. |
+| [Materials Imaging & Integration Lab (MII Lab)](wiki/kaist/mii.md) | 홍승범 교수 | 소재 영상(materials imaging)으로 「구조–물성 관계」를 밝히고 소재 통합(materials integration)으로 「소재 설계」를 한다고 소개하는 신소재공학과 연구실이다. |
+| [NanoMechanics Lab (KAIST NanoMechanics Group)](wiki/kaist/mpnano.md) | 한승민 교수 | 나노 구조를 가진 소재가 힘을 받을 때 어떻게 변형되고 버티는지를 기초부터 밝히고, 그 이해를 에너지·환경 응용 소재에 쓰는 신소재공학과 연구실이다. |
+| [고등 광 재료 및 소자 연구실 (Advanced Photonic Materials and Devices Lab, APMD)](wiki/kaist/meta-material.md) | 신종화 교수 | 파장보다 작은 메타물질과 메타표면을 이론과 시뮬레이션으로 설계하고, 머신러닝 기반 최적화를 거쳐 홀로그래피, 디스플레이, 복사 냉각, 마이크로파 흡수 같은 분야에 적용하는 신소재공학과 연구실이다. |
 | [광학 소재 및 코팅 연구실 (Laboratory of Optical Materials & Coating, LOMC)](wiki/kaist/sol-gel.md) | 배병수 교수 | 졸-겔 공정으로 유기물과 무기물의 장점을 함께 지닌 실록산 하이브리드 소재(하이브리머)를 만들어, 디스플레이와 LED를 보호하고 빛을 더 잘 내게 하는 봉지재, 양자점 색변환 소재, 접어도 긁힘에 강한 보호 코팅, 늘어나는 기판과 생체 센서로 쓰는 연구실이다. |
 | [나노·2차원 소재 연구실 (Nano and 2D Materials Laboratory, N2ML)](wiki/kaist/nano-2d-materials.md) | 강기범 교수 | 원자 몇 개 두께의 아주 얇은 2차원 반도체 소재를 웨이퍼 크기로 고르게 키우고, 원하는 자리에 정확히 결정을 만드는 공정을 개발해 실리콘 다음 세대의 반도체 칩을 만들려는 연구실이다. |
 | [나노소재 및 에너지 연구실 (Advanced Nanomaterials and Energy Lab, ADVNANO)](wiki/kaist/advnano.md) | 김일두 교수 | 기능성 나노소재를 합성하고 그 구조와 계면을 설계해 화학센서, 이차전지, 촉매, 물전지 같은 에너지·환경 응용 기술을 개발하는 신소재공학과 연구실이다. |
@@ -147,6 +150,8 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [유연 지능형 소재 소자 연구실 (Soft & Smart Materials & Devices Laboratory, SSMD)](wiki/kaist/ssmd.md) | 박상희 교수 (신소재공학과·반도체공학대학원) | 산화물 반도체로 만든 박막 트랜지스터(TFT)의 이동도와 안정성을 원자층 증착 공정과 소자 구조 설계로 끌어올리고, 이 소자로 휘고 투명한 디스플레이, 바이러스를 찾는 센서와 압력 센서, 뇌를 흉내 내는 시냅스 트랜지스터를 만드는 연구실이다. |
 | [이상호 연구 그룹 (Laboratory of Emerging Electronics, LEE Research Group)](wiki/kaist/leegroup.md) | 이상호 교수 (신소재공학과·반도체공학대학원) | 웨이퍼 없이 고품질 단결정 전자 부품을 위로 쌓아 올리는 모놀리식 3차원 집적을 목표로, 얇은 단결정 막을 기판에서 떼어 내 옮겨 쌓는 기술, 2차원 반도체 위에 산화물 같은 3차원 소재를 이어 붙이는 기술, 블록 공중합체 자기조립으로 나노 배선을 만드는 기술을 연구하는 연구실이다. |
 | [인간증강 나노소자 연구실 (Human Augmentation Nano Device Lab, HAND)](wiki/kaist/hand.md) | 이건재 교수 | 사람 몸에 붙이거나 심을 수 있는 부드러운 전자소자로 사람의 능력을 넓히는 "인간 증강" 기술을 연구한다. |
+| [적외선 나노광학 연구실 (INfrared Nano-Optics Lab)](wiki/kaist/inno-lab.md) | 이창환 교수 | 나노물질에서 새로운 광학 현상을 찾고 그 현상을 미래 기술로 만드는 것을 목표로, 란탄족 기반 나노입자의 광학 성질을 연구하는 신소재공학과 연구실이다. |
+| [전산 소재 설계 및 탐색 연구실 (Computational Materials Design & Discovery Lab, CMDD)](wiki/kaist/cmdd.md) | 서동화 교수 | 계산, AI, 실험을 함께 써서 배터리 소재를 개발하는 신소재공학과 연구실이다. |
 | [차세대 광전나노재료 연구실 (Next-Generation Optoelectronic Nanomaterials Laboratory, NGON Lab)](wiki/kaist/ngonlab.md) | 조힘찬 교수 | 용액으로 만드는 나노미터 크기의 반도체 결정(양자점, 페로브스카이트 나노결정)으로 더 선명한 디스플레이와 새로운 빛 소자를 만드는 연구실이다. |
 
 ### 바이오및뇌공학과 (18)
