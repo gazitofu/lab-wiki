@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (233곳)
+## KAIST 연구실 (237곳)
 
 ### 기계공학과 (53)
 
@@ -225,7 +225,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [항공우주 로보틱스 및 메커니즘 연구실 (Aerospace Robotics and Mechanisms Laboratory, ARML)](wiki/kaist/arml.md) | 이대영 교수 | 종이접기에서 착안한 메커니즘, 소프트 로보틱스, 능동 소재를 바탕으로 항공우주용 로봇과 기계 시스템을 설계하는 연구실이다. |
 | [항공우주통신 및 응용지능 연구실 (Aerospace Communications and Applied Intelligence Lab, ACAI)](wiki/kaist/acai.md) | 최지환 교수 | 통신 기술과 기계학습·딥러닝을 항공우주공학에 적용하는 연구실로, 5G·6G 위성통신망의 구조와 알고리즘을 설계하고 위성·항공 영상 자료를 분석한다. |
 
-### 원자력및양자공학과 (12)
+### 원자력및양자공학과 (16)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -233,14 +233,18 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [방사선영상과학 연구실 (Quantum Radiation Imaging Science Laboratory, QRIS Lab)](wiki/kaist/qris.md) | 김지수 교수 | 전리 방사선, 주로 X선을 물질의 구조와 동역학을 재는 정량 탐침으로 쓰는 영상 시스템과 계산 영상 기법을 연구하는 원자력및양자공학과 연구실이다. |
 | [방사화학 및 레이저 분광 연구실 (Radiochemistry and Laser Spectroscopy Laboratory, RCLS)](wiki/kaist/radchem.md) | 윤종일 교수 | 방사성 폐기물 처분, 사용후핵연료, 원자력발전소 화학의 문제를 다루며, 방사지구화학, 용융염 화학, 원자력발전소 수화학, 레이저 분광 기술 개발의 네 갈래로 화학 반응의 원리를 연구하는 원자력및양자공학과 연구실이다. |
 | [원자력 계측제어 및 자율운전 연구실 (Nuclear I&C and Autonomous Operation Laboratory, NICA)](wiki/kaist/nqe-nica.md) | 김종현 교수 | 원자력 발전소의 안전을 위해 운전원의 인적 오류를 줄이는 것을 목표로, 발전소 운전을 자동화하는 인공지능과 운전원이 오류를 일으킬 가능성을 정량화하는 인간 신뢰도 분석을 함께 연구하는 원자력및양자공학과 연구실이다. |
+| [원자력 발전 및 동력 연구실 (Nuclear Power and Propulsion Laboratory, NPNP Lab)](wiki/kaist/kaistnpnplab.md) | 이정익 교수 | 원자핵 에너지를 전기 에너지로 효율적으로 바꾸면서 원자력 시스템을 작게 만드는 데 중점을 두는 연구실로, 원자력 시스템 소형화, 재생에너지와 원자력이 함께 쓰이도록 돕는 에너지 저장 시스템, 인공지능을 쓴 원전 자율운전과 안전 해석을 중점적으로 연구한다. |
+| [원자로 물리 및 핵변환 연구실 (Reactor Physics and Transmutation Lab, RPTL)](wiki/kaist/rptl.md) | 김용희 교수 | 차세대 고속로·열중성자로와 특수 목적 원자로를 설계하고, 그 설계와 해석에 쓰는 계산 방법을 개발하며, 사용후핵연료를 핵변환하는 원자로와 핵연료 주기를 연구하는 연구실이다. |
 | [원자로 및 고온 재료 연구실 (Nuclear and High Temperature Materials Laboratory)](wiki/kaist/nurmat.md) | 장창희 교수 | 원자력 발전소와 차세대 발전 시스템, 핵융합로에 쓰이는 금속 구조재가 높은 온도와 부식 환경, 방사선 속에서 어떻게 상하는지 실험으로 밝히고, 이를 견디는 합금과 제조 공정을 개발하는 원자력및양자공학과 연구실이다. |
 | [의료영상 및 의학물리 연구실 (Medical Imaging & Radiotherapy Laboratory, MIRLAB)](wiki/kaist/mirlab.md) | 조승룡 교수 | 의료 영상 과학, 특히 영상 유도 방사선 치료에 쓰는 영상을 중심으로 연구하는 원자력및양자공학과 연구실이다. |
 | [의료전자 및 방사선광공학 연구실 (Medical Electronics & Radiation Photonics Lab, MERP Lab)](wiki/kaist/merp.md) | 고근배 교수 | 몸을 통과하거나 몸에서 나오는 방사선을 잡아 의료 영상으로 바꾸는 검출기와 전자회로, 영상 장치를 만드는 연구실이다. |
 | [저온 플라즈마 공학 연구실 (Applied Plasma Research & Innovation Lab, KAIST–APRIL)](wiki/kaist/plasmalab.md) | 박상후 교수 | 플라즈마(전자와 이온으로 이루어진 이온화 기체)를 낮은 온도에서 만들고 재는 연구실이다. |
 | [중성자산란 및 나노스케일 물질 연구실 (Neutron Scattering & Nanoscale Materials Lab)](wiki/kaist/neutron.md) | 최성민 교수 | 분자 자기조립 방법으로 새로운 기능성 나노소재를 만들고, 중성자·X선 산란 기법으로 자기조립이 일어나는 원리를 이해하는 원자력및양자공학과 연구실이다. |
 | [핵연료재료연구실 (Nuclear Fuel Materials Laboratory, NFM Lab)](wiki/kaist/fuel.md) | 류호진 교수(신소재공학과 겸임)**[^intro] | 원자력공학과 재료공학을 바탕으로 차세대 원자로와 핵융합로, 핵연료주기, 우주항공 같은 극한 환경에 쓸 핵연료와 신소재를 개발하는 원자력및양자공학과 연구실이다. |
+| [핵융합 및 고에너지 과학 연구실 (Nuclear Fusion & Plasma Laboratory, NFPL)](wiki/kaist/nfpl.md) | 김영철 교수 | 베이지안 통계 기법과 머신러닝을 활용한 핵융합 실험로 내부 상태 예측, 광학 진단을 통한 핵융합 플라즈마 밀도 측정, 플라즈마 불안정성 물리를 연구하고, 저온 플라즈마와 X-pinch 고에너지밀도 플라즈마의 물리와 진단을 다루는 원자력및양자공학과 연구실이다. |
 | [핵융합 및 기체방전물리 연구실 (Gas Discharge Physics Laboratory, GDPL)](wiki/kaist/gdpl.md) | 최원호 교수 | 플라즈마(기체 원자가 전자와 이온으로 쪼개진 상태)를 연구하는 연구실이다. |
 | [핵융합 및 플라즈마 동역학 연구실 (Fusion and Plasma Dynamics Laboratory, FPDL)](wiki/kaist/fpdl.md) | 성충기 교수 | 핵융합 에너지 실현을 목표로 플라즈마 속 불안정성과 난류 같은 동역학을 연구하고, 플라즈마를 재는 진단 장치와 핵융합 및 다른 분야에 쓰는 플라즈마 공학을 연구하는 원자력및양자공학과 연구실이다. |
+| [핵융합 및 플라즈마 이론 연구실 (Fusion and Plasma Theory Lab)](wiki/kaist/kaistftl.md) | 최경진 교수 | 핵융합 에너지 연구, 산업·저온 플라즈마, 우주·천체 플라즈마를 연구 분야로 드는 원자력및양자공학과의 플라즈마 이론 연구실이다. |
 
 ### 문화기술대학원 (9)
 
