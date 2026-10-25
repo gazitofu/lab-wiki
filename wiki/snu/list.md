@@ -133,7 +133,7 @@ LIST는 의료영상과 의료 데이터를 위한 인공지능, 영상 획득·
 
 ## 최근 논문 목록 (2021–2026)
 
-누리집 Journal Publications의 2021–2026년 항목 중 영상·알고리즘 개발 또는 일반 생물물리 연구에 해당하는 논문이다. 학회 논문도 이 구획에 함께 게시돼 있다. 연도·저자·서지는 누리집 표기를 따르며, 2021년 항목은 연도 구역 기준이다. 날짜 없이 게재 승인을 적은 항목은 게시 연도를 따르고 '게재 승인'으로 구분했다. 2026년 NeurIPS 항목은 '채택'으로, 학회 이름·연도만 적힌 ECCV 항목은 확인한 arXiv 판으로 표시했다.[^pubs][^strong][^p8]
+누리집 Journal Publications의 2021–2026년 항목 중 영상·알고리즘 개발, 영상 기법의 공학적 분석·리뷰·구현 권고 또는 일반 생물물리 측정에 해당하는 논문이다. 학회 논문도 이 구획에 함께 게시돼 있다. 연도·저자·서지는 누리집 표기를 따르며, 2021년 항목은 연도 구역 기준이다. 날짜 없이 게재 승인을 적은 항목은 게시 연도를 따르고 '게재 승인'으로 구분했다. 2026년 NeurIPS 항목은 '채택'으로, 학회 이름·연도만 적힌 ECCV 항목은 확인한 arXiv 판으로 표시했다. MOST는 MICCAI 2025 학회판으로 실었다.[^pubs][^strong][^p8]
 
 **2026**
 
@@ -145,28 +145,47 @@ LIST는 의료영상과 의료 데이터를 위한 인공지능, 영상 획득·
 **2025**
 
 - Ji S, Kim M, Lee J\*, Shin HG\*. "Resolution Generalization of Deep Learning-based Dipole Inversion Networks for QSM". *NeuroImage, 2025, 323, 121598*.
+- Zhou S, Bito Y, Kameda H, Ikebe Y, Shimizu Y, Fujima N, Harada T, Kinota N, Kato D, Fuji T, Bai X, Moon B, Lee J, Kudo K. "χ-separation Insights into Whole-brain Characterization of Age-related Patterns of Susceptibility in Healthy Aging". *NeuroImage, 2025, 323, 121599*.
+- Oh C, Jung W, Kim J, Jeong H, Lee J\*. "A fair comparison in deep learning-based QSM reconstruction". *IEEE Access, 2025, 13, 177559 - 177572*.
 - Chen Y, Jun Y, Heydari A, Yong X, Kim J, Lee J, Liu H, Ye H, Gagoski B, Fujita S, Bilgic B. "MIMOSA: Multi-parametric Imaging using Multiple-echoes with Optimized Simultaneous Acquisition for highly-efficient quantitative MRI". *Magn Res Med, 2025 게재 승인*.
+- Kim T, Ji S, Min K, Kim M, Youn J, Oh C, Kim J, Lee J\*. "Vessel segmentation for χ-separation in quantitative susceptibility mapping". *Magn Res Med, 2025, 온라인 공개*.
 - Oh SH, Lee GW, Lee J\*. "Three-Dimensional Efficient Myelin-weighted Imaging Utilizing Direct Visualization of Short Transverse Relaxation Time Component (ViSTa)". *Human Brain Mapping, 2025, 46 (12), e70307*.
+- Jeong H, Chun SY, Lee J\*. "MOST: MR reconstruction Optimization for multiple downStream Tasks via continual learning". *MICCAI, 2025, 396–406*.
 - Shin H, Kim T, Lee J, Chun SY, Cho S, Shin  D. "Fast and accurate sparse-view CBCT reconstruction using meta-learned neural attenuation field and hash-encoding regularization". *Computers in Biology and Medicine, 2025, 189, 109900*.
 - Kim J, Kim M, Ji S, Min K, Jeong H, Shin HG, Oh C, Fox RC, Sakaie KE, Lowe MJ, Oh SH, Straub S, Kim SG, Lee J\*. "In-vivo high-resolution χ-separation at 7T". *NeuroImage 2025, 308, 121060*.
+- Kim M, Ji S, Kim J, Min K, Jeong H, Youn J, Kim T, Jang J, Bilgic B, Shin HG\*, Lee J\*. "χ‐sepnet: Deep neural network for magnetic susceptibility source separation". *Human Brain Mapping 2025, 46(2):e70136*.
 
 **2024**
 
 - Hong S, Bae JH, Lee J\*, Chun SY\*. "Adaptive Selection of Sampling-Reconstruction in Fourier Compressed Sensing". *European Conference on Computer Vision (ECCV), 2024; arXiv:2409.11738 판*.
 - Min K, Sohn B, Kim WJ, Park CJ, Song S, Shin DH, Chang KW, Shin NY, Kim M, Shin HG, Lee PH, Lee J\*. "A human brain atlas of chi-separation for normative iron and myelin distributions". *NMR Biomed 2024, 37(12):e5226*.
+- Ji S, Jang J, Kim M, Lee H, Kim W, Lee J, Shin H. "Comparison between R2′-based and R2\*-based χ-separation methods: A clinical evaluation in individuals with multiple sclerosis". *NMR Biomed 2024, 37(9):e5167*.
+- Lee J\*, Ji S , Oh SH\*. "So You Want to Image Myelin Using MRI: Magnetic Susceptibility Source Separation for Myelin Imaging". *Magn Reson Med Sci 2024, 23(3):291-306*.
+- QSM Consensus Organization Committee, Bilgic B, Costagli M, Chan KS, Duyn J, Langkammer C, Lee J, Li X, Liu C, Marques JP, Milovic C, Robinson SD, Schweser F, Shmueli K, Spincemaille P, Straub S, Zijl P, Wang Y, ISMRM EMTP Study Group. "Recommended implementation of quantitative susceptibility mapping for clinical research in the brain: A consensus of the ISMRM electro-magnetic tissue properties study group". *Magn Res Med 2024, 91(5):1834-1862*.
 
 **2023**
 
 - Shin H, Kim T, Park J, Raj H, Jabbar MS, Abebaw ZD, Lee J, Van CC, Kim H, Shin D. "Pulmonary abnormality screening on chest x-rays from different machine specifications: a generalized AI-based image manipulation pipeline". *Eur Radiol Exp 2023, 7:68*.
+- Jeong H, Byun H, Kang DU, Lee J\*. "BlindHarmony: “Blind” Harmonization for MR Images via Flow model". *International Conference on Computer Vision (ICCV), 2023 21129-21139*.
 - Lee S, Shin HG, Kim M, Lee J\*. "Depth-wise profiles of iron and myelin in the cortex and white matter". *NeuroImage 2023 273:120058*.
 
 **2022**
 
 - Ji S, Choi EJ, Sohn B, Baik K, Shin NY, Moon WJ, Park S, Song S, Lee PH, Shin DH, Oh SH, Kim EY, Lee J\*. "Sandwich spatial saturation for neuromelanin-sensitive MRI: Development and multi-center trial". *NeuroImage 2022 261:119706*.
+- Zhang Z, Cho J, Wang L, Liao C, Shin HG, Cao X, Lee J, Xu J, Zhang T, Ye H, Setsompop K, Liu H, Bilgic B. "Blip up-down acquisition for spin- and gradient-echo imaging (BUDA-SAGE) with self-supervised denoising enables efficient T2, T2\*, para- and dia-magnetic susceptibility mapping". *Magn Res Med 2022 88(2):633-650*.
+- Ji S, Yang D, Lee J, Choi SH, Kim H, Kang KM. "[REVIEW] Synthetic MRI: Technologies and applications in neuroradiology". *JMRI 2022 55(4):1013-1025*.
+- Jung W, Steffen Bollmann, Lee J\*. "[REVIEW] Overview of quantitative susceptibility mapping using deep learning – current status, challenges and opportunities". *NMR Biomed 2022 35(4) e4292*.
+- Park J, Jung W, Choi EJ, Oh SH, Jang J, Shin D, An H, Lee J\*. "DIFFnet: Diffusion parameter mapping network generalized for input diffusion gradient schemes and b-values". *IEEE Trans Medical Imaging 2022 41:491-499*.
 
 **2021**
 
 - Shin D, Kim Y, Oh C, An H, Park J, Kim J, Lee J\*. "Deep reinforcement learning-designed radiofrequency waveform in MRI". *Nature Machine Intelligence 2021 3:985-994*.
+- Shin HG, Lee J, Yun YH, Yoo SH, Jang J, Oh SH, Nam Y, Kim S, Fukunaga M, Kim W, Choi HJ, Lee J\*. "χ-separation: Magnetic susceptibility source separation toward iron and myelin mapping in the brain". *Neuroimage 2021 240:118371*.
+- Lee S, Yoo RE, Choi SH, Oh SH, Ji S, Lee J, Huh KY, Lee JY, Hwang I, Kang KM, Yun TJ, Kim JH, Sohn CH. "Contrast-enhanced MRI T1 mapping for quantitative evaluation of putative dynamic glymphatic activity in the human brain in sleep-wake states". *Radiology 2021 300(3):661-668*.
+- Ji S, Jeong J, Oh SH, Nam Y, Choi SH, Shin HG, Shin D, Jung W, and Lee J\*. "Quad-contrast imaging: simultaneous acquisition of four contrast-weighted images (PD-weighted, T2-weighted, PD-FLAIR and T2-FLAIR images) with synthetic T1-weighted image, T1- and T2-maps". *IEEE Trans Medical Imaging 2021 40(12):3617-3626*.
+- Lee J, Hyun JW, Lee J, Choi EJ, Shin HG, Min K, Nam Y, Kim HJ, Oh SH. "[REVIEW] So you want to image myelin using MRI: An overview and practical guide for myelin water imaging". *JMRI 2021 53(2):360-373*.
+- Eun H+, Jeong H+, Lee J, Shin HG, and Lee J\*. "A geometric approach to separate the effects of magnetic susceptibility and chemical shift/exchange in a phantom with isotropic magnetic susceptibility". *Magn Res Med 2021 85(1):281-289*.
+- An H, Shin HG, Ji S, Jung W, Oh SH, Shin D, Park J, Lee J\*. "DeepResp: Deep learning solution for respiration-induced B0 fluctuation artifacts in multi-slice GRE". *NeuroImage 2021 224:117432*.
 
 ## 수상과 선정
 
