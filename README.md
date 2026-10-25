@@ -346,9 +346,9 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 |---|---|---|
 | [분리막·소재·머신 인텔리전스 연구실 (Membranes, Materials, Machine Intelligence Laboratory, MMML)](wiki/kaist/mmml.md) | 고동연 교수 | 원유를 증류 앞 단계에서 얇은 막으로 걸러 성분별로 미리 나누는 기술, 공기에서는 흡착 장치로, 바닷물에서는 전기화학 장치로 이산화탄소를 뽑아내는 기술처럼 에너지를 덜 쓰는 분리 기술을 만드는 연구실이다. |
 
-## 서울대 연구실 (15곳)
+## 서울대 연구실 (20곳)
 
-### 공과대학 전기·정보공학부 (15)
+### 공과대학 전기·정보공학부 (20)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -356,17 +356,22 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [가상머신 및 최적화 연구실 (Virtual Machine & Optimization Lab, VMO Lab)](wiki/snu/smoon.md) | 문수묵 교수 | 컴파일러와 가상머신 최적화 기술을 바탕으로 여러 소프트웨어 플랫폼의 최적화를 연구해 온 연구실로, 최근에는 블록체인의 데이터 크기·성능 최적화와 보안 강화, 그리고 연합학습·그래프 신경망·지름길 학습·코딩 AI용 언어 모델 같은 인공지능 연구도 한다. |
 | [가속화지능형시스템연구실 (Accelerated Intelligent Systems Lab, AISys)](wiki/snu/aisys.md) | 이진호 부교수 (공과대학 전기·정보공학부, 첨단융합학부 차세대지능형반도체전공, 협동과정 인공지능 전공) | 딥러닝, 압축 알고리즘, 그래프 처리 같은 응용을 빠르게 돌리기 위한 컴퓨터 시스템과 하드웨어 구조를 연구하는 연구실이다. |
 | [고급지능시스템 연구실 (Advanced Intelligent Systems Lab, AiSLab)](wiki/snu/aislab.md) | 양현종 부교수 | 6G 무선 통신과 인공지능, 로보틱스를 함께 다뤄, 인공지능으로 움직이는 무선 접속망, 무선 에지의 분산 학습, 통신과 센싱의 통합, 네트워크로 연결된 로봇의 협업을 연구하는 연구실이다. |
+| [고성능 컴퓨터 시스템 연구실 (High Performance Computer System Lab, HPCS)](wiki/snu/hpcs.md) | 김장우 교수 | 차세대 컴퓨터 구조와 시스템을 설계하고 모델링하고 시제품으로 만들어 평가하는 연구실이다. |
 | [광·나노 전자소자 연구실 (Advanced Opto and Nano Electronics Laboratory, AONE)](wiki/snu/aone.md) | 곽정훈 교수 | 양자점과 유기 반도체처럼 새로운 반도체 소재로 빛을 내거나 전기를 만드는 소자를 연구하는 전기·정보공학부 연구실이다. |
+| [반도체 재료 및 소자연구실 (Semiconductor Materials and Devices Laboratory, SMDL)](wiki/snu/genie.md) | 이종호 교수 | 반도체 소자를 직접 만들고 재고 모델링하는 연구실로, 3차원 낸드 플래시 메모리, 플래시와 강유전체 소자로 만드는 뉴로모픽 하드웨어와 메모리 내 연산, CMOS 기술과 함께 만드는 FET형 가스 센서를 중심으로 연구한다. |
 | [생체광학 및 나노공학 연구실 (BiNEL, Biophotonics and Nano Engineering Lab.)](wiki/snu/binel.md) | 권성훈 교수 | 생명과학자와 의료진이 실제로 부딪히는 문제를 공학 기술로 푸는 연구실이다. |
 | [양자 반도체 집적광학 연구실 (Quantum Semiconductor Photonic INtegration Lab, Q-SPIN Lab)](wiki/snu/donguknam.md) | 남동욱 부교수 | 반도체 공정으로 찍어낼 수 있는 양자 광집적회로 칩을 만들어 빛으로 동작하는 양자컴퓨터를 구현하려는 연구실이다. |
 | [인공지능 및 빅데이터 시스템 연구실 (AIDAS Lab)](wiki/snu/aidas.md) | 도재영 조교수 (공과대학 전기·정보공학부, 협동과정 인공지능 전공) | 인공지능 모델의 구조, 많은 데이터를 다루는 시스템, 몸을 가진 에이전트(로봇)를 함께 연구하는 연구실이다. |
 | [인공지능 연구실 (Data Science & Artificial Intelligence Laboratory)](wiki/snu/ailab.md) | 윤성로 교수 (공과대학 전기·정보공학부, 대학원 협동과정 인공지능전공) | 딥러닝을 바탕으로 그림과 음성을 만드는 생성 모델, 대형 언어 모델과 그림·글을 함께 다루는 모델, 시계열 이상 탐지와 결함 이미지 생성 같은 산업 AI, 전자 건강 기록·심전도 같은 의료 데이터를 다루는 모델을 연구하는 연구실이다. |
 | [인지머신러닝 연구실 (Cognitive Machine Learning Lab, CML)](wiki/snu/cml.md) | 이정우 교수 | 강화학습과 사람의 선호로 배우는 학습, 언어 모델의 추론 검증과 어텐션, 편향과 암기를 줄이는 믿을 수 있는 AI 같은 기계 학습 연구와 함께, 양자 상태의 충실도 추정과 분산 양자 회로 같은 양자 정보 연구, 정보이론에 바탕을 둔 분산 컴퓨팅과 통신 연구를 하는 연구실이다. |
 | [전기 에너지 변환 연구실 (Electric Energy Conversion Lab, EECL)](wiki/snu/eecl.md) | 하정익 교수 | 전기 에너지를 쓰임에 맞는 형태로 바꾸는 전력전자 회로와 그 제어를 연구하는 연구실이다. |
+| [전기-의학 융합 연구실 (Electro-medical Fusion Engineering lab)](wiki/snu/efe.md) | 서종모 교수 | 전기공학과 의학, 생명공학을 잇는 융합 연구로 시각장애인의 삶의 질을 높이는 것을 목표로 하는 연구실이다. |
+| [전력시스템 및 경제 연구실 (Electric Power Network Economics Laboratory, EPNEL)](wiki/snu/epnel.md) | 윤용태 교수 | 전력망과 전력시장이 안정적이고 경제적으로 돌아가도록 운영·제어·최적화 방법을 연구하는 연구실이다. |
 | [전파 및 무선 통신 연구실 (Advanced Radio Technology Laboratory, ART LAB)](wiki/snu/artl.md) | 이성욱 조교수 | 전파와 무선 통신의 신호 처리를 연구하는 연구실이다. |
 | [초전도 응용 연구실 (Applied Superconductivity Laboratory, ASL)](wiki/snu/asl.md) | 한승용 교수 | 초전도 현상을 이용하는 전기 기기를 연구하는 연구실이다. |
 | [컴퓨터비젼 연구실 (Computer Vision Laboratory, CVLab)](wiki/snu/cv.md) | 이경무 교수, 한보형 교수 | 누리집이 이경무 교수와 한보형 교수를 함께 올리는 컴퓨터 비전 연구실이다. |
 | [피지컬 인공지능 연구실 (SNU Physical AI Laboratory)](wiki/snu/adr.md) | 최준원 교수 (공과대학 전기·정보공학부, 협동과정 인공지능 전공, 학부대학) | 자율주행차와 로봇이 실제 세계에서 주변을 알아보고 움직임을 정하는 인공지능을 연구하는 연구실이다. |
+| [휴먼인터페이스 연구실 (Human Interface Laboratory)](wiki/snu/hi.md) | 김남수 교수 | 사람의 말소리와 여러 소리를 다루는 음성·오디오 신호 처리 연구실로, 음성 인식·합성·향상과 화자 인식, 실감 음향·음향 장면 인식·음원 분리 같은 오디오 처리를 기계 학습으로 연구하고 대형 언어 모델 연구도 함께 한다. |
 
 ## 범위와 기준
 
