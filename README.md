@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (247곳)
+## KAIST 연구실 (251곳)
 
 ### 기계공학과 (53)
 
@@ -124,11 +124,12 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [혼성신호 집적회로 연구실 (Mixed Signal Integrated Circuits Lab, MSICL)](wiki/kaist/msicl.md) | 류승탁 교수 | 아날로그 신호와 디지털 신호를 서로 바꾸는 데이터 변환기를 중심으로 아날로그·혼성 신호 집적회로를 설계하는 연구실이다. |
 | [회로설계 연구실 (Circuit Lab)](wiki/kaist/icdesignlab.md) | 김현식 교수 | 화면을 움직이는 디스플레이 구동 칩, 전자 기기에 맞는 전압을 만들어 공급하는 전력 관리 칩, 센서 신호를 읽어 내는 판독 칩을 아날로그 집적회로로 설계하고, 이 지식을 모아 완전한 시스템 온 칩을 만들려는 연구실이다. |
 
-### 신소재공학과 (29)
+### 신소재공학과 (30)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
 | [Atomic-Scale Defects Engineering Lab](wiki/kaist/atomic-defects.md) | 정성윤 교수 | 결정 속 원자 하나하나의 배열과 흐트러짐(결함)을 전자현미경으로 직접 들여다보고, 그 결함을 조절해 더 오래가는 수전해 촉매와 전지·커패시터 소재를 설계하는 연구실이다. |
+| [Bioinspired Extreme Materials Laboratory](wiki/kaist/beml.md) | 강성훈 교수 (신소재공학과·안보과학기술대학원) | 뼈를 모사해 반복 하중을 받을수록 스스로 단단해지는 적응 소재와, 구조 설계로 자연에 없는 물성을 구현하는 메타소재를 연구하는 신소재공학과 연구실이다. |
 | [Chang Lab (Molecular Imaging and Brain-Inspired Semiconductor Lab)](wiki/kaist/changlabkaist.md) | 장재범 교수 (신소재공학과·생명과학과) | 조직 영상을 정밀 공학 시스템으로 다뤄, 새로운 화학과 자동화 공정, AI 기반 분석, 나노 공정을 묶어 대규모 정량 공간 생물학 데이터를 만드는 신소재공학과 연구실이다. |
 | [ECSM 연구실 (Energy Conversion & Storage Materials Lab.)](wiki/kaist/ecsm.md) | 조은애 교수 | 수소로 전기를 만드는 연료전지, 전기로 수소를 만드는 수전해 장치, 전기를 저장하는 배터리에 들어가는 핵심 소재를 만드는 연구실이다. |
 | [Funnano Lab.](wiki/kaist/funnano.md) | 정연식 교수 | 10 nm(나노미터, 1 nm는 10억분의 1 m) 이하의 아주 작은 구조를 넓은 면적에 고르게 만드는 나노 제작 기술을 개발하고, 그 구조로 질병을 진단하는 센서, 빛을 내는 양자점 소자, 수소를 만드는 촉매 같은 에너지 소자를 만든다. |
@@ -158,6 +159,30 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [전산 소재 설계 및 탐색 연구실 (Computational Materials Design & Discovery Lab, CMDD)](wiki/kaist/cmdd.md) | 서동화 교수 | 계산, AI, 실험을 함께 써서 배터리 소재를 개발하는 신소재공학과 연구실이다. |
 | [차세대 광전나노재료 연구실 (Next-Generation Optoelectronic Nanomaterials Laboratory, NGON Lab)](wiki/kaist/ngonlab.md) | 조힘찬 교수 | 용액으로 만드는 나노미터 크기의 반도체 결정(양자점, 페로브스카이트 나노결정)으로 더 선명한 디스플레이와 새로운 빛 소자를 만드는 연구실이다. |
 
+### 바이오및뇌공학과 (19)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [계산뇌인지과학 연구실 (Computational Cognitive Neuroscience Lab, CoCo Lab)](wiki/kaist/yulkanglab.md) | 강형률 교수 | 뇌와 인공지능 시스템이 불확실한 상황에서 어떻게 길을 찾고 결정을 내리는지를, 베이즈 모형과 신경망 모형을 함께 써서 연구하는 바이오및뇌공학과 연구실이다. |
+| [광학 이미징 연구실 (Mooo Research Group)](wiki/kaist/mooolab.md) | 장무석 교수 | 광학, 음향학, 나노광학을 결합한 새로운 도구를 만들어 생물학과 의학의 문제를 푸는 연구실이다. |
+| [나노바이오공학 연구실 (NanoBiotech Laboratory, NBL)](wiki/kaist/nanobio.md) | 박제균 교수 | 가는 관로에서 적은 양의 액체를 흘리고 섞고 나누는 미세유체 기술로, 검사실 밖에서 바로 쓰는 진단 소자와 세포를 키워 조직·장기의 일부를 흉내 내는 칩을 만드는 연구실이다. |
+| [단백질생물정보학 연구실 (Bioinformatics and Computational Biology Lab, BCBL)](wiki/kaist/kaist-bcbl.md) | 김동섭 교수 | 물리·화학·계산의 원리로 단백질 같은 생체분자의 구조와 기능, 상호작용을 예측하는 계산 방법을 만들고, 이를 단백질 설계와 신약 개발에 쓰는 생물정보학 연구실이다. |
+| [바이오 전자시스템 연구실 (Biomedical Energy-Efficient Electronics Laboratory, BEEE Lab)](wiki/kaist/beee.md) | 김철 교수 | 집적회로 기술로 몸에 넣는 초소형 신경 인터페이스, 무선 전력 전송, 생체 신호를 재는 착용형 장치를 만들어 진단·치료용 의료 기기의 뇌-기계 인터페이스를 구현하려는 바이오및뇌공학과 연구실이다. |
+| [바이오나노구조 연구실 (MC Choi Lab)](wiki/kaist/mcchoi.md) | 최명철 교수 | 세포 골격을 이루는 미세소관과 여기에 붙는 타우 단백질, 세포막의 지질 같은 생체 분자가 스스로 모여 만드는 나노 구조와 그 사이의 힘을 싱크로트론 X선 산란·X선 반사율, 여러 현미경, 광학 집게, 분자 동역학 시뮬레이션으로 재는 바이오및뇌공학과 생물물리 연구실이다. |
+| [바이오정보시스템 연구실 (Bio-Information System Laboratory, BISL)](wiki/kaist/biosoft.md) | 이도헌 교수 | 유전체·단백질·약물 반응 같은 대규모 생물 데이터를 인공지능과 생물학적 네트워크 분석으로 다뤄 신약 개발 문제를 푸는 바이오및뇌공학과 연구실이다. |
+| [바이오포토닉스 연구실 (KAIST Biophotonics Laboratory)](wiki/kaist/biophotonics.md) | 정기훈 교수 | 빛을 다루는 아주 작은 광학 소자를 만들어 의료에 쓰는 연구실이다. |
+| [상호작용형 바이오 인터페이스 연구실 (Interactive Bio-Interface Lab, IBI Lab)](wiki/kaist/haresearchgroup.md) | 하경호 교수 | 피부를 통해 사람의 몸을 전자·기계 시스템과 잇는 바이오 인터페이스를 만드는 연구실이다. |
+| [신경공학연구실 (Neural Engineering Laboratory)](wiki/kaist/neuros.md) | 남윤기 교수 | 살아 있는 신경세포를 칩 위에서 키워 신경망 모형을 만들고, 그 신경망의 신호를 미세전극 배열로 재며 빛과 열로 조절하는 공학 플랫폼을 연구하는 바이오및뇌공학과 연구실이다. |
+| [신경기술 및 뇌매핑 연구실 (Neurotechnique and Brain Mapping Lab)](wiki/kaist/ygparklab.md) | 박영균 교수 | 온전한 생체 조직의 개별 세포에서 여러 종류의 정보를 뽑아내는 도구를 만들고, 그 도구로 신경망을 밝혀 뇌 기능을 이해하며 뇌 질환을 고칠 방법을 찾는 바이오및뇌공학과 연구실이다. |
+| [오믹스 연구실 (OMICS Laboratory for Computational Biology and Medicine)](wiki/kaist/omics.md) | 최정균 교수 | 유전체·후성유전체·전사체처럼 유전체 전체 규모로 얻는 대규모 생물 자료(오믹스)를 계산과 기계학습으로 분석하는 바이오및뇌공학과 연구실이다. |
+| [의공학 초음파 연구실 (Biomedical Ultrasound Laboratory)](wiki/kaist/eyparklab.md) | 박은영 교수 | 초음파를 바탕으로 몸속을 영상으로 보고, 초음파 에너지로 몸속의 정한 자리를 자극하거나 치료하는 차세대 의료 영상·치료 기술을 개발하는 연구실이다. |
+| [인간 암 제어 및 엔지니어링 연구실 (Cancer Engineering Lab, CEL)](wiki/kaist/pilnam.md) | 김필남 교수 | 사람의 암 조직에서 세포를 걷어 내고 남은 틀(세포외 기질)에 암세포와 면역세포, 섬유아세포를 다시 넣어 몸 밖에 사람의 암을 다시 짓는 연구실이다. |
+| [인지신경영상 연구실 (Laboratory for Cognitive Neuroscience and NeuroImaging)](wiki/kaist/ibrain.md) | 정용 교수 | 뉴런과 시냅스의 미세 수준부터 뇌 영역 사이 장거리 연결까지 이어지는 뇌의 신경망 관점에서 인지의 생물학적 기전을 연구하는 바이오및뇌공학과 연구실이다. |
+| [인지학습 역동성 연구실 (Cognitive Learning and Dynamics Lab)](wiki/kaist/achung.md) | 정아인 교수 | 생쥐 모델, 광유전학, 전기생리학, 기계학습 기반 행동 분석 등으로 학습과 기억이 신경 회로를 어떻게 바꾸고, 그 변화가 다음 학습과 인지 기능에 어떤 영향을 주는지 연구하는 바이오및뇌공학과 연구실이다. |
+| [자기공명영상 연구실 (Magnetic Resonance Imaging Laboratory)](wiki/kaist/mri.md) | 박성홍 교수 | 자기공명영상(MRI)으로 영상을 얻고 처리하고 분석하는 새 기법을 만들고, 신경유체 MRI로 뇌의 노폐물이 빠져나가는 경로와 기전을 밝히며, 딥러닝 알고리즘을 MRI 촬영 가속, 영상 분석과 합성, 임상 진단에 적용하는 바이오및뇌공학과 연구실이다. |
+| [정밀 나노의약공학 연구실 (Precision Nanomedicine Engineering Lab, PNE Lab)](wiki/kaist/baeklab.md) | 백민준 교수 | 약을 병든 부위에 정확히 보내는 나노 운반체와 약의 제형을 만드는 연구실이다. |
+| [치료생체재료공학 연구실 (Therapeutic Biomaterials Engineering Laboratory, TBEL)](wiki/kaist/jhp.md) | 박지호 교수 | 약을 몸속 목표 조직에 실어 보내는 소재를 만드는 연구실이다. |
+
 ### 원자력및양자공학과 (19)
 
 | 연구실 | 교수 | 한 줄 요약 |
@@ -182,30 +207,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [핵융합 및 플라즈마 동역학 연구실 (Fusion and Plasma Dynamics Laboratory, FPDL)](wiki/kaist/fpdl.md) | 성충기 교수 | 핵융합 에너지 실현을 목표로 플라즈마 속 불안정성과 난류 같은 동역학을 연구하고, 플라즈마를 재는 진단 장치와 핵융합 및 다른 분야에 쓰는 플라즈마 공학을 연구하는 원자력및양자공학과 연구실이다. |
 | [핵융합 및 플라즈마 이론 연구실 (Fusion and Plasma Theory Lab)](wiki/kaist/kaistftl.md) | 최경진 교수 | 핵융합 에너지 연구, 산업·저온 플라즈마, 우주·천체 플라즈마를 연구 분야로 드는 원자력및양자공학과의 플라즈마 이론 연구실이다. |
 
-### 바이오및뇌공학과 (18)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [계산뇌인지과학 연구실 (Computational Cognitive Neuroscience Lab, CoCo Lab)](wiki/kaist/yulkanglab.md) | 강형률 교수 | 뇌와 인공지능 시스템이 불확실한 상황에서 어떻게 길을 찾고 결정을 내리는지를, 베이즈 모형과 신경망 모형을 함께 써서 연구하는 바이오및뇌공학과 연구실이다. |
-| [광학 이미징 연구실 (Mooo Research Group)](wiki/kaist/mooolab.md) | 장무석 교수 | 광학, 음향학, 나노광학을 결합한 새로운 도구를 만들어 생물학과 의학의 문제를 푸는 연구실이다. |
-| [나노바이오공학 연구실 (NanoBiotech Laboratory, NBL)](wiki/kaist/nanobio.md) | 박제균 교수 | 가는 관로에서 적은 양의 액체를 흘리고 섞고 나누는 미세유체 기술로, 검사실 밖에서 바로 쓰는 진단 소자와 세포를 키워 조직·장기의 일부를 흉내 내는 칩을 만드는 연구실이다. |
-| [바이오 전자시스템 연구실 (Biomedical Energy-Efficient Electronics Laboratory, BEEE Lab)](wiki/kaist/beee.md) | 김철 교수 | 집적회로 기술로 몸에 넣는 초소형 신경 인터페이스, 무선 전력 전송, 생체 신호를 재는 착용형 장치를 만들어 진단·치료용 의료 기기의 뇌-기계 인터페이스를 구현하려는 바이오및뇌공학과 연구실이다. |
-| [바이오나노구조 연구실 (MC Choi Lab)](wiki/kaist/mcchoi.md) | 최명철 교수 | 세포 골격을 이루는 미세소관과 여기에 붙는 타우 단백질, 세포막의 지질 같은 생체 분자가 스스로 모여 만드는 나노 구조와 그 사이의 힘을 싱크로트론 X선 산란·X선 반사율, 여러 현미경, 광학 집게, 분자 동역학 시뮬레이션으로 재는 바이오및뇌공학과 생물물리 연구실이다. |
-| [바이오정보시스템 연구실 (Bio-Information System Laboratory, BISL)](wiki/kaist/biosoft.md) | 이도헌 교수 | 유전체·단백질·약물 반응 같은 대규모 생물 데이터를 인공지능과 생물학적 네트워크 분석으로 다뤄 신약 개발 문제를 푸는 바이오및뇌공학과 연구실이다. |
-| [바이오포토닉스 연구실 (KAIST Biophotonics Laboratory)](wiki/kaist/biophotonics.md) | 정기훈 교수 | 빛을 다루는 아주 작은 광학 소자를 만들어 의료에 쓰는 연구실이다. |
-| [상호작용형 바이오 인터페이스 연구실 (Interactive Bio-Interface Lab, IBI Lab)](wiki/kaist/haresearchgroup.md) | 하경호 교수 | 피부를 통해 사람의 몸을 전자·기계 시스템과 잇는 바이오 인터페이스를 만드는 연구실이다. |
-| [신경공학연구실 (Neural Engineering Laboratory)](wiki/kaist/neuros.md) | 남윤기 교수 | 살아 있는 신경세포를 칩 위에서 키워 신경망 모형을 만들고, 그 신경망의 신호를 미세전극 배열로 재며 빛과 열로 조절하는 공학 플랫폼을 연구하는 바이오및뇌공학과 연구실이다. |
-| [신경기술 및 뇌매핑 연구실 (Neurotechnique and Brain Mapping Lab)](wiki/kaist/ygparklab.md) | 박영균 교수 | 온전한 생체 조직의 개별 세포에서 여러 종류의 정보를 뽑아내는 도구를 만들고, 그 도구로 신경망을 밝혀 뇌 기능을 이해하며 뇌 질환을 고칠 방법을 찾는 바이오및뇌공학과 연구실이다. |
-| [오믹스 연구실 (OMICS Laboratory for Computational Biology and Medicine)](wiki/kaist/omics.md) | 최정균 교수 | 유전체·후성유전체·전사체처럼 유전체 전체 규모로 얻는 대규모 생물 자료(오믹스)를 계산과 기계학습으로 분석하는 바이오및뇌공학과 연구실이다. |
-| [의공학 초음파 연구실 (Biomedical Ultrasound Laboratory)](wiki/kaist/eyparklab.md) | 박은영 교수 | 초음파를 바탕으로 몸속을 영상으로 보고, 초음파 에너지로 몸속의 정한 자리를 자극하거나 치료하는 차세대 의료 영상·치료 기술을 개발하는 연구실이다. |
-| [인간 암 제어 및 엔지니어링 연구실 (Cancer Engineering Lab, CEL)](wiki/kaist/pilnam.md) | 김필남 교수 | 사람의 암 조직에서 세포를 걷어 내고 남은 틀(세포외 기질)에 암세포와 면역세포, 섬유아세포를 다시 넣어 몸 밖에 사람의 암을 다시 짓는 연구실이다. |
-| [인지신경영상 연구실 (Laboratory for Cognitive Neuroscience and NeuroImaging)](wiki/kaist/ibrain.md) | 정용 교수 | 뉴런과 시냅스의 미세 수준부터 뇌 영역 사이 장거리 연결까지 이어지는 뇌의 신경망 관점에서 인지의 생물학적 기전을 연구하는 바이오및뇌공학과 연구실이다. |
-| [인지학습 역동성 연구실 (Cognitive Learning and Dynamics Lab)](wiki/kaist/achung.md) | 정아인 교수 | 생쥐 모델, 광유전학, 전기생리학, 기계학습 기반 행동 분석 등으로 학습과 기억이 신경 회로를 어떻게 바꾸고, 그 변화가 다음 학습과 인지 기능에 어떤 영향을 주는지 연구하는 바이오및뇌공학과 연구실이다. |
-| [자기공명영상 연구실 (Magnetic Resonance Imaging Laboratory)](wiki/kaist/mri.md) | 박성홍 교수 | 자기공명영상(MRI)으로 영상을 얻고 처리하고 분석하는 새 기법을 만들고, 신경유체 MRI로 뇌의 노폐물이 빠져나가는 경로와 기전을 밝히며, 딥러닝 알고리즘을 MRI 촬영 가속, 영상 분석과 합성, 임상 진단에 적용하는 바이오및뇌공학과 연구실이다. |
-| [정밀 나노의약공학 연구실 (Precision Nanomedicine Engineering Lab, PNE Lab)](wiki/kaist/baeklab.md) | 백민준 교수 | 약을 병든 부위에 정확히 보내는 나노 운반체와 약의 제형을 만드는 연구실이다. |
-| [치료생체재료공학 연구실 (Therapeutic Biomaterials Engineering Laboratory, TBEL)](wiki/kaist/jhp.md) | 박지호 교수 | 약을 몸속 목표 조직에 실어 보내는 소재를 만드는 연구실이다. |
-
-### 항공우주공학과 (18)
+### 항공우주공학과 (19)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -214,6 +216,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [비평형 기체 플라즈마 연구실 (KAIST Non-equilibrium Gas and Plasma Dynamics Lab, KNGPDL)](wiki/kaist/kngpdl.md) | 전은지 교수 | 우주에서처럼 공기가 아주 희박하거나 극초음속으로 나는 물체 주변처럼 공기 상태가 급변하는 곳의 기체 흐름을, 기체 분자 하나하나의 움직임을 따라가는 계산으로 푸는 연구실이다. |
 | [비행 역학 및 제어 연구실 (Flight Dynamics and Control Laboratory, FDCL)](wiki/kaist/fdcl2.md) | 이창훈 교수 | 미사일, 무인항공기, 우주발사체, 우주비행기 같은 항공우주 비행체가 목표한 곳에 이르도록 갈 길을 정하고 그대로 움직이게 하는 유도·제어 기법을 연구하는 항공우주공학과 연구실이다. |
 | [연소 모델링 연구실 (Combustion Modeling Lab)](wiki/kaist/cmodel.md) | 신동혁 교수 | 연소 모델과 반응 유동(화학 반응이 함께 일어나는 흐름)의 고정밀 시뮬레이션 방법을 개발하는 연구실이다. |
+| [연소 불안정 및 레이저진단 연구실 (Combustion Dynamics and Diagnostics Laboratory, CDDL)](wiki/kaist/cdd.md) | 김규태 교수 | 발전 및 항공 가스터빈 엔진에서 일어나는 연소 불안정 현상을 랩 스케일 연소 실험, 열-음향 모델링, 데이터 기반 기계학습 모델링으로 이해하고 예측하려는 항공우주공학과 연구실이다. |
 | [우주 구조 및 하드웨어 시스템 연구실 (Space Structures and H/W Systems Lab, SSHS Lab)](wiki/kaist/sshs.md) | 한재흥 교수 | 동역학과 재료역학, 구조 동역학 같은 역학 원리를 바탕으로 항공우주용 구조물과 하드웨어 시스템을 만드는 연구실로, 우주정거장용 전개형 구조물과 궤도상 서비스·제조 기술, 우주비행체의 열방호 구조, 새를 닮은 날갯짓 비행체를 연구한다. |
 | [우주 전기추진 및 이온빔 응용 연구실 (Space Electric Propulsion and Ion-beam Application Lab, SEPIA Lab)](wiki/kaist/ep-kaist.md) | 이동호 교수 | 전기로 플라즈마를 가속해 우주에서 추력을 얻는 전기 추진 장치와 그 하위 시스템을 개발하고, 저온 플라즈마와 이온빔이 물질과 만나는 현상을 연구하는 연구실이다. |
 | [우주비행 임무 및 제어 연구실 (Spaceflight Mission and Control Lab, SMCL)](wiki/kaist/smcl.md) | 이동헌 교수 | 우주선을 달과 다른 행성으로 보내는 궤적을 설계하고 최적화하는 일, 인공위성이 원하는 방향을 빠르고 안정적으로 가리키게 하는 자세 유도·제어, 두 우주선이 궤도에서 만나 결합하는 랑데부·도킹의 궤도 유도 알고리즘과 지상 시험장치를 연구하는 항공우주공학과 연구실이다. |
@@ -340,6 +343,12 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
 | [스마트 사운드 연구실 (Smart Sound Lab)](wiki/kaist/sound.md) | 최정우 교수 (AI시스템학과·전기및전자공학부) | 여러 개의 마이크로 받은 소리를 인공지능으로 분석해 원하는 말소리와 소리만 골라내고, 소리가 오는 방향과 방의 모양을 알아내며, 기계가 내는 이상한 소리를 잡아내고, 헤드폰으로 듣는 가상현실의 소리를 실감 나게 만드는 공간 음향·오디오 인공지능 연구실이다. |
+
+### AX학과 (1)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [응용인공지능 연구실 (Applied Artificial Intelligence Laboratory, AAILab)](wiki/kaist/aai.md) | 문일철 교수 (AX학과·산업및시스템공학과·안보과학기술대학원) | 생성 모델, 불완전한 데이터에서의 학습, 대규모 언어 모델, 다중 에이전트 강화학습 같은 기계학습 방법을 개발하고, 복잡한 사회·경제 시스템과 국방 조직을 컴퓨터 모형으로 재현해 이해하고 설계하는 모델링·시뮬레이션을 함께 연구하는 KAIST 연구실이다. |
 
 ### 기술경영학부 (1)
 
