@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (257곳)
+## KAIST 연구실 (260곳)
 
 ### 기계공학과 (53)
 
@@ -125,7 +125,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [혼성신호 집적회로 연구실 (Mixed Signal Integrated Circuits Lab, MSICL)](wiki/kaist/msicl.md) | 류승탁 교수 | 아날로그 신호와 디지털 신호를 서로 바꾸는 데이터 변환기를 중심으로 아날로그·혼성 신호 집적회로를 설계하는 연구실이다. |
 | [회로설계 연구실 (Circuit Lab)](wiki/kaist/icdesignlab.md) | 김현식 교수 | 화면을 움직이는 디스플레이 구동 칩, 전자 기기에 맞는 전압을 만들어 공급하는 전력 관리 칩, 센서 신호를 읽어 내는 판독 칩을 아날로그 집적회로로 설계하고, 이 지식을 모아 완전한 시스템 온 칩을 만들려는 연구실이다. |
 
-### 신소재공학과 (30)
+### 신소재공학과 (31)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -146,6 +146,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [나노스핀트로닉스 연구실 (Nano Spintronics Laboratory, NSL)](wiki/kaist/nanospin.md) | 박병국 교수 | 전자의 전하뿐 아니라 스핀(전자가 가진 자기적 성질)을 이용해, 전원이 꺼져도 데이터가 남고 전력을 적게 쓰는 메모리와 논리 소자를 만드는 연구실이다. |
 | [미래반도체기술 연구실 (Future Semiconductor Technology Laboratory, FuST Lab)](wiki/kaist/semi.md) | 김경민 교수 | 전압을 걸면 저항이 바뀌고 그 상태를 기억하는 "멤리스터"라는 새로운 반도체 소자로, 뇌처럼 계산하는 AI 반도체와 무작위성을 이용하는 보안 칩, 확률 컴퓨터를 만드는 연구실이다. |
 | [박막 에피택시 성장 연구실 (Advanced Thin Film Epitaxy Laboratory, ATFE Lab)](wiki/kaist/atfelab.md) | 김지운 교수 | 전자 소재, 양자 소재, 에너지 소재를 포함한 복합 산화물 박막에서 새로 나타나는 기능을 이해하고 조절하는 신소재공학과 연구실이다. |
+| [반도체 소재 광촉매 연구실 (PRISM Lab: Photocatalysis Research In Semiconductor Materials)](wiki/kaist/prism.md) | 박찬범 교수 | 햇빛을 받아 화학 반응을 일으키는 반도체 광촉매·광전극 소재를 만들고, 이를 산화환원 효소와 이어 붙여 자연 광합성을 흉내 내는 방식으로 부가가치 높은 화학물질을 합성하는 연구실이다. |
 | [생체모방 연성 소재 연구실 (Laboratory of Biomimetic Soft Materials, Pal Research Group)](wiki/kaist/onematerials.md) | Subhajit Pal 교수 | 콜라겐이나 거미줄 같은 구조 단백질을 본떠, 단백질처럼 정밀하면서도 합성 고분자처럼 대량으로 만들 수 있는 새로운 연성 소재를 만드는 연구실이다. |
 | [에너지 소재 연구실 (Energy Materials Lab, EML)](wiki/kaist/energy-materials.md) | 신병하 교수 | 햇빛을 전기로 바꾸는 차세대 태양전지와 빛을 내는 반도체 소재를 연구한다. |
 | [에너지 소재·전자현미경 연구실 (Energy Materials and Electron Microscopy Lab, YUK Lab)](wiki/kaist/yuklab.md) | 육종민 교수 (신소재공학과·안보과학기술대학원) | 투과전자현미경과 머신러닝으로 에너지·바이오·반도체 물질 속에서 원자 단위로 일어나는 일을 실시간으로 분석하고, 그 구조와 반응 메커니즘을 밝히는 연구실이다. |
@@ -159,6 +160,31 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [적외선 나노광학 연구실 (INfrared Nano-Optics Lab)](wiki/kaist/inno-lab.md) | 이창환 교수 | 나노물질에서 새로운 광학 현상을 찾고 그 현상을 미래 기술로 만드는 것을 목표로, 란탄족 기반 나노입자의 광학 성질을 연구하는 신소재공학과 연구실이다. |
 | [전산 소재 설계 및 탐색 연구실 (Computational Materials Design & Discovery Lab, CMDD)](wiki/kaist/cmdd.md) | 서동화 교수 | 계산, AI, 실험을 함께 써서 배터리 소재를 개발하는 신소재공학과 연구실이다. |
 | [차세대 광전나노재료 연구실 (Next-Generation Optoelectronic Nanomaterials Laboratory, NGON Lab)](wiki/kaist/ngonlab.md) | 조힘찬 교수 | 용액으로 만드는 나노미터 크기의 반도체 결정(양자점, 페로브스카이트 나노결정)으로 더 선명한 디스플레이와 새로운 빛 소자를 만드는 연구실이다. |
+
+### 항공우주공학과 (20)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [극초음속 연구실 (Hypersonics Lab)](wiki/kaist/hypersonics.md) | 박기수 교수 | 음속의 5배가 넘는 극초음속으로 나는 비행체와 대기권에 다시 들어오는 물체 주변에서 일어나는 뜨거운 공기 흐름과 열을 지상 시험 장치로 재현하고 재는 연구실이다. |
+| [로켓 연구실 (Rocket Lab KAIST, RLK)](wiki/kaist/rocketlab.md) | 진정근 교수 | 우주 발사와 궤도 기동을 위한 화학 추진 기술을 연구하는 연구실이다. |
+| [비평형 기체 플라즈마 연구실 (KAIST Non-equilibrium Gas and Plasma Dynamics Lab, KNGPDL)](wiki/kaist/kngpdl.md) | 전은지 교수 | 우주에서처럼 공기가 아주 희박하거나 극초음속으로 나는 물체 주변처럼 공기 상태가 급변하는 곳의 기체 흐름을, 기체 분자 하나하나의 움직임을 따라가는 계산으로 푸는 연구실이다. |
+| [비행 역학 및 제어 연구실 (Flight Dynamics and Control Laboratory, FDCL)](wiki/kaist/fdcl2.md) | 이창훈 교수 | 미사일, 무인항공기, 우주발사체, 우주비행기 같은 항공우주 비행체가 목표한 곳에 이르도록 갈 길을 정하고 그대로 움직이게 하는 유도·제어 기법을 연구하는 항공우주공학과 연구실이다. |
+| [연소 모델링 연구실 (Combustion Modeling Lab)](wiki/kaist/cmodel.md) | 신동혁 교수 | 연소 모델과 반응 유동(화학 반응이 함께 일어나는 흐름)의 고정밀 시뮬레이션 방법을 개발하는 연구실이다. |
+| [연소 불안정 및 레이저진단 연구실 (Combustion Dynamics and Diagnostics Laboratory, CDDL)](wiki/kaist/cdd.md) | 김규태 교수 | 발전 및 항공 가스터빈 엔진에서 일어나는 연소 불안정 현상을 랩 스케일 연소 실험, 열-음향 모델링, 데이터 기반 기계학습 모델링으로 이해하고 예측하려는 항공우주공학과 연구실이다. |
+| [우주 구조 및 하드웨어 시스템 연구실 (Space Structures and H/W Systems Lab, SSHS Lab)](wiki/kaist/sshs.md) | 한재흥 교수 | 동역학과 재료역학, 구조 동역학 같은 역학 원리를 바탕으로 항공우주용 구조물과 하드웨어 시스템을 만드는 연구실로, 우주정거장용 전개형 구조물과 궤도상 서비스·제조 기술, 우주비행체의 열방호 구조, 새를 닮은 날갯짓 비행체를 연구한다. |
+| [우주 전기추진 및 이온빔 응용 연구실 (Space Electric Propulsion and Ion-beam Application Lab, SEPIA Lab)](wiki/kaist/ep-kaist.md) | 이동호 교수 | 전기로 플라즈마를 가속해 우주에서 추력을 얻는 전기 추진 장치와 그 하위 시스템을 개발하고, 저온 플라즈마와 이온빔이 물질과 만나는 현상을 연구하는 연구실이다. |
+| [우주비행 임무 및 제어 연구실 (Spaceflight Mission and Control Lab, SMCL)](wiki/kaist/smcl.md) | 이동헌 교수 | 우주선을 달과 다른 행성으로 보내는 궤적을 설계하고 최적화하는 일, 인공위성이 원하는 방향을 빠르고 안정적으로 가리키게 하는 자세 유도·제어, 두 우주선이 궤도에서 만나 결합하는 랑데부·도킹의 궤도 유도 알고리즘과 지상 시험장치를 연구하는 항공우주공학과 연구실이다. |
+| [우주선원형개발연구실 (Spacecraft Prototyping Laboratory, SPL)](wiki/kaist/spacecraft.md) | 윤효상 교수 | 레이저로 위성과 지상, 위성과 위성을 잇는 우주 광통신, 위성이 자기 방향을 재는 별 추적기와 태양 센서, 위성의 자세 결정·제어와 궤도 운용을 연구하는 항공우주공학과 연구실이다. |
+| [우주테스트 및 탑재체 센서 연구실 (STAR Lab, Space Testing And payload sensoR)](wiki/kaist/starlab.md) | 김현정 교수 | 우주 기반 플랫폼에 실린 센서로 새로운 과학 결과를 얻는 것을 목표로, 과학·우주 임무를 위한 센서를 직접 만들거나 새로운 상용 부품을 활용해 비용과 위험을 줄이는 연구실이다. |
+| [위성항법시스템 연구실 (Global Navigation Satellite Systems Laboratory, GNSS Lab)](wiki/kaist/gnss.md) | 이지윤 교수 | 고안전성 항법 시스템, 여러 항법 센서를 묶는 센서 융합 기술, GNSS를 이용한 위성 원격탐사를 연구하는 항공우주공학과 연구실이다. |
+| [전략적 항공우주문제 연구실 (Strategic Aerospace Initiative, SAI)](wiki/kaist/sai.md) | 안재명 교수 (항공우주공학과·안보과학기술대학원) | 항공우주 시스템의 설계와 최적화, 운용과 평가에 걸친 전략적 문제를 다루는 KAIST 항공우주공학과 안재명 교수의 연구실로, 위성군과 궤도상 서비싱, 발사체의 단 구성과 유도, 우주 궤적, 도심 항공 모빌리티와 무인기의 운용 계획을 수리 최적화와 시스템 분석으로 연구한다. |
+| [정보 및 시스템 제어 연구실 (Laboratory for information and Control Systems, LiCS)](wiki/kaist/lics.md) | 최한림 교수 (항공우주공학과·안보과학기술대학원) | 여러 대의 무인기·위성 같은 항공우주 시스템이 정보를 추정하고 서로 일을 나누어 임무를 계획하도록 하는 추정·제어·의사결정 방법을 연구하는 연구실이다. |
+| [차세대 항공모빌리티 연구실 (Aerial Innovation Mobility Lab, AIM Lab)](wiki/kaist/cfd.md) | 이상봉 교수 | 대규모 병렬 계산으로 하는 난류 수치 모사(LES·DNS)와 물리 정보 인공지능을 결합해, 도심 항공 모빌리티와 풍력, 초음속 유동의 복잡한 흐름을 빠르고 정확하게 예측하는 연구실이다. |
+| [첨단 추진 및 에너지 연구실 (Advanced Propulsion & Energy Laboratory, APEL)](wiki/kaist/apel.md) | 심형섭 교수 | 항공우주·국방·에너지 분야의 핵심 기술인 추진과 연소 시스템을 연구하는 연구실이다. |
+| [측정 로봇 및 진단 AI 연구실 (Measurement Robotics & Diagnostic AI Lab, MAI Lab)](wiki/kaist/mailab.md) | 이정률 교수 | 레이저·로봇·안테나·인공지능 기술로 실제 쓰이는 구조물의 상태를 재고, 부수지 않고 결함을 찾아내며, 성능을 측정하는 항공우주공학과 연구실이다. |
+| [항공우주 로보틱스 및 메커니즘 연구실 (Aerospace Robotics and Mechanisms Laboratory, ARML)](wiki/kaist/arml.md) | 이대영 교수 | 종이접기에서 착안한 메커니즘, 소프트 로보틱스, 능동 소재를 바탕으로 항공우주용 로봇과 기계 시스템을 설계하는 연구실이다. |
+| [항공우주시스템 및 제어 연구실 (Aerospace Systems and Control Lab., ASCL)](wiki/kaist/ascl.md) | 방효충 교수 | 무인비행체와 인공위성 같은 항공우주 시스템이 갈 길을 정하고(유도), 자기 위치와 자세를 알아내며(항법), 정한 대로 움직이게 하는(제어) 방법을 연구하는 항공우주공학과 연구실로, 고정익·헬리콥터·멀티로터 무인기를 운용·실험하고 큐브위성 제작·운용 경험을 바탕으로 인공위성을 연구하며 기계학습과 인공지능도 접목한다. |
+| [항공우주통신 및 응용지능 연구실 (Aerospace Communications and Applied Intelligence Lab, ACAI)](wiki/kaist/acai.md) | 최지환 교수 | 통신 기술과 기계학습·딥러닝을 항공우주공학에 적용하는 연구실로, 5G·6G 위성통신망의 구조와 알고리즘을 설계하고 위성·항공 영상 자료를 분석한다. |
 
 ### 바이오및뇌공학과 (19)
 
@@ -207,29 +233,6 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [핵융합 및 기체방전물리 연구실 (Gas Discharge Physics Laboratory, GDPL)](wiki/kaist/gdpl.md) | 최원호 교수 | 플라즈마(기체 원자가 전자와 이온으로 쪼개진 상태)를 연구하는 연구실이다. |
 | [핵융합 및 플라즈마 동역학 연구실 (Fusion and Plasma Dynamics Laboratory, FPDL)](wiki/kaist/fpdl.md) | 성충기 교수 | 핵융합 에너지 실현을 목표로 플라즈마 속 불안정성과 난류 같은 동역학을 연구하고, 플라즈마를 재는 진단 장치와 핵융합 및 다른 분야에 쓰는 플라즈마 공학을 연구하는 원자력및양자공학과 연구실이다. |
 | [핵융합 및 플라즈마 이론 연구실 (Fusion and Plasma Theory Lab)](wiki/kaist/kaistftl.md) | 최경진 교수 | 핵융합 에너지 연구, 산업·저온 플라즈마, 우주·천체 플라즈마를 연구 분야로 드는 원자력및양자공학과의 플라즈마 이론 연구실이다. |
-
-### 항공우주공학과 (18)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [극초음속 연구실 (Hypersonics Lab)](wiki/kaist/hypersonics.md) | 박기수 교수 | 음속의 5배가 넘는 극초음속으로 나는 비행체와 대기권에 다시 들어오는 물체 주변에서 일어나는 뜨거운 공기 흐름과 열을 지상 시험 장치로 재현하고 재는 연구실이다. |
-| [로켓 연구실 (Rocket Lab KAIST, RLK)](wiki/kaist/rocketlab.md) | 진정근 교수 | 우주 발사와 궤도 기동을 위한 화학 추진 기술을 연구하는 연구실이다. |
-| [비평형 기체 플라즈마 연구실 (KAIST Non-equilibrium Gas and Plasma Dynamics Lab, KNGPDL)](wiki/kaist/kngpdl.md) | 전은지 교수 | 우주에서처럼 공기가 아주 희박하거나 극초음속으로 나는 물체 주변처럼 공기 상태가 급변하는 곳의 기체 흐름을, 기체 분자 하나하나의 움직임을 따라가는 계산으로 푸는 연구실이다. |
-| [비행 역학 및 제어 연구실 (Flight Dynamics and Control Laboratory, FDCL)](wiki/kaist/fdcl2.md) | 이창훈 교수 | 미사일, 무인항공기, 우주발사체, 우주비행기 같은 항공우주 비행체가 목표한 곳에 이르도록 갈 길을 정하고 그대로 움직이게 하는 유도·제어 기법을 연구하는 항공우주공학과 연구실이다. |
-| [연소 모델링 연구실 (Combustion Modeling Lab)](wiki/kaist/cmodel.md) | 신동혁 교수 | 연소 모델과 반응 유동(화학 반응이 함께 일어나는 흐름)의 고정밀 시뮬레이션 방법을 개발하는 연구실이다. |
-| [연소 불안정 및 레이저진단 연구실 (Combustion Dynamics and Diagnostics Laboratory, CDDL)](wiki/kaist/cdd.md) | 김규태 교수 | 발전 및 항공 가스터빈 엔진에서 일어나는 연소 불안정 현상을 랩 스케일 연소 실험, 열-음향 모델링, 데이터 기반 기계학습 모델링으로 이해하고 예측하려는 항공우주공학과 연구실이다. |
-| [우주 구조 및 하드웨어 시스템 연구실 (Space Structures and H/W Systems Lab, SSHS Lab)](wiki/kaist/sshs.md) | 한재흥 교수 | 동역학과 재료역학, 구조 동역학 같은 역학 원리를 바탕으로 항공우주용 구조물과 하드웨어 시스템을 만드는 연구실로, 우주정거장용 전개형 구조물과 궤도상 서비스·제조 기술, 우주비행체의 열방호 구조, 새를 닮은 날갯짓 비행체를 연구한다. |
-| [우주 전기추진 및 이온빔 응용 연구실 (Space Electric Propulsion and Ion-beam Application Lab, SEPIA Lab)](wiki/kaist/ep-kaist.md) | 이동호 교수 | 전기로 플라즈마를 가속해 우주에서 추력을 얻는 전기 추진 장치와 그 하위 시스템을 개발하고, 저온 플라즈마와 이온빔이 물질과 만나는 현상을 연구하는 연구실이다. |
-| [우주비행 임무 및 제어 연구실 (Spaceflight Mission and Control Lab, SMCL)](wiki/kaist/smcl.md) | 이동헌 교수 | 우주선을 달과 다른 행성으로 보내는 궤적을 설계하고 최적화하는 일, 인공위성이 원하는 방향을 빠르고 안정적으로 가리키게 하는 자세 유도·제어, 두 우주선이 궤도에서 만나 결합하는 랑데부·도킹의 궤도 유도 알고리즘과 지상 시험장치를 연구하는 항공우주공학과 연구실이다. |
-| [우주선원형개발연구실 (Spacecraft Prototyping Laboratory, SPL)](wiki/kaist/spacecraft.md) | 윤효상 교수 | 레이저로 위성과 지상, 위성과 위성을 잇는 우주 광통신, 위성이 자기 방향을 재는 별 추적기와 태양 센서, 위성의 자세 결정·제어와 궤도 운용을 연구하는 항공우주공학과 연구실이다. |
-| [우주테스트 및 탑재체 센서 연구실 (STAR Lab, Space Testing And payload sensoR)](wiki/kaist/starlab.md) | 김현정 교수 | 우주 기반 플랫폼에 실린 센서로 새로운 과학 결과를 얻는 것을 목표로, 과학·우주 임무를 위한 센서를 직접 만들거나 새로운 상용 부품을 활용해 비용과 위험을 줄이는 연구실이다. |
-| [위성항법시스템 연구실 (Global Navigation Satellite Systems Laboratory, GNSS Lab)](wiki/kaist/gnss.md) | 이지윤 교수 | 고안전성 항법 시스템, 여러 항법 센서를 묶는 센서 융합 기술, GNSS를 이용한 위성 원격탐사를 연구하는 항공우주공학과 연구실이다. |
-| [정보 및 시스템 제어 연구실 (Laboratory for information and Control Systems, LiCS)](wiki/kaist/lics.md) | 최한림 교수 (항공우주공학과·안보과학기술대학원) | 여러 대의 무인기·위성 같은 항공우주 시스템이 정보를 추정하고 서로 일을 나누어 임무를 계획하도록 하는 추정·제어·의사결정 방법을 연구하는 연구실이다. |
-| [차세대 항공모빌리티 연구실 (Aerial Innovation Mobility Lab, AIM Lab)](wiki/kaist/cfd.md) | 이상봉 교수 | 대규모 병렬 계산으로 하는 난류 수치 모사(LES·DNS)와 물리 정보 인공지능을 결합해, 도심 항공 모빌리티와 풍력, 초음속 유동의 복잡한 흐름을 빠르고 정확하게 예측하는 연구실이다. |
-| [첨단 추진 및 에너지 연구실 (Advanced Propulsion & Energy Laboratory, APEL)](wiki/kaist/apel.md) | 심형섭 교수 | 항공우주·국방·에너지 분야의 핵심 기술인 추진과 연소 시스템을 연구하는 연구실이다. |
-| [측정 로봇 및 진단 AI 연구실 (Measurement Robotics & Diagnostic AI Lab, MAI Lab)](wiki/kaist/mailab.md) | 이정률 교수 | 레이저·로봇·안테나·인공지능 기술로 실제 쓰이는 구조물의 상태를 재고, 부수지 않고 결함을 찾아내며, 성능을 측정하는 항공우주공학과 연구실이다. |
-| [항공우주 로보틱스 및 메커니즘 연구실 (Aerospace Robotics and Mechanisms Laboratory, ARML)](wiki/kaist/arml.md) | 이대영 교수 | 종이접기에서 착안한 메커니즘, 소프트 로보틱스, 능동 소재를 바탕으로 항공우주용 로봇과 기계 시스템을 설계하는 연구실이다. |
-| [항공우주통신 및 응용지능 연구실 (Aerospace Communications and Applied Intelligence Lab, ACAI)](wiki/kaist/acai.md) | 최지환 교수 | 통신 기술과 기계학습·딥러닝을 항공우주공학에 적용하는 연구실로, 5G·6G 위성통신망의 구조와 알고리즘을 설계하고 위성·항공 영상 자료를 분석한다. |
 
 ### 물리학과 (17)
 
