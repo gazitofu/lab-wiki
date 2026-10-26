@@ -377,9 +377,9 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 |---|---|---|
 | [분리막·소재·머신 인텔리전스 연구실 (Membranes, Materials, Machine Intelligence Laboratory, MMML)](wiki/kaist/mmml.md) | 고동연 교수 | 원유를 증류 앞 단계에서 얇은 막으로 걸러 성분별로 미리 나누는 기술, 공기에서는 흡착 장치로, 바닷물에서는 전기화학 장치로 이산화탄소를 뽑아내는 기술처럼 에너지를 덜 쓰는 분리 기술을 만드는 연구실이다. |
 
-## 서울대 연구실 (30곳)
+## 서울대 연구실 (35곳)
 
-### 공과대학 전기·정보공학부 (30)
+### 공과대학 전기·정보공학부 (34)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -390,7 +390,9 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [고성능 집적마이크로시스템 연구실 (Jerald Yoo Group)](wiki/snu/jeraldyoo.md) | 유담 교수 | 의생명 응용을 위한 에너지 효율 높은 집적회로와 시스템을 만드는 연구실이다. |
 | [고성능 컴퓨터 시스템 연구실 (High Performance Computer System Lab, HPCS)](wiki/snu/hpcs.md) | 김장우 교수 | 차세대 컴퓨터 구조와 시스템을 설계하고 모델링하고 시제품으로 만들어 평가하는 연구실이다. |
 | [광·나노 전자소자 연구실 (Advanced Opto and Nano Electronics Laboratory, AONE)](wiki/snu/aone.md) | 곽정훈 교수 | 양자점과 유기 반도체처럼 새로운 반도체 소재로 빛을 내거나 전기를 만드는 소자를 연구하는 전기·정보공학부 연구실이다. |
+| [네트워크 컴퓨팅 및 Connected AI 연구실 (Networked Computing Lab., NXC)](wiki/snu/nxc.md) | 이경한 교수 | 휴대기기와 서버, 통신망이 계산과 데이터 전송을 함께 조율하도록 만드는 연구실이다. |
 | [레이저 연구실 (SNU Laser Laboratory)](wiki/snu/laser.md) | 정윤찬 교수 | 여러 레이저의 빛을 맞춰 결합하는 제어, 광섬유 안에서 빛이 서로 영향을 주는 원리, 인공 광학 구조로 빛을 다루는 방법을 연구한다. |
+| [머신 인텔리전스 연구실 (Machine Intelligence Lab, MILAB)](wiki/snu/milab.md) | 정교민 교수 (공과대학 전기·정보공학부, 대학원 협동과정 인공지능전공) | 사람의 말과 글을 이해하고 생성하는 인공지능을 중심으로, 언어 모델이 안전하게 행동하고 지식을 활용하도록 만드는 방법, 대화에서 필요한 정보를 찾는 방법, 규칙을 추론하는 방법, 영상과 음성을 함께 다루는 학습을 연구한다. |
 | [반도체 재료 및 소자연구실 (Semiconductor Materials and Devices Laboratory, SMDL)](wiki/snu/genie.md) | 이종호 교수 | 반도체 소자를 직접 만들고 재고 모델링하는 연구실로, 3차원 낸드 플래시 메모리, 플래시와 강유전체 소자로 만드는 뉴로모픽 하드웨어와 메모리 내 연산, CMOS 기술과 함께 만드는 FET형 가스 센서를 중심으로 연구한다. |
 | [반도체회로 및 시스템 설계 연구실 (Integrated Circuits & Systems Lab, ICSL)](wiki/snu/icsl.md) | 최재혁 교수 | 새로운 무선·유선 통신 표준을 위한 고속 혼성 신호·RF 집적회로를 설계하는 연구실이다. |
 | [생체광학 및 나노공학 연구실 (BiNEL, Biophotonics and Nano Engineering Lab.)](wiki/snu/binel.md) | 권성훈 교수 | 생명과학자와 의료진이 실제로 부딪히는 문제를 공학 기술로 푸는 연구실이다. |
@@ -402,7 +404,9 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [인지머신러닝 연구실 (Cognitive Machine Learning Lab, CML)](wiki/snu/cml.md) | 이정우 교수 | 강화학습과 사람의 선호로 배우는 학습, 언어 모델의 추론 검증과 어텐션, 편향과 암기를 줄이는 믿을 수 있는 AI 같은 기계 학습 연구와 함께, 양자 상태의 충실도 추정과 분산 양자 회로 같은 양자 정보 연구, 정보이론에 바탕을 둔 분산 컴퓨팅과 통신 연구를 하는 연구실이다. |
 | [전기 에너지 변환 연구실 (Electric Energy Conversion Lab, EECL)](wiki/snu/eecl.md) | 하정익 교수 | 전기 에너지를 쓰임에 맞는 형태로 바꾸는 전력전자 회로와 그 제어를 연구하는 연구실이다. |
 | [전기-의학 융합 연구실 (Electro-medical Fusion Engineering lab)](wiki/snu/efe.md) | 서종모 교수 | 전기공학과 의학, 생명공학을 잇는 융합 연구로 시각장애인의 삶의 질을 높이는 것을 목표로 하는 연구실이다. |
+| [전력변환시스템 연구실 (Power Conversion Systems Laboratory, PCSL)](wiki/snu/pcsl.md) | 최성휘 부교수 | 전력망과 전기차·선박·가전 사이에서 전기를 바꾸어 전달하는 회로와 제어 방법을 연구한다. |
 | [전력시스템 및 경제 연구실 (Electric Power Network Economics Laboratory, EPNEL)](wiki/snu/epnel.md) | 윤용태 교수 | 전력망과 전력시장이 안정적이고 경제적으로 돌아가도록 운영·제어·최적화 방법을 연구하는 연구실이다. |
+| [전력전자시스템연구실 (Power Electronics Systems Lab)](wiki/snu/pesl.md) | 신종원 부교수 | 전기를 필요한 형태로 바꾸는 회로와 제어 방법을 설계하고, 차량 전력 시스템과 전력 모듈의 잡음·신뢰성을 연구한다. |
 | [전파 및 무선 통신 연구실 (Advanced Radio Technology Laboratory, ART LAB)](wiki/snu/artl.md) | 이성욱 조교수 | 전파와 무선 통신의 신호 처리를 연구하는 연구실이다. |
 | [정보시스템연구실 (Information System Laboratory, ISLAB)](wiki/snu/isl.md) | 심병효 교수 | 기계 학습, 신호 처리, 차세대 이동통신 시스템을 연구하는 연구실이다. |
 | [제어 및 동역학 연구실 (Control and Dynamic Systems Lab, CDSL)](wiki/snu/cdsl.md) | 심형보 교수, 이진규 교수 | 심형보 교수와 이진규 교수가 함께 이끄는 수학적 제어 이론 연구실이다. |
@@ -413,6 +417,12 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [학습 및 의사결정 시스템 연구실 (Learning and Decision Systems Lab, LDS Lab)](wiki/snu/lds-lab.md) | 양인순 교수 | 자료로 환경을 배우고, 배운 내용에 오차가 있어도 행동을 결정할 수 있도록 기계학습·최적화·제어 이론을 함께 연구하는 연구실이다. |
 | [혼합신호IC 및 시스템 연구실 (Mixed-Signal IC and System Group, MICS)](wiki/snu/mics.md) | 김재하 교수 | 아날로그·디지털 회로를 함께 설계하고, 회로의 동작을 모델로 표현해 검증하며, 미리 만든 회로 블록을 조합하거나 프로그램으로 기능을 바꾸는 설계 방법을 연구하는 연구실이다. |
 | [휴먼인터페이스 연구실 (Human Interface Laboratory)](wiki/snu/hi.md) | 김남수 교수 | 사람의 말소리와 여러 소리를 다루는 음성·오디오 신호 처리 연구실로, 음성 인식·합성·향상과 화자 인식, 실감 음향·음향 장면 인식·음원 분리 같은 오디오 처리를 기계 학습으로 연구하고 대형 언어 모델 연구도 함께 한다. |
+
+### 첨단융합학부 차세대지능형반도체전공 (1)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [머신러닝 시스템 연구실 (Machine Learning Systems Lab)](wiki/snu/mlsys.md) | 서지원 부교수 (첨단융합학부 차세대지능형반도체전공, 공과대학 전기·정보공학부, 대학원 협동과정 인공지능전공) | 인공지능 모델을 학습시키고 실행하는 컴퓨터 시스템의 속도·자원 사용·운영 방식과 보안을 연구한다. |
 
 ## 범위와 기준
 
