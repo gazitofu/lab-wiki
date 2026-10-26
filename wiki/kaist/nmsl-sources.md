@@ -8,7 +8,7 @@
 |---|---|---|---|
 | 연구실 누리집 첫 화면 | <https://nmsl.kaist.ac.kr/> | 2026-10-23 | 연구실 이름·소개·소속 디비전, 2015년 개소·2020년 학부 이동·2026년 이름 변경·2017년 석좌교수 임명 소식, 소식 목록 28건, 연구실 전화 |
 | 메뉴 스크립트 | <https://nmsl.kaist.ac.kr/js/top_level_header.js> | 2026-10-23 | 누리집 메뉴 주소 확인(본문에 직접 쓰지 않음) |
-| Research 페이지 | <https://nmsl.kaist.ac.kr/research.html> | 2026-10-23 | 연구 관심사 네 갈래와 세부 주제, Projects 목록과 분류, 태그 근거, 연구실 주소 |
+| Research 페이지 | <https://nmsl.kaist.ac.kr/research.html> | 2026-10-23 | 연구 관심사 네 갈래와 세부 주제, Projects 목록과 분류, 태그 근거, 연구실 주소 · 「연합학습·분산 학습」은 기기별 자료로 함께 학습하는 연구, 「엣지 컴퓨팅·엣지 AI」는 모바일 기기 위 학습·추론 연구가 근거다 |
 | Members 페이지 | <https://nmsl.kaist.ac.kr/members.html> | 2026-10-23 | 구성원 13명의 이름·과정·연구 주제·이메일, 졸업생 80줄, Collaborators 51명, 교수 이메일 |
 | Publications 페이지 | <https://nmsl.kaist.ac.kr/publications.html> | 2026-10-23 | 최근 논문 목록 46편, 대표 논문 후보와 저자 순서 |
 | Awards 페이지 | <https://nmsl.kaist.ac.kr/awards.html> | 2026-10-23 | 수상 목록 24건, 주요 연구 주제의 수상 논문, 교수의 Technology Innovation Award |
@@ -24,7 +24,7 @@
 | 교수 개인 누리집 | <https://sites.google.com/site/wewantsj/> | 2026-10-23 | 교수 경력·학력·연구 관심사·특허 수·수상·학회 직책 |
 | ACL Anthology 논문 페이지(대표 논문 5) | <https://aclanthology.org/2024.emnlp-main.133/> | 2026-10-23 | 대표 논문 5 초록 |
 | Crossref 서지(대표 논문 8편과 목록 구성 판단용 논문 4편) | <https://api.crossref.org/> | 2026-10-23 | 대표 논문 서지·저자 순서, 대표 논문 8 초록, 목록 구성 판단 |
-| Semantic Scholar 서지(대표 논문) | <https://api.semanticscholar.org/> | 2026-10-23 | 대표 논문 2·3·6·7 초록 |
+| Semantic Scholar 서지(대표 논문) | <https://api.semanticscholar.org/> | 2026-10-23 | 대표 논문 2·3·6·7 초록 · 「데이터 중심 AI·데이터 효율 학습」은 대표 논문 3의 클라이언트 학습 샘플 선택 방법이 근거다 |
 
 연구실 누리집에서 본문을 얻은 고유 주소는 14곳이다(메뉴 스크립트 1곳, 프로젝트 페이지 3곳, 논문 PDF 2곳 포함). 학부·대학원 페이지는 6곳, 교수 개인 누리집은 1곳이다.
 

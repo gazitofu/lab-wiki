@@ -10,7 +10,7 @@
 | Team 페이지 | <https://sites.google.com/view/misokimgroup/team> | 2026-10-23 | 교수 직위, 구성원 14명, 졸업생과 이전 구성원 9명 |
 | Team/All 페이지 | <https://sites.google.com/view/misokimgroup/team/all> | 2026-10-23 | Team 페이지와 같은 카드의 두 번째 판(아래 표기 차이) |
 | P.I. 페이지 | <https://sites.google.com/view/misokimgroup/team/p-i> | 2026-10-23 | 교수 학력·경력·연구 관심사·학술 활동·수상, KAIST 부임 시기 |
-| Research 페이지 | <https://sites.google.com/view/misokimgroup/research> | 2026-10-23 | 연구 갈래와 주제, 응용, 태그 근거 |
+| Research 페이지 | <https://sites.google.com/view/misokimgroup/research> | 2026-10-23 | 연구 갈래와 주제, 응용, 태그 근거 · 「압전 소재·소자」는 압전 섬유·코일·실과 형태 적응형 무연·생체적합 압전 소재의 설계·제작이 근거다 |
 | Publications 페이지 | <https://sites.google.com/view/misokimgroup/publications> | 2026-10-23 | 최근 논문 목록 58편, 대표 논문 후보와 저자 순서·* 표시, 교수의 2010–2020년 논문 |
 | News 페이지 | <https://sites.google.com/view/misokimgroup/news> | 2026-10-23 | 소식 82건, 교수 수상 소식, 협력 행사 소식 |
 | Lab. Facilities 페이지 | <https://sites.google.com/view/misokimgroup/lab-facilities_1> | 2026-10-23 | 연구 장비 |

@@ -8,7 +8,7 @@
 |---|---|---|---|
 | 연구실 누리집 첫 화면(소개문, News & Notice, Contact) | <https://nica.kaist.ac.kr/> | 2026-10-23 | 한 줄 요약, 연구실 소개, 교수 수상 소식, 소식 22건, 주소, 지원 안내 |
 | People 페이지 | <https://nica.kaist.ac.kr/people> | 2026-10-23 | 교수 학력·경력·수상·소개, 구성원 14명, 졸업생과 이전 구성원 48명 |
-| Research 페이지 | <https://nica.kaist.ac.kr/research> | 2026-10-23 | 연구 세 묶음과 일곱 주제, 주제별 논문, 태그 근거 |
+| Research 페이지 | <https://nica.kaist.ac.kr/research> | 2026-10-23 | 연구 세 묶음과 일곱 주제, 주제별 논문, 태그 근거 · 「신경영상 분석·뇌 연결망」은 뇌 활동 자료의 정보 흐름·기능적 연결 분석, 「의료 AI」는 촬영 조건·장비 차이와 적은 라벨 자료를 고려한 진단 AI 연구가 근거다 |
 | Publication 페이지 | <https://nica.kaist.ac.kr/publication> | 2026-10-23 | 최근 논문 목록 27편, 대표 논문 후보와 저자 순서·공동 연구 표기, KAIST 부임 전 논문 |
 | KAIST 전기및전자공학부 교수 소개(윤영규) | <https://ee.kaist.ac.kr/professor/16230/> | 2026-10-23 | 직위, 디비전, 주요 연구분야, 주요 연구, 소속연구실, 위치, 교수 이메일 |
 | KAIST 반도체시스템공학과 교수진 | <https://sse.kaist.ac.kr/professor/> | 2026-10-23 | 연구분야(컴퓨터, 인공지능 및 소프트웨어), 연구실, 전화 |

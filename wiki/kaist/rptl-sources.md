@@ -54,4 +54,6 @@
 - Domestic 페이지는 Domestic journals 3편(1990, 1993, 1996)과 Domestic conferences 232줄이다. 국내 학술대회 줄에는 연도가 적혀 있지 않아 최근 논문 목록에 옮기지 않았다.
 - 누리집 메뉴는 Overview, Meet Our Team(Principal Investigator, Current Members, Alumni), Publications(International, Domestic), Lectures, Gallery이고, 특허·과제·소식 게시판은 없다. Lectures 과목 페이지와 Gallery 페이지는 읽지 않았다. 교수 수상은 모두 2013년 이전이라 수상 절을 따로 두지 않고 교수 절에 적었다.
 - 첫 화면의 「AI-Driven Reactor Monitoring」은 한 줄 소개("Intelligent diagnostics and predictive systems for reactor safety")뿐이고 대표 논문에는 이 주제가 없다. 그래서 본문에서는 첫 화면 소개로만 다뤘다.
-- 태그는 v1.5 어휘의 「원자로·원자력 시스템」 하나만 맞아, 원자로 물리·중성자 수송 계산, 특수 목적 원자로·원자력 추진, 핵변환·핵연료 주기를 어휘 요청으로 남겼다.
+- 태그 어휘 1.6판(2026-10-26)의 「원자로·원자력 시스템」은 Overview 페이지의 차세대·특수 목적 원자로 설계와 첫 화면의 원자로 해석 소개, 대표 논문 1이 근거다.
+- 핵연료 주기·방사성 폐기물: Overview 페이지의 사용후핵연료 핵변환 원자로와 관련 핵연료 주기 연구가 근거다.
+- 통계적 추론·검정: 대표 논문 4는 몬테카를로 과도 해석의 통계적 불확도를 평가하는 새 표본 추출·귀무가설 검정 기반 추정 방법을 제안한다.

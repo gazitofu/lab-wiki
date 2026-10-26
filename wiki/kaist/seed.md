@@ -4,7 +4,7 @@
 
 - 분야: 저전력 집적회로, 전력 관리 회로(LDO·DC-DC 변환기), 아날로그·혼성 신호 회로(데이터 변환기·센서), 회로 설계 자동화(CAD·EDA), 디지털 기본 회로, AI·엣지 가속기
 - 대분야: 전기전자·반도체·광학, 컴퓨팅·AI
-- 태그: 집적회로 설계[^prof][^eeprof][^p1], 메모리 내 연산[^research][^p5], AI 반도체·가속기[^research][^prof][^p5], 컴퓨터 구조·운영체제[^research][^p7][^p8], 과학·공학 AI[^research][^prof]
+- 태그: 집적회로 설계[^prof][^eeprof][^p1], 메모리 내 연산[^research][^p5], AI 반도체·가속기[^research][^prof][^p5], 컴퓨터 구조·운영체제[^research][^p7][^p8], 과학·공학 AI[^research][^prof], 전력 관리 집적회로[^p1], 데이터 변환기(ADC·DAC)[^p3], 회로·설계 자동화(EDA)[^research]
 - 홈페이지: <https://seed.kaist.ac.kr/>
 - 근거와 출처: [지능형전력효율설계연구실 근거 페이지](seed-sources.md)
 

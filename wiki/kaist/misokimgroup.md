@@ -4,7 +4,7 @@
 
 - 분야: 음향·기계적 메타물질과 에너지 하베스팅, 압전 소재(무연 세라믹·고분자 섬유)와 자가발전 센서, 기계학습 기반 구조 설계와 3D 프린팅, 무연 적층 세라믹 커패시터(MLCC) 유전체 소재
 - 대분야: 소재, 기계·로봇·제조
-- 태그: 메타물질·메타광학[^research][^p1][^p2], 에너지 하베스팅[^home][^research][^p1], 진동·소음 공학[^research], 3D 프린팅[^research][^p3], 과학·공학 AI[^research][^p3], 유연·신축 전자[^p4][^p6], 세라믹 소재[^p7], 강유전체[^p7]
+- 태그: 메타물질·메타광학[^research][^p1][^p2], 에너지 하베스팅[^home][^research][^p1], 진동·소음 공학[^research], 3D 프린팅[^research][^p3], 과학·공학 AI[^research][^p3], 유연·신축 전자[^p4][^p6], 세라믹 소재[^p7], 압전 소재·소자[^research]
 - 홈페이지: <https://sites.google.com/view/misokimgroup>
 - 근거와 출처: [스마트 에너지 소재 및 응용 연구실 근거 페이지](misokimgroup-sources.md)
 

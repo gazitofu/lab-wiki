@@ -4,7 +4,7 @@
 
 - 분야: 극저온 냉동기(줄-톰슨·스털링·흡착식·단열 탈자·희석 냉동기)와 1 K 이하 냉각, 액체 수소 저장·이송과 무배기 충진, 액화 공기 에너지 저장의 냉열 저장, 초전도 자석·케이블·항공기 전동기와 가속기 크라이오모듈의 냉각, 극저온 열전달
 - 대분야: 기계·로봇·제조, 에너지·환경·지구
-- 태그: 열전달·열관리[^meprof][^meres3][^p4], 수소 저장·운송[^pastprojects][^patents], 열에너지 저장[^topics]
+- 태그: 열전달·열관리[^meprof][^meres3][^p4], 수소 저장·운송[^pastprojects][^patents], 열에너지 저장[^topics], 초전도 응용 기기[^projects]
 - 홈페이지: <https://sites.google.com/view/cryokaist>
 - 근거와 출처: [저온공학 연구실 근거 페이지](cryokaist-sources.md)
 

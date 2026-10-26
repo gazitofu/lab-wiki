@@ -4,7 +4,7 @@
 
 - 분야: 초고속 방사선 검출기, 차세대 의료 영상 시스템(양전자 방출 단층촬영·광자 계수 CT), 인공지능 기반 의료 영상 처리, 반도체 광검출기와 고속 전자회로
 - 대분야: 전기전자·반도체·광학, 물리·양자
-- 태그: 광검출기[^research], 집적회로 설계[^research], X선 영상·회절[^research], 컴퓨터 비전[^research], 과학·공학 AI[^research]
+- 태그: 광검출기[^research], 집적회로 설계[^research], X선 영상·회절[^research], 컴퓨터 비전[^research], 과학·공학 AI[^research], 방사선 검출·계측[^research], 의료 영상 기기·재구성[^research], 의료 AI[^research]
 - 홈페이지: <https://merp.kaist.ac.kr/>
 - 근거와 출처: [MERP Lab 근거 페이지](merp-sources.md)
 

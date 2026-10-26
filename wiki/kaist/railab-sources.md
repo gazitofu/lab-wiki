@@ -7,12 +7,12 @@
 | 자료 | 주소 | 열람일 | 본문에서 쓴 곳 |
 |---|---|---|---|
 | 연구실 누리집 첫 화면 | <https://railab.kaist.ac.kr/> | 2026-10-23 | 누리집 제목과 연구실 이름 표기, 메뉴 구성 |
-| Research 페이지 | <https://railab.kaist.ac.kr/sections/research.html> | 2026-10-23 | 무엇을 연구하나, 주요 연구 주제 1–5, 응용 분야, 태그 근거 |
+| Research 페이지 | <https://railab.kaist.ac.kr/sections/research.html> | 2026-10-23 | 무엇을 연구하나, 주요 연구 주제 1–5, 응용 분야, 태그 근거 · 「상태 추정·필터링(데이터 동화)」은 제어 정책·상태 추정기 공동 훈련, 「전력전자 변환기·전력 변환 시스템」은 회생 제동·돌입 전류를 다루는 전원·모터 드라이버 회로 설계가 근거다 |
 | Robots 페이지 | <https://railab.kaist.ac.kr/sections/robots.html> | 2026-10-23 | 로봇 다섯 대(RAIBO 2, RAIWAY, RAIBO, Mini Cheetah, RAICART) 소개, 주요 연구 주제 1·2·4, 응용 분야, 태그 근거 |
 | Members 페이지 | <https://railab.kaist.ac.kr/sections/members.html> | 2026-10-23 | 교수 학력, 구성원 23명(박사과정 13, 석사과정 10), 졸업생 5명 |
 | News 페이지 | <https://railab.kaist.ac.kr/sections/news.html> | 2026-10-23 | 마라톤 완주와 Innovate Korea 시연, 웨비나, 소식 5건 |
 | Publications 페이지 | <https://railab.kaist.ac.kr/sections/publication.html> | 2026-10-23 | 최근 논문 목록 31편, 대표 논문 후보와 저자 순서, 교수 절의 2021년 이전 논문 |
-| Projects 페이지 | <https://railab.kaist.ac.kr/sections/projects.html> | 2026-10-23 | 연구 과제 6건, 무엇을 연구하나, 주요 연구 주제 1–3·5 |
+| Projects 페이지 | <https://railab.kaist.ac.kr/sections/projects.html> | 2026-10-23 | 연구 과제 6건, 무엇을 연구하나, 주요 연구 주제 1–3·5 · 「로봇 조작·파지」는 두 팔로 자율 조작하는 휴머노이드 개발이 근거다 |
 | Software 페이지 | <https://railab.kaist.ac.kr/sections/software.html> | 2026-10-23 | 주요 연구 주제 5의 RaiSim 소개 |
 | Education 페이지 | <https://railab.kaist.ac.kr/sections/education.html> | 2026-10-23 | 교수 절의 강의 두 개 |
 | Open position 페이지 | <https://railab.kaist.ac.kr/sections/openpositions.html> | 2026-10-23 | 교수실 주소, 대학원 지원 안내 |

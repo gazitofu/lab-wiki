@@ -4,7 +4,7 @@
 
 - 분야: 뇌 연결망의 구조와 동역학(커넥톰, 동적 기능 연결성, 뇌 상태 동역학), 노화에 따른 인지 회복탄력성과 취약성, 계산 모델링과 다중 모달 뇌 영상 분석, 인공지능 기반 다층 예측 모델
 - 대분야: 기초생명·생물물리, 컴퓨팅·AI
-- 태그: 계산신경과학[^research][^bcslabko], 인지과학·의사결정[^research][^bcslabko], 과학·공학 AI[^research]
+- 태그: 계산신경과학[^research][^bcslabko], 인지과학·의사결정[^research][^bcslabko], 과학·공학 AI[^research], 신경영상 분석·뇌 연결망[^interview]
 - 홈페이지: <https://cnnl.kaist.ac.kr/>
 - 근거와 출처: [CNNL 근거 페이지](cnnl-sources.md)
 

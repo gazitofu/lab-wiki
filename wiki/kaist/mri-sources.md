@@ -8,7 +8,7 @@
 |---|---|---|---|
 | 연구실 누리집 첫 화면 원본과 화면 스크립트 | <https://mri.kaist.ac.kr/>, <https://mri.kaist.ac.kr/static/js/main.ef16f63a.js> | 2026-10-23 | 메뉴 구성(PEOPLE, PUBLICATIONS, RESEARCH, FACILITY, ALBUM, CONTACT), 각 화면이 글을 불러오는 같은 누리집의 자료 주소, PUBLICATIONS 화면 머리의 표시 설명, 첫 화면 꼬리말 |
 | 첫 화면의 글(연구 소개, 새 대학원생, Recent Publications, Lab News) | <https://mri.kaist.ac.kr:3100/quill_data?homeMain>, <https://mri.kaist.ac.kr:3100/quill_data?people>, <https://mri.kaist.ac.kr:3100/quill_data?recentPublications>, <https://mri.kaist.ac.kr:3100/quill_data?labNews> | 2026-10-23 | 수상 7건, 소식 2건, 교수 절의 수상과 강연 |
-| RESEARCH 화면의 글 | <https://mri.kaist.ac.kr:3100/quill_data?research> | 2026-10-23 | 한 줄 요약, 무엇을 연구하나, 주요 연구 주제 1–5, 응용 분야, 태그 근거 |
+| RESEARCH 화면의 글 | <https://mri.kaist.ac.kr:3100/quill_data?research> | 2026-10-23 | 한 줄 요약, 무엇을 연구하나, 주요 연구 주제 1–5, 응용 분야, 태그 근거 · 「의료 AI」는 분할·진단·예후·치료 계획용 딥러닝 알고리즘 개발, 「의료 영상 기기·재구성」은 신경유체 기능을 정량 측정하는 비침습 MRI 기법 개발이 근거다 |
 | PEOPLE 화면의 글(교수, 학생 구분, 학생 카드) | <https://mri.kaist.ac.kr:3100/prof_info>, <https://mri.kaist.ac.kr:3100/student_type>, <https://mri.kaist.ac.kr:3100/students> | 2026-10-23 | 교수 직위·경력·학력·연락처, 구성원 14명, 졸업생과 이전 구성원 20명 |
 | PUBLICATIONS 화면의 글(다섯 목록) | <https://mri.kaist.ac.kr:3100/quill_data?internationalPapers>, <https://mri.kaist.ac.kr:3100/quill_data?internationalBook>, <https://mri.kaist.ac.kr:3100/quill_data?internationalAbstracts>, <https://mri.kaist.ac.kr:3100/quill_data?domesticPapers>, <https://mri.kaist.ac.kr:3100/quill_data?domesticAbstracts> | 2026-10-23 | 최근 논문 목록 25편, 목록 범위, 주요 연구 주제의 목록 논문, 대표 논문 후보와 저자 표시 |
 | FACILITY 화면의 글 | <https://mri.kaist.ac.kr:3100/quill_data?facility> | 2026-10-23 | 무엇을 연구하나의 장비 |

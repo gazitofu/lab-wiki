@@ -7,7 +7,7 @@
 | 자료 | 주소 | 열람일 | 본문에서 쓴 곳 |
 |---|---|---|---|
 | 연구실 누리집 첫 화면 | <https://merp.kaist.ac.kr/> | 2026-10-23 | 연구실 이름, 소개문, 무엇을 연구하나, 응용 분야 |
-| Research 페이지 | <https://merp.kaist.ac.kr/research> | 2026-10-23 | 연구 네 갈래, 주요 연구 주제 1–4, 태그 근거 |
+| Research 페이지 | <https://merp.kaist.ac.kr/research> | 2026-10-23 | 연구 네 갈래, 주요 연구 주제 1–4, 태그 근거 · 「방사선 검출·계측」은 섬광체·광센서의 빛 전달과 시간 정밀도 연구, 「의료 영상 기기·재구성」은 뇌 PET·직접 양전자 방출 영상·광자 계수 CT 개발, 「의료 AI」는 저선량 영상 화질 개선·멀티모달 AI 플랫폼 연구가 근거다 |
 | Professor 페이지 | <https://merp.kaist.ac.kr/people/professor> | 2026-10-23 | 교수의 직위·경력·학력·수상, 전화 |
 | Members 페이지와 그 페이지가 불러오는 구성원 자료 | <https://merp.kaist.ac.kr/people/members> | 2026-10-23 | 구성원 7명 |
 | Journals 페이지와 그 페이지가 불러오는 논문 자료 | <https://merp.kaist.ac.kr/publications/journals> | 2026-10-23 | 최근 논문 목록 12편, 교수 전문 분야, 대표 논문 후보 |

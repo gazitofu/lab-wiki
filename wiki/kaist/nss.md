@@ -4,7 +4,7 @@
 
 - 분야: 네트워크·시스템 보안(소프트웨어 정의 네트워킹 보안, 네트워크 위협 분석과 방어, 하드웨어 부채널, 블록체인 공격과 남용 탐지), 인공지능 시스템의 보안과 인공지능을 쓴 보안(대형 언어 모델의 안전, 백도어 공격과 방어, 다크웹 언어 모델), 빠르고 안전한 클라우드·네트워크 시스템(스마트NIC 가속, 기밀 서버리스, 컨테이너 네트워크 보안)
 - 대분야: 컴퓨팅·AI
-- 태그: 네트워크 보안·프라이버시[^gsislab][^research][^p5], 컴퓨터 네트워크[^research][^p6], 대형 언어 모델[^faculty][^research][^p1], 퍼징[^research][^p4], 하드웨어 보안[^home][^p7][^p8], 블록체인[^home][^research]
+- 태그: 네트워크 보안·프라이버시[^gsislab][^research][^p5], 컴퓨터 네트워크[^research][^p6], 대형 언어 모델[^faculty][^research][^p1], 퍼징[^research][^p4], 하드웨어 보안[^home][^p7][^p8], 블록체인[^home][^research], AI·기계학습 보안·프라이버시[^research]
 - 홈페이지: <https://nss.kaist.ac.kr/>
 - 근거와 출처: [NSS Lab 근거 페이지](nss-sources.md)
 

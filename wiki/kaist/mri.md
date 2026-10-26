@@ -4,7 +4,7 @@
 
 - 분야: 자기공명영상(MRI)의 영상 획득·처리·분석 기법 개발, 신경유체 MRI로 뇌 노폐물이 빠져나가는 경로와 기전 규명, 생리·대사·기능 MRI, MRI 촬영 가속과 영상 분석·합성·진단을 위한 딥러닝
 - 대분야: 컴퓨팅·AI, 전기전자·반도체·광학
-- 태그: 과학·공학 AI[^research][^p6], 컴퓨터 비전[^research][^p7], 생성 인공지능[^research][^p7]
+- 태그: 과학·공학 AI[^research][^p6], 컴퓨터 비전[^research][^p7], 생성 인공지능[^research][^p7], 의료 AI[^research], 의료 영상 기기·재구성[^research]
 - 홈페이지: <https://mri.kaist.ac.kr/>
 - 근거와 출처: [자기공명영상 연구실 근거 페이지](mri-sources.md)
 

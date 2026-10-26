@@ -57,6 +57,9 @@ International Journal 페이지 첫 번호 구획 131–170번 가운데 연구 
 ## 태그와 확인하지 못한 점
 
 - 태그 「3D 프린팅」은 3D Printing Composites 페이지와 대표 논문 5, 「진동·소음 공학」은 Shock & Vibration 페이지, 「과학·공학 AI」는 Overall Introduction 페이지의 KAIST Structural Doctor 서술과 대표 논문 8을 근거로 했다. Shock & Vibration 페이지에는 날짜가 없고, 2021–2026년 논문 목록에는 파이로 충격을 다룬 줄이 없다.
-- 레이저 초음파 비파괴 검사, 구조 건전성 모니터링, 전파 흡수 구조·스텔스 성능 평가, 우주 환경 시험은 연구실의 중심 주제지만 어휘에 맞는 태그가 없어 붙이지 않았다.
+- 태그 「비파괴 검사·구조 건전성 모니터링」은 Overall Introduction의 항공기 구조 손상 감시 시스템 서술을 근거로 했다.
+- 태그 「우주 환경 시험·우주 소재 내구성」은 Space Environment의 우주 환경 노출에 따른 복합재 노화·가속 모델 연구 서술을 근거로 했다.
+- 태그 「복합재료」는 3D Printing Composites의 연속섬유 복합재 구조 설계·제작 서술을 근거로 했다.
+- 전파 흡수 구조·스텔스 성능 평가는 연구실의 중심 주제지만 어휘에 맞는 태그가 없어 붙이지 않았다.
 - Research 메뉴의 연구 페이지들과 Overall Introduction에는 날짜가 없다. 학과 연구실 소개는 2021-08-16에 게시됐다.
 - 누리집 Overall Introduction의 Smart Hangar 항목과 Smart Hangar 페이지는 스마트 격납고를 2008년에 고안했다고 적는다. 본문에는 연도와 함께 적힌 평가 문구를 옮기지 않았다.

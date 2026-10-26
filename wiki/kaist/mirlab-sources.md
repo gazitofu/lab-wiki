@@ -7,11 +7,11 @@
 | 자료 | 주소 | 열람일 | 본문에서 쓴 곳 |
 |---|---|---|---|
 | 연구실 누리집 첫 화면 | <https://www.mirlab.kaist.ac.kr/> | 2026-10-23 | 연구실 이름, 연구 소개와 진행 과제, Research Areas, 위치·전화, 태그 근거(X선 영상·회절) |
-| Sparse-sampling Approach to Low-dose CT 페이지 | <https://www.mirlab.kaist.ac.kr/%EB%B3%B5%EC%A0%9C-sparse-sampling> | 2026-10-23 | 주요 연구 주제 1 |
+| Sparse-sampling Approach to Low-dose CT 페이지 | <https://www.mirlab.kaist.ac.kr/%EB%B3%B5%EC%A0%9C-sparse-sampling> | 2026-10-23 | 주요 연구 주제 1 · 「의료 영상 기기·재구성」은 희소 샘플링 기법의 임상 CT·C-arm CT 구현 연구가 근거다 |
 | Methods for Physical Factor Correction 페이지 | <https://www.mirlab.kaist.ac.kr/%EB%B3%B5%EC%A0%9C-physical-factor-correction> | 2026-10-23 | 주요 연구 주제 2 |
 | Novel Imaging Systems 페이지 | <https://www.mirlab.kaist.ac.kr/%EB%B3%B5%EC%A0%9C-novel-imaging-system> | 2026-10-23 | 주요 연구 주제 3, 태그 근거(X선 영상·회절) |
 | Physics of Image-guided Radiation Therapy 페이지 | <https://www.mirlab.kaist.ac.kr/%EB%B3%B5%EC%A0%9C-image-guided-radiation-therapy> | 2026-10-23 | 주요 연구 주제 4 |
-| Nondestructive Testing 페이지 | <https://www.mirlab.kaist.ac.kr/%EB%B3%B5%EC%A0%9C-nondestructive-testing> | 2026-10-23 | 주요 연구 주제 4 |
+| Nondestructive Testing 페이지 | <https://www.mirlab.kaist.ac.kr/%EB%B3%B5%EC%A0%9C-nondestructive-testing> | 2026-10-23 | 주요 연구 주제 4 · 「비파괴 검사·구조 건전성 모니터링」은 의료 영상의 검출 알고리즘을 산업 결함 검사로 옮기는 개발 서술이 근거다 |
 | CT Metrology-based Manufacturing Applications 페이지 | <https://www.mirlab.kaist.ac.kr/%EB%B3%B5%EC%A0%9C-ct-metrology-based-applica> | 2026-10-23 | 주요 연구 주제 3, 응용 분야 |
 | Deep Learning based MIR Research 페이지 | <https://www.mirlab.kaist.ac.kr/%EB%B3%B5%EC%A0%9C-deep-learning-based-mir-research> | 2026-10-23 | 주요 연구 주제 1, 태그 근거(과학·공학 AI) |
 | Professor 페이지 | <https://www.mirlab.kaist.ac.kr/%EB%B3%B5%EC%A0%9C-professor> | 2026-10-23 | 교수 직위·소속·학력·경력·학술 활동·수상, 전화·팩스 |

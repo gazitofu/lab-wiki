@@ -4,7 +4,7 @@
 
 - 분야: 정보 이론, 무선 통신, 보안 통신, 기계학습
 - 대분야: 전기전자·반도체·광학, 컴퓨팅·AI
-- 태그: 무선·이동통신[^research][^p1][^p3], 네트워크 보안·프라이버시[^research][^p4], 통계적 추론·검정[^research][^p6], 생성 인공지능[^research][^p8], 양자 정보·얽힘[^p6]
+- 태그: 무선·이동통신[^research][^p1][^p3], 네트워크 보안·프라이버시[^research][^p4], 통계적 추론·검정[^research][^p6], 생성 인공지능[^research][^p8], 양자 정보·얽힘[^p6], 엣지 컴퓨팅·엣지 AI[^research], 연합학습·분산 학습[^p7], 드론·무인 항공기[^p3]
 - 홈페이지: <https://sites.google.com/view/kaist-infolab>
 - 근거와 출처: [정보 및 통신 연구실 근거 페이지](infolab-sources.md)
 

@@ -4,7 +4,7 @@
 
 - 분야: 나노 약물전달시스템, 약제학, 포토테라노스틱스, 유기 나노 운반체, 질병 영상·광치료용 유기 형광체, 유전자 편집 도구 전달, 경구·국소·비경구 제형
 - 대분야: 소재, 화학공정·바이오공학
-- 태그: 생체재료·조직 공학[^research][^interview]
+- 태그: 생체재료·조직 공학[^research][^interview], 약물·유전자 전달체[^research]
 - 홈페이지: <https://sites.google.com/view/baeklab/>
 - 근거와 출처: [정밀 나노의약공학 연구실 근거 페이지](baeklab-sources.md)
 

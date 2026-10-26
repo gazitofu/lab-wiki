@@ -9,7 +9,7 @@
 | 연구실 누리집 첫 화면 | <https://mii.kaist.ac.kr/> | 2026-10-23 | 연구실 소개 문구, APPLICATIONS·TOOLS, 응용 분야, 태그 근거(생체재료·조직 공학) |
 | AI Materials Informatics 페이지 | <https://mii.kaist.ac.kr/sub2_1.php> | 2026-10-23 | 주요 연구 주제 1, 응용 분야, 교수 전문 분야, 태그 근거(과학·공학 AI) |
 | Ionics 페이지 | <https://mii.kaist.ac.kr/sub2_2.php> | 2026-10-23 | 주요 연구 주제 2, 교수 전문 분야, 태그 근거(이차전지 소재) |
-| Polarization 페이지 | <https://mii.kaist.ac.kr/sub2_3.php> | 2026-10-23 | 주요 연구 주제 3, 응용 분야, 교수 전문 분야, 태그 근거(강유전체, 생체재료·조직 공학) |
+| Polarization 페이지 | <https://mii.kaist.ac.kr/sub2_3.php> | 2026-10-23 | 주요 연구 주제 3, 응용 분야, 교수 전문 분야, 태그 근거(강유전체, 생체재료·조직 공학, 압전 소재·소자: 혼성 구조·제작 기법으로 압전 에너지 성능 향상) |
 | Research Projects 페이지와 과제 상세 5쪽 | <https://mii.kaist.ac.kr/bbs/board.php?bo_table=sub2_4> | 2026-10-23 | 연구 과제 5건, 주요 연구 주제 2의 과제 |
 | Professor 페이지 | <https://mii.kaist.ac.kr/bbs/board.php?bo_table=sub1_1> | 2026-10-23 | 교수 직위·학력·경력·수상·활동, 수상 4건, 교수 이메일 |
 | Current members 페이지와 구성원 상세 25쪽 | <https://mii.kaist.ac.kr/bbs/board.php?bo_table=sub1_2> | 2026-10-23 | 구성원 25명의 과정·시작·연구 주제·이메일 |

@@ -4,7 +4,7 @@
 
 - 분야: 연결·자율주행차(CAV)의 에너지 효율 주행과 제어, 차량 동역학과 동력계 제어, 사람–차량 상호작용과 운전자 행동, 인프라 지능과 교통망 제어, 실제·가상 요소를 함께 쓰는 검증 시험
 - 대분야: 기계·로봇·제조, 건설·도시·인프라
-- 태그: 자율주행[^home][^overview][^p1], 제어 이론·제어 공학[^home][^overview], 교통·도시 계획[^overview][^merl], 인간–컴퓨터 상호작용[^overview]
+- 태그: 자율주행[^home][^overview][^p1], 제어 이론·제어 공학[^home][^overview], 교통·도시 계획[^overview][^merl], 인간–컴퓨터 상호작용[^overview], 차량 동역학·섀시 제어[^overview]
 - 홈페이지: <https://cuvic.kaist.ac.kr>
 - 근거와 출처: [CUVIC 근거 페이지](cuvic-sources.md)
 

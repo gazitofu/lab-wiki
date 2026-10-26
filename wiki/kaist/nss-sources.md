@@ -7,7 +7,7 @@
 | 자료 | 주소 | 열람일 | 본문에서 쓴 곳 |
 |---|---|---|---|
 | 연구실 누리집 첫 화면 | <https://nss.kaist.ac.kr/> | 2026-10-25 | 연구실 이름, 한 줄 요약, Research Areas 세 갈래 요약, News 칸(소식, 채택 표시), 주소·이메일, 태그 줄 |
-| 누리집 Research 페이지 | <https://nss.kaist.ac.kr/research/> | 2026-10-25 | 세 연구 갈래의 소개와 하위 항목, 주요 연구 주제, 응용 분야, 태그 줄 |
+| 누리집 Research 페이지 | <https://nss.kaist.ac.kr/research/> | 2026-10-25 | 세 연구 갈래의 소개와 하위 항목, 주요 연구 주제, 응용 분야, 태그 줄 · 「AI·기계학습 보안·프라이버시」는 AI 시스템의 적대적 실패 분석과 탈옥·백도어 공격 방어 연구가 근거다 |
 | 누리집 Faculty 페이지 | <https://nss.kaist.ac.kr/people/faculty/> | 2026-10-25 | 교수 직함, 연구 소개, 경력, 학력, 태그 줄 |
 | 누리집 People 페이지와 하위 페이지 3개 | <https://nss.kaist.ac.kr/people/> , <https://nss.kaist.ac.kr/people/postdoc/> , <https://nss.kaist.ac.kr/people/phd/> , <https://nss.kaist.ac.kr/people/masters/> | 2026-10-25 | 구성원 13명의 이름과 과정 |
 | 누리집 Alumni 페이지 | <https://nss.kaist.ac.kr/people/alumni/> | 2026-10-25 | 졸업생 34명과 진로, 응용 분야의 졸업생 진로 |

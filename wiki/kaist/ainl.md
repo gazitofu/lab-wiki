@@ -4,7 +4,7 @@
 
 - 분야: AI 네이티브 네트워킹, AI-RAN(인공지능을 넣은 무선 접속망), 자율 네트워크 운영, 엣지·클라우드 협업 인공지능 서비스, 차세대 통신 인프라와 테스트베드
 - 대분야: 전기전자·반도체·광학, 컴퓨팅·AI
-- 태그: 무선·이동통신[^research][^home], 컴퓨터 네트워크[^research], AI 시스템·인프라[^research], 대형 언어 모델[^notice]
+- 태그: 무선·이동통신[^research][^home], 컴퓨터 네트워크[^research], AI 시스템·인프라[^research], 대형 언어 모델[^notice], 엣지 컴퓨팅·엣지 AI[^research], 다중 에이전트 시스템·분산 의사결정[^notice]
 - 홈페이지: <https://ainl.kaist.ac.kr> (교수 개인 누리집 <https://sites.google.com/view/sunghyun-chois-home>)
 - 근거와 출처: [AINL 근거 페이지](ainl-sources.md)
 

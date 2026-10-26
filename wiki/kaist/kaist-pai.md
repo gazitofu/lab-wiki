@@ -4,7 +4,7 @@
 
 - 분야: 계산 인지 모델링, 심리학과 인공지능의 접점, 역강화학습, 시각 주의와 억제 통제, 베이지안 적응형 실험 설계, 의사결정과 중독의 계산 지표
 - 대분야: 인문·사회·경제, 컴퓨팅·AI
-- 태그: 인지과학·의사결정[^home], 강화학습[^p1]
+- 태그: 인지과학·의사결정[^home], 강화학습[^p1], 설명 가능한 AI(XAI)[^home]
 - 홈페이지: <https://sites.google.com/view/kaist-pai/home>
 - 근거와 출처: [Psychological AI Lab 근거 페이지](kaist-pai-sources.md)
 

@@ -4,7 +4,7 @@
 
 - 분야: VLSI 신호처리, 디지털 시스템 온 칩 설계, 응용 특화 프로세서, 알고리즘–하드웨어 공동 설계
 - 대분야: 전기전자·반도체·광학, 컴퓨팅·AI
-- 태그: 집적회로 설계[^home][^eeprof], AI 반도체·가속기[^home][^research][^p1], 오류 정정 부호[^research][^p4][^p5], 무선·이동통신[^home][^research][^p3], 메모리 내 연산[^project][^p6], 대형 언어 모델[^p2], 컴퓨터 구조·운영체제[^home][^research][^project]
+- 태그: 집적회로 설계[^home][^eeprof], AI 반도체·가속기[^home][^research][^p1], 오류 정정 부호[^research][^p4][^p5], 무선·이동통신[^home][^research][^p3], 메모리 내 연산[^project][^p6], 대형 언어 모델[^p2], 컴퓨터 구조·운영체제[^home][^research][^project], 모델 경량화·양자화[^p2]
 - 홈페이지: <https://sites.google.com/view/epiclab>
 - 근거와 출처: [EPIC Lab 근거 페이지](epiclab-sources.md)
 

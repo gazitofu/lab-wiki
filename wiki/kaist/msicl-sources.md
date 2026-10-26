@@ -7,7 +7,7 @@
 | 자료 | 주소 | 열람일 | 본문에서 쓴 곳 |
 |---|---|---|---|
 | 연구실 누리집 첫 화면 | <https://msicl.kaist.ac.kr/> (같은 내용이 <https://sites.google.com/view/msicl/home> 에도 있다) | 2026-10-23 | 소식 56건, 주소·전화, 연구실 시작 연도, ESSERC 2026 채택 소식 |
-| Research Area 페이지 | <https://sites.google.com/view/msicl/research_1/research-area> | 2026-10-23 | 연구 분야 소개, 판독 회로의 응용, 태그 근거 |
+| Research Area 페이지 | <https://sites.google.com/view/msicl/research_1/research-area> | 2026-10-23 | 연구 분야 소개, 판독 회로의 응용, 태그 근거 · 「데이터 변환기(ADC·DAC)」는 아날로그·디지털 신호 변환 회로 연구, 「센서 인터페이스·판독 집적회로」는 바이오센서·CMOS 이미지 센서용 판독 회로 연구가 근거다 |
 | Achievements 페이지 | <https://sites.google.com/view/msicl/research_1/achievements> | 2026-10-23 | 주요 연구 성과 갈래 |
 | Professor 페이지 | <https://sites.google.com/view/msicl/members/professor> | 2026-10-23 | 직함, 학력, 경력, 연구 분야, 수상, 학계 활동 |
 | Members 페이지 | <https://sites.google.com/view/msicl/members> | 2026-10-23 | 2026년 가을 학기 현황(박사과정 9, 석사과정 4, 졸업생 59) |

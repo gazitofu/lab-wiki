@@ -4,7 +4,7 @@
 
 - 분야: VLSI 설계, 컴퓨터 구조, FPGA, 하드웨어-소프트웨어 코디자인, AI 가속기, 메모리 내 연산(PIM), 데이터센터용 다중 FPGA 시스템
 - 대분야: 전기전자·반도체·광학, 컴퓨팅·AI
-- 태그: AI 반도체·가속기[^home][^research][^p2], 메모리 내 연산[^about][^p3][^p4], 컴퓨터 구조·운영체제[^home][^eelist][^p7], 집적회로 설계[^home][^eelist][^p5], 대형 언어 모델[^p1][^p2], AI 시스템·인프라[^research][^p1]
+- 태그: AI 반도체·가속기[^home][^research][^p2], 메모리 내 연산[^about][^p3][^p4], 컴퓨터 구조·운영체제[^home][^eelist][^p7], 집적회로 설계[^home][^eelist][^p5], 대형 언어 모델[^p1][^p2], AI 시스템·인프라[^research][^p1], FPGA·재구성형 하드웨어[^research], 엣지 컴퓨팅·엣지 AI[^p5]
 - 홈페이지: <https://castlab.kaist.ac.kr/>
 - 근거와 출처: [CAST Lab 근거 페이지](castlab-sources.md)
 

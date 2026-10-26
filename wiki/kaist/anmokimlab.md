@@ -4,7 +4,7 @@
 
 - 분야: 초파리 뇌에서 시각 정보 처리·비행 제어·항법과 공간 기억을 맡는 신경회로, 신경세포 단위의 전기생리 기록과 행동 실험, 초파리 전뇌 커넥톰 분석, 뇌 회로를 본뜬 인공신경망과 뇌 모방 예측 제어 모델(NeuroAI), 동물의 미세한 행동을 분석하는 영상 인공지능
 - 대분야: 기초생명·생물물리, 컴퓨팅·AI
-- 태그: 계산신경과학[^home][^research][^bcsprof], 뇌 모방 인공지능[^home], 과학·공학 AI[^home][^bcsprof], 제어 이론·제어 공학[^research]
+- 태그: 계산신경과학[^home][^research][^bcsprof], 뇌 모방 인공지능[^home], 과학·공학 AI[^home][^bcsprof], 제어 이론·제어 공학[^research], 신경회로·행동 신경과학[^home], 동물 행동 정량 분석[^home], 신경영상 분석·뇌 연결망[^bcsprof]
 - 홈페이지: <https://www.anmokimlab.com>
 - 근거와 출처: [신경회로·계산 연구실 근거 페이지](anmokimlab-sources.md)
 

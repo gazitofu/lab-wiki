@@ -7,7 +7,7 @@
 | 자료 | 주소 | 열람일 | 본문에서 쓴 곳 |
 |---|---|---|---|
 | 연구실 누리집 첫 화면 | <https://qris.kaist.ac.kr/> | 2026-10-23 | 요약, 연구실 영문 이름, 새 연구실 소개, 초점 분야와 관심 응용 |
-| Research 페이지 | <https://qris.kaist.ac.kr/research> | 2026-10-23 | 요약, 연구 관심사와 연구 수단, 세 연구 갈래의 설명·예시 주제·참고 논문 제목, 응용 분야, 태그 근거(X선 영상·회절, 전자현미경, 반도체 계측·검사) |
+| Research 페이지 | <https://qris.kaist.ac.kr/research> | 2026-10-23 | 요약, 연구 관심사와 연구 수단, 세 연구 갈래의 설명·예시 주제·참고 논문 제목, 응용 분야, 태그 근거(X선 영상·회절, 전자현미경, 반도체 계측·검사) · 「방사선 검출·계측」은 고에너지 방사선을 신호로 바꾸는 검출기 연구·개발이 근거다 |
 | Principal Investigator 페이지 | <https://qris.kaist.ac.kr/people/principal-investigator> | 2026-10-23 | 교수 직위·소속·부임 연도, 학력, 경력, 수상, 연구실 위치·전화 |
 | Members 페이지 | <https://qris.kaist.ac.kr/people/members> | 2026-10-23 | 구성원 12명과 연구 주제 |
 | Contact 페이지 | <https://qris.kaist.ac.kr/contact> | 2026-10-23 | 쓰지 않음(교수 이메일을 풀어 쓴 표기만 있다) |

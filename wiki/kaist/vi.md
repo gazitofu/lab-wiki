@@ -4,7 +4,7 @@
 
 - 분야: 자율주행을 위한 종단간 주행과 경로 예측·계획, 이벤트 카메라·360도 카메라 같은 새로운 센서의 영상 인식, LiDAR·4D 레이더·카메라를 묶는 3차원 인지와 장면 복원, 생성 모델과 비전-언어 모델, 적은 라벨로 배우는 영상 분할과 영상 복원
 - 대분야: 컴퓨팅·AI, 기계·로봇·제조
-- 태그: 컴퓨터 비전[^home][^faculty], 자율주행[^home][^research][^p1], 3차원 복원·인식[^home][^research][^p6], 멀티모달 AI[^research][^faculty][^p5], 생성 인공지능[^home][^research]
+- 태그: 컴퓨터 비전[^home][^faculty], 자율주행[^home][^research][^p1], 3차원 복원·인식[^home][^research][^p6], 멀티모달 AI[^research][^faculty][^p5], 생성 인공지능[^home][^research], 이벤트 카메라 비전[^p3], 데이터 중심 AI·데이터 효율 학습[^research], AI·기계학습 보안·프라이버시[^research]
 - 홈페이지: <https://vi.kaist.ac.kr/>
 - 근거와 출처: [시각 지능 연구실 근거 페이지](vi-sources.md)
 

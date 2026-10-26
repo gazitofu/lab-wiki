@@ -4,7 +4,7 @@
 
 - 분야: 뇌공학, 뇌이미징, 광학시스템 설비, 바이오신호처리, 인공지능
 - 대분야: 전기전자·반도체·광학, 컴퓨팅·AI
-- 태그: 광학 영상·현미경[^research][^p1][^p4], 생물 영상 분석[^research][^p3][^p8], 계산신경과학[^research], 뇌 모방 인공지능[^research], 메모리 내 연산[^p7]
+- 태그: 광학 영상·현미경[^research][^p1][^p4], 생물 영상 분석[^research][^p3][^p8], 신경영상 분석·뇌 연결망[^research], 뇌 모방 인공지능[^research], 메모리 내 연산[^p7], 의료 AI[^research]
 - 홈페이지: <https://nica.kaist.ac.kr/>
 - 근거와 출처: [뇌 계측 및 컴퓨팅 연구실 근거 페이지](nica-sources.md)
 

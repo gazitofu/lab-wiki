@@ -4,7 +4,7 @@
 
 - 분야: 고체역학·연속체 역학, 탄성체·고분자 고체의 큰 변형과 파괴, 체심입방 금속 결정의 소성, 극한 하중 아래 재료 모델의 통계적 추론과 불확실성 정량화, 구조 설계 결정체와 무질서 소재, 3D·4D 프린팅 소재의 미세역학
 - 대분야: 기계·로봇·제조, 소재
-- 태그: 연성 소재·고분자[^cont][^p1][^p8], 3D 프린팅[^micro][^geometry][^p7], 과학·공학 AI[^extreme]
+- 태그: 연성 소재·고분자[^cont][^p1][^p8], 3D 프린팅[^micro][^geometry][^p7], 과학·공학 AI[^extreme], 고체역학·소성[^home], 충격·내충돌·폭발 방호[^extreme], 복합재료[^p5]
 - 홈페이지: <https://continuum.kaist.ac.kr/>
 - 근거와 출처: [Solids Lab 근거 페이지](continuum-sources.md)
 

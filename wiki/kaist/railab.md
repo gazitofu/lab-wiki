@@ -4,7 +4,7 @@
 
 - 분야: 강화학습으로 배우는 사족 보행 로봇 제어, 다리 로봇의 자율 항법과 전신 조작, 보행 로봇의 기계·전자 하드웨어 설계
 - 대분야: 기계·로봇·제조, 컴퓨팅·AI
-- 태그: 보행·휴머노이드 로봇[^research][^robots][^p6], 강화학습[^research][^p2], 로봇 구동기·센서[^research][^robots], 로봇 항법·SLAM[^research][^p3], 제어 이론·제어 공학[^mepop][^research]
+- 태그: 보행·휴머노이드 로봇[^research][^robots][^p6], 강화학습[^research][^p2], 로봇 구동기·센서[^research][^robots], 로봇 항법·SLAM[^research][^p3], 제어 이론·제어 공학[^mepop][^research], 로봇 조작·파지[^projects], 상태 추정·필터링(데이터 동화)[^research], 전력전자 변환기·전력 변환 시스템[^research]
 - 홈페이지: <https://railab.kaist.ac.kr/>
 - 근거와 출처: [로봇지능 연구실 근거 페이지](railab-sources.md)
 

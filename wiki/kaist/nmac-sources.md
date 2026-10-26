@@ -10,7 +10,7 @@
 | Professor 페이지 | <http://nmac.kaist.ac.kr/bbs/content.php?co_id=Professor&me_code=1010> | 2026-10-23 | 교수 학력·경력·직위·연구 분야·학회 활동 |
 | POSTDOCS / STUDENTS 페이지 | <http://nmac.kaist.ac.kr/bbs/content.php?co_id=Students&me_code=1010> | 2026-10-23 | 구성원 12명의 과정·시작 연월·연구 주제·이메일 |
 | ALUMNI 페이지 | <http://nmac.kaist.ac.kr/bbs/content.php?co_id=alumni&me_code=1010> | 2026-10-23 | 졸업생 18명 |
-| RESEARCH 페이지 | <http://nmac.kaist.ac.kr/bbs/content.php?co_id=Research&me_code=3010> | 2026-10-23 | 연구 목표, 관심 소재, 응용 분야 |
+| RESEARCH 페이지 | <http://nmac.kaist.ac.kr/bbs/content.php?co_id=Research&me_code=3010> | 2026-10-23 | 연구 목표, 관심 소재, 응용 분야 · 「합금 설계·금속 구조 소재」는 핵심 공학 응용을 위한 합금 개발·조성·구조·특성 최적화 연구가 근거다 |
 | ADVANCED CHARACTERIZATION 페이지 | <http://nmac.kaist.ac.kr/bbs/content.php?co_id=Advanced&me_code=3030> | 2026-10-23 | 원자 탐침 단층 촬영의 원리와 상관 현미경 |
 | ENGINEERING ALLOYS 페이지 | <http://nmac.kaist.ac.kr/bbs/content.php?co_id=Superalloy&me_code=3030> | 2026-10-23 | 초내열합금·타이타늄 합금 연구, 응용 분야 |
 | FUNCTIONAL ALLOYS 페이지 | <http://nmac.kaist.ac.kr/bbs/content.php?co_id=functional&me_code=3030> | 2026-10-23 | 열전 소재와 하프 호이슬러 화합물 연구, 응용 분야, 태그 근거(열전) |

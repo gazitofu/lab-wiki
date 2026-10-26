@@ -7,7 +7,7 @@
 | 자료 | 주소 | 열람일 | 본문에서 쓴 곳 |
 |---|---|---|---|
 | 연구실 누리집 첫 화면 | <https://nurmat.kaist.ac.kr/> | 2026-10-23 | 연구실 목표 문단, 연구 분야 이름, 바닥글 주소·전화, 태그 근거(원자로·원자력 시스템) |
-| RESEARCH 메뉴 2쪽(Nuclear System, Research Topic) | <https://nurmat.kaist.ac.kr/pages/sub/research_topic> 등 | 2026-10-23 | 무엇을 연구하나, 주요 연구 주제 1–6, 응용 분야, 태그 근거(네 태그 모두), 2021년 분류에 2020년 논문이 있다는 서술 |
+| RESEARCH 메뉴 2쪽(Nuclear System, Research Topic) | <https://nurmat.kaist.ac.kr/pages/sub/research_topic> 등 | 2026-10-23 | 무엇을 연구하나, 주요 연구 주제 1–6, 응용 분야, 태그 근거(원자로·원자력 시스템, 부식·전기도금, 3D 프린팅, 핵융합, 핵연료·원자력 재료, 합금 설계·금속 구조 소재), 2021년 분류에 2020년 논문이 있다는 서술 |
 | MEMBER 메뉴(Professor, Current, Alumni 목록 1–5쪽과 분류 쪽 2곳) | <https://nurmat.kaist.ac.kr/pages/sub/professor> 등 | 2026-10-23 | 교수 학력·경력·이메일·연구실 위치, 구성원 7명, 졸업생과 이전 구성원 91명 |
 | PUBLICATION 메뉴 2쪽(Paper, Patent) | <https://nurmat.kaist.ac.kr/boards/lists/paper_board> 등 | 2026-10-23 | 최근 논문 목록 79편과 대표 논문 후보, 특허 5건 |
 | LECTURE, FACILITY, BOARD 메뉴 | <https://nurmat.kaist.ac.kr/boards/lists/board> 등 | 2026-10-23 | 본문에 쓰지 않음(아래 「목록의 구성」) |
@@ -50,6 +50,7 @@
 ## 태그와 확인하지 못한 점
 
 - 태그 「원자로·원자력 시스템」은 첫 화면의 원자력 발전소 수명 동안의 건전성 유지 목표와 연구 주제 페이지의 경수로 냉각재 압력 경계 부품·원자로 내부 구조물의 부식·EAC 연구가 원자력 발전소의 건전성과 안전을 지킨다는 서술을, 「부식·전기도금」은 연구 주제 페이지의 부식·응력부식균열·고온 부식 연구 서술과 대표 논문 1(염화물 환경 공식 성장)·6(크롬·니켈 전기도금 개관)을, 「3D 프린팅」은 연구 주제 페이지의 원자력용 적층제조 소재 평가 서술과 대표 논문 4(지향성 에너지 증착 316L)를, 「핵융합」은 연구 주제 페이지의 핵융합 재료 갈래(텅스텐 다이버터 파괴 인성, 저방사화 ARES-F, 흑연 위 텅스텐 코팅) 서술을 근거로 했다. 대표 논문 7은 초록이 핵융합을 언급하지 않아 「핵융합」 태그의 각주로 쓰지 않았다.
-- 원자력 구조재의 환경 열화(응력부식균열·환경 피로·열 시효·조사 손상)와 내열·내조사 합금 설계는 연구실의 중심 주제지만 어휘에 맞는 태그가 없어 붙이지 않았다.
+- 태그 「핵연료·원자력 재료」는 연구 주제 페이지의 원자로 구조재 부식·열 시효·조사 손상과 핵연료 피복관 소재 개발을 근거로 했다.
+- 태그 「합금 설계·금속 구조 소재」는 같은 페이지의 저장 용기용 듀플렉스 스테인리스강과 내열·내조사 합금 설계를 근거로 했다.
 - 구성원 카드의 LINK(Google Scholar)와 교수 페이지의 ResearchGate·Mendeley 링크는 읽지 않았다.
 - 첫 화면과 RESEARCH 메뉴 쪽에는 작성 날짜가 없다. 연구 주제 페이지의 「Environmentally-Assisted Fatigue(EAF) of austenitic Alloys」 제목 아래 문단은 PWSCC를, 「Primary water stress corrosion cracking of austenitic alloys」 제목 아래 문단은 환경 피로를 설명한다. 본문은 제목이 아니라 문단 내용에 따라 서술했다. 같은 페이지의 「Zr-based alloys」와 「Pressurized thermal shock of RPV」 항목은 설명 문단이 없다.

@@ -3,7 +3,7 @@
 **KAIST 전기및전자공학부·반도체공학대학원 · 윤준보 교수**
 
 - 대분야: 전기전자·반도체·광학
-- 태그: MEMS 미세 기계 소자[^welcome][^switches][^p2], 나노 패터닝·전사[^nano][^p3], 유연·신축 전자[^nano][^p3], 착용형 생체 센서[^p3]
+- 태그: MEMS 미세 기계 소자[^welcome][^switches][^p2], 나노 패터닝·전사[^nano][^p3], 유연·신축 전자[^nano][^p3], 착용형 생체 센서[^p3], 가스 센서[^nano]
 - 홈페이지: <https://3dmems.kaist.ac.kr/>
 - 근거: [읽은 자료와 확인 범위](mems-sources.md)
 

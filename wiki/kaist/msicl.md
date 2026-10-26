@@ -4,7 +4,7 @@
 
 - 분야: 아날로그·혼성 신호 집적회로, 데이터 변환기(ADC·DAC), 델타-시그마 변조기와 증분형 ADC, 파이프라인·SAR ADC, 시간 인터리브 고속 ADC, 위성용 방사선 내성 회로, 메모리·센서 판독 회로
 - 대분야: 전기전자·반도체·광학
-- 태그: 집적회로 설계[^research][^eeprof][^p1]
+- 태그: 집적회로 설계[^research][^eeprof][^p1], 데이터 변환기(ADC·DAC)[^research], 센서 인터페이스·판독 집적회로[^research]
 - 홈페이지: <https://msicl.kaist.ac.kr/>
 - 근거와 출처: [혼성신호 집적회로 연구실 근거 페이지](msicl-sources.md)
 

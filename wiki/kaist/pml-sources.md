@@ -7,7 +7,7 @@
 | 자료 | 주소 | 열람일 | 본문에서 쓴 곳 |
 |---|---|---|---|
 | 연구실 누리집 첫 화면 | <https://pml.kaist.ac.kr/> | 2026-10-23 | 연구실 소개 문장, 응용 분야, News 2022–2026(수상 6건, 소식 29건), 연구실 개설 시점 |
-| Research 페이지 | <https://pml.kaist.ac.kr/research> | 2026-10-23 | 무엇을 연구하나, 주요 연구 주제 1–3, 응용 분야, 태그 근거 |
+| Research 페이지 | <https://pml.kaist.ac.kr/research> | 2026-10-23 | 무엇을 연구하나, 주요 연구 주제 1–3, 응용 분야, 태그 근거 · 「전동기·발전기 설계·구동 제어」는 전기기계의 설계·모델링·구동 제어 연구가 근거다 |
 | Research 메뉴 Current Projects 페이지 | <https://pml.kaist.ac.kr/research/current-projects> | 2026-10-23 | 주요 연구 주제 1–3, 연구 과제 10건 |
 | Research 메뉴 Past Projects 페이지 | <https://pml.kaist.ac.kr/research/past-projects> | 2026-10-23 | 주요 연구 주제 4, 연구 과제 4건, 교수의 KAIST 부임 전 과제 7건, 태그 근거 |
 | Publications 페이지 | <https://pml.kaist.ac.kr/publications> | 2026-10-23 | 논문 17편, 특허 3건, 대표 논문 후보와 저자 순서 |

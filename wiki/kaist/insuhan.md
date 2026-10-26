@@ -4,7 +4,7 @@
 
 - 분야: 효율적 기계학습(Efficient ML), 모델 압축과 양자화, 빠른 추론과 실행 최적화, 대형 언어 모델의 효율화(어텐션 근사·KV 캐시·추측 디코딩), 대규모 기계학습을 위한 근사 알고리즘
 - 대분야: 컴퓨팅·AI
-- 태그: 대형 언어 모델[^research][^p2][^p4], AI 시스템·인프라[^research][^p1], 생성 인공지능[^p1], 과학·공학 AI[^p3]
+- 태그: 대형 언어 모델[^research][^p2][^p4], AI 시스템·인프라[^research][^p1], 생성 인공지능[^p1], 과학·공학 AI[^p3], 모델 경량화·양자화[^research]
 - 홈페이지: <https://flexml.kaist.ac.kr/> (교수 개인 누리집 <https://insuhan.github.io/>)
 - 근거와 출처: [FlexML Lab 근거 페이지](insuhan-sources.md)
 

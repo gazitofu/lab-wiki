@@ -4,7 +4,7 @@
 
 - 분야: AI 기반 역설계와 최적화, 물리정보 기계학습과 역문제, 대형 언어 모델 다중 에이전트, AI 기반 제조 공정(사출성형·원자층 증착 챔버·선박 강판 가공), 다중 스케일 재료 모델링과 복합재 균질화, 구조 모니터링·열전·신축 복합재 응용
 - 대분야: 기계·로봇·제조, 컴퓨팅·AI
-- 태그: 과학·공학 AI[^home][^research][^p3], 대형 언어 모델[^research][^p5], 스마트 제조[^research][^apps], 메타물질·메타광학[^apps][^p4], 열전[^apps][^p3], 유연·신축 전자[^apps][^p7], 3D 프린팅[^research][^pubs]
+- 태그: 과학·공학 AI[^home][^research][^p3], 대형 언어 모델[^research][^p5], 스마트 제조[^research][^apps], 메타물질·메타광학[^apps][^p4], 열전[^apps][^p3], 유연·신축 전자[^apps][^p7], 3D 프린팅[^research][^pubs], 전산역학·수치 해석[^research]
 - 홈페이지: <https://sites.google.com/site/seunghwalab>
 - 근거와 출처: [지능형 설계 및 제조 연구실 근거 페이지](seunghwalab-sources.md)
 

@@ -8,8 +8,8 @@
 |---|---|---|---|
 | 연구실 누리집 첫 화면 | <https://radchem.kaist.ac.kr/> | 2026-10-23 | 국문·영문 연구실 이름, 소개 글, 바닥글의 주소·전화 |
 | Overview 페이지 | <https://radchem.kaist.ac.kr/html/introduction/01_1.php> | 2026-10-23 | 설립 연도, 네 연구 갈래, 요약 문장 |
-| Research Interest: Radio-Geochemistry 페이지 | <https://radchem.kaist.ac.kr/html/research/01_1.php> | 2026-10-23 | 연구 주제 1, 응용 분야, 태그 근거(세라믹 소재) |
-| Research Interest: Molten Salt Chemistry 페이지 | <https://radchem.kaist.ac.kr/html/research/01_2.php> | 2026-10-23 | 연구 주제 2, 응용 분야, 태그 근거(원자로·원자력 시스템, 부식·전기도금) |
+| Research Interest: Radio-Geochemistry 페이지 | <https://radchem.kaist.ac.kr/html/research/01_1.php> | 2026-10-23 | 연구 주제 1, 응용 분야, 태그 근거(세라믹 소재) · 「핵연료 주기·방사성 폐기물」은 처분장 방벽·반응성 이동 모델 개발과 폐기물 고정화 연구가 근거다 |
+| Research Interest: Molten Salt Chemistry 페이지 | <https://radchem.kaist.ac.kr/html/research/01_2.php> | 2026-10-23 | 연구 주제 2, 응용 분야, 태그 근거(원자로·원자력 시스템, 부식·전기도금) · 「핵연료·원자력 재료」는 용융염 원자로 구조재 후보의 부식 거동 연구가 근거다 |
 | Research Interest: Water Chemistry of Nuclear Power Plant 페이지 | <https://radchem.kaist.ac.kr/html/research/01_3.php> | 2026-10-23 | 연구 주제 3, 응용 분야, 태그 근거(원자로·원자력 시스템, 부식·전기도금, 수처리) |
 | Research Interest: Development of Laser Spectroscopic Techniques 페이지 | <https://radchem.kaist.ac.kr/html/research/01_4.php> | 2026-10-23 | 연구 주제 4, 응용 분야, 태그 근거(광학 센서·분광기) |
 | Facility 게시판 첫 쪽 | <https://radchem.kaist.ac.kr/bbs/board.php?bo_table=facility> | 2026-10-23 | 장비 건수·분류와 장비 예 |

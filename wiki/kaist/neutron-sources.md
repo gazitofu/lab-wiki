@@ -6,14 +6,14 @@
 
 | 자료 | 주소 | 열람일 | 본문에서 쓴 곳 |
 |---|---|---|---|
-| 연구실 누리집 첫 화면 | <http://neutron.kaist.ac.kr/> | 2026-10-23 | Welcome 소개 글, 최근 소식 목록 확인, 바닥글의 영문 이름·주소·전화, 태그 근거(플라즈모닉스, 메타물질·메타광학) |
+| 연구실 누리집 첫 화면 | <http://neutron.kaist.ac.kr/> | 2026-10-23 | Welcome 소개 글, 최근 소식 목록 확인, 바닥글의 영문 이름·주소·전화, 태그 근거(플라즈모닉스, 메타물질·메타광학) · 「핵연료 주기·방사성 폐기물」은 나노입자·나노다공성 실리카를 통한 방사성 원소 회수 연구가 근거다 |
 | Members > Professor 페이지 | <http://neutron.kaist.ac.kr/sub03/sub01.php> | 2026-10-23 | 교수 학력·연구 관심사·수상·경력, 교수 이메일 |
 | Members > Group Members 게시판 | <http://neutron.kaist.ac.kr/bbs/board.php?tbl=group_member> | 2026-10-23 | 구성원 4명의 과정·연구 주제·이메일 |
 | Members > Alumni 게시판 1–2쪽 | <http://neutron.kaist.ac.kr/bbs/board.php?tbl=alumni> 와 같은 목록의 page=2 | 2026-10-23 | 졸업생 20명 |
 | Research > Neutron & X-ray Scattering 페이지 | <http://neutron.kaist.ac.kr/sub02/sub01.php> | 2026-10-23 | 중성자 산란 기법과 연구 목표, Research 하위 메뉴, 태그 근거(연성 소재·고분자) |
-| Research > Synthesis of Nanoparticle 페이지 | <http://neutron.kaist.ac.kr/sub02/sub02.php> | 2026-10-23 | 금 나노입자 합성, 탄소 나노튜브 기능화 |
+| Research > Synthesis of Nanoparticle 페이지 | <http://neutron.kaist.ac.kr/sub02/sub02.php> | 2026-10-23 | 금 나노입자 합성, 탄소 나노튜브 기능화 · 「탄소나노튜브 소재·소자」는 단일벽 탄소나노튜브의 분산·비공유 결합 기능화 연구가 근거다 |
 | Research > Fabrication of Nanoparticle Superlattice 페이지 | <http://neutron.kaist.ac.kr/sub02/sub03.php> | 2026-10-23 | 나노입자 초격자 제작 |
-| Research > Energy Storage Material 페이지 | <http://neutron.kaist.ac.kr/sub02/sub05.php> | 2026-10-23 | 실리콘 음극·슈퍼커패시터 소재 연구, 태그 근거(이차전지 소재) |
+| Research > Energy Storage Material 페이지 | <http://neutron.kaist.ac.kr/sub02/sub05.php> | 2026-10-23 | 실리콘 음극·슈퍼커패시터 소재 연구, 태그 근거(이차전지 소재) · 「슈퍼커패시터」는 질소 도핑 그래핀·망가니즈 산화물 혼성 전극 합성·성능 연구가 근거다 |
 | Publications > Publication (2006~) 게시판 첫 쪽 | <http://neutron.kaist.ac.kr/bbs/board.php?tbl=publi> | 2026-10-23 | 최근 논문 목록 13편, 주요 연구 주제의 목록 논문, 대표 논문 후보와 저자 순서·\* 표시 |
 | Publications > Patents 게시판 | <http://neutron.kaist.ac.kr/bbs/board.php?tbl=patents> | 2026-10-23 | 특허 목록 확인(본문에 쓰지 않음) |
 | Boards > Notices 게시판과 첫 공지 | <http://neutron.kaist.ac.kr/bbs/board.php?tbl=notice2> , num=1 글 | 2026-10-23 | 공지 확인(본문에 쓰지 않음) |

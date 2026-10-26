@@ -4,7 +4,7 @@
 
 - 분야: 그래프 표현 학습, 추천 시스템, 멀티모달 학습(장면 그래프 생성, 멀티모달 LLM), LLM 에이전트와 검색 증강 질의응답, 과학을 위한 AI(분자·소재·세포·물리 시뮬레이션), 시계열·시공간 예측
 - 대분야: 컴퓨팅·AI
-- 태그: 그래프 기계학습·지식 그래프[^research][^p1][^p2], 대형 언어 모델[^research][^p3][^p4], 멀티모달 AI[^home][^research], 컴퓨터 비전[^research][^p5], 과학·공학 AI[^research][^p7][^p8]
+- 태그: 그래프 기계학습·지식 그래프[^research][^p1][^p2], 대형 언어 모델[^research][^p3][^p4], 멀티모달 AI[^home][^research], 컴퓨터 비전[^research][^p5], 과학·공학 AI[^research][^p7][^p8], 설명 가능한 AI(XAI)[^p2], 추천 시스템[^research], 모델 경량화·양자화[^research]
 - 홈페이지: <https://dsail.kaist.ac.kr/>
 - 근거와 출처: [DSAIL 근거 페이지](dsail-sources.md)
 

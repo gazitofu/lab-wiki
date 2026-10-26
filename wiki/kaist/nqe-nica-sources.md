@@ -24,7 +24,7 @@
 | KAIST 원자력및양자공학과 교수 페이지 | <https://nuclear.kaist.ac.kr/people/professor.php> | 2026-10-23 | 교수 직위, 교수 연구실 위치, 이메일 |
 | Crossref 서지(대표 논문 후보 8편과 학회 논문 3편) | <https://api.crossref.org/> | 2026-10-23 | 대표 논문 서지·저자 순서 |
 | Semantic Scholar 서지 | <https://api.semanticscholar.org/> | 2026-10-23 | 본문에 직접 쓰지 않음(초록 확인) |
-| OpenAlex 서지(대표 논문 후보 8편) | <https://api.openalex.org/> | 2026-10-23 | 대표 논문 1–3 초록과 출판일, 대표 논문 후보의 교수 소속 대조 |
+| OpenAlex 서지(대표 논문 후보 8편) | <https://api.openalex.org/> | 2026-10-23 | 대표 논문 1–3 초록과 출판일, 대표 논문 후보의 교수 소속 대조 · 「설명 가능한 AI(XAI)」는 대표 논문 2의 발전소 진단 변수 선택 방법이 근거다 |
 
 연구실 누리집에서 본문을 얻은 고유 주소는 26곳이다. 학과 페이지는 3곳이다.
 

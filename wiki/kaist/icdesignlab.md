@@ -4,7 +4,7 @@
 
 - 분야: 아날로그 집적회로 설계, 디스플레이 구동회로, 전력변환회로, 검출회로
 - 대분야: 전기전자·반도체·광학
-- 태그: 집적회로 설계[^home][^eeprof][^p1], 디스플레이·발광 소자[^research], 마이크로 LED[^research], 에너지 하베스팅[^research][^p8], 배터리 관리 시스템[^research]
+- 태그: 집적회로 설계[^home][^eeprof][^p1], 디스플레이·발광 소자[^research], 마이크로 LED[^research], 에너지 하베스팅[^research][^p8], 배터리 관리 시스템[^research], 전력 관리 집적회로[^p3], 센서 인터페이스·판독 집적회로[^research], 데이터 변환기(ADC·DAC)[^p1]
 - 홈페이지: <https://www.icdesignlab.net>
 - 근거와 출처: [회로설계 연구실 근거 페이지](icdesignlab-sources.md)
 

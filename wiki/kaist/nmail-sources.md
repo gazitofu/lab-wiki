@@ -26,8 +26,8 @@
 | KAIST 반도체시스템공학과 연구실 목록 | <https://sse.kaist.ac.kr/research-laboratory/> | 2026-10-23 | 연구실 국문 이름, 연구 분야, 위치 |
 | KAIST 반도체시스템공학과 교수진 | <https://sse.kaist.ac.kr/professor/> | 2026-10-23 | 연구분야(컴퓨터, 인공지능 및 소프트웨어), 연구실 |
 | Crossref 서지(대표 논문 후보 16편과 교수 저자 대조 3편의 제목·DOI 조회) | <https://api.crossref.org/> | 2026-10-23 | 대표 논문 DOI·서지·저자 순서·저자 소속, 교수가 없는 목록 논문 2편의 저자 대조 |
-| Semantic Scholar 등록 초록 | <https://api.semanticscholar.org/> | 2026-10-23 | 대표 논문 1–7 초록 |
-| ICCV 2025 Open Access Repository 논문 페이지 | <https://openaccess.thecvf.com/content/ICCV2025/html/Kim_Probabilistic_Inertial_Poser_ProbIP_Uncertainty-aware_Human_Motion_Modeling_from_Sparse_ICCV_2025_paper.html> | 2026-10-23 | 대표 논문 8 초록 |
+| Semantic Scholar 등록 초록 | <https://api.semanticscholar.org/> | 2026-10-23 | 대표 논문 1–7 초록 · 「로봇 조작·파지」는 대표 논문 6의 그리퍼 적응 파지 자세·동작 학습이 근거다 |
+| ICCV 2025 Open Access Repository 논문 페이지 | <https://openaccess.thecvf.com/content/ICCV2025/html/Kim_Probabilistic_Inertial_Poser_ProbIP_Uncertainty-aware_Human_Motion_Modeling_from_Sparse_ICCV_2025_paper.html> | 2026-10-23 | 대표 논문 8 초록 · 「상태 추정·필터링(데이터 동화)」은 대표 논문 8의 적은 관성 센서 자료로 전신 움직임과 불확실성을 추정하는 확률 모델이 근거다 |
 
 ## 이름·직급·위치 표기 차이
 
