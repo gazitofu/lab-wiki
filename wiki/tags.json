@@ -1,6 +1,6 @@
 {
- "version": "1.5",
- "updated": "2026-10-22",
+ "version": "1.6",
+ "updated": "2026-10-26",
  "fields": [
   {
    "id": "math-statistics",
@@ -306,9 +306,12 @@
     "음극재",
     "소듐 이온 전지",
     "나트륨 이온 전지",
-    "sodium-ion battery"
+    "sodium-ion battery",
+    "이차전지 분리막",
+    "배터리 분리막",
+    "battery separator"
    ],
-   "definition": "충전해 다시 쓰는 전지의 전극·전해질 소재와 그 구조.",
+   "definition": "충전해 다시 쓰는 전지를 이루는 구성 소재와 그 구조·성질.",
    "related": [],
    "status": "active",
    "merged_into": null
@@ -375,7 +378,11 @@
     "microgrid",
     "nanogrid",
     "energy trading",
-    "peer-to-peer energy trading"
+    "peer-to-peer energy trading",
+    "가상발전소",
+    "VPP",
+    "배전망 재구성",
+    "virtual power plant"
    ],
    "definition": "발전·저장·소비 설비를 정보통신으로 묶은 전력망에서 전력의 거래, 충방전 일정, 수요·발전 예측과 운영을 최적화하는 기술.",
    "related": [
@@ -500,7 +507,11 @@
     "heat transfer",
     "thermal management",
     "비등 열전달",
-    "방열 설계"
+    "방열 설계",
+    "복사 냉각",
+    "주간 복사 냉각",
+    "전자 소자 냉각",
+    "radiative cooling"
    ],
    "definition": "열이 전도·대류·복사·끓음으로 옮겨 가는 과정을 다루고 장치의 열을 빼거나 막는 공학.",
    "related": [],
@@ -581,7 +592,13 @@
     "연소",
     "combustion",
     "내연기관",
-    "엔진 연소"
+    "엔진 연소",
+    "열음향 연소 불안정",
+    "연소 불안정",
+    "수소 연소",
+    "thermoacoustic combustion instability",
+    "combustion instability",
+    "hydrogen combustion"
    ],
    "definition": "연료가 공기와 섞여 타는 과정과 이를 이용하는 엔진.",
    "related": [],
@@ -601,7 +618,14 @@
     "fusion energy",
     "핵융합로",
     "토카막",
-    "tokamak"
+    "tokamak",
+    "다이버터",
+    "핵융합 플라즈마-벽 상호작용",
+    "핵융합 플라즈마 자이로운동론",
+    "핵융합 플라즈마 난류 수송",
+    "divertor",
+    "fusion plasma-wall interaction",
+    "fusion plasma gyrokinetics"
    ],
    "definition": "가벼운 원자핵을 합쳐 에너지를 얻는 기술. 토카막은 자기장으로 고온 플라즈마를 가두는 장치다.",
    "related": [],
@@ -623,7 +647,14 @@
     "nuclear reactor",
     "소형 모듈 원자로",
     "SMR",
-    "원자력 전지"
+    "원자력 전지",
+    "원자로 기반 원자력 추진",
+    "특수 목적 원자로",
+    "원자로 물리",
+    "원자로 중성자 수송",
+    "reactor-based nuclear propulsion",
+    "reactor physics",
+    "reactor neutron transport"
    ],
    "definition": "핵분열 에너지로 열과 전기를 만드는 원자로와 그 냉각·안전, 방사성 동위원소로 전기를 만드는 원자력 전지.",
    "related": [],
@@ -1143,7 +1174,11 @@
     "hybrid bonding",
     "칩렛",
     "chiplet",
-    "팬아웃"
+    "팬아웃",
+    "안테나 인 패키지",
+    "AiP",
+    "RF 패키징",
+    "antenna-in-package"
    ],
    "definition": "칩을 기판·다른 칩과 연결하고 보호하는 기술. 칩을 쌓거나 나란히 붙이는 접합·배선·소재를 포함한다.",
    "related": [],
@@ -1224,7 +1259,6 @@
    "aliases": [
     "반도체 계측",
     "반도체 검사",
-    "비파괴 검사",
     "metrology"
    ],
    "definition": "반도체 소재·소자의 구조·두께·결함·전기적 특성을 재고 찾아내는 기술.",
@@ -1728,7 +1762,7 @@
     "acoustic metasurface",
     "phononic crystal"
    ],
-   "definition": "재료보다 작은 인공 구조를 배열해 자연 물질에 없는 광학·역학 성질을 만드는 소재와 소자.",
+   "definition": "인공 구조의 배열을 설계해 자연 물질에 없는 광학·역학 성질을 내도록 만든 소재와 소자.",
    "related": [],
    "status": "active",
    "merged_into": null
@@ -1765,7 +1799,12 @@
     "광 트랜시버",
     "광 인터커넥트",
     "optical interconnect",
-    "가시광 통신"
+    "가시광 통신",
+    "자유공간 광통신",
+    "위성 레이저 통신",
+    "광 가입자망",
+    "PON",
+    "free-space optical communication"
    ],
    "definition": "빛으로 데이터를 주고받는 통신 기술과 그 송수신 부품.",
    "related": [],
@@ -1893,9 +1932,15 @@
     "computational imaging",
     "적응 광학",
     "adaptive optics",
-    "광학 영상"
+    "광학 영상",
+    "다중 형광 영상",
+    "전압 영상",
+    "칼슘 영상",
+    "영상용 광학 파면 제어",
+    "산란 매질 광학 영상",
+    "optical wavefront shaping for imaging"
    ],
-   "definition": "빛으로 작은 대상을 보고 기록하는 현미경·카메라와, 계산으로 영상을 더 선명하게 복원하는 기술.",
+   "definition": "빛을 이용해 대상의 구조·상태를 영상으로 기록하고, 광학계와 계산으로 영상을 형성·복원하는 장치와 기술.",
    "related": [],
    "status": "active",
    "merged_into": null
@@ -2108,10 +2153,7 @@
     "조직 공학",
     "tissue engineering",
     "조직 재생",
-    "의료용 접착제",
-    "약물 전달",
-    "약물 전달체",
-    "drug delivery"
+    "의료용 접착제"
    ],
    "definition": "몸 안에 넣거나 세포·조직과 맞닿아 쓰는 소재와 조직을 되살리는 공학.",
    "related": [],
@@ -2294,7 +2336,12 @@
     "BCI",
     "brain-computer interface",
     "신경 인터페이스",
-    "뇌 이식 장치"
+    "뇌 이식 장치",
+    "기기 기반 신경 조절",
+    "기기 기반 뉴로모듈레이션",
+    "신경 인터페이스 자극 기술",
+    "device-based neuromodulation",
+    "neural-interface stimulation"
    ],
    "definition": "뇌·신경의 신호를 읽거나 자극해 기계와 잇는 기술.",
    "related": [],
@@ -2318,7 +2365,9 @@
     "현장 진단",
     "point-of-care",
     "분자진단",
-    "PCR"
+    "PCR",
+    "액체 생검 진단 기기",
+    "liquid-biopsy diagnostic devices"
    ],
    "definition": "혈액·체액·세포에서 질병 표지나 분자를 찾아내는 센서와 진단 장치.",
    "related": [],
@@ -2358,7 +2407,11 @@
     "organ-on-a-chip",
     "미세생리시스템",
     "MPS",
-    "체외 질병 모델"
+    "체외 질병 모델",
+    "장기·질병 모델용 3차원 세포 배양",
+    "장기·질병 모델용 스페로이드",
+    "3D cell culture for organ and disease models",
+    "spheroid-based organ and disease models"
    ],
    "definition": "세포를 칩이나 3차원 틀에서 키워 장기·질병의 일부 기능을 몸 밖에서 재현한 모형.",
    "related": [],
@@ -2602,7 +2655,10 @@
     "localization",
     "경로 계획",
     "path planning",
-    "위치 추정"
+    "위치 추정",
+    "항법용 모션 플래닝",
+    "로봇 항법용 모션 플래닝",
+    "robot navigation motion planning"
    ],
    "definition": "로봇이 자기 위치를 추정하고 지도를 만들며 갈 길을 정하는 기술.",
    "related": [],
@@ -3058,7 +3114,18 @@
     "비지상 네트워크",
     "NTN",
     "satellite communication",
-    "non-terrestrial network"
+    "non-terrestrial network",
+    "재구성 지능형 표면",
+    "RIS",
+    "메타표면 통신",
+    "통합 센싱·통신",
+    "ISAC",
+    "기계학습 기반 무선통신",
+    "AI 기반 무선통신",
+    "AI-RAN",
+    "O-RAN",
+    "reconfigurable intelligent surface",
+    "integrated sensing and communication"
    ],
    "definition": "전파로 휴대폰·기지국·기기 사이에 데이터를 주고받는 통신 기술.",
    "related": [],
@@ -3440,9 +3507,7 @@
    ],
    "aliases": [
     "계산 신경과학",
-    "뇌 동역학",
-    "커넥톰",
-    "connectome"
+    "뇌 동역학"
    ],
    "definition": "뇌와 신경 회로가 정보를 처리하는 원리를 수학 모형과 계산으로 밝히는 분야.",
    "related": [],
@@ -4184,6 +4249,1663 @@
    "related": [],
    "status": "active",
    "merged_into": null
+  },
+  {
+   "id": "power-management-ic",
+   "name_ko": "전력 관리 집적회로",
+   "name_en": "Power management integrated circuits",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "PMIC",
+    "전원 관리 집적회로",
+    "DC-DC 변환 집적회로",
+    "전압 조정 집적회로",
+    "LDO",
+    "power management IC",
+    "DC-DC converter IC",
+    "voltage regulator IC"
+   ],
+   "definition": "전자 회로에 필요한 전압과 전류를 만들고 조절해 공급하는 집적회로.",
+   "related": [
+    "integrated-circuit-design",
+    "power-electronics"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "칩 수준의 전원 회로를 설계할 때 단다. 기판·시스템 수준의 전력 변환기는 전력전자 변환기·전력 변환 시스템, 전력망 운영은 스마트 그리드·전력 관리."
+  },
+  {
+   "id": "power-electronics",
+   "name_ko": "전력전자 변환기·전력 변환 시스템",
+   "name_en": "Power electronic converters and power conversion systems",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics",
+    "energy-environment"
+   ],
+   "aliases": [
+    "전력전자 변환 기술",
+    "전력 변환기",
+    "기판·시스템 수준 전력 변환 회로",
+    "인버터",
+    "컨버터",
+    "그리드 포밍 제어",
+    "power electronic conversion",
+    "power converter",
+    "inverter",
+    "grid-forming control"
+   ],
+   "definition": "반도체 스위치로 전기의 전압·전류·주파수 형태를 바꿔 전력을 전달하는 변환기와 그 회로·제어.",
+   "related": [
+    "power-semiconductor",
+    "smart-grid",
+    "electric-machines"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "변환기 회로·토폴로지·제어를 연구할 때 단다. 칩 안 전원 회로는 전력 관리 집적회로, 스위칭 소자 자체는 전력 반도체."
+  },
+  {
+   "id": "electric-machines",
+   "name_ko": "전동기·발전기 설계·구동 제어",
+   "name_en": "Electric machine design and drives",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics",
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "전동기",
+    "모터 구동",
+    "모터 제어",
+    "발전기 설계",
+    "전동기·발전기 설계",
+    "electric motor",
+    "motor drive",
+    "electric machine",
+    "generator design"
+   ],
+   "definition": "전기 에너지와 기계 에너지를 서로 바꾸는 전동기·발전기의 설계와 그 구동·제어.",
+   "related": [
+    "electric-vehicle",
+    "power-electronics"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "전기차 구동계를 함께 연구하면 전기차도 단다."
+  },
+  {
+   "id": "data-converters",
+   "name_ko": "데이터 변환기(ADC·DAC)",
+   "name_en": "Data converters (ADC and DAC)",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "ADC",
+    "아날로그-디지털 변환기",
+    "디지털-아날로그 변환기",
+    "analog-to-digital converter",
+    "digital-to-analog converter"
+   ],
+   "definition": "아날로그 신호와 디지털 신호를 서로 바꾸는 회로.",
+   "related": [
+    "integrated-circuit-design",
+    "sensor-interface-ic"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "sensor-interface-ic",
+   "name_ko": "센서 인터페이스·판독 집적회로",
+   "name_en": "Sensor interface and readout integrated circuits",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "센서 판독 집적회로",
+    "판독 집적회로",
+    "센서용 아날로그 프런트엔드 집적회로",
+    "센서용 계측 증폭 집적회로",
+    "ROIC",
+    "readout IC",
+    "sensor analog front-end IC",
+    "sensor interface IC"
+   ],
+   "definition": "센서가 내는 신호를 증폭·여과·변환해 처리 장치로 넘기는 집적회로.",
+   "related": [
+    "integrated-circuit-design",
+    "data-converters"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "frequency-synthesis",
+   "name_ko": "주파수 합성·클럭 생성 회로",
+   "name_en": "Frequency synthesis and clock generation circuits",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "PLL",
+    "위상 고정 루프",
+    "주파수 합성기",
+    "클럭 생성",
+    "국부 발진기",
+    "phase-locked loop",
+    "frequency synthesizer",
+    "clock generation"
+   ],
+   "definition": "기준 신호로부터 원하는 주파수의 주기 신호(클럭·반송파)를 만들어 내는 회로.",
+   "related": [
+    "integrated-circuit-design"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "body-channel-communication",
+   "name_ko": "인체 채널 통신",
+   "name_en": "Body channel communication",
+   "axis": "application",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "인체 통신",
+    "인체 매질 통신",
+    "human body communication",
+    "HBC"
+   ],
+   "definition": "사람의 몸을 신호가 지나는 통로로 써서 몸에 붙이거나 가까이 둔 기기 사이에 데이터를 보내는 기술.",
+   "related": [
+    "wearable-biosensor"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "eda",
+   "name_ko": "회로·설계 자동화(EDA)",
+   "name_en": "Electronic design automation (EDA)",
+   "axis": "method",
+   "fields": [
+    "electrical-electronics",
+    "computing-ai"
+   ],
+   "aliases": [
+    "EDA",
+    "전자 설계 자동화",
+    "설계 자동화",
+    "아날로그 설계 자동화",
+    "배치 배선",
+    "electronic design automation",
+    "design automation",
+    "placement and routing",
+    "혼성신호 설계 자동화",
+    "mixed-signal design automation"
+   ],
+   "definition": "집적회로·패키지의 설계·검증·배치를 소프트웨어 알고리즘으로 자동화하는 기술과 도구.",
+   "related": [
+    "integrated-circuit-design",
+    "device-simulation"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "소자 물리 계산(TCAD)은 소자 설계 시뮬레이션."
+  },
+  {
+   "id": "fpga-reconfigurable",
+   "name_ko": "FPGA·재구성형 하드웨어",
+   "name_en": "FPGA and reconfigurable hardware",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics",
+    "computing-ai"
+   ],
+   "aliases": [
+    "FPGA",
+    "재구성형 컴퓨팅",
+    "재구성형 하드웨어",
+    "CGRA",
+    "field-programmable gate array",
+    "reconfigurable computing"
+   ],
+   "definition": "만든 뒤에도 내부 회로 연결을 바꿔 다른 기능을 하도록 설정할 수 있는 하드웨어와 이를 쓰는 계산.",
+   "related": [
+    "ai-accelerator-hardware",
+    "computer-architecture"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "storage-systems",
+   "name_ko": "저장 시스템·SSD",
+   "name_en": "Storage systems and SSDs",
+   "axis": "object",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "SSD",
+    "저장장치",
+    "스토리지 시스템",
+    "storage system",
+    "solid-state drive"
+   ],
+   "definition": "데이터를 오래 보관하고 읽고 쓰는 저장 장치와 그 관리 소프트웨어·구조.",
+   "related": [
+    "computer-architecture",
+    "memory-device"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "저장 소자 자체(낸드 셀 등)를 연구하면 메모리 반도체 소자."
+  },
+  {
+   "id": "hpc",
+   "name_ko": "고성능 컴퓨팅(HPC)",
+   "name_en": "High-performance computing (HPC)",
+   "axis": "method",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "HPC",
+    "슈퍼컴퓨팅",
+    "고성능 병렬 컴퓨팅",
+    "high-performance computing",
+    "supercomputing",
+    "high-performance parallel computing"
+   ],
+   "definition": "계산 자원과 알고리즘·시스템을 설계·운용해 연산량이나 데이터 규모가 큰 계산 문제를 처리하는 컴퓨팅.",
+   "related": [
+    "computer-architecture",
+    "ai-systems-infrastructure"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "edge-computing",
+   "name_ko": "엣지 컴퓨팅·엣지 AI",
+   "name_en": "Edge computing and edge AI",
+   "axis": "method",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "엣지 컴퓨팅",
+    "엣지 AI",
+    "온디바이스 AI",
+    "모바일 엣지 컴퓨팅",
+    "MEC",
+    "edge computing",
+    "edge AI"
+   ],
+   "definition": "자료가 생기는 기기나 그 가까운 장치에서 계산과 인공지능 추론을 하는 방식.",
+   "related": [
+    "ai-systems-infrastructure",
+    "model-compression"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "model-compression",
+   "name_ko": "모델 경량화·양자화",
+   "name_en": "Model compression and quantization",
+   "axis": "method",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "모델 경량화",
+    "모델 압축",
+    "모델 양자화",
+    "신경망 양자화",
+    "가지치기",
+    "지식 증류",
+    "KV 캐시 압축",
+    "조기 출구 추론",
+    "model compression",
+    "neural network quantization",
+    "pruning",
+    "knowledge distillation"
+   ],
+   "definition": "인공지능 모델의 매개변수·중간 계산값의 표현, 모델 구조와 추론 경로를 바꿔 계산량이나 메모리 사용을 줄이는 방법.",
+   "related": [
+    "ai-systems-infrastructure",
+    "edge-computing"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "federated-learning",
+   "name_ko": "연합학습·분산 학습",
+   "name_en": "Federated and distributed learning",
+   "axis": "method",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "연합학습",
+    "연합 학습",
+    "분산 학습",
+    "분산 기계학습",
+    "federated learning",
+    "distributed learning"
+   ],
+   "definition": "자료를 한곳에 모으지 않고 여러 기기나 기관이 나눠 가진 채로 함께 모델을 학습하는 방법과, 학습을 여러 장치에 나눠 하는 방법.",
+   "related": [
+    "edge-computing",
+    "ml-security-privacy"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "continual-learning",
+   "name_ko": "연속학습",
+   "name_en": "Continual learning",
+   "axis": "method",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "지속 학습",
+    "연속 학습",
+    "평생 학습",
+    "점진 학습",
+    "lifelong learning",
+    "incremental learning"
+   ],
+   "definition": "새 자료나 과제가 차례로 주어질 때 앞서 배운 것을 유지하면서 모델을 계속 학습시키는 방법.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "ml-security-privacy",
+   "name_ko": "AI·기계학습 보안·프라이버시",
+   "name_en": "AI and machine learning security and privacy",
+   "axis": "application",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "기계학습 보안",
+    "AI 보안",
+    "AI 모델 보안",
+    "적대적 공격",
+    "프라이버시 보호 기계학습",
+    "기계학습의 차분 프라이버시",
+    "AI 모델 보안 시험",
+    "machine learning security",
+    "adversarial attack",
+    "differentially private machine learning",
+    "privacy-preserving machine learning"
+   ],
+   "definition": "기계학습 모델과 그 학습 자료를 공격·오용·정보 유출에서 지키고, 모델이 안전하게 동작하는지 시험하는 기술.",
+   "related": [
+    "network-security-privacy",
+    "software-security",
+    "responsible-ai"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "통신망을 오가는 데이터 보호는 네트워크 보안·프라이버시, 프로그램 취약점은 소프트웨어·시스템 보안."
+  },
+  {
+   "id": "responsible-ai",
+   "name_ko": "책임 있는 AI·공정성",
+   "name_en": "Responsible AI and fairness",
+   "axis": "method",
+   "fields": [
+    "computing-ai",
+    "social-humanities"
+   ],
+   "aliases": [
+    "공정성",
+    "책임 있는 AI",
+    "신뢰할 수 있는 인공지능",
+    "신뢰할 수 있는 AI",
+    "AI 윤리",
+    "fairness",
+    "responsible AI",
+    "trustworthy AI"
+   ],
+   "definition": "인공지능이 사람과 사회에 공정하고 믿을 수 있게 작동하도록 편향·투명성·책임을 측정하고 개선하는 연구.",
+   "related": [
+    "explainable-ai",
+    "ml-security-privacy"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "explainable-ai",
+   "name_ko": "설명 가능한 AI(XAI)",
+   "name_en": "Explainable AI (XAI)",
+   "axis": "method",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "XAI",
+    "설명 가능한 인공지능",
+    "해석 가능한 기계학습",
+    "explainable AI",
+    "interpretable machine learning",
+    "interpretability"
+   ],
+   "definition": "인공지능 모델이 어떤 근거로 결과를 냈는지 사람이 이해할 수 있게 밝히거나 그렇게 설계하는 방법.",
+   "related": [
+    "responsible-ai"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "data-centric-ai",
+   "name_ko": "데이터 중심 AI·데이터 효율 학습",
+   "name_en": "Data-centric AI and data-efficient learning",
+   "axis": "method",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "데이터 중심 AI",
+    "데이터 효율 학습",
+    "데이터셋 증류",
+    "코어셋 선택",
+    "데이터 가치 평가",
+    "잡음 라벨 학습",
+    "data-centric AI",
+    "dataset distillation",
+    "coreset selection",
+    "data valuation",
+    "noisy label learning"
+   ],
+   "definition": "학습 자료의 품질·선택·구성·가치 평가와, 주어진 자료에서 학습에 필요한 정보를 얻는 효율을 다루는 방법.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "recommender-systems",
+   "name_ko": "추천 시스템",
+   "name_en": "Recommender systems",
+   "axis": "application",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "협업 필터링",
+    "recommender system",
+    "recommendation",
+    "collaborative filtering"
+   ],
+   "definition": "사용자의 기록과 항목 정보로 사용자가 고를 만한 항목을 골라 제시하는 시스템과 그 알고리즘.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "medical-ai",
+   "name_ko": "의료 AI",
+   "name_en": "Medical AI",
+   "axis": "application",
+   "fields": [
+    "computing-ai"
+   ],
+   "aliases": [
+    "의료 인공지능",
+    "AI 의료 영상 분석",
+    "AI 의료 영상 판독",
+    "AI 임상 자료 분석",
+    "AI 계산 병리",
+    "AI-based medical image analysis",
+    "clinical AI",
+    "AI-based computational pathology"
+   ],
+   "definition": "의료 영상·생체 신호·임상 기록 같은 의료 자료를 인공지능으로 분석하는 기술.",
+   "related": [
+    "medical-imaging-systems"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 인공지능 방법·시스템 개발이 연구의 핵심일 때 단다. 기존 도구를 임상 자료에 적용만 한 연구에는 달지 않는다. 영상 장치·재구성은 의료 영상 기기·재구성."
+  },
+  {
+   "id": "information-theory",
+   "name_ko": "정보 이론",
+   "name_en": "Information theory",
+   "axis": "method",
+   "fields": [
+    "math-statistics",
+    "computing-ai"
+   ],
+   "aliases": [
+    "정보이론",
+    "섀넌 이론",
+    "채널 용량",
+    "channel capacity"
+   ],
+   "definition": "정보의 양과, 잡음이 있는 통로로 정보를 보내거나 압축할 수 있는 한계를 수학적으로 다루는 이론.",
+   "related": [
+    "coding-theory"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "multi-agent-systems",
+   "name_ko": "다중 에이전트 시스템·분산 의사결정",
+   "name_en": "Multi-agent systems and decentralized decision making",
+   "axis": "method",
+   "fields": [
+    "computing-ai",
+    "industrial-systems"
+   ],
+   "aliases": [
+    "다중 에이전트",
+    "다중 행위자 시스템",
+    "분산 의사결정",
+    "합의 알고리즘",
+    "다중 에이전트 의사결정 알고리즘",
+    "다중 무인기 임무 할당",
+    "multi-agent system",
+    "decentralized decision making",
+    "consensus algorithm"
+   ],
+   "definition": "여러 행위자(에이전트)가 각자 정보와 판단을 가지고 서로 영향을 주고받는 시스템과, 그 행위자들의 의사결정을 설계하는 모형·알고리즘.",
+   "related": [
+    "multi-robot-logistics"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "로봇·운반차 여러 대의 작업 배분은 다중 로봇 협업·물류 자동화를 함께 단다."
+  },
+  {
+   "id": "state-estimation",
+   "name_ko": "상태 추정·필터링(데이터 동화)",
+   "name_en": "State estimation, filtering and data assimilation",
+   "axis": "method",
+   "fields": [
+    "math-statistics",
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "상태 추정",
+    "칼만 필터",
+    "베이지안 필터링",
+    "데이터 동화",
+    "관측기",
+    "state estimation",
+    "Kalman filter",
+    "Bayesian filtering",
+    "data assimilation",
+    "state observer"
+   ],
+   "definition": "불완전하거나 잡음이 있는 관측 자료와 시스템 모형을 이용해 시스템 상태를 추정하고 갱신하는 방법.",
+   "related": [
+    "control-theory",
+    "prognostics-health-management"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "기계 신호로 고장을 예측하면 고장 진단·수명 예측."
+  },
+  {
+   "id": "event-camera-vision",
+   "name_ko": "이벤트 카메라 비전",
+   "name_en": "Event camera vision",
+   "axis": "method",
+   "fields": [
+    "computing-ai",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "이벤트 카메라",
+    "동적 비전 센서",
+    "event camera",
+    "dynamic vision sensor",
+    "DVS"
+   ],
+   "definition": "화소마다 밝기 변화가 생길 때만 신호를 내는 이벤트 카메라와 그 자료를 처리하는 비전 기술.",
+   "related": [
+    "computer-vision"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "bioinspired-vision",
+   "name_ko": "생체모사 시각·겹눈 영상",
+   "name_en": "Bioinspired vision and compound-eye imaging",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics",
+    "materials"
+   ],
+   "aliases": [
+    "생체모사 카메라",
+    "생체모방 시각",
+    "겹눈 카메라",
+    "인공 겹눈",
+    "bioinspired vision",
+    "compound-eye imaging system",
+    "artificial compound eye"
+   ],
+   "definition": "동물 눈의 구조나 시각 원리를 본떠 만든 영상 센서·광학계와 그 영상 기술.",
+   "related": [
+    "optical-imaging-microscopy"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "drones-uav",
+   "name_ko": "드론·무인 항공기",
+   "name_en": "Drones and unmanned aerial vehicles",
+   "axis": "application",
+   "fields": [
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "드론",
+    "무인기",
+    "무인 항공기",
+    "멀티콥터",
+    "UAV",
+    "drone",
+    "unmanned aerial vehicle",
+    "quadrotor"
+   ],
+   "definition": "사람이 타지 않고 원격 조종하거나 스스로 나는 항공기와 그 비행 제어·임무 기술.",
+   "related": [
+    "gnc",
+    "multi-robot-logistics"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "gnc",
+   "name_ko": "유도·항법·제어(GNC)",
+   "name_en": "Guidance, navigation and control (GNC)",
+   "axis": "method",
+   "fields": [
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "GNC",
+    "유도 항법 제어",
+    "비행 제어",
+    "자세 제어",
+    "자세 결정",
+    "위성 자세 제어",
+    "유도 법칙",
+    "비행체 유도 궤적 최적화",
+    "guidance navigation and control",
+    "attitude control",
+    "attitude determination",
+    "flight control",
+    "guidance law",
+    "전산 유도",
+    "computational guidance"
+   ],
+   "definition": "비행체·우주비행체가 자기 위치와 자세를 알아내고(항법) 따라갈 경로를 정하며(유도) 그대로 움직이게 하는(제어) 기술.",
+   "related": [
+    "drones-uav",
+    "astrodynamics",
+    "control-theory"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "국방 응용은 방법과 대상 수준으로만 쓴다. 로봇 위치 추정·지도 작성은 로봇 항법·SLAM. 비행체의 유도 경로 최적화는 이 태그, 우주 궤도의 운동·전이 설계는 궤도역학·우주 궤적 설계로 구분한다."
+  },
+  {
+   "id": "astrodynamics",
+   "name_ko": "궤도역학·우주 궤적 설계",
+   "name_en": "Astrodynamics and spacecraft trajectory design",
+   "axis": "method",
+   "fields": [
+    "mechanical-robotics",
+    "physics"
+   ],
+   "aliases": [
+    "궤도역학",
+    "우주 궤적",
+    "궤도 설계",
+    "궤도 전이",
+    "중력 도움",
+    "astrodynamics",
+    "orbital mechanics",
+    "spacecraft trajectory design",
+    "orbit transfer"
+   ],
+   "definition": "중력과 추력 아래에서 우주비행체가 그리는 궤도와 경로를 계산하고 임무에 맞게 설계하는 분야.",
+   "related": [
+    "gnc",
+    "on-orbit-servicing"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "on-orbit-servicing",
+   "name_ko": "궤도상 서비싱·랑데부·우주 로봇",
+   "name_en": "On-orbit servicing, rendezvous and space robotics",
+   "axis": "application",
+   "fields": [
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "랑데부",
+    "우주선 도킹",
+    "근접 운용",
+    "궤도상 서비싱",
+    "우주 로봇",
+    "우주 쓰레기 제거",
+    "행성 탐사 로버",
+    "rendezvous",
+    "docking",
+    "proximity operations",
+    "on-orbit servicing",
+    "space robotics",
+    "active debris removal",
+    "planetary rover"
+   ],
+   "definition": "우주에서 다른 물체에 다가가 맞붙거나 붙잡아 수리·조립·연료 보급·제거하는 기술과, 우주와 행성 표면에서 일하는 로봇.",
+   "related": [
+    "astrodynamics",
+    "robot-manipulation"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "launch-vehicles",
+   "name_ko": "발사체·로켓 추진",
+   "name_en": "Launch vehicles and rocket propulsion",
+   "axis": "application",
+   "fields": [
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "발사체",
+    "우주 발사체",
+    "재사용 발사체",
+    "로켓",
+    "로켓 엔진",
+    "화학 로켓 추진",
+    "고체 로켓 모터",
+    "launch vehicle",
+    "reusable launch vehicle",
+    "rocket propulsion",
+    "rocket engine"
+   ],
+   "definition": "물체를 우주로 올려 보내는 발사체와 그 로켓 추진 기관·비행 설계.",
+   "related": [
+    "electric-propulsion",
+    "combustion",
+    "gnc"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "전기로 플라즈마·이온을 가속하는 추진은 우주 전기 추진."
+  },
+  {
+   "id": "space-environment-testing",
+   "name_ko": "우주 환경 시험·우주 소재 내구성",
+   "name_en": "Space environment testing and durability of space materials",
+   "axis": "method",
+   "fields": [
+    "materials",
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "우주 환경 시험",
+    "원자 산소 노출 시험",
+    "우주 환경 열 순환 시험",
+    "space environment testing",
+    "atomic oxygen exposure testing",
+    "space materials durability"
+   ],
+   "definition": "진공·열 순환·자외선·원자 산소·방사선 같은 우주 환경을 지상에서 재현하거나 우주에 노출해 소재와 부품이 견디는지 시험하는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "gnss",
+   "name_ko": "위성항법(GNSS)",
+   "name_en": "Global Navigation Satellite System (GNSS)",
+   "axis": "application",
+   "fields": [
+    "electrical-electronics",
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "GNSS",
+    "GPS",
+    "위성항법",
+    "위성 항법 보강",
+    "위성항법 무결성",
+    "GBAS",
+    "SBAS",
+    "satellite navigation",
+    "GNSS navigation integrity"
+   ],
+   "definition": "위성이 보내는 신호로 수신기의 위치·속도·시각을 구하는 기술과 그 신호·수신기·보강 체계.",
+   "related": [
+    "gnc",
+    "precision-timing"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "urban-air-mobility",
+   "name_ko": "도심 항공 모빌리티(UAM)",
+   "name_en": "Urban air mobility (UAM)",
+   "axis": "application",
+   "fields": [
+    "mechanical-robotics",
+    "civil-infrastructure"
+   ],
+   "aliases": [
+    "UAM",
+    "도심 항공 교통",
+    "버티포트",
+    "도심 운항용 eVTOL",
+    "urban air mobility",
+    "vertiport"
+   ],
+   "definition": "도시 안과 주변에서 사람·화물을 나르는 항공기 운항과 그 기체·이착륙장·교통 관리.",
+   "related": [
+    "drones-uav",
+    "transport-urban-planning"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "deployable-structures",
+   "name_ko": "전개형 구조물·종이접기 공학",
+   "name_en": "Deployable structures and origami engineering",
+   "axis": "object",
+   "fields": [
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "전개형 구조물",
+    "접이식 구조물",
+    "오리가미",
+    "키리가미",
+    "종이접기 공학",
+    "deployable structure",
+    "origami engineering",
+    "kirigami"
+   ],
+   "definition": "접거나 감은 상태에서 펼쳐 쓰도록 설계한 구조물과, 종이접기·자르기 원리를 구조 설계에 쓰는 공학.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "ndt-shm",
+   "name_ko": "비파괴 검사·구조 건전성 모니터링",
+   "name_en": "Nondestructive testing and structural health monitoring",
+   "axis": "method",
+   "fields": [
+    "mechanical-robotics",
+    "civil-infrastructure"
+   ],
+   "aliases": [
+    "비파괴 검사",
+    "비파괴 평가",
+    "구조 건전성 모니터링",
+    "구조 건전성 감시",
+    "SHM",
+    "초음파 검사",
+    "산업용 방사선 검사",
+    "방사선 투과 검사",
+    "nondestructive testing",
+    "NDT",
+    "NDE",
+    "structural health monitoring",
+    "ultrasonic testing"
+   ],
+   "definition": "대상의 사용 기능을 훼손하지 않고 결함·손상을 평가하는 검사와, 측정 자료를 통해 구조물의 상태·손상 변화를 감시하는 기술.",
+   "related": [
+    "semiconductor-metrology",
+    "x-ray-imaging"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "반도체 소자·웨이퍼의 결함·두께 측정은 반도체 계측·검사."
+  },
+  {
+   "id": "robot-manipulation",
+   "name_ko": "로봇 조작·파지",
+   "name_en": "Robot manipulation and grasping",
+   "axis": "method",
+   "fields": [
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "로봇 조작",
+    "로봇 파지",
+    "로봇 팔",
+    "매니퓰레이터",
+    "그리퍼",
+    "robot manipulation",
+    "grasping",
+    "manipulator",
+    "robotic gripper"
+   ],
+   "definition": "로봇이 팔·손으로 물체를 잡고 옮기고 다루는 기술.",
+   "related": [
+    "robot-actuators-sensors",
+    "robot-navigation-slam"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "biomechanics",
+   "name_ko": "생체역학",
+   "name_en": "Biomechanics",
+   "axis": "object",
+   "fields": [
+    "mechanical-robotics",
+    "basic-life"
+   ],
+   "aliases": [
+    "인체 운동 분석",
+    "보행 분석",
+    "근골격 모델",
+    "혈류 역학",
+    "gait analysis",
+    "musculoskeletal model",
+    "hemodynamics"
+   ],
+   "definition": "생물의 몸과 조직에 걸리는 힘과 움직임, 몸속 유체의 흐름을 역학으로 다루는 분야.",
+   "related": [
+    "wearable-robot",
+    "rehabilitation-assistive"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "computational-mechanics",
+   "name_ko": "전산역학·수치 해석",
+   "name_en": "Computational mechanics and numerical analysis",
+   "axis": "method",
+   "fields": [
+    "mechanical-robotics",
+    "math-statistics"
+   ],
+   "aliases": [
+    "전산역학",
+    "유한요소",
+    "유한요소법",
+    "다중 스케일 해석",
+    "수치 해석",
+    "FEM",
+    "finite element method",
+    "computational mechanics",
+    "multiscale modeling"
+   ],
+   "definition": "고체·구조물·연속체의 거동을 지배 방정식의 수치 계산으로 풀어 예측하는 방법.",
+   "related": [
+    "fluid-mechanics",
+    "solid-mechanics"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "유체 흐름 계산은 유체역학·유동."
+  },
+  {
+   "id": "solid-mechanics",
+   "name_ko": "고체역학·소성",
+   "name_en": "Solid mechanics and plasticity",
+   "axis": "object",
+   "fields": [
+    "mechanical-robotics",
+    "materials"
+   ],
+   "aliases": [
+    "고체역학",
+    "소성 변형",
+    "구성 모델",
+    "금속 성형",
+    "solid mechanics",
+    "plasticity",
+    "constitutive model",
+    "metal forming"
+   ],
+   "definition": "고체가 힘을 받아 변형하고 부서지는 거동과, 힘을 없애도 남는 변형(소성)을 다루는 역학.",
+   "related": [
+    "computational-mechanics",
+    "impact-crashworthiness"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "impact-crashworthiness",
+   "name_ko": "충격·내충돌·폭발 방호",
+   "name_en": "Impact, crashworthiness and blast protection",
+   "axis": "application",
+   "fields": [
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "고속 파괴",
+    "내충돌",
+    "충돌 에너지 흡수",
+    "폭발 방호",
+    "impact",
+    "crashworthiness",
+    "blast protection",
+    "high strain rate"
+   ],
+   "definition": "충돌·충격·폭발처럼 빠르게 가해지는 하중에서 구조물과 소재가 변형·파괴되는 과정을 밝히고, 에너지를 흡수하거나 피해를 줄이도록 설계하는 분야.",
+   "related": [
+    "solid-mechanics"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "vehicle-dynamics",
+   "name_ko": "차량 동역학·섀시 제어",
+   "name_en": "Vehicle dynamics and chassis control",
+   "axis": "method",
+   "fields": [
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "차량 동역학",
+    "섀시 제어",
+    "조향 제어",
+    "현가 장치",
+    "vehicle dynamics",
+    "chassis control",
+    "steering control",
+    "suspension"
+   ],
+   "definition": "차량의 주행·조향·제동·현가에서 생기는 움직임을 모형으로 다루고 제어하는 분야.",
+   "related": [
+    "autonomous-driving",
+    "electric-vehicle"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "superconducting-applications",
+   "name_ko": "초전도 응용 기기",
+   "name_en": "Superconducting applications",
+   "axis": "application",
+   "fields": [
+    "electrical-electronics",
+    "physics"
+   ],
+   "aliases": [
+    "초전도 자석",
+    "초전도 케이블",
+    "초전도 응용",
+    "고온 초전도 응용",
+    "superconducting magnet",
+    "superconducting cable",
+    "HTS application"
+   ],
+   "definition": "초전도체를 써서 만든 자석·전선·전력 기기·센서 같은 장치와 그 냉각·운전 기술.",
+   "related": [
+    "superconductivity"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "초전도 현상과 물질 자체는 초전도."
+  },
+  {
+   "id": "radiation-detection",
+   "name_ko": "방사선 검출·계측",
+   "name_en": "Radiation detection and measurement",
+   "axis": "method",
+   "fields": [
+    "physics",
+    "energy-environment"
+   ],
+   "aliases": [
+    "방사선 검출",
+    "방사선 검출기",
+    "섬광체",
+    "선량 계측",
+    "감마선 분광",
+    "radiation detection",
+    "radiation detector",
+    "scintillator",
+    "dosimetry",
+    "gamma-ray spectroscopy"
+   ],
+   "definition": "방사선을 감지해 그 종류·세기·에너지·선량을 재는 검출기와 측정 기술.",
+   "related": [
+    "medical-imaging-systems",
+    "nuclear-reactor"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "nuclear-materials",
+   "name_ko": "핵연료·원자력 재료",
+   "name_en": "Nuclear fuel and nuclear materials",
+   "axis": "object",
+   "fields": [
+    "materials",
+    "energy-environment"
+   ],
+   "aliases": [
+    "핵연료",
+    "피복관",
+    "원자력 재료",
+    "원자력 구조재",
+    "조사 손상",
+    "nuclear fuel",
+    "cladding",
+    "nuclear materials",
+    "irradiation damage"
+   ],
+   "definition": "원자로에서 쓰는 핵연료와 피복관·구조재 같은 재료, 그리고 방사선·고온·부식 환경에서 그 재료가 변하는 성질.",
+   "related": [
+    "nuclear-reactor",
+    "nuclear-fuel-cycle"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "nuclear-fuel-cycle",
+   "name_ko": "핵연료 주기·방사성 폐기물",
+   "name_en": "Nuclear fuel cycle and radioactive waste",
+   "axis": "application",
+   "fields": [
+    "energy-environment",
+    "chemistry"
+   ],
+   "aliases": [
+    "방사성 폐기물",
+    "사용후핵연료",
+    "핵연료 주기",
+    "파이로프로세싱",
+    "건식 재처리",
+    "핵종 포집",
+    "핵변환",
+    "radioactive waste",
+    "spent nuclear fuel",
+    "nuclear fuel cycle",
+    "pyroprocessing",
+    "transmutation"
+   ],
+   "definition": "핵연료를 만들고 쓰고 난 뒤의 처리·재활용·처분 과정과, 방사성 폐기물·핵종을 분리·포집·저장하는 기술.",
+   "related": [
+    "nuclear-materials",
+    "nuclear-reactor"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "gas-sensors",
+   "name_ko": "가스 센서",
+   "name_en": "Gas sensors",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics",
+    "materials"
+   ],
+   "aliases": [
+    "기체 센서",
+    "화학 저항형 가스 센서",
+    "gas sensor",
+    "chemiresistive gas sensor"
+   ],
+   "definition": "기체 환경에서 특정 성분의 존재나 농도를 감지해 신호로 나타내는 센서와 그 감지 소재.",
+   "related": [
+    "optical-sensing"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "piezoelectric",
+   "name_ko": "압전 소재·소자",
+   "name_en": "Piezoelectric materials and devices",
+   "axis": "object",
+   "fields": [
+    "materials",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "압전",
+    "압전 소재",
+    "압전 소자",
+    "압전 센서",
+    "piezoelectric",
+    "piezoelectric material",
+    "PZT"
+   ],
+   "definition": "변형되면 전기 분극이 생기고 전기장을 걸면 변형되는 소재와, 이를 쓴 센서·구동기·발전 소자.",
+   "related": [
+    "ferroelectrics",
+    "energy-harvesting"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "supercapacitors",
+   "name_ko": "슈퍼커패시터",
+   "name_en": "Supercapacitors",
+   "axis": "object",
+   "fields": [
+    "energy-environment",
+    "materials"
+   ],
+   "aliases": [
+    "전기 이중층 커패시터",
+    "하이브리드 커패시터",
+    "리튬 이온 커패시터",
+    "supercapacitor",
+    "electric double-layer capacitor",
+    "hybrid capacitor"
+   ],
+   "definition": "전극 표면의 전하 축적이나 표면 근처의 산화·환원 반응으로 전기 에너지를 저장하는 축전 소자.",
+   "related": [
+    "battery-materials"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "alloy-design",
+   "name_ko": "합금 설계·금속 구조 소재",
+   "name_en": "Alloy design and structural metals",
+   "axis": "object",
+   "fields": [
+    "materials"
+   ],
+   "aliases": [
+    "합금 설계",
+    "금속 구조 소재",
+    "구조용 금속",
+    "고엔트로피 합금",
+    "초합금",
+    "내열 합금",
+    "alloy design",
+    "structural alloy",
+    "high-entropy alloy",
+    "superalloy"
+   ],
+   "definition": "금속 원소와 다른 원소로 이루어진 합금의 조성·미세조직을 설계하고, 구조용 금속 소재의 성질을 다루는 분야.",
+   "related": [
+    "nuclear-materials"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "composites",
+   "name_ko": "복합재료",
+   "name_en": "Composite materials",
+   "axis": "object",
+   "fields": [
+    "materials",
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "복합재",
+    "섬유강화 복합재",
+    "탄소섬유 복합재",
+    "나노복합재",
+    "다기능 복합재",
+    "구조 전지",
+    "composite",
+    "fiber-reinforced composite",
+    "nanocomposite",
+    "CFRP"
+   ],
+   "definition": "성질이 다른 두 가지 이상의 재료를 구분되는 상으로 합쳐 만든 재료와 그 구조·제조 공정.",
+   "related": [
+    "carbon-nanotubes"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "carbon-nanotubes",
+   "name_ko": "탄소나노튜브 소재·소자",
+   "name_en": "Carbon nanotube materials and devices",
+   "axis": "object",
+   "fields": [
+    "materials",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "탄소나노튜브",
+    "탄소 나노튜브",
+    "CNT",
+    "carbon nanotube"
+   ],
+   "definition": "탄소 원자가 육각형 그물로 이어진 층이 원통 모양을 이룬 물질과, 이를 쓴 소재·소자.",
+   "related": [
+    "2d-materials",
+    "composites"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "그래핀 같은 판 모양 물질은 2차원 소재."
+  },
+  {
+   "id": "framework-materials",
+   "name_ko": "다공성 골격 소재(MOF·COF)",
+   "name_en": "Porous framework materials (MOFs and COFs)",
+   "axis": "object",
+   "fields": [
+    "materials",
+    "chemistry"
+   ],
+   "aliases": [
+    "금속-유기 골격체",
+    "MOF",
+    "공유결합 유기 골격체",
+    "COF",
+    "다공성 골격체",
+    "metal-organic framework",
+    "covalent organic framework"
+   ],
+   "definition": "금속 이온이나 유기 분자를 화학 결합으로 이어 구멍이 있는 골격을 이룬 결정성 소재.",
+   "related": [
+    "membrane-separation",
+    "carbon-capture-storage"
+   ],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "medical-imaging-systems",
+   "name_ko": "의료 영상 기기·재구성",
+   "name_en": "Medical imaging systems and reconstruction",
+   "axis": "method",
+   "fields": [
+    "electrical-electronics",
+    "physics"
+   ],
+   "aliases": [
+    "CT",
+    "PET",
+    "SPECT",
+    "MRI",
+    "자기공명영상",
+    "컴퓨터 단층촬영",
+    "양전자 단층촬영",
+    "단층합성",
+    "의료 영상 재구성",
+    "자기공명영상용 NMR 장치",
+    "medical imaging",
+    "medical image reconstruction",
+    "magnetic resonance imaging",
+    "computed tomography"
+   ],
+   "definition": "몸속 구조와 기능을 영상으로 얻는 영상 장치(CT·PET·SPECT·MRI 등)와, 측정 신호에서 영상을 만드는 재구성 기술.",
+   "related": [
+    "medical-ai",
+    "radiation-detection",
+    "ultrasound"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 장치·측정·재구성 방법을 개발할 때 단다. 광학 현미경은 광학 영상·현미경, 초음파는 초음파 영상·센싱, 영상 판독 인공지능은 의료 AI."
+  },
+  {
+   "id": "ultrasound",
+   "name_ko": "초음파 영상·센싱",
+   "name_en": "Ultrasound imaging and sensing",
+   "axis": "method",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "초음파 영상",
+    "초음파 센싱",
+    "의료 초음파",
+    "영상·센싱용 집속 초음파",
+    "초음파 트랜스듀서",
+    "pMUT",
+    "ultrasound imaging",
+    "ultrasonic sensing",
+    "focused ultrasound imaging and sensing",
+    "ultrasound transducer"
+   ],
+   "definition": "가청 범위 위의 주파수를 가진 음파의 전파·반사·산란을 이용해 대상의 구조나 물성을 영상화하거나 측정하는 기술과 그 변환기·회로.",
+   "related": [
+    "medical-imaging-systems"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 장치·회로·영상 방법을 개발할 때 단다. 구조물 결함 검사는 비파괴 검사·구조 건전성 모니터링."
+  },
+  {
+   "id": "bioinformatics",
+   "name_ko": "바이오정보학·계산생물학",
+   "name_en": "Bioinformatics and computational biology",
+   "axis": "method",
+   "fields": [
+    "basic-life",
+    "computing-ai"
+   ],
+   "aliases": [
+    "생물정보학",
+    "바이오인포매틱스",
+    "계산생물학",
+    "면역 정보학",
+    "유전체 분석",
+    "bioinformatics",
+    "computational biology",
+    "immunoinformatics"
+   ],
+   "definition": "유전체·단백질·생물 네트워크 같은 생물 자료를 계산 방법으로 분석하고 모형화하는 분야.",
+   "related": [
+    "single-cell-spatial-omics",
+    "ai-drug-discovery"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 새 분석 방법·모형을 개발할 때 단다. 기존 도구를 질병 자료에 적용만 한 연구에는 달지 않는다."
+  },
+  {
+   "id": "ai-drug-discovery",
+   "name_ko": "AI 신약 개발",
+   "name_en": "AI-driven drug discovery",
+   "axis": "application",
+   "fields": [
+    "computing-ai",
+    "chemical-bioengineering"
+   ],
+   "aliases": [
+    "AI 신약",
+    "AI 약물-표적 예측",
+    "AI 약물 재창출",
+    "AI 인실리코 스크리닝",
+    "AI drug discovery",
+    "AI-based drug-target interaction prediction",
+    "AI-based drug repurposing",
+    "AI-based virtual screening"
+   ],
+   "definition": "약이 될 분자와 그 표적·효과·부작용을 계산과 인공지능으로 찾고 예측하는 기술.",
+   "related": [
+    "bioinformatics"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 계산·인공지능 방법 개발이 핵심일 때 단다."
+  },
+  {
+   "id": "single-cell-spatial-omics",
+   "name_ko": "단일 세포·공간 오믹스",
+   "name_en": "Single-cell and spatial omics",
+   "axis": "method",
+   "fields": [
+    "basic-life"
+   ],
+   "aliases": [
+    "단일 세포 오믹스",
+    "단일세포 오믹스",
+    "단일세포 전사체",
+    "공간 오믹스",
+    "공간 전사체",
+    "공간 오믹스 분자 영상",
+    "single-cell omics",
+    "spatial omics",
+    "spatial transcriptomics",
+    "scRNA-seq"
+   ],
+   "definition": "세포별 또는 조직 내 위치별로 분자 성분의 집합을 체계적으로 측정·분석해 생물학적 상태와 분포를 다루는 기술.",
+   "related": [
+    "bioinformatics"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 측정·분석 기술을 개발할 때 단다."
+  },
+  {
+   "id": "drug-gene-delivery",
+   "name_ko": "약물·유전자 전달체",
+   "name_en": "Drug and gene delivery carriers",
+   "axis": "object",
+   "fields": [
+    "materials",
+    "chemical-bioengineering"
+   ],
+   "aliases": [
+    "약물 전달체",
+    "약물 전달 시스템",
+    "나노 운반체",
+    "지질 나노입자",
+    "LNP",
+    "유전자 전달체",
+    "mRNA 전달체",
+    "nanocarrier",
+    "lipid nanoparticle",
+    "gene delivery carrier",
+    "drug delivery carrier"
+   ],
+   "definition": "약물이나 유전 물질을 몸속 원하는 곳까지 옮기고 내놓도록 설계한 운반체와 그 소재.",
+   "related": [
+    "biomaterials"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 운반체 소재·구조를 개발할 때 단다. 치료 효과 평가만 있으면 달지 않는다."
+  },
+  {
+   "id": "neural-circuits-behavior",
+   "name_ko": "신경회로·행동 신경과학",
+   "name_en": "Neural circuits and behavioral neuroscience",
+   "axis": "object",
+   "fields": [
+    "basic-life"
+   ],
+   "aliases": [
+    "신경회로",
+    "행동 신경과학",
+    "시스템 신경과학",
+    "신경회로의 학습·기억 기전",
+    "광유전학 회로 연구",
+    "neural circuits",
+    "behavioral neuroscience",
+    "systems neuroscience"
+   ],
+   "definition": "신경세포들이 이룬 회로의 구성과 활동이 행동·학습·기억에 연결되는 원리를 다루는 신경과학 분야.",
+   "related": [
+    "computational-neuroscience",
+    "animal-behavior-quantification"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 수학 모형·계산으로 신경 정보 처리 원리를 연구하면 계산신경과학도 함께 검토한다."
+  },
+  {
+   "id": "animal-behavior-quantification",
+   "name_ko": "동물 행동 정량 분석",
+   "name_en": "Quantitative animal behavior analysis",
+   "axis": "method",
+   "fields": [
+    "basic-life",
+    "computing-ai"
+   ],
+   "aliases": [
+    "동물 행동 정량화",
+    "행동 정량화",
+    "동물 자세 추정",
+    "animal behavior quantification",
+    "quantitative animal behavioral phenotyping",
+    "animal pose estimation"
+   ],
+   "definition": "동물의 움직임과 행동을 관찰·측정한 자료에서 수치로 나타내고 그 패턴을 분석하는 방법.",
+   "related": [
+    "neural-circuits-behavior"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다."
+  },
+  {
+   "id": "neuroimaging",
+   "name_ko": "신경영상 분석·뇌 연결망",
+   "name_en": "Neuroimaging analysis and brain networks",
+   "axis": "method",
+   "fields": [
+    "basic-life",
+    "computing-ai"
+   ],
+   "aliases": [
+    "신경영상",
+    "뇌 영상 분석",
+    "뇌 연결망",
+    "fMRI 분석",
+    "확산 MRI 분석",
+    "커넥톰",
+    "connectome",
+    "neuroimaging",
+    "brain network",
+    "functional MRI analysis"
+   ],
+   "definition": "뇌 영상 자료에서 구조·활동을 분석하고, 신경세포나 뇌 영역 사이의 연결망을 구성·분석하는 방법.",
+   "related": [
+    "computational-neuroscience",
+    "medical-imaging-systems"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 분석 방법을 개발하거나 정상 뇌 기능의 원리를 밝힐 때 단다. MRI·fMRI·확산 MRI의 장치·신호 획득·재구성 방법 개발은 의료 영상 기기·재구성, 획득한 뇌 영상의 활동·연결망 분석은 이 태그로 구분한다."
   }
  ],
  "changelog": [
@@ -4218,6 +5940,10 @@
   {
    "date": "2026-10-22",
    "change": "v1.5 사용자 승인(census-13 어휘 안건, 「권고대로」): 신규 태그 「제어 이론·제어 공학」(acss), 「그래프 기계학습·지식 그래프」(bdi-lab), 「수소 생산·연료 개질」(necs). 위성통신·비지상 네트워크는 「무선·이동통신」의 하위 용어 별칭(규칙 V-2, acai). 동형 암호·프라이버시 보호 계산(castlab)은 「네트워크 보안·프라이버시」가 통신망을 오가는 데이터 보호로 정의돼 있어 별칭이 아니라 trend-queries.json 검색어로 두었다. 이징 머신·물리 영감 계산(bongjin)과 FPGA·재구성형 하드웨어(castlab)는 한 곳에만 해당해 보류한다"
+  },
+  {
+   "date": "2026-10-26",
+   "change": "v1.6 사용자 승인(D-25d 검토표 collection-staging/2026-10-26/tags-v16-review.md, 세션 안 질문): 신규 태그 62개(회로·컴퓨터·AI 26, 항공우주·기계·원자력 20, 소재·센서 7, 의생명·신경 9; GNC는 비행체·우주비행체 한 태그). 규칙 V-2 별칭 14줄(무선·이동통신, 광통신, 첨단 반도체 패키징, 열전달·열관리, 광학 영상·현미경, 스마트 그리드·전력 관리, 핵융합, 원자로·원자력 시스템, 연소·엔진, 신경 인터페이스, 진단 기기·바이오센서, 이차전지 소재, 장기 칩, 로봇 항법·SLAM). 정정: 메타물질·메타광학 definition, 별칭 「비파괴 검사」를 반도체 계측·검사에서 비파괴 검사·구조 건전성 모니터링으로, 「커넥톰·connectome」을 계산신경과학에서 신경영상 분석·뇌 연결망으로, 「약물 전달·약물 전달체·drug delivery」를 생체재료·조직 공학에서 약물·유전자 전달체로 옮김. 활성 랩 기준으로 뺀 cadol·caislab 요청은 세지 않음. 의생명 태그 note에 plan §3 범위 조건. GPT-6.1-sol QA(qa/tags-v16-review-2026-10-26.md, F1–F35·N1–N4) 반영: 신규 태그 별칭을 V-2에 맞게 한정(집적회로·AI·핵융합 플라즈마·원자로·우주 등 조건을 붙임), 정의 정정(model-compression, neuroimaging, optical-imaging-microscopy, battery-materials, ultrasound, ndt-shm, gas-sensors, alloy-design, neural-circuits-behavior, single-cell-spatial-omics, hpc, state-estimation, body-channel-communication, animal-behavior-quantification, data-centric-ai), 「약물 전달·drug delivery」는 생체재료·조직 공학에 그대로 두고 「약물 전달체」만 옮김, 치료 초음파 제외, AAM·일반 플라즈마 용어·모션 플래닝 등 상위어는 별칭에서 빼고 트렌드 사전 후속으로 둠."
   }
  ]
 }
