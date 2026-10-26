@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (267곳)
+## KAIST 연구실 (268곳)
 
 ### 기계공학과 (53)
 
@@ -165,7 +165,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [전산 소재 설계 및 탐색 연구실 (Computational Materials Design & Discovery Lab, CMDD)](wiki/kaist/cmdd.md) | 서동화 교수 | 계산, AI, 실험을 함께 써서 배터리 소재를 개발하는 신소재공학과 연구실이다. |
 | [차세대 광전나노재료 연구실 (Next-Generation Optoelectronic Nanomaterials Laboratory, NGON Lab)](wiki/kaist/ngonlab.md) | 조힘찬 교수 | 용액으로 만드는 나노미터 크기의 반도체 결정(양자점, 페로브스카이트 나노결정)으로 더 선명한 디스플레이와 새로운 빛 소자를 만드는 연구실이다. |
 
-### 항공우주공학과 (20)
+### 항공우주공학과 (21)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -185,6 +185,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [정보 및 시스템 제어 연구실 (Laboratory for information and Control Systems, LiCS)](wiki/kaist/lics.md) | 최한림 교수 (항공우주공학과·안보과학기술대학원) | 여러 대의 무인기·위성 같은 항공우주 시스템이 정보를 추정하고 서로 일을 나누어 임무를 계획하도록 하는 추정·제어·의사결정 방법을 연구하는 연구실이다. |
 | [차세대 항공모빌리티 연구실 (Aerial Innovation Mobility Lab, AIM Lab)](wiki/kaist/cfd.md) | 이상봉 교수 | 대규모 병렬 계산으로 하는 난류 수치 모사(LES·DNS)와 물리 정보 인공지능을 결합해, 도심 항공 모빌리티와 풍력, 초음속 유동의 복잡한 흐름을 빠르고 정확하게 예측하는 연구실이다. |
 | [첨단 추진 및 에너지 연구실 (Advanced Propulsion & Energy Laboratory, APEL)](wiki/kaist/apel.md) | 심형섭 교수 | 항공우주·국방·에너지 분야의 핵심 기술인 추진과 연소 시스템을 연구하는 연구실이다. |
+| [첨단소재 및 공정 연구실 (Laboratory for Advanced Materials and Processes, LAMP)](wiki/kaist/lamp.md) | 이전윤 교수 | 항공우주용 복합재료와 그 제조 공정을 연구하는 항공우주공학과 연구실이다. |
 | [측정 로봇 및 진단 AI 연구실 (Measurement Robotics & Diagnostic AI Lab, MAI Lab)](wiki/kaist/mailab.md) | 이정률 교수 | 레이저·로봇·안테나·인공지능 기술로 실제 쓰이는 구조물의 상태를 재고, 부수지 않고 결함을 찾아내며, 성능을 측정하는 항공우주공학과 연구실이다. |
 | [항공우주 로보틱스 및 메커니즘 연구실 (Aerospace Robotics and Mechanisms Laboratory, ARML)](wiki/kaist/arml.md) | 이대영 교수 | 종이접기에서 착안한 메커니즘, 소프트 로보틱스, 능동 소재를 바탕으로 항공우주용 로봇과 기계 시스템을 설계하는 연구실이다. |
 | [항공우주시스템 및 제어 연구실 (Aerospace Systems and Control Lab., ASCL)](wiki/kaist/ascl.md) | 방효충 교수 | 무인비행체와 인공위성 같은 항공우주 시스템이 갈 길을 정하고(유도), 자기 위치와 자세를 알아내며(항법), 정한 대로 움직이게 하는(제어) 방법을 연구하는 항공우주공학과 연구실로, 고정익·헬리콥터·멀티로터 무인기를 운용·실험하고 큐브위성 제작·운용 경험을 바탕으로 인공위성을 연구하며 기계학습과 인공지능도 접목한다. |
