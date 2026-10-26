@@ -390,9 +390,9 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 |---|---|---|
 | [메타어스 연구실 (Meta Earth Lab, ME Lab)](wiki/kaist/melab.md) | 김형준 교수 | 인간의 삶이 기후를 어떻게 바꾸고, 바뀐 기후가 다시 인간의 삶을 어떻게 바꾸는지 연구하는 기후 연구실이다. |
 
-## 서울대 연구실 (46곳)
+## 서울대 연구실 (51곳)
 
-### 공과대학 전기·정보공학부 (42)
+### 공과대학 전기·정보공학부 (47)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -410,9 +410,11 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [네트워크 컴퓨팅 및 Connected AI 연구실 (Networked Computing Lab., NXC)](wiki/snu/nxc.md) | 이경한 교수 | 휴대기기와 서버, 통신망이 계산과 데이터 전송을 함께 조율하도록 만드는 연구실이다. |
 | [레이저 연구실 (SNU Laser Laboratory)](wiki/snu/laser.md) | 정윤찬 교수 | 여러 레이저의 빛을 맞춰 결합하는 제어, 광섬유 안에서 빛이 서로 영향을 주는 원리, 인공 광학 구조로 빛을 다루는 방법을 연구한다. |
 | [머신 인텔리전스 연구실 (Machine Intelligence Lab, MILAB)](wiki/snu/milab.md) | 정교민 교수 (공과대학 전기·정보공학부, 대학원 협동과정 인공지능전공) | 사람의 말과 글을 이해하고 생성하는 인공지능을 중심으로, 언어 모델이 안전하게 행동하고 지식을 활용하도록 만드는 방법, 대화에서 필요한 정보를 찾는 방법, 규칙을 추론하는 방법, 영상과 음성을 함께 다루는 학습을 연구한다. |
+| [반도체 소자 연구실 (Device Research Laboratory, DRL)](wiki/snu/drl.md) | 신형철 교수 | 정보를 저장하는 반도체가 어떻게 동작하고 오류를 일으키는지 물리 모델과 기계학습으로 설명하고, 쓰기·지우기·읽기 조건을 연구하는 연구실이다. |
 | [반도체 재료 및 소자연구실 (Semiconductor Materials and Devices Laboratory, SMDL)](wiki/snu/genie.md) | 이종호 교수 | 반도체 소자를 직접 만들고 재고 모델링하는 연구실로, 3차원 낸드 플래시 메모리, 플래시와 강유전체 소자로 만드는 뉴로모픽 하드웨어와 메모리 내 연산, CMOS 기술과 함께 만드는 FET형 가스 센서를 중심으로 연구한다. |
 | [반도체 패키지 모듈 연구실 (SMEET Lab)](wiki/snu/smeet.md) | 윤상원 교수 | 반도체 칩을 연결하고 보호하는 패키지를 설계해 열을 빼고 고장을 평가하며, 이동 수단과 착용 기기의 센서 신호를 해석하는 연구실이다. |
 | [반도체회로 및 시스템 설계 연구실 (Integrated Circuits & Systems Lab, ICSL)](wiki/snu/icsl.md) | 최재혁 교수 | 새로운 무선·유선 통신 표준을 위한 고속 혼성 신호·RF 집적회로를 설계하는 연구실이다. |
+| [삼차원 집적 및 소자 연구실 (Three-Dimensional Integration and Device Lab., TIDL)](wiki/snu/tidl.md) | 최우영 교수 | 정보를 저장하고 계산하는 반도체 소자를 만들며, 두뇌의 정보 처리를 본뜬 소자·회로와 서로 다른 소자를 위아래로 연결하는 삼차원 집적 기술을 연구한다. |
 | [생체광학 및 나노공학 연구실 (BiNEL, Biophotonics and Nano Engineering Lab.)](wiki/snu/binel.md) | 권성훈 교수 | 생명과학자와 의료진이 실제로 부딪히는 문제를 공학 기술로 푸는 연구실이다. |
 | [시스템 보안 연구실 (Computer Security Lab, CompSec Lab)](wiki/snu/compsec.md) | 이병영 교수 | 운영체제와 브라우저, 보안 하드웨어, AI 에이전트가 데이터를 처리하고 권한을 행사하는 과정의 취약점을 찾아 방어 체계를 만드는 연구실이다. |
 | [양자 반도체 집적광학 연구실 (Quantum Semiconductor Photonic INtegration Lab, Q-SPIN Lab)](wiki/snu/donguknam.md) | 남동욱 부교수 | 반도체 공정으로 찍어낼 수 있는 양자 광집적회로 칩을 만들어 빛으로 동작하는 양자컴퓨터를 구현하려는 연구실이다. |
@@ -425,11 +427,14 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [전기-의학 융합 연구실 (Electro-medical Fusion Engineering lab)](wiki/snu/efe.md) | 서종모 교수 | 전기공학과 의학, 생명공학을 잇는 융합 연구로 시각장애인의 삶의 질을 높이는 것을 목표로 하는 연구실이다. |
 | [전력변환시스템 연구실 (Power Conversion Systems Laboratory, PCSL)](wiki/snu/pcsl.md) | 최성휘 부교수 | 전력망과 전기차·선박·가전 사이에서 전기를 바꾸어 전달하는 회로와 제어 방법을 연구한다. |
 | [전력시스템 및 경제 연구실 (Electric Power Network Economics Laboratory, EPNEL)](wiki/snu/epnel.md) | 윤용태 교수 | 전력망과 전력시장이 안정적이고 경제적으로 돌아가도록 운영·제어·최적화 방법을 연구하는 연구실이다. |
+| [전력시스템연구실 (Power Systems Laboratory, PSL)](wiki/snu/psl.md) | 이규섭 부교수 | 재생에너지와 저장장치가 연결된 전력망을 안정적으로 제어하고, 설비의 운전과 전력 거래를 최적화하는 연구실이다. |
 | [전력전자시스템연구실 (Power Electronics Systems Lab)](wiki/snu/pesl.md) | 신종원 부교수 | 전기를 필요한 형태로 바꾸는 회로와 제어 방법을 설계하고, 차량 전력 시스템과 전력 모듈의 잡음·신뢰성을 연구한다. |
 | [전파 및 무선 통신 연구실 (Advanced Radio Technology Laboratory, ART LAB)](wiki/snu/artl.md) | 이성욱 조교수 | 전파와 무선 통신의 신호 처리를 연구하는 연구실이다. |
 | [정보시스템연구실 (Information System Laboratory, ISLAB)](wiki/snu/isl.md) | 심병효 교수 | 기계 학습, 신호 처리, 차세대 이동통신 시스템을 연구하는 연구실이다. |
 | [제어 및 동역학 연구실 (Control and Dynamic Systems Lab, CDSL)](wiki/snu/cdsl.md) | 심형보 교수, 이진규 교수 | 심형보 교수와 이진규 교수가 함께 이끄는 수학적 제어 이론 연구실이다. |
 | [지능형 계산영상 연구실 (Intelligent Computational imaging Lab, ICL)](wiki/snu/icl.md) | 전세영 교수 (공과대학 전기·정보공학부, 대학원 협동과정 인공지능전공) | 측정의 물리에 맞춘 계산 영상에 뿌리를 두고, 그 바탕을 멀티모달 표현과 기반 모델, 물리 세계에서 행동하는 에이전트로 넓히는 연구실이다. |
+| [지능형 디스플레이 및 센서 연구실 (Intelligent Semiconductor Optoelectronics Laboratory, iSoL)](wiki/snu/isol.md) | 이재상 부교수 | 유기반도체에서 빛이 만들어지고 사라지는 과정과 전기의 흐름을 분석해 발광 소자의 효율과 수명을 개선하고, 가상·증강현실용 화면과 반도체 광전소자를 연구한다. |
+| [집적회로 및 시스템 연구실 (Integrated Circuits and Systems for Computing and Communication lab., IC3 Lab)](wiki/snu/ic3.md) | 최우석 부교수 | 칩과 메모리가 데이터를 주고받는 회로, 인공지능 계산용 회로, 데이터를 암호화한 상태로 계산하는 시스템을 연구한다. |
 | [차세대 박막소자 및 회로 연구실 (Advanced TFTs and Smart Electronics Laboratory, ACELAB)](wiki/snu/acelab.md) | 이수연 부교수 | 산화물 박막 소자를 만들고 분석하며, 이를 디스플레이를 구동하는 회로와 신경계의 정보 처리를 본뜬 하드웨어, 빛을 다루는 집적회로로 연결하는 연구실이다. |
 | [차세대 반도체 소자 및 재료 연구실 (Laboratory of Emerging Electronics & optoElectronics, Lab.EEE)](wiki/snu/labeee.md) | 이철호 교수 | 원자층 두께의 반도체로 전자 소자와 광센서를 만들고, 소재·접합·제조 공정·소자층의 적층을 함께 연구한다. |
 | [초전도 응용 연구실 (Applied Superconductivity Laboratory, ASL)](wiki/snu/asl.md) | 한승용 교수 | 초전도 현상을 이용하는 전기 기기를 연구하는 연구실이다. |
