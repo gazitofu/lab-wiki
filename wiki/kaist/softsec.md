@@ -20,7 +20,7 @@
 
 첫째 갈래는 **퍼징으로 취약점 자동으로 찾기**다. 대표 논문에서는 Windows 운영체제의 시스템 호출(응용 프로그램이 운영체제 커널에 기능 수행을 요청하는 방법) 형식 정보를 정적 바이너리 분석으로 자동 추론해 커널 퍼징에 쓰는 NTFuzz를 만들어, 알려지지 않았던 커널 버그 11개를 찾았다.[^p1] 스마트 계약(블록체인에 올려 두고 정해진 조건이 맞으면 자동으로 실행되는 프로그램)의 바이트코드를 정적 분석과 동적 데이터 흐름 분석으로 살펴 퍼징을 이끄는 Smartian도 내놓았다.[^p2] 퍼저를 평가하는 데 쓰는 버그 든 프로그램을 만드는 문제를 미로 생성 문제로 바꿔, 버그의 정답이 정확히 알려진 벤치마크를 합성하는 Fuzzle과,[^p3] 어셈블러(사람이 읽는 어셈블리어 명령을 기계어로 바꾸는 프로그램)가 내는 오류 메시지로 그 문법 규칙을 추론해 어셈블러를 시험하는 AsFuzzer도 만들었다.[^p4] 최근 논문 목록에는 프로그램의 특정 목표 지점을 겨냥하는 지향성 퍼징을 제목에 단 DAFL(USENIX Security 2023)과 지향성 퍼저 평가(FSE 2024)·합성 벤치마크의 효과(APSEC 2023) 논문, 퍼징이 포화(saturation)에 이른 때를 알아내는 연구(FUZZING 2025), 블록체인 합의(consensus, 참여자들이 같은 거래 기록에 동의하는 절차) 구현을 위한 차등 퍼징(ICSE 2025), 대형 언어 모델의 도움을 받은 비행 소프트웨어 퍼징용 명령 구문 추출(WISA 2026)도 있다.[^pi][^news] 교수가 공저한 퍼징 개관 논문 「The Art, Science, and Engineering of Fuzzing: A Survey」(IEEE Transactions on Software Engineering, 2021)는 교수 누리집 목록에 Best Paper Award로 표시되어 있다.[^pi]
 
-둘째 갈래는 **바이너리 코드 분석과 재조립**이다. 대표 논문에서는 정적 바이너리 재작성(static binary rewriting, 프로그램을 실행하지 않은 채 바이너리를 고쳐 새 바이너리를 만드는 일)의 한 갈래인 재조립(reassembly, 바이너리를 다시 조립할 수 있는 어셈블리 코드로 되돌린 뒤 고쳐 새 바이너리로 만드는 방법)에서, 기존 재조립 도구들에 생기는 오류의 유형을 형식적으로 정의하고 그 오류를 찾는 자동 도구 REASSESSOR와 대규모 벤치마크를 내놓았다.[^p5] 이어 주요 리눅스 배포판의 기본 설정이 되어 가는 보안 기능 CET가 바이너리에 남기는 성질을 이용해, 원래 의미를 해치지 않으면서 바이너리 안의 모든 메모리 참조를 기호화(symbolization, 메모리 위치를 가리키는 값을 찾아 코드가 옮겨져도 따라가는 이름표로 바꾸는 일)하는 재조립 도구 SURI를 만들었다.[^p6] 바이너리에서 함수를 찾아내는 문제에서는 CPU 구조에 묶이지 않는 단서 16가지를 확률적 추론으로 묶는 FunProbe를 만들었다.[^p7] 최근 논문 목록에는 Intel CET가 역공학의 함수 식별에 주는 영향(DSN 2022), 해석 가능한 특징으로 다시 살핀 바이너리 코드 유사도 분석(IEEE Transactions on Software Engineering, 2023), Python 디컴파일(decompilation, 기계어나 바이트코드로 된 프로그램을 사람이 읽을 수 있는 고급 언어 코드로 되돌리는 일)을 다룬 PyLingual(IEEE Symposium on Security and Privacy 2025)과 디컴파일러 출력의 수정 실태를 살핀 연구(CCS 2025), 이더리움 가상 머신(EVM) 디컴파일을 위한 타입 추론(type inference, 프로그램 속 값의 자료형을 알아내는 일) EVMpress(CBT 2025), 다양한 바이너리 데이터셋을 만드는 BinForge(APSEC 2026 채택)도 있다.[^pi][^news]
+둘째 갈래는 **바이너리 코드 분석과 재조립**이다. 대표 논문에서는 정적 바이너리 재작성(static binary rewriting, 프로그램을 실행하지 않은 채 바이너리를 고쳐 새 바이너리를 만드는 일)의 한 갈래인 재조립(reassembly, 바이너리를 다시 조립할 수 있는 어셈블리 코드로 되돌린 뒤 고쳐 새 바이너리로 만드는 방법)에서, 기존 재조립 도구들에 생기는 오류의 유형을 형식적으로 정의하고 그 오류를 찾는 자동 도구 REASSESSOR와 대규모 벤치마크를 내놓았다.[^p5] 이어 주요 리눅스 배포판의 기본 설정이 되어 가는 보안 기능 CET(Control-flow Enforcement Technology, 프로그램의 실행 흐름이 공격으로 의도하지 않은 곳으로 바뀌지 않도록 막는 프로세서의 하드웨어 보안 기능)[^cet]가 바이너리에 남기는 성질을 이용해, 원래 의미를 해치지 않으면서 바이너리 안의 모든 메모리 참조를 기호화(symbolization, 메모리 위치를 가리키는 값을 찾아 코드가 옮겨져도 따라가는 이름표로 바꾸는 일)하는 재조립 도구 SURI를 만들었다.[^p6] 바이너리에서 함수를 찾아내는 문제에서는 CPU 구조에 묶이지 않는 단서 16가지를 확률적 추론으로 묶는 FunProbe를 만들었다.[^p7] 최근 논문 목록에는 Intel CET가 역공학의 함수 식별에 주는 영향(DSN 2022), 해석 가능한 특징으로 다시 살핀 바이너리 코드 유사도 분석(IEEE Transactions on Software Engineering, 2023), Python 디컴파일(decompilation, 기계어나 바이트코드로 된 프로그램을 사람이 읽을 수 있는 고급 언어 코드로 되돌리는 일)을 다룬 PyLingual(IEEE Symposium on Security and Privacy 2025)과 디컴파일러 출력의 수정 실태를 살핀 연구(CCS 2025), 이더리움 가상 머신(EVM) 디컴파일을 위한 타입 추론(type inference, 프로그램 속 값의 자료형을 알아내는 일) EVMpress(CBT 2025), 다양한 바이너리 데이터셋을 만드는 BinForge(APSEC 2026 채택)도 있다.[^pi][^news]
 
 셋째 갈래는 **부정행위·공격의 탐지와 공격 기법 연구**다. 누리집은 방어 기법을 만들기 위해 공격 해킹 기법을 연구한다고 밝힌다.[^home] 대표 논문에서는 1인칭 슈팅(FPS) 게임에서 상대를 쓰러뜨리도록 돕는 부정 프로그램인 에임봇(aimbot)을 게임 이용자 쪽 컴퓨터에서 나눠 탐지해 서버 쪽 부담을 줄이고, 새 딥러닝 모델로 에임봇 사용이 일으키는 비정상 행동을 찾아내는 BotScreen을 만들었다.[^p8] 최근 논문 목록에는 익스플로잇(exploit, 소프트웨어의 취약점을 악용해 공격자가 원하는 동작을 일으키는 코드나 입력)을 쓰기 위한 도메인 특화 언어 PoE(SVCC 2024 포스터)가 있고,[^pi][^news] 연구실 News 페이지(2026년 8월)는 컴파일 플래그 악용을 제목에 단 논문 「Capture The Flag: Exploiting Compilation Flags to Summon Trojan Horses」가 NDSS 2027에 실린다고 알린다.[^news]
 
@@ -98,50 +98,52 @@ FPS 게임 에임봇을 이용자 쪽에서 탐지하는 BotScreen,[^p8] 익스�
 
 ## 최근 논문 목록 (2021–2026)
 
-교수 누리집 Selected Publications 목록([1]–[36])의 2021–2025년 16편과, 연구실 News 페이지가 알린 논문 가운데 그 목록에 없는 2023–2026년 9편을 합한 25편이다(2026년 2편, 2025년 7편, 2024년 4편, 2023년 7편, 2022년 2편, 2021년 3편).[^pi][^news] 누리집 Publications 칸은 전체 논문 목록으로 DBLP와 Google Scholar 프로필을 가리킨다.[^home] 연도는 목록 표기의 연도이고, 제목·저자·학술지와 학회 이름은 원문 표기 그대로다. 괄호 안의 수상 표시는 교수 누리집 목록의 표기이고, News 페이지가 will appear로 알린 APSEC 2026 논문은 「채택」으로 표시했다.
+연구실 누리집 Publications 칸이 논문 목록으로 연결하는 DBLP 저자 페이지의 2021–2026년 논문과, 교수 누리집 Selected Publications·연구실 News의 항목을 중복 없이 합친 27건이다. 학술지 논문 5편, 학회 논문 20편, 사전 공개본 1편, 기타 발표 1건이며, 연도별로는 2026년 2건, 2025년 8건, 2024년 4건, 2023년 7건, 2022년 2건, 2021년 4건이다.[^home][^dblp][^pi][^news] 학술지·학회·사전 공개본 구분은 DBLP에 따르고, DBLP에 없는 항목은 연구실 표기로 구분했다. Black Hat USA 2024 항목은 기타 발표다. 연도와 제목·저자·발표처는 겹치는 항목에서 연구실 표기를 우선했고, DBLP에만 있는 항목은 DBLP 표기를 썼다. 사전 공개본과 정식판은 판본 관계가 확인될 때만 합친다. 편집 기록과 2027년 항목, 2026-10-13 뒤로 날짜가 명시된 항목은 포함하지 않는다. 괄호 안 수상 표시는 교수 누리집 목록의 표기이고, News 페이지가 will appear로 알린 APSEC 2026 논문은 「채택」으로 표시했다.
 
 **2026**
 
-- HyungJoon Yoon and Sang Kil Cha. "BinForge: Facilitating Generation of Diversified Binary Datasets". *In Proceedings of the Asia-Pacific Software Engineering Conference, 2026 (채택)*.
-- Geonwoo Park, Junhak Lee, and Sang Kil Cha. "LLM-Assisted Command Syntax Extraction for Flight Software Fuzzing". *In Proceedings of the World Conference on Information Security Applications, 2026*.
+- HyungJoon Yoon and Sang Kil Cha. "BinForge: Facilitating Generation of Diversified Binary Datasets". *학회 · In Proceedings of the Asia-Pacific Software Engineering Conference, 2026 (채택)*.
+- Geonwoo Park, Junhak Lee, and Sang Kil Cha. "LLM-Assisted Command Syntax Extraction for Flight Software Fuzzing". *학회 · In Proceedings of the World Conference on Information Security Applications, 2026*.
 
 **2025**
 
-- Josh Wiedemeier, Simon Klancher, Joel Flores, Max Zheng, Jaehyun Park, Sang Kil Cha, and Kangkook Jee. "Walking The Last Mile: Studying Decompiler Output Correction in Practice". *In Proceedings of the ACM Conference on Computer and Communications Security, 2025*.
-- Won Hoi Kim, Hocheol Nam, Muoi Tran, Amin Jalilov, Zhenkai Liang, Sang Kil Cha, and Min Suk Kang. "Fork State-Aware Differential Fuzzing for Blockchain Consensus Implementations". *In Proceedings of the International Conference on Software Engineering, 2025*.
-- Hyungseok Kim, Soomin Kim, and Sang Kil Cha. "Towards Sound Reassembly of Modern x86-64 Binaries". *In Proceedings of the International Conference on Architectural Support for Programming Languages and Operating Systems, 2025*.
-- Josh Wiedemeier, Elliot Tarbet, Max Zheng, Sangsoo Ko, Jessica Ouyang, Sang Kil Cha, and Kangkook Jee. "PyLingual: Toward Perfect Decompilation of Evolving High-Level Languages". *In Proceedings of the IEEE Symposium on Security and Privacy, 2025*.
-- Jung Hyun Kim, Soomin Kim, Jaeseung Choi, and Sang Kil Cha. "EVMpress: Precise Type Inference for Next-Generation EVM Decompilation". *In Proceedings of the International Workshop on Cryptocurrencies and Blockchain Technology, 2025*.
-- Jungwoo Lee, Haeun Lee, Sangjun Park, and Sang Kil Cha. "On the Applicability of Benford's Law to Detect Saturation in Fuzzing". *In Proceedings of the International Workshop on Fuzzing, 2025*.
-- Sanghyun Park, Haeun Lee, and Sang Kil Cha. "Systematic Bug Reproduction with Large Language Model". *In Proceedings of the International Conference on Software Engineering, 2025*.
+- Josh Wiedemeier, Simon Klancher, Joel Flores, Max Zheng, Jaehyun Park, Sang Kil Cha, and Kangkook Jee. "Walking The Last Mile: Studying Decompiler Output Correction in Practice". *학회 · In Proceedings of the ACM Conference on Computer and Communications Security, 2025*.
+- Won Hoi Kim, Hocheol Nam, Muoi Tran, Amin Jalilov, Zhenkai Liang, Sang Kil Cha, and Min Suk Kang. "Fork State-Aware Differential Fuzzing for Blockchain Consensus Implementations". *학회 · In Proceedings of the International Conference on Software Engineering, 2025*.
+- Hyungseok Kim, Soomin Kim, and Sang Kil Cha. "Towards Sound Reassembly of Modern x86-64 Binaries". *학회 · In Proceedings of the International Conference on Architectural Support for Programming Languages and Operating Systems, 2025*.
+- Josh Wiedemeier, Elliot Tarbet, Max Zheng, Sangsoo Ko, Jessica Ouyang, Sang Kil Cha, and Kangkook Jee. "PyLingual: Toward Perfect Decompilation of Evolving High-Level Languages". *학회 · In Proceedings of the IEEE Symposium on Security and Privacy, 2025*.
+- Jung Hyun Kim, Soomin Kim, Jaeseung Choi, and Sang Kil Cha. "EVMpress: Precise Type Inference for Next-Generation EVM Decompilation". *학회 · In Proceedings of the International Workshop on Cryptocurrencies and Blockchain Technology, 2025*.
+- Jungwoo Lee, Haeun Lee, Sangjun Park, and Sang Kil Cha. "On the Applicability of Benford's Law to Detect Saturation in Fuzzing". *학회 · In Proceedings of the International Workshop on Fuzzing, 2025*.
+- Sanghyun Park, Haeun Lee, and Sang Kil Cha. "Systematic Bug Reproduction with Large Language Model". *학회 · In Proceedings of the International Conference on Software Engineering, 2025*.
+- Wentao Gao, Renata Borovica-Gajic, Sang Kil Cha, Tian Qiu, Van-Thuan Pham. "InsightQL: Advancing Human-Assisted Fuzzing with a Unified Code Database and Parameterized Query Interface". *사전 공개본 · CoRR abs/2510.04835 (2025)*.
 
 **2024**
 
-- Hyungseok Kim, Soomin Kim, Jungwoo Lee, and Sang Kil Cha. "AsFuzzer: Differential Testing of Assemblers with Error-Driven Grammar Inference". *In Proceedings of the International Symposium on Software Testing and Analysis, 2024 (ACM Distinguished Paper Award)*.
-- Tae Eun Kim, Jaeseung Choi, Seongjae Im, Kihong Heo, and Sang Kil Cha. "Evaluating Directed Fuzzers: Are We Heading in the Right Direction?". *In Proceedings of the International Symposium on Foundations of Software Engineering, 2024*.
-- Josh Wiedemeier, Elliot Tarbet, Max Zheng, Jerry Teng, Ximeng Liu, Muhyun Kim, Sang Kil Cha, Jessica Ouyang, and Kangkook Jee. "PyLingual: A Python Decompilation Framework for Evolving Python Versions". *In Proceedings of the Black Hat USA, 2024*.
-- Jung Hyun Kim, Steve Gustaman, and Sang Kil Cha. "PoE: A Domain-Specific Language for Exploitation". *In Proceedings of the Silicon Valley Cybersecurity Conference, 2024*.
+- Hyungseok Kim, Soomin Kim, Jungwoo Lee, and Sang Kil Cha. "AsFuzzer: Differential Testing of Assemblers with Error-Driven Grammar Inference". *학회 · In Proceedings of the International Symposium on Software Testing and Analysis, 2024 (ACM Distinguished Paper Award)*.
+- Tae Eun Kim, Jaeseung Choi, Seongjae Im, Kihong Heo, and Sang Kil Cha. "Evaluating Directed Fuzzers: Are We Heading in the Right Direction?". *학술지 · In Proceedings of the International Symposium on Foundations of Software Engineering, 2024*.
+- Josh Wiedemeier, Elliot Tarbet, Max Zheng, Jerry Teng, Ximeng Liu, Muhyun Kim, Sang Kil Cha, Jessica Ouyang, and Kangkook Jee. "PyLingual: A Python Decompilation Framework for Evolving Python Versions". *기타 발표 · In Proceedings of the Black Hat USA, 2024*.
+- Jung Hyun Kim, Steve Gustaman, and Sang Kil Cha. "PoE: A Domain-Specific Language for Exploitation". *학회 · In Proceedings of the Silicon Valley Cybersecurity Conference, 2024*.
 
 **2023**
 
-- Soomin Kim, Hyungseok Kim, and Sang Kil Cha. "FunProbe: Probing Functions from Binary Code through Probabilistic Analysis". *In Proceedings of the International Symposium on Foundations of Software Engineering, 2023*.
-- Tae Eun Kim, Jaeseung Choi, Kihong Heo, and Sang Kil Cha. "DAFL: Directed Grey-box Fuzzing Guided by Data Dependency". *In Proceedings of the USENIX Security Symposium, 2023*.
-- Minyeop Choi, Gihyuk Ko, and Sang Kil Cha. "BotScreen: Trust Everybody, but Cut the Aimbots Yourself". *In Proceedings of the USENIX Security Symposium, 2023 (USENIX Distinguished Paper Award)*.
-- Hyungseok Kim, Soomin Kim, Junoh Lee, Kangkook Jee, and Sang Kil Cha. "Reassembly is Hard: A Reflection on Challenges and Strategies". *In Proceedings of the USENIX Security Symposium, 2023*.
-- Dongkwan Kim, Eunsoo Kim, Sang Kil Cha, Sooel Son, and Yongdae Kim. "Revisiting Binary Code Similarity Analysis using Interpretable Feature Engineering and Lessons Learned". *IEEE Transactions on Software Engineering, vol. 49, no. 4, 2023*.
-- Haeun Lee, Hee Dong Yang, Su Geun Ji, and Sang Kil Cha. "On the Effectiveness of Synthetic Benchmarks for Evaluating Directed Grey-box Fuzzers". *In Proceedings of the Asia-Pacific Software Engineering Conference, 2023*.
-- Marcel Böhme, Valentin Jean Marie Manès, and Sang Kil Cha. "Boosting Fuzzer Efficiency: An Information Theoretic Perspective". *CACM, Volume 66, Issue 11, Nov. 2023*.
+- Soomin Kim, Hyungseok Kim, and Sang Kil Cha. "FunProbe: Probing Functions from Binary Code through Probabilistic Analysis". *학회 · In Proceedings of the International Symposium on Foundations of Software Engineering, 2023*.
+- Tae Eun Kim, Jaeseung Choi, Kihong Heo, and Sang Kil Cha. "DAFL: Directed Grey-box Fuzzing Guided by Data Dependency". *학회 · In Proceedings of the USENIX Security Symposium, 2023*.
+- Minyeop Choi, Gihyuk Ko, and Sang Kil Cha. "BotScreen: Trust Everybody, but Cut the Aimbots Yourself". *학회 · In Proceedings of the USENIX Security Symposium, 2023 (USENIX Distinguished Paper Award)*.
+- Hyungseok Kim, Soomin Kim, Junoh Lee, Kangkook Jee, and Sang Kil Cha. "Reassembly is Hard: A Reflection on Challenges and Strategies". *학회 · In Proceedings of the USENIX Security Symposium, 2023*.
+- Dongkwan Kim, Eunsoo Kim, Sang Kil Cha, Sooel Son, and Yongdae Kim. "Revisiting Binary Code Similarity Analysis using Interpretable Feature Engineering and Lessons Learned". *학술지 · IEEE Transactions on Software Engineering, vol. 49, no. 4, 2023*.
+- Haeun Lee, Hee Dong Yang, Su Geun Ji, and Sang Kil Cha. "On the Effectiveness of Synthetic Benchmarks for Evaluating Directed Grey-box Fuzzers". *학회 · In Proceedings of the Asia-Pacific Software Engineering Conference, 2023*.
+- Marcel Böhme, Valentin Jean Marie Manès, and Sang Kil Cha. "Boosting Fuzzer Efficiency: An Information Theoretic Perspective". *학술지 · CACM, Volume 66, Issue 11, Nov. 2023*.
 
 **2022**
 
-- Haeun Lee, Soomin Kim, and Sang Kil Cha. "Fuzzle: Making a Puzzle for Fuzzers". *In Proceedings of the IEEE/ACM International Conference on Automated Software Engineering, 2022 (ACM Distinguished Paper Award)*.
-- Hyungseok Kim, Junoh Lee, Soomin Kim, Seungil Jung, and Sang Kil Cha. "How'd Security Benefit Reverse Engineers? The Implication of Intel CET on Function Identification". *In Proceedings of the International Conference on Dependable Systems Networks, 2022*.
+- Haeun Lee, Soomin Kim, and Sang Kil Cha. "Fuzzle: Making a Puzzle for Fuzzers". *학회 · In Proceedings of the IEEE/ACM International Conference on Automated Software Engineering, 2022 (ACM Distinguished Paper Award)*.
+- Hyungseok Kim, Junoh Lee, Soomin Kim, Seungil Jung, and Sang Kil Cha. "How'd Security Benefit Reverse Engineers? The Implication of Intel CET on Function Identification". *학회 · In Proceedings of the International Conference on Dependable Systems Networks, 2022*.
 
 **2021**
 
-- Jaeseung Choi, Doyeon Kim, Soomin Kim, Gustavo Grieco, Alex Groce, and Sang Kil Cha. "Smartian: Enhancing Smart Contract Fuzzing with Static and Dynamic Data-Flow Analyses". *In Proceedings of the IEEE/ACM International Conference on Automated Software Engineering, 2021*.
-- Jaeseung Choi, Kangsu Kim, Daejin Lee, and Sang Kil Cha. "NTFuzz: Enabling Type-Aware Kernel Fuzzing on Windows with Static Binary Analysis". *In Proceedings of the IEEE Symposium on Security and Privacy, 2021*.
-- Valentin Jean Marie Manès, HyungSeok Han, Choongwoo Han, Sang Kil Cha, Manuel Egele, Edward J. Schwartz, and Maverick Woo. "The Art, Science, and Engineering of Fuzzing: A Survey". *IEEE Transactions on Software Engineering, vol. 47, no. 11, 2021 (Best Paper Award)*.
+- Jaeseung Choi, Doyeon Kim, Soomin Kim, Gustavo Grieco, Alex Groce, and Sang Kil Cha. "Smartian: Enhancing Smart Contract Fuzzing with Static and Dynamic Data-Flow Analyses". *학회 · In Proceedings of the IEEE/ACM International Conference on Automated Software Engineering, 2021*.
+- Jaeseung Choi, Kangsu Kim, Daejin Lee, and Sang Kil Cha. "NTFuzz: Enabling Type-Aware Kernel Fuzzing on Windows with Static Binary Analysis". *학회 · In Proceedings of the IEEE Symposium on Security and Privacy, 2021*.
+- Valentin Jean Marie Manès, HyungSeok Han, Choongwoo Han, Sang Kil Cha, Manuel Egele, Edward J. Schwartz, and Maverick Woo. "The Art, Science, and Engineering of Fuzzing: A Survey". *학술지 · IEEE Transactions on Software Engineering, vol. 47, no. 11, 2021 (Best Paper Award)*.
+- Sang-Ok Park, Ohmin Kwon, Yonggon Kim, Sang Kil Cha, Hyunsoo Yoon. "Mind control attack: Undermining deep learning with GPU memory exploitation". *학술지 · Comput. Secur. 102: 102115 (2021)*.
 
 ## 수상
 
@@ -204,3 +206,5 @@ FPS 게임 에임봇을 이용자 쪽에서 탐지하는 BotScreen,[^p8] 익스�
 [^p6]: H. Kim, S. Kim, S. K. Cha, Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2, 1317-1333 (온라인 2025-03-30). <https://doi.org/10.1145/3676641.3716026> 초록 기준(Semantic Scholar 등록 초록).
 [^p7]: S. Kim, H. Kim, S. K. Cha, Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, 1419-1430 (온라인 2023-11-30). <https://doi.org/10.1145/3611643.3616366> 초록 기준(OpenAlex 등록 초록).
 [^p8]: M. Choi, G. Ko, S. K. Cha, 32nd USENIX Security Symposium (USENIX Security 23), 481-498 (2023). <https://www.usenix.org/conference/usenixsecurity23/presentation/choi> 초록 기준(학회 논문집 페이지 게시 초록).
+[^dblp]: DBLP Sang Kil Cha 저자 페이지 <https://dblp.org/pid/49/8463.html> (2021–2026년 기록, 2026-10-27 열람).
+[^cet]: Hyungseok Kim 외, How’d Security Benefit Reverse Engineers? : The Implication of Intel CET on Function Identification, DSN 2022. OpenAlex 등록 초록은 Intel CET를 Control-flow Enforcement Technology로 적는다. 요청 주소 <https://api.openalex.org/works?per-page=50&select=id,doi,title,publication_year,primary_location,abstract_inverted_index&filter=doi:10.1109/dsn53405.2022.00061> (2026-10-27 열람).
