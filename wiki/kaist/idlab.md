@@ -4,7 +4,7 @@
 
 - 분야: 공학 시스템의 최적 설계, 다중 수신 무선전력전송, 차량 경로 최적화, 골격계 영상 재구성과 생체역학 해석
 - 대분야: 기계·로봇·제조, 전기전자·반도체·광학
-- 태그: 무선 전력 전송[^research][^p1][^p2], 전산역학·수치 해석[^research][^p7], 생체역학[^research][^p6][^p8], 의료 영상 기기·재구성[^research]
+- 태그: 무선 전력 전송[^research][^p1][^p2], 전산역학·수치 해석[^research][^p7], 생체역학[^research][^p6][^p8], 의료 영상 기기·재구성[^research], 수리 최적화·최적화 알고리즘[^research], 설계 최적화(위상·형상 최적화)[^research]
 - 홈페이지: <https://idlab.kaist.ac.kr/>
 - 근거와 출처: [ID LAB 근거 페이지](idlab-sources.md)
 

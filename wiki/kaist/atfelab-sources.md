@@ -54,6 +54,7 @@
 ## 확인한 범위와 확인하지 못한 점
 
 - 누리집 메뉴(Home, Principal Investigator, Lab Members, Research, Publications, News, Teaching, Contact)를 모두 읽었다. News 페이지에는 글이 없고 바닥글만 있다. 졸업생, 특허, 과제, 수상 목록 메뉴는 없다. 교수 소개의 수상 두 건(2019, 2015–2020)은 2021년 이전이라 수상 절을 두지 않고 교수 소개 문단에 적었다.
+- 태그 어휘 1.7판(2026-10-27)의 「유전체 커패시터 소재」는 극저온 에너지 저장용 쌍극자 유리 상태를 설계하고 커패시터의 에너지 밀도·효율을 평가한 대표 논문 3이 근거다.
 - Research 페이지 박막 재료공학 갈래의 초전도체 항목(Ultrapure high Tc superconductors for superconducting qubits)은 연구 주제 이름만 있고 설명이나 참고 논문이 없어, 「초전도」 태그를 달지 않고 분야 줄과 주요 연구 주제에만 적었다.
 - Publications 페이지가 링크한 Google Scholar 페이지는 읽지 않았다.
 - 신소재공학과 「FIND YOUR LAB」 페이지의 한 줄 소개와 핵심어는 페이지 원본에 담긴 연구실 자료에서 읽었다. 신소재공학과 교수 소개 페이지는 읽지 않았다.

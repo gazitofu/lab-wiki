@@ -4,7 +4,7 @@
 
 - 분야: VLSI 회로 및 칩 설계, 차세대 컴퓨팅 및 통신회로 설계, 도메인·용도 특화 하드웨어 가속기 설계, 물리 영감 계산(이징 머신·볼츠만 머신·확률 컴퓨팅), 신경망 형식 검증 가속기, 유선 통신 회로, 메모리·칩렛 링크, 대규모 메모리 내 연산
 - 대분야: 전기전자·반도체·광학, 컴퓨팅·AI
-- 태그: 집적회로 설계[^home][^ee][^p1], AI 반도체·가속기[^home][^p2], 확률 컴퓨팅[^home][^news], 메모리 내 연산[^home][^p2], 고속 유선 인터페이스[^home][^prof]
+- 태그: 집적회로 설계[^home][^ee][^p1], AI 반도체·가속기[^home][^p2], 확률 컴퓨팅[^home][^news], 메모리 내 연산[^home][^p2], 고속 유선 인터페이스[^home][^prof], 이징 머신·물리 기반 계산[^p1]
 - 홈페이지: <http://bongjin.com> (Google Sites 누리집 <https://sites.google.com/view/mslab>로 이어짐)
 - 근거와 출처: [KAIST VLSI Research Lab 근거 페이지](bongjin-sources.md)
 

@@ -4,7 +4,7 @@
 
 - 분야: 메타물질·메타표면의 이론 설계와 제작, 이중층 메타표면과 벡터 홀로그래피, 가변 메타표면, 대면적 나노 공정(근접장 나노패터닝, 간섭 리소그래피), 머신러닝·최적화 기반 나노광소자 역설계, 복사 냉각
 - 대분야: 소재, 전기전자·반도체·광학
-- 태그: 메타물질·메타광학[^research][^mse][^mseen], 나노 패터닝·전사[^research][^p4][^p5], 소자 설계 시뮬레이션[^mse][^research][^p6], 과학·공학 AI[^research][^p6][^p7], 열전달·열관리[^research][^p8]
+- 태그: 메타물질·메타광학[^research][^mse][^mseen], 나노 패터닝·전사[^research][^p4][^p5], 소자 설계 시뮬레이션[^mse][^research][^p6], 과학·공학 AI[^research][^p6][^p7], 열전달·열관리[^research][^p8], 홀로그래피·라이트필드 3차원 영상[^p2], 설계 최적화(위상·형상 최적화)[^research]
 - 홈페이지: <https://www.meta-material.org/>
 - 근거와 출처: [APMD 근거 페이지](meta-material-sources.md)
 

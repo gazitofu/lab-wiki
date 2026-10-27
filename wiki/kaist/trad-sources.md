@@ -21,6 +21,8 @@
 | Semantic Scholar 등록 초록 | <https://api.semanticscholar.org/> | 2026-10-23 | 대표 논문 1, 3, 5, 6, 7, 8 초록 |
 | Springer 논문 페이지(Solid-State Nanopore for Molecular Detection) | <https://link.springer.com/article/10.1007/s12541-021-00590-2> | 2026-10-23 | 최근 논문 목록의 의생명 범위 판정(게시 초록) |
 
+설계 최적화(위상·형상 최적화)는 AI 기반 열시스템 설계 페이지의 설계 변수 조합 탐색과 유전 알고리즘·입자 군집 최적화로 열시스템을 최적 설계하는 설명이 근거다.
+
 ## 이름·직급·위치 표기 차이
 
 - **연구실 이름**: 누리집 제목은 "TRAD Laboratory"이고 부제는 "Thermal Radiation Laboratory, KAIST"다. 첫 화면 본문과 소식 글은 「복사열전달 연구실」로, 기계공학과 교수진 목록과 연구분야 페이지도 「복사열전달 연구실」로 적는다. 소식 글 가운데는 「TRAD 연구실」 표기와 오타 「복사열전달 열구실」도 있다. 본문 제목은 국문 이름과 누리집 제목을 함께 적었다.

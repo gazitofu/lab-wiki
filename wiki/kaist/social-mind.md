@@ -4,7 +4,7 @@
 
 - 분야: 사람의 사회적 행동과 사회적 의사결정의 인지·신경 기전, 다른 사람을 보고 배우는 사회적 학습과 집단 간 편향, 공감과 정서 조절, 사회적 요인과 명상이 경제적 결정에 주는 영향, 신경과학으로 보는 사람과 인공지능의 상호작용, 기능적 자기공명영상·비침습 뇌 자극·계산 모델링
 - 대분야: 기초생명·생물물리, 인문·사회·경제
-- 태그: 인지과학·의사결정[^bcsprof][^research], 계산신경과학[^home][^bcsprof]
+- 태그: 인지과학·의사결정[^bcsprof][^research], 계산신경과학[^home][^bcsprof], 신경영상 분석·뇌 연결망[^home][^bcsprof]
 - 홈페이지: <https://sites.google.com/view/social-mind-and-decision-neuro/%ED%99%88>
 - 근거와 출처: [사회 행동 및 신경과학 연구실 근거 페이지](social-mind-sources.md)
 

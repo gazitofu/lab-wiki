@@ -75,6 +75,7 @@
 
 - 누리집 메뉴(Welcome to SIC-X, Research Areas, Professor, Researchers, Teaching, Projects, Publications와 하위 네 페이지)를 모두 읽었다. Gallery 메뉴와 그 아래 두 페이지(2026 - current, 2021 - 2025)는 사진 메뉴라 열지 않았다. Professor 페이지의 CV, Google Scholar, Research Brief, LinkedIn, Dissertation 링크와 첫 화면 소식의 언론 기사 링크는 열지 않았다.
 - 첫 화면 NEWS는 2025년 7월 글부터 있고, 그 전 소식은 누리집에서 보이지 않는다.
+- 태그 「수리 최적화·최적화 알고리즘」은 대표 논문 2의 프리코딩·안테나 선택·전력 제어 공동 결정, 대표 논문 5의 제약 아래 합 스펙트럼 효율 최대화, 대표 논문 7의 보안 프리코딩 알고리즘이 근거다.
 - 태그 「강화학습」과 「디지털 트윈」은 Research Areas 페이지의 AI/ML 1-A(Deep RL-based Resource Allocation)와 1-C(Digital Twin-based Channel Estimation) 서술을 근거로 달았고, 이 두 주제의 학술지 논문은 2021–2026년 출판 목록에 없다(관련 학회·국내 학회 논문은 있다).
 - 모델 경량화·양자화: Research Areas 페이지의 AI/ML 3은 이진 신경망과 낮은 비트 양자화로 모델 크기와 추론 계산을 줄이는 연구다.
 - 연합학습·분산 학습: Research Areas 페이지의 AI/ML 2는 원자료 대신 로컬 모델 갱신을 주고받는 무선 연합학습의 송수신기 설계다.

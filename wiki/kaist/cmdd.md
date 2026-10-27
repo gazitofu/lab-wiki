@@ -4,7 +4,7 @@
 
 - 분야: 이차전지 소재(리튬·소듐·칼륨 이온 전지의 양극, 액체 전해질과 고체 전해질, 전고체 전지), 제일원리 계산과 원자 단위 전산모사, 기계학습 원자간 퍼텐셜과 배터리 진단 기계학습, 로봇과 AI를 쓰는 자율 실험실
 - 대분야: 소재, 에너지·환경·지구
-- 태그: 이차전지 소재[^research][^battery][^p1], 전고체 전지[^battery][^subgroups][^p4], 제1원리 계산[^research][^compute][^p6], 과학·공학 AI[^compute][^subgroups][^p7], 자율 실험실·AI 실험 설계[^research][^sdl]
+- 태그: 이차전지 소재[^research][^battery][^p1], 전고체 전지[^battery][^subgroups][^p4], 제1원리 계산[^research][^compute][^p6], 과학·공학 AI[^compute][^subgroups][^p7], 자율 실험실·AI 실험 설계[^research][^sdl], 분자 동역학 시뮬레이션[^p7]
 - 홈페이지: <https://cmdd.kaist.ac.kr/>
 - 근거와 출처: [CMDD 근거 페이지](cmdd-sources.md)
 
