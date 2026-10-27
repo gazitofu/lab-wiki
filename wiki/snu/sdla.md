@@ -4,7 +4,7 @@
 
 - 분야: 인공지능용 반도체 소자, 감각 신호 처리, 메모리 소자와 연산 하드웨어
 - 대분야: 전기전자·반도체·광학
-- 태그: 뉴로모픽 소자[^research][^ferro], 메모리 내 연산[^insensor][^ferro], 메모리 반도체 소자[^dram][^vnand], 강유전체[^ferro], 산화물 반도체[^oxide], MEMS 미세 기계 소자[^tactile]
+- 태그: 뉴로모픽 소자[^research][^ferro], 메모리 내 연산[^insensor][^ferro], 메모리 반도체 소자[^dram][^vnand], 강유전체[^ferro], 산화물 반도체[^oxide], MEMS 미세 기계 소자[^tactile], 가스 센서[^insensor]
 - 홈페이지: <https://sdla.snu.ac.kr/>
 - 근거와 출처: [SDLA 근거 페이지](sdla-sources.md)
 

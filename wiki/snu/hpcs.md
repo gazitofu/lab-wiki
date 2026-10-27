@@ -4,7 +4,7 @@
 
 - 분야: 컴퓨터 구조와 시스템 설계, 장치 중심 서버 구조와 FPGA 기반 네트워크·저장장치 가속(DPU, Data Processing Unit), 초저온 CMOS·초전도 SFQ(Single Flux Quantum) 프로세서·결함 허용 양자 컴퓨터 시스템, AI·딥러닝 가속 시스템과 3차원 낸드 플래시 메모리 안 연산, 뇌 시뮬레이션용 뉴로모픽 컴퓨팅과 뇌-컴퓨터 인터페이스 시스템, 컴퓨터 시스템 모델링·시뮬레이션·성능 분석
 - 대분야: 컴퓨팅·AI, 전기전자·반도체·광학
-- 태그: 컴퓨터 구조·운영체제[^home][^ecelabd][^p3], AI 반도체·가속기[^research][^ai][^p5], 메모리 내 연산[^ai][^p5], 양자 컴퓨팅[^cryo][^p4], 컴퓨터 네트워크[^server][^p1][^p2], 신경 인터페이스·뇌-컴퓨터 인터페이스[^neuro][^p7], AI 시스템·인프라[^research][^ai]
+- 태그: 컴퓨터 구조·운영체제[^home][^ecelabd][^p3], AI 반도체·가속기[^research][^ai][^p5], 메모리 내 연산[^ai][^p5], 양자 컴퓨팅[^cryo][^p4], 컴퓨터 네트워크[^server][^p1][^p2], 신경 인터페이스·뇌-컴퓨터 인터페이스[^neuro][^p7], AI 시스템·인프라[^research][^ai], 저장 시스템·SSD[^p2]
 - 홈페이지: <https://hpcs.snu.ac.kr/> (교수 개인 페이지 <https://hpcs.snu.ac.kr/~jangwoo/>)
 - 근거와 출처: [HPCS 연구실 근거 페이지](hpcs-sources.md)
 

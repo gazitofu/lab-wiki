@@ -4,7 +4,7 @@
 
 - 분야: 인공지능 시스템과 컴퓨터 구조, AI 가속기 설계와 메모리 안 연산(PIM), 분산 딥러닝 학습 시스템, 신경망 양자화·압축, GPU·PIM 같은 새 하드웨어 위의 응용 가속(그래프 처리, 벡터 검색, 유전체 서열 정렬, 데이터베이스)
 - 대분야: 컴퓨팅·AI, 전기전자·반도체·광학
-- 태그: AI 시스템·인프라[^home][^p3][^p4], AI 반도체·가속기[^research][^p1][^p2], 메모리 내 연산[^research][^p1][^p8], 컴퓨터 구조·운영체제[^home][^ecelabd], 대형 언어 모델[^research][^p3][^p5]
+- 태그: AI 시스템·인프라[^home][^p3][^p4], AI 반도체·가속기[^research][^p1][^p2], 메모리 내 연산[^research][^p1][^p8], 컴퓨터 구조·운영체제[^home][^ecelabd], 대형 언어 모델[^research][^p3][^p5], 고성능 컴퓨팅(HPC)[^research], 모델 경량화·양자화[^research], 연합학습·분산 학습[^research]
 - 홈페이지: <https://aisys.snu.ac.kr>
 - 근거와 출처: [AISys 근거 페이지](aisys-sources.md)
 

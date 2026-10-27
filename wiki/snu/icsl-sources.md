@@ -65,3 +65,4 @@
 - 연구 소개: RESEARCH 페이지는 제목 「Research Topics」 아래 그림 세 장만 두어, 본문의 연구 소개는 첫 화면의 세 연구 주제, PROFESSOR 페이지 Biography의 연구 관심, 학과 교수 소개의 Research Interest, 대표 논문 초록, PUBLICATIONS 페이지의 논문 제목으로 썼다. 학과 연구실 소개와 교수 소개에 걸린 소개 자료(최재혁교수님_연구실_소개자료_2024_fall_upload.pdf)는 읽지 않았다. PHOTO 페이지는 열지 않았다.
 - 머리의 소속: 학과 교수 소개와 PROFESSOR 페이지는 소속을 전기·정보공학부(Department of Electrical and Computer Engineering)로만 적는다. 대표 논문 1·2의 Crossref 소속에 Inter-University Semiconductor Research Center가 함께 적혀 있지만, 교수 소속 표기가 아니어서 머리에 넣지 않았다.
 - 태그: 「무선·이동통신」은 첫 화면의 다중 표준 무선 송수신기 설계, 학과 교수 소개의 차세대 무선통신 반도체 회로 및 시스템 설계, Biography의 무선 통신 표준을 위한 RF 집적회로를 근거로 달았다. 「전자파 적합성·신호 무결성」은 대표 논문 6·7이 전원 공급망의 잡음과 전압 강하가 일으키는 지터를 줄이는 전원 회로를 설계했다는 초록을 근거로 달았다.
+태그 어휘 1.6판(2026-10-26)의 「전력 관리 집적회로」는 대표 논문 6의 명령 인식 하이브리드 LDO 개발, 「주파수 합성·클럭 생성 회로」는 대표 논문 3의 D 대역 주파수 합성기 설계에 근거한다.

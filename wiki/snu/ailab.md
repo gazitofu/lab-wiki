@@ -4,7 +4,7 @@
 
 - 분야: 딥러닝, 기계 학습, 이미지·음성 생성 모델, 대형 언어 모델과 시각-언어 모델, 산업 AI(시계열 이상 탐지·결함 검사), 의료 AI(전자 건강 기록·심전도)
 - 대분야: 컴퓨팅·AI
-- 태그: 생성 인공지능[^p1][^p2][^p6], 대형 언어 모델[^p3][^p4], 멀티모달 AI[^p4], 컴퓨터 비전[^research][^p4], 음향·오디오 AI[^research][^p2], 이상·변화점 탐지[^p5], 강화학습[^ecelabview][^p4]
+- 태그: 생성 인공지능[^p1][^p2][^p6], 대형 언어 모델[^p3][^p4], 멀티모달 AI[^p4], 컴퓨터 비전[^research][^p4], 음향·오디오 AI[^research][^p2], 이상·변화점 탐지[^p5], 강화학습[^ecelabview][^p4], 의료 AI[^p7]
 - 홈페이지: <https://data.snu.ac.kr/>
 - 근거와 출처: [Data Science & Artificial Intelligence Laboratory 근거 페이지](ailab-sources.md)
 

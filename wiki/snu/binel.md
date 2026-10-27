@@ -4,7 +4,7 @@
 
 - 분야: 생명과학과 의료의 문제를 푸는 공학 기술(혈액 속 세균의 신속 항생제 감수성 검사 칩, 조직 슬라이드 영상·X선 영상·면역 수용체 서열을 읽는 인공지능, 레이저로 조직 속 세포를 골라 유전 정보를 읽는 공간 오믹스, 합성 DNA의 오류를 걸러 내는 정제 기술, 마이크로 LED와 부호화 미세입자의 제작·유체 자기조립)
 - 대분야: 화학공정·바이오공학, 전기전자·반도체·광학
-- 태그: 진단 기기·바이오센서[^ecelabv][^ast][^p1], 미세유체[^ast][^encoded][^selfassembly], 마이크로 LED[^selfassembly][^p7], 생물 영상 분석[^histo][^p2], 생체재료·조직 공학[^biointerface]
+- 태그: 진단 기기·바이오센서[^ecelabv][^ast][^p1], 미세유체[^ast][^encoded][^selfassembly], 마이크로 LED[^selfassembly][^p7], 생물 영상 분석[^histo][^p2], 생체재료·조직 공학[^biointerface], 의료 AI[^p3], 단일 세포·공간 오믹스[^p5], 바이오정보학·계산생물학[^immuneai]
 - 홈페이지: <https://binel.snu.ac.kr/>
 - 근거와 출처: [생체광학 및 나노공학 연구실 근거 페이지](binel-sources.md)
 
