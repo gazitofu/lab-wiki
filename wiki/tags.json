@@ -1,6 +1,6 @@
 {
- "version": "1.6",
- "updated": "2026-10-26",
+ "version": "1.7",
+ "updated": "2026-10-27",
  "fields": [
   {
    "id": "math-statistics",
@@ -1202,12 +1202,17 @@
     "CVD",
     "펄스 레이저 증착",
     "PLD",
-    "원격 에피택시"
+    "원격 에피택시",
+    "고분자 기상 증착",
+    "개시제 기상 증착",
+    "iCVD",
+    "initiated chemical vapor deposition"
    ],
-   "definition": "기판 위에 원자 배열을 맞춰 얇은 결정 막을 기르는 공정.",
+   "definition": "기판 위에 기체 원료나 물리적 방법으로 얇은 막을 기르거나 쌓는 공정. 원자 배열을 맞춰 결정 막을 기르는 에피택시를 포함한다.",
    "related": [],
    "status": "active",
-   "merged_into": null
+   "merged_into": null,
+   "note": "원료를 번갈아 공급하고 자기 제한적인 표면 반응을 이용해 막을 쌓는 공정은 원자층 증착 태그로 구분한다. 용액을 발라 말리는 공정은 인쇄 전자·용액 코팅 공정, 졸-겔 공정은 졸-겔·유무기 하이브리드 소재."
   },
   {
    "id": "atomic-layer-deposition",
@@ -2210,9 +2215,7 @@
    ],
    "aliases": [
     "세라믹",
-    "ceramic",
-    "적층 세라믹 커패시터",
-    "MLCC"
+    "ceramic"
    ],
    "definition": "금속 산화물 등을 높은 온도로 굳힌 무기 소재와 그 부품.",
    "related": [],
@@ -5297,7 +5300,15 @@
     "solid mechanics",
     "plasticity",
     "constitutive model",
-    "metal forming"
+    "metal forming",
+    "재료 역학",
+    "소재의 기계적 거동",
+    "나노역학",
+    "박막 역학",
+    "파괴 역학",
+    "mechanics of materials",
+    "nanomechanics",
+    "fracture mechanics"
    ],
    "definition": "고체가 힘을 받아 변형하고 부서지는 거동과, 힘을 없애도 남는 변형(소성)을 다루는 역학.",
    "related": [
@@ -5906,6 +5917,557 @@
    "status": "active",
    "merged_into": null,
    "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 분석 방법을 개발하거나 정상 뇌 기능의 원리를 밝힐 때 단다. MRI·fMRI·확산 MRI의 장치·신호 획득·재구성 방법 개발은 의료 영상 기기·재구성, 획득한 뇌 영상의 활동·연결망 분석은 이 태그로 구분한다."
+  },
+  {
+   "id": "mathematical-optimization",
+   "name_ko": "수리 최적화·최적화 알고리즘",
+   "name_en": "Mathematical optimization and optimization algorithms",
+   "axis": "method",
+   "fields": [
+    "math-statistics",
+    "industrial-systems"
+   ],
+   "aliases": [
+    "수리 최적화",
+    "최적화 알고리즘",
+    "최적화 이론",
+    "조합 최적화",
+    "정수 계획",
+    "혼합 정수 계획",
+    "볼록 최적화",
+    "차량 경로 문제",
+    "외판원 문제",
+    "기계학습 최적화",
+    "mathematical optimization",
+    "optimization algorithm",
+    "combinatorial optimization",
+    "integer programming",
+    "mixed-integer programming",
+    "convex optimization",
+    "vehicle routing problem",
+    "traveling salesman problem",
+    "optimization for machine learning"
+   ],
+   "definition": "목적 함수를 가장 작게 하거나 가장 크게 하는 변수 값을 제약 조건 안에서 찾는 수학적 모형과 그 풀이 알고리즘.",
+   "related": [
+    "design-optimization",
+    "ising-machine",
+    "reinforcement-learning",
+    "statistical-inference"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "최적화 문제의 모형화·풀이 방법·수렴 이론을 연구할 때 단다. 구조·형상 같은 공학 설계 대상의 최적화는 설계 최적화(위상·형상 최적화), 이징 칩으로 조합 최적화를 푸는 하드웨어는 이징 머신·물리 기반 계산. 기존 풀이기를 응용 문제에 쓰기만 한 연구에는 달지 않는다."
+  },
+  {
+   "id": "design-optimization",
+   "name_ko": "설계 최적화(위상·형상 최적화)",
+   "name_en": "Design optimization (topology and shape optimization)",
+   "axis": "method",
+   "fields": [
+    "mechanical-robotics",
+    "math-statistics"
+   ],
+   "aliases": [
+    "설계 최적화",
+    "최적 설계",
+    "위상 최적화",
+    "형상 최적화",
+    "형상 최적 설계",
+    "구조 최적 설계",
+    "신뢰성 기반 설계 최적화",
+    "RBDO",
+    "최적화 기반 역설계",
+    "design optimization",
+    "topology optimization",
+    "shape optimization",
+    "structural optimization",
+    "reliability-based design optimization",
+    "optimization-based inverse design"
+   ],
+   "definition": "구조물·부품·소자의 형상, 재료 배치, 치수 같은 설계 변수를 조절해 제약 조건을 만족하면서 목적 함수를 최소화하거나 최대화하는 설계를 찾는 공학 설계 방법.",
+   "related": [
+    "computational-mechanics",
+    "mathematical-optimization",
+    "additive-manufacturing",
+    "ai-for-science"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "설계 변수와 목적 함수를 세워 설계안을 찾는 방법을 연구하거나 연구의 핵심 방법으로 쓸 때 단다. 물리 거동을 계산하기만 하면 전산역학·수치 해석, 최적화 이론·알고리즘 자체는 수리 최적화·최적화 알고리즘."
+  },
+  {
+   "id": "cryptography",
+   "name_ko": "암호학",
+   "name_en": "Cryptography",
+   "axis": "method",
+   "fields": [
+    "computing-ai",
+    "math-statistics"
+   ],
+   "aliases": [
+    "암호 방식",
+    "대칭키 암호",
+    "공개키 암호",
+    "양자 내성 암호",
+    "인증 암호화",
+    "동형 암호",
+    "동형암호",
+    "완전 동형 암호",
+    "FHE",
+    "영지식 증명",
+    "cryptology",
+    "post-quantum cryptography",
+    "homomorphic encryption",
+    "fully homomorphic encryption",
+    "authenticated encryption",
+    "zero-knowledge proof"
+   ],
+   "definition": "정보의 기밀성·무결성·인증을 지키는 암호 방식과 암호 연산을 설계하고 그 안전성을 수학적으로 분석·증명하는 분야.",
+   "related": [
+    "hardware-security",
+    "network-security-privacy",
+    "blockchain",
+    "quantum-computing"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "암호 방식·안전성 증명·암호 연산(동형 암호 계산과 그 가속 하드웨어 포함)을 연구할 때 단다. 칩의 물리 성질로 키를 만들거나 지키는 기술은 하드웨어 보안, 통신망 데이터 보호 체계는 네트워크 보안·프라이버시, 분산 장부는 블록체인."
+  },
+  {
+   "id": "ising-machine",
+   "name_ko": "이징 머신·물리 기반 계산",
+   "name_en": "Ising machines and physics-based computing",
+   "axis": "method",
+   "fields": [
+    "electrical-electronics",
+    "computing-ai"
+   ],
+   "aliases": [
+    "이징 머신",
+    "이징 칩",
+    "이징 프로세서",
+    "CMOS 이징 머신",
+    "발진기 기반 이징 머신",
+    "Ising machine",
+    "Ising chip",
+    "Ising processor",
+    "oscillator-based Ising machine"
+   ],
+   "definition": "조합 최적화 문제를 이징 모형(스핀 사이 상호작용 에너지)으로 바꾸고, 회로나 물리 시스템의 상태가 낮은 에너지 상태로 가는 과정을 이용해 해를 찾는 계산기와 그 회로·소자.",
+   "related": [
+    "probabilistic-computing",
+    "optical-computing",
+    "mathematical-optimization",
+    "ai-accelerator-hardware"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "이 태그에서 물리 기반 계산은 이징 모형으로 표현한 조합 최적화 문제를 푸는 계산을 가리킨다. 확률 비트로 구현하면 확률 컴퓨팅, 빛으로 구현하면 광 컴퓨팅, 양자 어닐링으로 구현하면 양자 컴퓨팅도 함께 단다."
+  },
+  {
+   "id": "display-driving-circuits",
+   "name_ko": "디스플레이 구동·보상 회로",
+   "name_en": "Display driving and compensation circuits",
+   "axis": "object",
+   "fields": [
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "디스플레이 구동 회로",
+    "디스플레이 구동 집적회로",
+    "디스플레이 구동 칩",
+    "DDI",
+    "화소 회로",
+    "화소 보상 회로",
+    "display driver IC",
+    "display driving circuit",
+    "pixel circuit",
+    "pixel compensation circuit"
+   ],
+   "definition": "디스플레이의 화소에 밝기 신호(전압·전류·발광 시간)를 보내는 구동 회로와, 소자 특성 편차·열화로 생기는 밝기 차이를 회로나 알고리즘으로 보정하는 기술.",
+   "related": [
+    "display-light-emitting",
+    "integrated-circuit-design",
+    "oxide-semiconductor",
+    "micro-led"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "화소 회로·구동 집적회로·보상 방식을 설계할 때 단다. 발광 소자의 소재·구조·공정은 디스플레이·발광 소자, 박막 트랜지스터 소자 자체는 산화물 반도체 같은 소자 태그."
+  },
+  {
+   "id": "spray-aerosol",
+   "name_ko": "분무·에어로졸",
+   "name_en": "Sprays and aerosols",
+   "axis": "object",
+   "fields": [
+    "mechanical-robotics",
+    "energy-environment"
+   ],
+   "aliases": [
+    "액체 분무",
+    "방울 분열",
+    "액적 분열",
+    "에어로졸",
+    "에어로졸 이동",
+    "에어로졸 침착",
+    "정전분무",
+    "전기분무",
+    "spray",
+    "atomization",
+    "droplet breakup",
+    "aerosol",
+    "aerosol transport",
+    "electrospray"
+   ],
+   "definition": "액체가 방울로 부서져 흩어지는 분무 현상과, 기체 속에 떠 있는 작은 액체·고체 입자(에어로졸)의 생성·이동·침착·제거를 다루는 연구.",
+   "related": [
+    "fluid-mechanics",
+    "combustion",
+    "air-purification",
+    "flow-combustion-diagnostics"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "방울·입자의 거동을 실험이나 계산으로 다룰 때 단다. 흐름 일반은 유체역학·유동, 연료 분무의 연소는 연소·엔진도 함께, 공기 속 입자를 걸러 내는 장치·소재는 공기 정화·입자 여과."
+  },
+  {
+   "id": "air-purification",
+   "name_ko": "공기 정화·입자 여과",
+   "name_en": "Air purification and particle filtration",
+   "axis": "application",
+   "fields": [
+    "energy-environment",
+    "materials"
+   ],
+   "aliases": [
+    "공기 정화",
+    "실내 공기 정화",
+    "공기청정",
+    "미세먼지 여과",
+    "입자 여과",
+    "공기 필터",
+    "나노섬유 공기 필터",
+    "air purification",
+    "air filtration",
+    "particulate filtration",
+    "air filter"
+   ],
+   "definition": "공기 속의 먼지·미세 입자와 오염 물질을 걸러 내거나 없애 공기를 깨끗하게 하는 장치·소재와 그 여과·제거 원리.",
+   "related": [
+    "spray-aerosol",
+    "water-treatment",
+    "membrane-separation"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "물의 정화는 수처리, 특정 분자를 골라 통과시키는 막 공정은 분리막, 정전분무 같은 입자 생성 현상 자체는 분무·에어로졸."
+  },
+  {
+   "id": "cooperative-driving",
+   "name_ko": "연결·협력 자율주행(V2X)",
+   "name_en": "Connected and cooperative automated driving (V2X)",
+   "axis": "application",
+   "fields": [
+    "mechanical-robotics",
+    "computing-ai"
+   ],
+   "aliases": [
+    "연결 자율주행",
+    "협력 자율주행",
+    "협력 주행",
+    "연결 자율주행차",
+    "CAV",
+    "자율주행 협력 인지",
+    "차량-인프라 협력",
+    "V2X 협력 주행",
+    "connected and automated vehicles",
+    "cooperative driving",
+    "cooperative perception for automated driving",
+    "vehicle-infrastructure cooperation"
+   ],
+   "definition": "차량끼리, 또는 차량과 도로 인프라가 통신으로 센서 정보와 주행 의도를 나눠 함께 인지·판단·제어하는 자율주행 기술.",
+   "related": [
+    "autonomous-driving",
+    "wireless-communication",
+    "transport-urban-planning",
+    "control-theory"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "V2X 통신 방식과 무선 자원 자체는 무선·이동통신, 한 차량이 스스로 인지·주행하는 기술은 자율주행, 교통망 계획은 교통·도시 계획."
+  },
+  {
+   "id": "space-plasma-weather",
+   "name_ko": "우주 플라즈마·우주 기상",
+   "name_en": "Space plasma and space weather",
+   "axis": "object",
+   "fields": [
+    "physics",
+    "energy-environment"
+   ],
+   "aliases": [
+    "우주 플라즈마",
+    "천체 플라즈마",
+    "우주 기상",
+    "전리층",
+    "전리층 섬광",
+    "전리층 교란",
+    "자기권",
+    "태양풍",
+    "space plasma",
+    "astrophysical plasma",
+    "space weather",
+    "ionosphere",
+    "ionospheric scintillation",
+    "magnetosphere",
+    "solar wind"
+   ],
+   "definition": "태양풍·자기권·전리층처럼 우주 공간과 천체 주변에 있는 플라즈마의 현상, 그리고 그 변화가 지구 주변 환경과 위성·통신·항법 신호에 주는 영향을 다루는 분야.",
+   "related": [
+    "plasma-physics",
+    "gnss",
+    "remote-sensing",
+    "nuclear-fusion"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "플라즈마 일반 원리는 플라즈마, 핵융합 장치의 플라즈마는 핵융합, GNSS 신호 처리·수신기는 위성항법(GNSS), 우주 추진은 우주 전기 추진."
+  },
+  {
+   "id": "scanning-probe-microscopy",
+   "name_ko": "원자간력 현미경·주사 탐침 계측",
+   "name_en": "Atomic force microscopy and scanning probe metrology",
+   "axis": "method",
+   "fields": [
+    "physics",
+    "materials"
+   ],
+   "aliases": [
+    "원자간력 현미경",
+    "원자현미경",
+    "AFM",
+    "주사 탐침 현미경",
+    "SPM",
+    "주사 터널링 현미경",
+    "STM",
+    "전도성 원자간력 현미경",
+    "C-AFM",
+    "압전 응답 힘 현미경",
+    "PFM",
+    "켈빈 탐침 힘 현미경",
+    "KPFM",
+    "AFM 캔틸레버",
+    "atomic force microscopy",
+    "scanning probe microscopy",
+    "scanning tunneling microscopy",
+    "conductive AFM",
+    "piezoresponse force microscopy",
+    "Kelvin probe force microscopy"
+   ],
+   "definition": "날카로운 탐침을 시료 표면에 가까이 대고 훑으며 탐침과 표면 사이의 힘·전류·전위 같은 상호작용을 재서 표면의 모양과 물성을 영상화·측정하는 장비와 방법.",
+   "related": [
+    "electron-microscopy",
+    "semiconductor-metrology",
+    "optical-imaging-microscopy"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "측정법·탐침·신호 해석을 연구하거나 연구의 중심 도구로 쓸 때 단다. 전자빔으로 보는 전자현미경, 빛으로 보는 광학 영상·현미경과 구분한다."
+  },
+  {
+   "id": "molecular-dynamics",
+   "name_ko": "분자 동역학 시뮬레이션",
+   "name_en": "Molecular dynamics simulation",
+   "axis": "method",
+   "fields": [
+    "physics",
+    "materials",
+    "chemistry"
+   ],
+   "aliases": [
+    "분자 동역학",
+    "분자동역학",
+    "MD 시뮬레이션",
+    "반응 분자 동역학",
+    "molecular dynamics",
+    "reactive molecular dynamics"
+   ],
+   "definition": "원자·분자에 작용하는 힘으로 운동 방정식을 시간에 따라 풀어 원자·분자의 움직임과 물질의 구조·물성 변화를 계산하는 모의 방법.",
+   "related": [
+    "first-principles-calculation",
+    "computational-mechanics",
+    "ai-for-science"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "전자 구조를 양자역학으로 푸는 계산은 제1원리 계산, 연속체 수준의 수치 해석은 전산역학·수치 해석. 기계학습으로 원자간 퍼텐셜을 만드는 연구는 과학·공학 AI도 함께 단다."
+  },
+  {
+   "id": "architected-materials",
+   "name_ko": "구조 설계 소재(architected materials)",
+   "name_en": "Architected materials",
+   "axis": "object",
+   "fields": [
+    "materials",
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "구조 설계 소재",
+    "아키텍처드 소재",
+    "격자 구조 소재",
+    "나노 구조 설계 소재",
+    "architected material",
+    "lattice materials",
+    "nano-architected materials"
+   ],
+   "definition": "소재 내부의 기하 구조 배열을 설계해 강성·강도·밀도·에너지 흡수 같은 기계적 성질을 정하는 소재.",
+   "related": [
+    "metamaterials",
+    "solid-mechanics",
+    "additive-manufacturing",
+    "composites"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "구조 배열로 자연 물질에 없는 광학·역학 성질을 내는 소재·소자는 메타물질·메타광학(역학 메타물질 포함). 두 조건을 모두 만족하면 둘 다 단다. 층을 쌓는 제조 공정은 3D 프린팅."
+  },
+  {
+   "id": "dielectric-capacitors",
+   "name_ko": "유전체 커패시터 소재",
+   "name_en": "Dielectric capacitor materials",
+   "axis": "object",
+   "fields": [
+    "materials",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "MLCC",
+    "적층 세라믹 커패시터",
+    "유전체 커패시터",
+    "유전체 에너지 저장",
+    "유전체 축전기",
+    "dielectric capacitor",
+    "dielectric energy storage",
+    "multilayer ceramic capacitor"
+   ],
+   "definition": "전극 사이의 유전체가 전기장 아래 분극해 전하를 저장하는 커패시터와, 그 유전체 소재의 유전율·절연 성질·에너지 저장 특성.",
+   "related": [
+    "ferroelectrics",
+    "ceramics",
+    "supercapacitors"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "전기화학 반응으로 저장하는 이차전지·슈퍼커패시터와 구분한다. 분극 반전 자체를 이용하는 메모리·소자는 강유전체."
+  },
+  {
+   "id": "printed-electronics",
+   "name_ko": "인쇄 전자·용액 코팅 공정",
+   "name_en": "Printed electronics and solution coating processes",
+   "axis": "method",
+   "fields": [
+    "materials",
+    "mechanical-robotics"
+   ],
+   "aliases": [
+    "인쇄 전자",
+    "인쇄전자",
+    "전자 인쇄",
+    "기능성 잉크젯 인쇄",
+    "기능성 잉크 직접 인쇄",
+    "용액 코팅",
+    "증발 건조 코팅",
+    "기능성 막·배선 인쇄 공정",
+    "printed electronics",
+    "inkjet printing of functional materials",
+    "direct-write printing of functional materials",
+    "solution coating"
+   ],
+   "definition": "잉크 등 기능성 재료를 기판에 인쇄하거나 용액을 코팅해 기능성 막·배선·소자를 형성하는 공정과, 그 공정으로 만든 전자 소자.",
+   "related": [
+    "additive-manufacturing",
+    "nanopatterning",
+    "flexible-stretchable-electronics",
+    "fluid-mechanics"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "층을 쌓아 입체를 만드는 제조는 3D 프린팅, 무늬를 새기거나 옮겨 찍는 공정은 나노 패터닝·전사. 건조·코팅의 유동 현상을 다루면 유체역학·유동도 함께 단다."
+  },
+  {
+   "id": "holography-light-field",
+   "name_ko": "홀로그래피·라이트필드 3차원 영상",
+   "name_en": "Holography and light-field 3D imaging and display",
+   "axis": "method",
+   "fields": [
+    "electrical-electronics",
+    "physics"
+   ],
+   "aliases": [
+    "홀로그래피",
+    "홀로그램",
+    "디지털 홀로그래피",
+    "컴퓨터 생성 홀로그램",
+    "CGH",
+    "메타표면 홀로그램",
+    "벡터 홀로그래피",
+    "홀로그래픽 디스플레이",
+    "라이트필드 디스플레이",
+    "라이트필드 영상",
+    "holography",
+    "hologram",
+    "digital holography",
+    "computer-generated holography",
+    "holographic display",
+    "light field display",
+    "light-field imaging"
+   ],
+   "definition": "빛의 진폭·위상 정보를 기록하거나 계산해 파면을 재구성하는 홀로그래피와, 빛이 지나는 위치·방향에 따른 분포를 기록·재현·계산하는 라이트필드 영상 기술 및 그 광학 소자·계산 방법.",
+   "related": [
+    "metamaterials",
+    "optical-imaging-microscopy",
+    "display-light-emitting",
+    "xr"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "발광 소자의 소재·구조·공정은 디스플레이·발광 소자, 영상을 얻는 현미경·카메라 일반은 광학 영상·현미경, 몰입형 화면의 사용 경험은 가상·증강현실."
+  },
+  {
+   "id": "synthetic-biology",
+   "name_ko": "합성생물학·DNA 합성",
+   "name_en": "Synthetic biology and DNA synthesis",
+   "axis": "method",
+   "fields": [
+    "chemical-bioengineering",
+    "basic-life"
+   ],
+   "aliases": [
+    "합성생물학",
+    "합성 생물학",
+    "유전자 회로 설계",
+    "DNA 합성",
+    "DNA 정제",
+    "합성 DNA 정제",
+    "유전자 합성",
+    "DNA 올리고 합성",
+    "synthetic biology",
+    "genetic circuit design",
+    "DNA synthesis",
+    "gene synthesis",
+    "DNA oligonucleotide synthesis"
+   ],
+   "definition": "생물 부품·유전자 회로·대사 경로를 설계해 원하는 기능을 가진 생물 시스템을 만드는 분야와, 그 바탕이 되는 DNA를 합성·정제·조립하는 기술.",
+   "related": [
+    "bioinformatics",
+    "ai-for-science",
+    "microfluidics"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 생물 설계 방법, DNA 합성·정제 기술, 설계 자동화를 개발하는 연구에 단다. 질병 기전·치료 연구에 기존 도구를 쓰기만 한 경우에는 달지 않는다. 생물 자료의 계산 분석은 바이오정보학·계산생물학."
   }
  ],
  "changelog": [
@@ -5944,6 +6506,10 @@
   {
    "date": "2026-10-26",
    "change": "v1.6 사용자 승인(D-25d 검토표 collection-staging/2026-10-26/tags-v16-review.md, 세션 안 질문): 신규 태그 62개(회로·컴퓨터·AI 26, 항공우주·기계·원자력 20, 소재·센서 7, 의생명·신경 9; GNC는 비행체·우주비행체 한 태그). 규칙 V-2 별칭 14줄(무선·이동통신, 광통신, 첨단 반도체 패키징, 열전달·열관리, 광학 영상·현미경, 스마트 그리드·전력 관리, 핵융합, 원자로·원자력 시스템, 연소·엔진, 신경 인터페이스, 진단 기기·바이오센서, 이차전지 소재, 장기 칩, 로봇 항법·SLAM). 정정: 메타물질·메타광학 definition, 별칭 「비파괴 검사」를 반도체 계측·검사에서 비파괴 검사·구조 건전성 모니터링으로, 「커넥톰·connectome」을 계산신경과학에서 신경영상 분석·뇌 연결망으로, 「약물 전달·약물 전달체·drug delivery」를 생체재료·조직 공학에서 약물·유전자 전달체로 옮김. 활성 랩 기준으로 뺀 cadol·caislab 요청은 세지 않음. 의생명 태그 note에 plan §3 범위 조건. GPT-6.1-sol QA(qa/tags-v16-review-2026-10-26.md, F1–F35·N1–N4) 반영: 신규 태그 별칭을 V-2에 맞게 한정(집적회로·AI·핵융합 플라즈마·원자로·우주 등 조건을 붙임), 정의 정정(model-compression, neuroimaging, optical-imaging-microscopy, battery-materials, ultrasound, ndt-shm, gas-sensors, alloy-design, neural-circuits-behavior, single-cell-spatial-omics, hpc, state-estimation, body-channel-communication, animal-behavior-quantification, data-centric-ai), 「약물 전달·drug delivery」는 생체재료·조직 공학에 그대로 두고 「약물 전달체」만 옮김, 치료 초음파 제외, AAM·일반 플라즈마 용어·모션 플래닝 등 상위어는 별칭에서 빼고 트렌드 사전 후속으로 둠."
+  },
+  {
+   "date": "2026-10-27",
+   "change": "v1.7 사용자 승인(D-27a 검토표 collection-staging/2026-10-27/tags-v17-review.md, 세션 안 질문 「모두 승인」·V5 「둘째 곳으로 인정」): 요청 원문 전체를 다시 집계해 두 곳 이상인 신규 태그 16개(수리 최적화·최적화 알고리즘, 설계 최적화(위상·형상 최적화), 암호학, 이징 머신·물리 기반 계산, 디스플레이 구동·보상 회로(요청 한 곳 + 등록본 중심 갈래 한 곳), 분무·에어로졸, 공기 정화·입자 여과, 연결·협력 자율주행(V2X), 우주 플라즈마·우주 기상, 원자간력 현미경·주사 탐침 계측, 분자 동역학 시뮬레이션, 구조 설계 소재(architected materials), 유전체 커패시터 소재, 인쇄 전자·용액 코팅 공정, 홀로그래피·라이트필드 3차원 영상, 합성생물학·DNA 합성). 고체역학·소성에 재료 역학·나노역학·파괴 역학 별칭(V-2). 정정: 박막 성장·에피택시 definition을 비결정 증착막까지 넓히고 개시제 기상 증착(iCVD) 별칭 추가, 별칭 「적층 세라믹 커패시터·MLCC」를 세라믹 소재에서 유전체 커패시터 소재로 옮김. 트렌드 검색어 「동형 암호·프라이버시 보호 계산」은 암호학 별칭과 겹쳐 삭제. 합성생물학 note에 plan §3 범위 조건. GPT-6.1-sol QA(qa/tags-v17-review-2026-10-27.md) F1–F7·N1–N3 반영."
   }
  ]
 }
