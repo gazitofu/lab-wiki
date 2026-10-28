@@ -4,7 +4,7 @@
 
 - 분야: 임베디드 시스템, 컴퓨터 구조, 메모리·저장 시스템, 저전력·고신뢰성 컴퓨팅, 하드웨어 보안, 인공지능 시스템, 모바일 입력
 - 대분야: 컴퓨팅·AI, 전기전자·반도체·광학
-- 태그: 컴퓨터 구조·운영체제[^intro][^research], 저장 시스템·SSD[^research][^p2][^p3], AI 시스템·인프라[^research][^p1], 하드웨어 보안[^research][^p7], AI·기계학습 보안·프라이버시[^research][^p5], 메모리 내 연산[^projects], 인간–컴퓨터 상호작용[^p8]
+- 태그: 컴퓨터 구조·운영체제[^intro][^research], 저장 시스템·SSD[^research][^p2][^p3], AI 시스템·인프라[^research][^p1], 하드웨어 보안[^research][^p7], AI·기계학습 보안·프라이버시[^research][^p5], 메모리 내 연산[^projects], 인간–컴퓨터 상호작용[^p8], 실시간·임베디드 시스템[^intro][^research]
 - 홈페이지: <https://ecl.kaist.ac.kr/>
 - 근거와 출처: [ECL 근거 페이지](ecl-sources.md)
 

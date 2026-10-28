@@ -4,7 +4,7 @@
 
 - 분야: 디지털 회로 설계, 디지털 VLSI 설계와 CAD
 - 대분야: 전기전자·반도체·광학, 컴퓨팅·AI
-- 태그: 집적회로 설계[^home][^eeprof][^p8], 오류 정정 부호[^home][^research][^p1], AI 반도체·가속기[^home][^ai][^p4], 컴퓨터 구조·운영체제[^home][^soc], 메모리 내 연산[^home][^ai], 무선·이동통신[^home][^p1], FPGA·재구성형 하드웨어[^p7]
+- 태그: 집적회로 설계[^home][^eeprof][^p8], 오류 정정 부호[^home][^research][^p1], AI 반도체·가속기[^home][^ai][^p4], 컴퓨터 구조·운영체제[^home][^soc], 메모리 내 연산[^home][^ai], 무선·이동통신[^home][^p1], FPGA·재구성형 하드웨어[^p7], 실시간·임베디드 시스템[^soc]
 - 홈페이지: <https://ics.kaist.ac.kr/>
 - 근거와 출처: [집적 컴퓨터 시스템 연구실 근거 페이지](ics-sources.md)
 

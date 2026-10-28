@@ -68,6 +68,6 @@ People·Alumni·교수 소개의 본문과 연구실 첫 화면에는 이메일 
 
 교수 Awards 6건 중 해당 기간은 2024년 5월의 2건이다. 선정 이름에 포함된 규모 표기는 싣지 않았다. Activities는 정기 워크숍·생활 활동 소개이며 날짜가 있는 최근 연구 성과 소식 목록은 아니다. 해당 본문에 독립된 특허·연구 소식 절은 만들지 않았다. 교수의 강연 목록과 교육 프로그램 세부는 본문 목록에 싣지 않았다.
 
-태그는 태그 어휘 1.7판(2026-10-27)에 맞췄다. 엣지 컴퓨팅·강화학습·연합학습은 연구실 소개의 직접적인 연구 방법 설명, 다중 에이전트는 Research와 IoT 연구 설명, 멀티모달 AI는 서로 다른 자료를 결합하는 대표 논문, 교통·도시 계획은 지역 예측을 도시 정책·계획과 연결한 초록을 근거로 삼았다. 테스트베드 장비 보유를 태그의 근거로 쓰지 않았다.
+태그는 태그 어휘 1.8판(2026-10-28)에 맞췄다. 엣지 컴퓨팅·강화학습·연합학습은 연구실 소개의 직접적인 연구 방법 설명, 다중 에이전트는 Research와 IoT 연구 설명, 멀티모달 AI는 서로 다른 자료를 결합하는 대표 논문, 교통·도시 계획은 지역 예측을 도시 정책·계획과 연결한 초록을 근거로 삼았다. 모바일·유비쿼터스 센싱은 공간에 설치한 센서와 외부 영상을 연결하는 DETACH, 센서 자료로 새로운 행동을 탐지하는 CLAN에 근거한다. 테스트베드 장비 보유를 태그의 근거로 쓰지 않았다.
 
 Urban Dynamics via Human Mobility Data의 상세 쪽 <https://cds.kaist.ac.kr/portfolio/template-research-area-urban/>은 읽지 않았다. IEEE Xplore의 OCTOPINF 논문 쪽 <https://ieeexplore.ieee.org/document/11018743>과 CVPR의 DETACH 논문 쪽 <https://openaccess.thecvf.com/content/CVPR2026/html/Yoon_DETACH__Decomposed_Spatio-Temporal_Alignment_for_Exocentric_Video_and_Ambient_CVPR_2026_paper.html>도 읽지 않았다. 해당 대표 설명은 연구실이 게시한 초록으로 작성했다.

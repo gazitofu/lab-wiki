@@ -15,7 +15,7 @@
 | 연구 소개 페이지(첫 화면 more 링크) | <https://sites.google.com/view/smilelab/re_sea_rch_old_02> | 2026-10-23 | 배터리 없는 사물인터넷과 사물인터넷의 AI 설명, 태그 줄 |
 | Members 페이지 | <https://sites.google.com/view/smilelab/members> | 2026-10-23 | 구성원, 졸업생과 진로, 학부생, 교수 직위 |
 | Publications 페이지 | <https://sites.google.com/view/smilelab/publications> | 2026-10-23 | 최근 논문 목록, 대표 논문 저자, 논문 수상 표시 |
-| 김성민 교수 개인 누리집 | <https://sites.google.com/view/songminkim/> | 2026-10-23 | 한 줄 요약, 교수 소개·경력·학력, 학계 활동, 수상, 강의, 그 밖의 연구 주제 |
+| 김성민 교수 개인 누리집 | <https://sites.google.com/view/songminkim/> | 2026-10-23 | 한 줄 요약, 교수 소개·경력·학력, 학계 활동, 수상, 강의, 그 밖의 연구 주제. 「실시간·임베디드 시스템」은 모바일 시스템과 배터리 없는 기기의 하드웨어·소프트웨어를 함께 설계하는 연구가 근거다 |
 | KAIST 전기및전자공학부 교수 목록 | <https://ee.kaist.ac.kr/professor-s1/> | 2026-10-23 | 교수 상세 소개 주소 확인, 직위·사무실·디비전 대조 |
 | KAIST 전기및전자공학부 교수 소개(김성민) | <https://ee.kaist.ac.kr/professor/16205/> | 2026-10-23 | 소속, 직위, 주요 연구분야, 주요 연구, 소속연구실, 학위, 대표업적, 교수 연구실 위치·연락처·이메일 |
 | USENIX NSDI '24 발표 페이지(mmComb) | <https://www.usenix.org/conference/nsdi24/presentation/chae> | 2026-10-23 | 대표 논문 4의 초록·저자·소속 |

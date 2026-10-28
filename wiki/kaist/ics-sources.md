@@ -10,7 +10,7 @@
 | Introduction 페이지(History) | <https://ics.kaist.ac.kr/introduction.php> | 2026-10-22 | 연구실 연혁, 교수 부임·정교수 시점, 프로세서 개발 연혁, Altera Design Contest |
 | Research 페이지 | <https://ics.kaist.ac.kr/research.php> | 2026-10-22 | 연구 분야 일곱 갈래 |
 | Research 하위 페이지(AI Processor) | <https://ics.kaist.ac.kr/research_ai.php> | 2026-10-22 | DSIP, 가중치 양자화, FPGA 물체 검출 시스템, PIM 구조 |
-| Research 하위 페이지(Embedded SoC) | <https://ics.kaist.ac.kr/research_soc.php> | 2026-10-22 | 범용·멀티코어 프로세서, 시스템 소프트웨어, ECU |
+| Research 하위 페이지(Embedded SoC) | <https://ics.kaist.ac.kr/research_soc.php> | 2026-10-22 | 범용·멀티코어 프로세서, 시스템 소프트웨어, ECU. 「실시간·임베디드 시스템」은 고장을 견디는 프로세서·메모리·연결망과 FreeRTOS를 함께 구성한 실시간 제어용 ECU가 근거다 |
 | Projects 페이지 | <https://ics.kaist.ac.kr/project.php> | 2026-10-22 | 진행 중 과제 2건, 이전 과제 소개 |
 | International Journal 페이지 | <https://ics.kaist.ac.kr/paper_intj.php> | 2026-10-22 | 최근 논문 목록 29편, 대표 논문 후보와 저자 순서, 주요 연구 주제의 목록 논문 |
 | International Conference 페이지 | <https://ics.kaist.ac.kr/paper_intc.php> | 2026-10-22 | 학회 논문 목록의 연도 범위 |
