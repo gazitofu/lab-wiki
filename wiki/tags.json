@@ -1,6 +1,6 @@
 {
- "version": "1.7",
- "updated": "2026-10-27",
+ "version": "1.8",
+ "updated": "2026-10-28",
  "fields": [
   {
    "id": "math-statistics",
@@ -6468,6 +6468,68 @@
    "status": "active",
    "merged_into": null,
    "note": "plan §3 범위: 생물 설계 방법, DNA 합성·정제 기술, 설계 자동화를 개발하는 연구에 단다. 질병 기전·치료 연구에 기존 도구를 쓰기만 한 경우에는 달지 않는다. 생물 자료의 계산 분석은 바이오정보학·계산생물학."
+  },
+  {
+   "id": "mobile-ubiquitous-sensing",
+   "name_ko": "모바일·유비쿼터스 센싱",
+   "name_en": "Mobile and ubiquitous sensing",
+   "axis": "method",
+   "fields": [
+    "computing-ai",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "모바일 센싱",
+    "유비쿼터스 센싱",
+    "스마트폰 센싱",
+    "mobile sensing",
+    "ubiquitous sensing",
+    "smartphone sensing"
+   ],
+   "definition": "휴대·착용 기기나 일상 환경에 배치된 감지 기기의 관측 자료로 사람·사물·환경의 상태와 상황을 알아내는 시스템과 그 감지·인식 방법.",
+   "related": [
+    "wearable-biosensor",
+    "hci",
+    "lidar-3d-sensing",
+    "wireless-communication",
+    "edge-computing"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "일상 기기의 관측을 이용하는 감지 시스템이나 그 감지·인식 방법 자체를 연구할 때 단다. 새 감지 기기를 만들지 않고 기존 센서 자료로 감지·인식 방법을 개발하는 연구도 포함한다. 몸에 붙이거나 입어 생체 신호를 재는 센서 자체는 착용형 생체 센서, 빛의 왕복 시간이나 위상으로 거리와 3차원 모양을 재는 센서는 라이다·3차원 거리 센싱, 위성·항공기 관측과 그 자료 분석은 위성 원격탐사, 데이터 전송 기술 자체는 무선·이동통신의 정의로 판단한다. 기존 감지·인식 방법을 다른 연구의 분석 도구로 쓰기만 한 경우에는 달지 않는다."
+  },
+  {
+   "id": "real-time-embedded-systems",
+   "name_ko": "실시간·임베디드 시스템",
+   "name_en": "Real-time and embedded systems",
+   "axis": "object",
+   "fields": [
+    "computing-ai",
+    "electrical-electronics"
+   ],
+   "aliases": [
+    "실시간 시스템",
+    "임베디드 시스템",
+    "임베디드 컴퓨팅",
+    "실시간 스케줄링",
+    "실시간 운영체제",
+    "RTOS",
+    "real-time systems",
+    "embedded systems",
+    "embedded computing",
+    "real-time scheduling",
+    "real-time operating system"
+   ],
+   "definition": "정해진 시간 조건에 맞춰 결과를 내야 하는 실시간 시스템과, 다른 기기 안에서 특정 기능을 수행하도록 구성된 임베디드 시스템의 하드웨어·시스템 소프트웨어.",
+   "related": [
+    "computer-architecture",
+    "integrated-circuit-design",
+    "ai-accelerator-hardware",
+    "edge-computing"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "실행 시간 보장, 기기 안의 계산 자원·전력 관리, 임베디드 기기의 하드웨어·시스템 소프트웨어 설계를 연구할 때 단다. 범용 컴퓨터의 구조·운영체제는 컴퓨터 구조·운영체제, 칩 회로 설계는 집적회로 설계, 인공지능 연산용 칩은 AI 반도체·가속기. 임베디드 기기를 실험 도구로 쓰기만 한 연구에는 달지 않는다."
   }
  ],
  "changelog": [
@@ -6510,6 +6572,10 @@
   {
    "date": "2026-10-27",
    "change": "v1.7 사용자 승인(D-27a 검토표 collection-staging/2026-10-27/tags-v17-review.md, 세션 안 질문 「모두 승인」·V5 「둘째 곳으로 인정」): 요청 원문 전체를 다시 집계해 두 곳 이상인 신규 태그 16개(수리 최적화·최적화 알고리즘, 설계 최적화(위상·형상 최적화), 암호학, 이징 머신·물리 기반 계산, 디스플레이 구동·보상 회로(요청 한 곳 + 등록본 중심 갈래 한 곳), 분무·에어로졸, 공기 정화·입자 여과, 연결·협력 자율주행(V2X), 우주 플라즈마·우주 기상, 원자간력 현미경·주사 탐침 계측, 분자 동역학 시뮬레이션, 구조 설계 소재(architected materials), 유전체 커패시터 소재, 인쇄 전자·용액 코팅 공정, 홀로그래피·라이트필드 3차원 영상, 합성생물학·DNA 합성). 고체역학·소성에 재료 역학·나노역학·파괴 역학 별칭(V-2). 정정: 박막 성장·에피택시 definition을 비결정 증착막까지 넓히고 개시제 기상 증착(iCVD) 별칭 추가, 별칭 「적층 세라믹 커패시터·MLCC」를 세라믹 소재에서 유전체 커패시터 소재로 옮김. 트렌드 검색어 「동형 암호·프라이버시 보호 계산」은 암호학 별칭과 겹쳐 삭제. 합성생물학 note에 plan §3 범위 조건. GPT-6.1-sol QA(qa/tags-v17-review-2026-10-27.md) F1–F7·N1–N3 반영."
+  },
+  {
+   "date": "2026-10-28",
+   "change": "v1.8 사용자 승인(D-28a 검토표 collection-staging/2026-10-28/tags-v18-review.md, 세션 안 질문 W1 「승인」·W2 「둘째 곳으로 인정」): 신규 태그 2개(모바일·유비쿼터스 센싱: nmsl·cyphy 요청, 실시간·임베디드 시스템: cpslab 요청 + 등록본 ecl 중심 갈래). 한 곳 요청 11건(사물인터넷, 소셜 컴퓨팅, 계산기하학, 트라이볼로지·CMP, 절삭 가공, 적응형 실험 설계, 광학 집게, 위상 광학·무질서 광학, 레이더 신호 처리, 컴파일러 최적화)은 보류."
   }
  ]
 }
