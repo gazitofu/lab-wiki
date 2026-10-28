@@ -413,9 +413,9 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 |---|---|---|
 | [Wonder Lab](wiki/kaist/wonderlab.md) | 이우훈 교수 (산업디자인학과·메타버스대학원) | 디지털 정보와 실물의 상호작용을 설계해 사람이 놀고 배우고 만드는 경험을 연구하며, 이를 위한 기기·제작 도구·전시 콘텐츠를 만든다. |
 
-## 서울대 연구실 (51곳)
+## 서울대 연구실 (56곳)
 
-### 공과대학 전기·정보공학부 (47)
+### 공과대학 전기·정보공학부 (52)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -427,6 +427,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [고성능 집적마이크로시스템 연구실 (Jerald Yoo Group)](wiki/snu/jeraldyoo.md) | 유담 교수 | 의생명 응용을 위한 에너지 효율 높은 집적회로와 시스템을 만드는 연구실이다. |
 | [고성능 컴퓨터 시스템 연구실 (High Performance Computer System Lab, HPCS)](wiki/snu/hpcs.md) | 김장우 교수 | 차세대 컴퓨터 구조와 시스템을 설계하고 모델링하고 시제품으로 만들어 평가하는 연구실이다. |
 | [광·나노 전자소자 연구실 (Advanced Opto and Nano Electronics Laboratory, AONE)](wiki/snu/aone.md) | 곽정훈 교수 | 양자점과 유기 반도체처럼 새로운 반도체 소재로 빛을 내거나 전기를 만드는 소자를 연구하는 전기·정보공학부 연구실이다. |
+| [광자 시스템 연구실 (Photonic Systems Lab, PSL@SNU)](wiki/snu/stargate.md) | 박남규 교수 | 빛과 소리가 구조 속에서 이동하고 흩어지는 방식을 설계해, 광학 계산 회로와 방향에 따라 다르게 작동하는 음향 소자, 영상·집속 장치로 연결하는 연구실이다. |
 | [기계 인지 및 추론 연구실 (SNU Machine Perception and Reasoning Lab.)](wiki/snu/mpr.md) | 최종현 부교수 (공과대학 전기·정보공학부, 대학원 협동과정 인공지능전공) | 사진·영상과 언어를 함께 이해하는 인공지능을 연구하며, 학습에 필요한 자료와 계산을 줄이고 변화하는 환경에 맞춰 지식과 행동을 조정하는 방법을 개발하는 연구실이다. |
 | [기계지능 및 데이터사이언스 연구실 (Machine Intelligence and Data Science Lab, M.IN.D Lab)](wiki/snu/mindlab.md) | 문태섭 교수 | 자료와 환경이 바뀌어도 배움을 이어 가는 기계학습, 공정하고 믿을 수 있는 인공지능, 실제 데이터 문제를 푸는 학습 방법을 연구한다. |
 | [네트워크 연구실 (Network Laboratory, NETLAB)](wiki/snu/netlab.md) | 박세웅 교수 | 무선으로 기기들이 자료를 주고받는 규칙과 경로를 설계하고, 이동통신의 실시간 서비스 품질과 기기의 영역 인증, 기기에 맞춘 학습 모델을 연구한다. |
@@ -437,6 +438,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [반도체 재료 및 소자연구실 (Semiconductor Materials and Devices Laboratory, SMDL)](wiki/snu/genie.md) | 이종호 교수 | 반도체 소자를 직접 만들고 재고 모델링하는 연구실로, 3차원 낸드 플래시 메모리, 플래시와 강유전체 소자로 만드는 뉴로모픽 하드웨어와 메모리 내 연산, CMOS 기술과 함께 만드는 FET형 가스 센서를 중심으로 연구한다. |
 | [반도체 패키지 모듈 연구실 (SMEET Lab)](wiki/snu/smeet.md) | 윤상원 교수 | 반도체 칩을 연결하고 보호하는 패키지를 설계해 열을 빼고 고장을 평가하며, 이동 수단과 착용 기기의 센서 신호를 해석하는 연구실이다. |
 | [반도체회로 및 시스템 설계 연구실 (Integrated Circuits & Systems Lab, ICSL)](wiki/snu/icsl.md) | 최재혁 교수 | 새로운 무선·유선 통신 표준을 위한 고속 혼성 신호·RF 집적회로를 설계하는 연구실이다. |
+| [보안 최적화 연구실 (Security Optimization Research Lab, SOR Lab)](wiki/snu/sor.md) | 백윤흥 교수 | 암호화 계산과 암호 하드웨어, 프로그램·차량 시스템 보호, 인공지능 보안과 전용 가속기 설계를 연구하는 연구실이다. |
 | [삼차원 집적 및 소자 연구실 (Three-Dimensional Integration and Device Lab., TIDL)](wiki/snu/tidl.md) | 최우영 교수 | 정보를 저장하고 계산하는 반도체 소자를 만들며, 두뇌의 정보 처리를 본뜬 소자·회로와 서로 다른 소자를 위아래로 연결하는 삼차원 집적 기술을 연구한다. |
 | [생체광학 및 나노공학 연구실 (BiNEL, Biophotonics and Nano Engineering Lab.)](wiki/snu/binel.md) | 권성훈 교수 | 생명과학자와 의료진이 실제로 부딪히는 문제를 공학 기술로 푸는 연구실이다. |
 | [시스템 보안 연구실 (Computer Security Lab, CompSec Lab)](wiki/snu/compsec.md) | 이병영 교수 | 운영체제와 브라우저, 보안 하드웨어, AI 에이전트가 데이터를 처리하고 권한을 행사하는 과정의 취약점을 찾아 방어 체계를 만드는 연구실이다. |
@@ -457,9 +459,12 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [제어 및 동역학 연구실 (Control and Dynamic Systems Lab, CDSL)](wiki/snu/cdsl.md) | 심형보 교수, 이진규 교수 | 심형보 교수와 이진규 교수가 함께 이끄는 수학적 제어 이론 연구실이다. |
 | [지능형 계산영상 연구실 (Intelligent Computational imaging Lab, ICL)](wiki/snu/icl.md) | 전세영 교수 (공과대학 전기·정보공학부, 대학원 협동과정 인공지능전공) | 측정의 물리에 맞춘 계산 영상에 뿌리를 두고, 그 바탕을 멀티모달 표현과 기반 모델, 물리 세계에서 행동하는 에이전트로 넓히는 연구실이다. |
 | [지능형 디스플레이 및 센서 연구실 (Intelligent Semiconductor Optoelectronics Laboratory, iSoL)](wiki/snu/isol.md) | 이재상 부교수 | 유기반도체에서 빛이 만들어지고 사라지는 과정과 전기의 흐름을 분석해 발광 소자의 효율과 수명을 개선하고, 가상·증강현실용 화면과 반도체 광전소자를 연구한다. |
+| [지능형 파동 시스템 연구실 (Intelligent Wave Systems Laboratory, IWSL)](wiki/snu/waves.md) | 유선규 부교수 | 빛이 흐르고 서로 영향을 주는 방식을 설계해 빛으로 계산하고 정보를 기억하는 장치를 연구하며, 물질의 복잡한 구조와 주변 환경을 새로운 광학 기능으로 연결하는 연구실이다. |
+| [지능형자동차 연구실 (Vehicle Intelligence Lab, VI Lab)](wiki/snu/vi.md) | 서승우 교수 | 차량이 주변을 알아보고 자기 위치와 갈 길을 판단해 스스로 주행하도록, 센서와 차량 장치부터 인식·위치 추정·제어 프로그램까지 함께 개발하는 연구실이다. |
 | [집적회로 및 시스템 연구실 (Integrated Circuits and Systems for Computing and Communication lab., IC3 Lab)](wiki/snu/ic3.md) | 최우석 부교수 | 칩과 메모리가 데이터를 주고받는 회로, 인공지능 계산용 회로, 데이터를 암호화한 상태로 계산하는 시스템을 연구한다. |
 | [차세대 박막소자 및 회로 연구실 (Advanced TFTs and Smart Electronics Laboratory, ACELAB)](wiki/snu/acelab.md) | 이수연 부교수 | 산화물 박막 소자를 만들고 분석하며, 이를 디스플레이를 구동하는 회로와 신경계의 정보 처리를 본뜬 하드웨어, 빛을 다루는 집적회로로 연결하는 연구실이다. |
 | [차세대 반도체 소자 및 재료 연구실 (Laboratory of Emerging Electronics & optoElectronics, Lab.EEE)](wiki/snu/labeee.md) | 이철호 교수 | 원자층 두께의 반도체로 전자 소자와 광센서를 만들고, 소재·접합·제조 공정·소자층의 적층을 함께 연구한다. |
+| [초고주파집적시스템연구실 (High-frequency Integrated Circuits and Systems Research Group, HICS)](wiki/snu/wchoi.md) | 최우열 부교수 | 고속 연결과 무선 통신에 쓰는 송수신 회로, 테라헤르츠 영상용 화소 배열, 반도체 소자와 소재의 전기적 특성을 연구한다. |
 | [초전도 응용 연구실 (Applied Superconductivity Laboratory, ASL)](wiki/snu/asl.md) | 한승용 교수 | 초전도 현상을 이용하는 전기 기기를 연구하는 연구실이다. |
 | [컴퓨터비젼 연구실 (Computer Vision Laboratory, CVLab)](wiki/snu/cv.md) | 이경무 교수, 한보형 교수 | 누리집이 이경무 교수와 한보형 교수를 함께 올리는 컴퓨터 비전 연구실이다. |
 | [피지컬 인공지능 연구실 (SNU Physical AI Laboratory)](wiki/snu/adr.md) | 최준원 교수 (공과대학 전기·정보공학부, 협동과정 인공지능 전공, 학부대학) | 자율주행차와 로봇이 실제 세계에서 주변을 알아보고 움직임을 정하는 인공지능을 연구하는 연구실이다. |
