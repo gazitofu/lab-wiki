@@ -4,7 +4,7 @@
 
 - 분야: 어닐링(고온 열처리)으로 반도체 구조의 모양을 바꾸는 미세·나노 제조, 실리콘 속 막·공동 구조(SON, Silicon-on-Nothing)와 수직으로 쌓은 3차원 MEMS, 미세 채널 공진기 센서와 극미량 액체의 물성 측정, 실리콘 나노입자와 저마늄 나노갭 라만 기판, 반도체 폐웨이퍼의 배터리 소재 재활용, 근적외선 간섭계와 원자간력 현미경을 쓴 계측
 - 대분야: 기계·로봇·제조, 전기전자·반도체·광학
-- 태그: MEMS 미세 기계 소자[^research][^meprof][^semes], 반도체 계측·검사[^p1][^p7][^p8], 광학 정밀 계측[^p7], 미세유체[^research][^p5][^p6], 광학 센서·분광기[^research][^p3], 이차전지 소재[^research], 레이저·광 공정[^research], 유연·신축 전자[^research][^prof]
+- 태그: MEMS 미세 기계 소자[^research][^meprof][^semes], 반도체 계측·검사[^p1][^p7][^p8], 광학 정밀 계측[^p7], 미세유체[^research][^p5][^p6], 광학 센서·분광기[^research][^p3], 이차전지 소재[^research], 원자간력 현미경·주사 탐침 계측[^prof][^research], 유연·신축 전자[^research][^prof]
 - 홈페이지: <https://mnil.kaist.ac.kr/>
 - 근거와 출처: [생산 및 계측 연구실 근거 페이지](mnil-sources.md)
 
