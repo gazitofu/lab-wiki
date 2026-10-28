@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (280곳)
+## KAIST 연구실 (291곳)
 
 ### 전기및전자공학부 (54)
 
@@ -166,6 +166,35 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [전산 소재 설계 및 탐색 연구실 (Computational Materials Design & Discovery Lab, CMDD)](wiki/kaist/cmdd.md) | 서동화 교수 | 계산, AI, 실험을 함께 써서 배터리 소재를 개발하는 신소재공학과 연구실이다. |
 | [차세대 광전나노재료 연구실 (Next-Generation Optoelectronic Nanomaterials Laboratory, NGON Lab)](wiki/kaist/ngonlab.md) | 조힘찬 교수 | 용액으로 만드는 나노미터 크기의 반도체 결정(양자점, 페로브스카이트 나노결정)으로 더 선명한 디스플레이와 새로운 빛 소자를 만드는 연구실이다. |
 
+### 전산학부 (24)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [AI² 연구실 (AI² Lab)](wiki/kaist/ai2lab.md) | 김대영 교수 | 사물인터넷의 자료를 표준에 맞게 연결하고 공유하는 플랫폼과, 글·영상·음성을 이해하고 생성하는 인공지능을 연구한다. |
+| [KAIST HCI Lab (HCIL)](wiki/kaist/hcil.md) | 이기혁 교수 | 새로운 컴퓨터에 맞는 새로운 입력 방법을 만드는 연구실이다. |
+| [Web Security & Privacy Lab (WSP Lab)](wiki/kaist/ssonkaist.md) | 손수엘 부교수 (전산학부·정보보호대학원·안보과학기술대학원) | 웹 보안과 프라이버시에 관한 여러 주제를 연구하는 전산학부 연구실이다. |
+| [계산지능형 소프트웨어 공학 연구실 (Computational Intelligence for Software Engineering Lab, COINSE)](wiki/kaist/coinse.md) | 유신 교수, 석좌교수(Endowed Chair Professor) | 인공지능으로 소프트웨어의 오류를 찾아 설명하고 고치는 방법과, 인공지능을 품은 소프트웨어 자체를 시험하는 방법을 함께 연구한다. |
+| [기계 지능 연구실 (Advanced Machine Intelligence Lab, AMI Lab)](wiki/kaist/ami.md) | 오태현 부교수 (전산학부·메타버스대학원) | 사진·영상·소리·글을 함께 이해하고, 그 정보로 사람과 공간을 입체로 복원하거나 새 영상·소리를 만드는 기계 지능을 연구한다. |
+| [기하 컴퓨팅 연구실 (Geometric Computing Lab., GCLab)](wiki/kaist/gclab.md) | 최성희 부교수 | 점과 표면, 색상 같은 자료를 컴퓨터로 다루는 기하학적 계산 방법을 만들고, 이를 입체 모델 처리와 시각 콘텐츠 분석 등에 적용하는 연구실이다. |
+| [네트워크 보안 및 프라이버시 연구실 (Network Security and Privacy Research Lab, NetS&P)](wiki/kaist/netsp.md) | 강민석 교수 | 인터넷, 블록체인, 이동통신망처럼 실제로 돌아가는 네트워크 시스템에서 설계와 현실이 어긋나는 틈을 찾아 공격 가능성을 증명하고, 운영자가 실제로 쓸 수 있는 방어책을 만드는 연구실이다. |
+| [뉴로-기계 증강지능 연구실 (Neuro-Machine Augmented Intelligence Lab, NMAIL)](wiki/kaist/nmail.md) | 조성호 교수 | 사람의 지적·인지적·신체적 능력을 키우는 것을 목표로, 로봇의 지능, 뇌 신호로 기계를 움직이는 인터페이스, 몸에 다는 센서와 의료·화학 측정 자료를 읽어 내는 인공지능을 함께 연구하는 연구실이다. |
+| [대용량 그래픽스, 비젼, 로보틱스 연구실 (Scalable Graphics, Vision & Robotics Lab, SGVR Lab)](wiki/kaist/sglab.md) | 윤성의 교수 (전산학부·안보과학기술대학원) | 컴퓨터 그래픽스, 로봇 경로 생성, 이미지 검색에 쓰이는 대용량 데이터를 효율적으로 다루는 일을 공통 목표로 삼아 온 전산학부 연구실로, 최근에는 3차원 장면 복원, 사족 보행 로봇의 이동, 인공지능 모델의 강건성과 보호도 연구한다. |
+| [데이터 마이닝 연구실 (Data Mining Lab)](wiki/kaist/kaistdmlab.md) | 이재길 교수·석좌교수(Endowed Chair Professor)·학부장(Head) (전산학부·김재철AI대학원·데이터사이언스대학원) | 대규모 자료에서 패턴과 지식을 찾는 데이터 마이닝을 연구하며, 흐르는 자료와 이동 경로를 분석하고 잘못되거나 부족한 정답 표시, 변화하는 학습 환경, 자료 처리 비용의 문제를 푸는 연구실이다. |
+| [데이터 사이언스 연구실](wiki/kaist/kaist-ds.md) | 차미영 교수 | 가짜뉴스와 세관 탈세를 가리고, 위성 영상으로 지역 경제를 추정하며, 인공지능이 사회 속에서 어떻게 판단하고 영향을 주는지 연구하는 연구실이다. |
+| [사이버 물리 시스템 연구실 (CPSLAB)](wiki/kaist/cpslab.md) | 신인식 교수 | 컴퓨터가 실제 기기와 사람의 행동에 맞춰 제때 동작하도록 계산·통신·앱 조작을 설계하고, 모바일 기기의 에너지 관리와 시스템 오류 검사를 연구하는 연구실이다. |
+| [사이버 보안 시스템 연구실 (Cyber Security Systems Research Lab, CySec Lab)](wiki/kaist/cysec.md) | 강병훈 교수 (전산학부·정보보호대학원) | 보안에 취약할 수밖에 없는 기존 컴퓨팅 시스템이 현재와 미래의 사이버 위협에도 보안성과 안정성을 갖추게 하는 시스템 설계와 방어 기술을 연구하는 연구실로, 최근에는 컴퓨팅 시스템에 대한 보안 위협을 독립된 신뢰 실행 환경으로 막는 연구를 주로 한다. |
+| [센싱 지능 및 사이버-물리 보안 연구실 (Sensing Intelligence and Cyber-Physical Security Lab, CyPhy)](wiki/kaist/cyphy.md) | 한준 부교수 | 스마트폰·스마트워치와 주변의 물리 신호를 이용해 사물의 상태와 진위를 알아내고, 일상 기기에서 새어 나오는 정보와 인증 체계의 보안 문제를 연구한다. |
+| [소프트웨어 보안 연구실 (Software Security Research Lab, SoftSec Lab)](wiki/kaist/softsec.md) | 차상길 교수 (전산학부·정보보호대학원) | 컴퓨터 보안과 프로그램 분석이 만나는 곳에서 소프트웨어의 보안을 보장하는 시스템과 기법을 만드는 연구실로, 바이너리 분석, 공격 검증, 악성코드 분석, 퍼징, 기호 실행을 연구한다. |
+| [암호론 연구실 (Cryptology (Crypt) Lab)](wiki/kaist/cryptlab.md) | 이주영 부교수 (전산학부·정보보호대학원) | 대칭키 암호의 증명 가능한 안전성을 연구하는 KAIST 전산학부·정보보호대학원 이주영 교수의 연구실로, 인증 암호화 같은 운용 모드와 아코디언 암호를 설계해 그 안전성을 증명하고, 대칭키 암호 부품에 바탕을 둔 양자 내성 암호도 연구한다. |
+| [임베디드 컴퓨팅 연구실 (Embedded Computing Laboratory, ECL)](wiki/kaist/ecl.md) | 김순태 교수 | 기기 안의 컴퓨터와 메모리·저장장치가 전력을 아끼면서 안정적으로 작동하도록, 하드웨어 구조와 시스템 소프트웨어를 함께 설계하는 연구실이다. |
+| [첨단 네트워킹 연구실 (Advanced Networking Laboratory, ANLAB)](wiki/kaist/anlab.md) | 문수복 교수 | 컴퓨터와 데이터센터의 통신을 맡는 소프트웨어·시스템을 연구하고, 온라인 소셜 네트워크에서는 도덕 감정과 혐오 표현, 이용자의 참여 행동을 분석하는 연구실이다. |
+| [컴퓨터 그래픽스 및 가시화 연구실 (Computer Graphics and Visualization Lab, CGV)](wiki/kaist/cgv.md) | 박진아 교수 (전산학부·메타버스대학원) | 몸속 구조를 영상에서 수치 모형으로 만들고, 가상 물체를 보고 만지는 상호작용과 물리 현상을 계산하는 방법을 연구한다. |
+| [컴퓨터 비전 및 머신 러닝 랩 (KAIST Computer Vision and Learning Lab, KCVL)](wiki/kaist/tkkim.md) | 김태균 교수 | 사진이나 깊이 영상에서 사람의 손과 몸, 물체의 3차원 모양과 자세를 알아내고, 확산 모형 같은 생성 인공지능으로 손 동작이나 고해상도 이미지를 새로 만들어 내는 컴퓨터 비전·기계학습 연구실이다. |
+| [컴퓨터구조 및 시스템 연구실 (Computer Architecture and Systems Laboratory, CASys)](wiki/kaist/casys.md) | 허재혁·권영진·박종세 교수 | 컴퓨터의 하드웨어 구조와 운영체제 같은 시스템 소프트웨어를 함께 설계하는 연구실이다. |
+| [프로그래밍 시스템 연구실 (Prosys Lab)](wiki/kaist/prosys.md) | 허기홍 교수 (전산학부·정보보호대학원) | 소프트웨어 속 깊이 숨은 오류와 보안 취약점을 자동으로 찾고 고치는 도구를 만드는 연구실이다. |
+| [협동 분산 시스템 및 네트워크 연구실 (Collaborative Distributed Systems and Networks Laboratory, CDSN)](wiki/kaist/cdsn.md) | 이동만 KAIST교수 | 사람의 활동과 도시의 변화를 알아내고, 주변 기기와 서버가 계산·서비스를 나눠 수행하도록 만드는 연구실이다. |
+| [협동 사회 기술 연구실 (Collaborative Social Technologies Lab, CSTL)](wiki/kaist/cstlab.md) | 시어링 조셉(Joseph Seering) 부교수 | 온라인 공동체에서 사람들이 안전하게 협력하고 소통하도록 도구를 설계하고, 사람 사이의 관계를 지원하는 인공지능과 대화 시스템을 연구한다. |
+
 ### 항공우주공학과 (21)
 
 | 연구실 | 교수 | 한 줄 요약 |
@@ -261,24 +290,6 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [이원희 교수 연구실 (MFBSL)](wiki/kaist/mfbsl.md) | 이원희 교수 | 작은 칩 위에 아주 가는 물길과 센서를 만들어, 세포가 내는 아주 작은 열이나 산성도 변화를 재고 단백질이 순식간에 모양을 바꾸는 순간을 붙잡는 연구실이다. |
 | [초고속 스핀 동역학 연구실 (Ultrafast Spin Dynamics Laboratory, USDL)](wiki/kaist/spintronics.md) | 김갑진 교수 | 자석 속 전자의 스핀이 시간에 따라 어떻게 움직이는지(스핀 동역학) 실험으로 관찰하고 해석해, 스핀파(마그논)와 자구벽·스커미온 같은 자성 구조를 다루는 원리를 밝히고 이를 스핀트로닉스 메모리·논리 소자 개발로 잇는 연구실이다. |
 | [초전도 양자 나노전자 연구실 (Superconducting Quantum Nanoelectronics Laboratory, SQNL)](wiki/kaist/sqnl.md) | 김은성 교수 | 밀리켈빈(켈빈의 1000분의 1) 수준의 극저온에서 나타나는 양자 현상을 실험으로 연구하는 연구실로, 지금 대학원생들은 초전도 회로로 만든 양자 비트(초전도 큐비트)를 만들고 측정·제어하는 양자 정보 연구를 하며, 최근 논문에는 2차원 초전도 박막의 양자 상전이와 흑연 위 2차원 헬륨 막의 초유체 연구도 있다. |
-
-### 전산학부 (13)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [KAIST HCI Lab (HCIL)](wiki/kaist/hcil.md) | 이기혁 교수 | 새로운 컴퓨터에 맞는 새로운 입력 방법을 만드는 연구실이다. |
-| [Web Security & Privacy Lab (WSP Lab)](wiki/kaist/ssonkaist.md) | 손수엘 부교수 (전산학부·정보보호대학원·안보과학기술대학원) | 웹 보안과 프라이버시에 관한 여러 주제를 연구하는 전산학부 연구실이다. |
-| [기계 지능 연구실 (Advanced Machine Intelligence Lab, AMI Lab)](wiki/kaist/ami.md) | 오태현 부교수 (전산학부·메타버스대학원) | 사진·영상·소리·글을 함께 이해하고, 그 정보로 사람과 공간을 입체로 복원하거나 새 영상·소리를 만드는 기계 지능을 연구한다. |
-| [네트워크 보안 및 프라이버시 연구실 (Network Security and Privacy Research Lab, NetS&P)](wiki/kaist/netsp.md) | 강민석 교수 | 인터넷, 블록체인, 이동통신망처럼 실제로 돌아가는 네트워크 시스템에서 설계와 현실이 어긋나는 틈을 찾아 공격 가능성을 증명하고, 운영자가 실제로 쓸 수 있는 방어책을 만드는 연구실이다. |
-| [뉴로-기계 증강지능 연구실 (Neuro-Machine Augmented Intelligence Lab, NMAIL)](wiki/kaist/nmail.md) | 조성호 교수 | 사람의 지적·인지적·신체적 능력을 키우는 것을 목표로, 로봇의 지능, 뇌 신호로 기계를 움직이는 인터페이스, 몸에 다는 센서와 의료·화학 측정 자료를 읽어 내는 인공지능을 함께 연구하는 연구실이다. |
-| [대용량 그래픽스, 비젼, 로보틱스 연구실 (Scalable Graphics, Vision & Robotics Lab, SGVR Lab)](wiki/kaist/sglab.md) | 윤성의 교수 (전산학부·안보과학기술대학원) | 컴퓨터 그래픽스, 로봇 경로 생성, 이미지 검색에 쓰이는 대용량 데이터를 효율적으로 다루는 일을 공통 목표로 삼아 온 전산학부 연구실로, 최근에는 3차원 장면 복원, 사족 보행 로봇의 이동, 인공지능 모델의 강건성과 보호도 연구한다. |
-| [사이버 보안 시스템 연구실 (Cyber Security Systems Research Lab, CySec Lab)](wiki/kaist/cysec.md) | 강병훈 교수 (전산학부·정보보호대학원) | 보안에 취약할 수밖에 없는 기존 컴퓨팅 시스템이 현재와 미래의 사이버 위협에도 보안성과 안정성을 갖추게 하는 시스템 설계와 방어 기술을 연구하는 연구실로, 최근에는 컴퓨팅 시스템에 대한 보안 위협을 독립된 신뢰 실행 환경으로 막는 연구를 주로 한다. |
-| [소프트웨어 보안 연구실 (Software Security Research Lab, SoftSec Lab)](wiki/kaist/softsec.md) | 차상길 교수 (전산학부·정보보호대학원) | 컴퓨터 보안과 프로그램 분석이 만나는 곳에서 소프트웨어의 보안을 보장하는 시스템과 기법을 만드는 연구실로, 바이너리 분석, 공격 검증, 악성코드 분석, 퍼징, 기호 실행을 연구한다. |
-| [암호론 연구실 (Cryptology (Crypt) Lab)](wiki/kaist/cryptlab.md) | 이주영 부교수 (전산학부·정보보호대학원) | 대칭키 암호의 증명 가능한 안전성을 연구하는 KAIST 전산학부·정보보호대학원 이주영 교수의 연구실로, 인증 암호화 같은 운용 모드와 아코디언 암호를 설계해 그 안전성을 증명하고, 대칭키 암호 부품에 바탕을 둔 양자 내성 암호도 연구한다. |
-| [컴퓨터 그래픽스 및 가시화 연구실 (Computer Graphics and Visualization Lab, CGV)](wiki/kaist/cgv.md) | 박진아 교수 (전산학부·메타버스대학원) | 몸속 구조를 영상에서 수치 모형으로 만들고, 가상 물체를 보고 만지는 상호작용과 물리 현상을 계산하는 방법을 연구한다. |
-| [컴퓨터 비전 및 머신 러닝 랩 (KAIST Computer Vision and Learning Lab, KCVL)](wiki/kaist/tkkim.md) | 김태균 교수 | 사진이나 깊이 영상에서 사람의 손과 몸, 물체의 3차원 모양과 자세를 알아내고, 확산 모형 같은 생성 인공지능으로 손 동작이나 고해상도 이미지를 새로 만들어 내는 컴퓨터 비전·기계학습 연구실이다. |
-| [컴퓨터구조 및 시스템 연구실 (Computer Architecture and Systems Laboratory, CASys)](wiki/kaist/casys.md) | 허재혁·권영진·박종세 교수 | 컴퓨터의 하드웨어 구조와 운영체제 같은 시스템 소프트웨어를 함께 설계하는 연구실이다. |
-| [프로그래밍 시스템 연구실 (Prosys Lab)](wiki/kaist/prosys.md) | 허기홍 교수 (전산학부·정보보호대학원) | 소프트웨어 속 깊이 숨은 오류와 보안 취약점을 자동으로 찾고 고치는 도구를 만드는 연구실이다. |
 
 ### 뇌인지과학과 (11)
 
