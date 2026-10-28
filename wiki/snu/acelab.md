@@ -4,7 +4,7 @@
 
 - 분야: 산화물 박막 소자, 디스플레이 화소·보상 회로, 뉴로모픽 소자·시스템, 광집적회로
 - 대분야: 전기전자·반도체·광학
-- 태그: 산화물 반도체[^oxide], 뉴로모픽 소자[^oxide][^neuro], 광집적회로[^photonics], 유연·신축 전자[^oxide]
+- 태그: 산화물 반도체[^oxide], 뉴로모픽 소자[^oxide][^neuro], 광집적회로[^photonics], 유연·신축 전자[^oxide], 디스플레이 구동·보상 회로[^pixel][^p1][^p3]
 - 홈페이지: <https://sites.google.com/view/snu-acelab/home>
 - 근거와 출처: [ACELAB 근거 페이지](acelab-sources.md)
 

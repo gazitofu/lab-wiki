@@ -4,7 +4,7 @@
 
 - 분야: 고속 메모리 연결 회로, 저전력 클럭 회로, 인공지능 계산 하드웨어, 암호화된 기계학습
 - 대분야: 전기전자·반도체·광학, 컴퓨팅·AI
-- 태그: 집적회로 설계[^research][^p1], 고속 유선 인터페이스[^research][^p1][^p4], 메모리 내 연산[^research], AI 반도체·가속기[^research][^p5], 회로·설계 자동화(EDA)[^research], AI·기계학습 보안·프라이버시[^research][^p7][^p8]
+- 태그: 집적회로 설계[^research][^p1], 고속 유선 인터페이스[^research][^p1][^p4], 메모리 내 연산[^research], AI 반도체·가속기[^research][^p5], 회로·설계 자동화(EDA)[^research], AI·기계학습 보안·프라이버시[^research][^p7][^p8], 암호학[^research][^p6][^p8]
 - 누리집: [IC3 Lab](https://sites.google.com/view/ic3-snu/home), [최우석 교수](https://sites.google.com/view/wschoi)
 - 근거와 출처: [읽은 자료와 확인 범위](ic3-sources.md)
 
