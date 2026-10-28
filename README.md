@@ -424,9 +424,9 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 |---|---|---|
 | [Wonder Lab](wiki/kaist/wonderlab.md) | 이우훈 교수 (산업디자인학과·메타버스대학원) | 디지털 정보와 실물의 상호작용을 설계해 사람이 놀고 배우고 만드는 경험을 연구하며, 이를 위한 기기·제작 도구·전시 콘텐츠를 만든다. |
 
-## 서울대 연구실 (56곳)
+## 서울대 연구실 (61곳)
 
-### 공과대학 전기·정보공학부 (52)
+### 공과대학 전기·정보공학부 (54)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -444,6 +444,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [네트워크 연구실 (Network Laboratory, NETLAB)](wiki/snu/netlab.md) | 박세웅 교수 | 무선으로 기기들이 자료를 주고받는 규칙과 경로를 설계하고, 이동통신의 실시간 서비스 품질과 기기의 영역 인증, 기기에 맞춘 학습 모델을 연구한다. |
 | [네트워크 컴퓨팅 및 Connected AI 연구실 (Networked Computing Lab., NXC)](wiki/snu/nxc.md) | 이경한 교수 | 휴대기기와 서버, 통신망이 계산과 데이터 전송을 함께 조율하도록 만드는 연구실이다. |
 | [레이저 연구실 (SNU Laser Laboratory)](wiki/snu/laser.md) | 정윤찬 교수 | 여러 레이저의 빛을 맞춰 결합하는 제어, 광섬유 안에서 빛이 서로 영향을 주는 원리, 인공 광학 구조로 빛을 다루는 방법을 연구한다. |
+| [로봇학습 연구실 (Robot Learning Laboratory, RLLAB)](wiki/snu/rllab.md) | 오성회 교수 | 사람이 있는 환경에서 로봇이 안전하게 배우고, 주변을 보며 이동하고, 언어 지시에 따라 물체를 다루는 방법을 연구한다. |
 | [머신 인텔리전스 연구실 (Machine Intelligence Lab, MILAB)](wiki/snu/milab.md) | 정교민 교수 (공과대학 전기·정보공학부, 대학원 협동과정 인공지능전공) | 사람의 말과 글을 이해하고 생성하는 인공지능을 중심으로, 언어 모델이 안전하게 행동하고 지식을 활용하도록 만드는 방법, 대화에서 필요한 정보를 찾는 방법, 규칙을 추론하는 방법, 영상과 음성을 함께 다루는 학습을 연구한다. |
 | [반도체 소자 연구실 (Device Research Laboratory, DRL)](wiki/snu/drl.md) | 신형철 교수 | 정보를 저장하는 반도체가 어떻게 동작하고 오류를 일으키는지 물리 모델과 기계학습으로 설명하고, 쓰기·지우기·읽기 조건을 연구하는 연구실이다. |
 | [반도체 재료 및 소자연구실 (Semiconductor Materials and Devices Laboratory, SMDL)](wiki/snu/genie.md) | 이종호 교수 | 반도체 소자를 직접 만들고 재고 모델링하는 연구실로, 3차원 낸드 플래시 메모리, 플래시와 강유전체 소자로 만드는 뉴로모픽 하드웨어와 메모리 내 연산, CMOS 기술과 함께 만드는 FET형 가스 센서를 중심으로 연구한다. |
@@ -465,6 +466,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [전력시스템 및 경제 연구실 (Electric Power Network Economics Laboratory, EPNEL)](wiki/snu/epnel.md) | 윤용태 교수 | 전력망과 전력시장이 안정적이고 경제적으로 돌아가도록 운영·제어·최적화 방법을 연구하는 연구실이다. |
 | [전력시스템연구실 (Power Systems Laboratory, PSL)](wiki/snu/psl.md) | 이규섭 부교수 | 재생에너지와 저장장치가 연결된 전력망을 안정적으로 제어하고, 설비의 운전과 전력 거래를 최적화하는 연구실이다. |
 | [전력전자시스템연구실 (Power Electronics Systems Lab)](wiki/snu/pesl.md) | 신종원 부교수 | 전기를 필요한 형태로 바꾸는 회로와 제어 방법을 설계하고, 차량 전력 시스템과 전력 모듈의 잡음·신뢰성을 연구한다. |
+| [전자파융합 연구실 (Wave Fusion Laboratory, WAVE FUSION LAB)](wiki/snu/wfl.md) | 오정석 교수 | 안테나·메타표면과 고주파 회로를 함께 설계하고, 전파 전달 계산과 생성형 인공지능으로 통신·전력 전달·전자파 해석 문제를 푸는 연구실이다. |
 | [전파 및 무선 통신 연구실 (Advanced Radio Technology Laboratory, ART LAB)](wiki/snu/artl.md) | 이성욱 조교수 | 전파와 무선 통신의 신호 처리를 연구하는 연구실이다. |
 | [정보시스템연구실 (Information System Laboratory, ISLAB)](wiki/snu/isl.md) | 심병효 교수 | 기계 학습, 신호 처리, 차세대 이동통신 시스템을 연구하는 연구실이다. |
 | [제어 및 동역학 연구실 (Control and Dynamic Systems Lab, CDSL)](wiki/snu/cdsl.md) | 심형보 교수, 이진규 교수 | 심형보 교수와 이진규 교수가 함께 이끄는 수학적 제어 이론 연구실이다. |
@@ -491,6 +493,14 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [머신러닝 시스템 연구실 (Machine Learning Systems Lab)](wiki/snu/mlsys.md) | 서지원 부교수 (첨단융합학부 차세대지능형반도체전공, 공과대학 전기·정보공학부, 대학원 협동과정 인공지능전공) | 인공지능 모델을 학습시키고 실행하는 컴퓨터 시스템의 속도·자원 사용·운영 방식과 보안을 연구한다. |
 | [반도체 집적회로 및 시스템 설계 연구실 (Analog & Power Circuits and Systems Lab, APCS Lab)](wiki/snu/apcs.md) | 홍성완 부교수 (첨단융합학부 차세대지능형반도체전공, 공과대학 전기·정보공학부(겸임)) | 전자 기기에 필요한 전원을 만드는 회로를 설계하고, 전선 없는 전력 전달과 주변 에너지 수확, 통신 신호에 맞춘 전원 공급을 연구하는 연구실이다. |
 | [인공지능향 반도체 소자 연구실 (Semiconductor Devices Lab for AI, SDLA)](wiki/snu/sdla.md) | 정규원 조교수 (첨단융합학부 차세대지능형반도체전공, 공과대학 전기·정보공학부(겸임)) | 가스·압력·온도·촉각을 전기 신호로 바꾸는 센서와 정보를 저장하는 반도체를 만들고, 감지·저장·계산을 칩 안에서 연결해 인공지능에 쓰는 연구실이다. |
+
+### 공과대학 재료공학부 (3)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [Advanced Next-generation Semiconductor Lab (ANSL)](wiki/snu/ansl.md) | 한준규 조교수 | 반도체 소자를 위로 쌓고, 신경세포의 동작과 확률적 변화를 계산에 활용하는 차세대 반도체 연구실이다. |
+| [Multi-Dimensional Materials Laboratory (MDM Lab)](wiki/snu/bielab.md) | 강승균 교수 | 몸속이나 자연환경에서 사용 뒤 분해되는 전자 재료와 소자를 만들고, 재료의 형태·수명·기계적 성질을 조절해 생체 계측, 친환경 전자 장치, 하드웨어 보안과 안전 진단에 연결하는 연구실이다. |
+| [생체재료 면역공학 연구실 (BioMaterials for Immuno-Engineering, BMIE)](wiki/snu/bmie.md) | 도준상 교수 | 면역세포를 관찰하고 조절할 생체재료와 미세가공 모형을 만들며, 세포가 주변 환경과 서로에게 반응하는 방식을 연구한다. |
 
 ## 범위와 기준
 
