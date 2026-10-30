@@ -79,6 +79,6 @@ Registered Patents (US)는 9개, Registered Patents (KR)는 70개로 79개다. �
 
 홈페이지에는 조사 기간 안 날짜가 붙은 공지 79개가 있다. 이 가운데 연구 논문·포스터의 채택과 게재 승인, 공동연구 지원 선정 공지 36개를 소식으로 옮겼다. 수상·지원 선정 공지 25개와 교수 소개에만 있는 연도 표기 2개를 수상 절에 옮겼다. 여러 사람의 상을 함께 알린 공지는 한 항목으로 셌다. 나머지 18개는 위원회·행사 안내나 구성원 개인 근황 등이다. 졸업·방문·인턴십과 생활 글은 소식에서 제외했다. 교수 소개와 학생 카드의 수상은 별개의 전체 수상 대장으로 합치지 않았다. 특히 교수 소개의 2026년 삼성휴먼테크 수상은 월일이 없으므로 기준일 전 여부를 단정하지 않았고, 학생 카드의 수상자·연도가 다른 표기 역시 임의로 병합하지 않았다.
 
-태그 어휘 1.5판(2026-10-22)을 썼다. 대분야는 컴퓨팅·AI와 전기전자·반도체·광학, 태그는 AI 시스템·인프라, 대형 언어 모델, 컴퓨터 네트워크, 무선·이동통신이다. 각 태그는 실제 시스템·통신 구조를 개발하는 대표 논문 초록을 근거로 붙였다. 신규 어휘는 요청하지 않았다.
+태그 어휘 1.5판(2026-10-22)을 썼다. 대분야는 컴퓨팅·AI와 전기전자·반도체·광학, 태그는 AI 시스템·인프라, 대형 언어 모델, 컴퓨터 네트워크, 무선·이동통신이다. 각 태그는 실제 시스템·통신 구조를 개발하는 대표 논문 초록을 근거로 붙였다.
 
 CoActo·Empilo·Enabling Delay-Guaranteed Congestion Control의 OpenAlex 등록 초록과 NeuroBalancer의 Crossref 등록 서지(저자 순서)를 읽었다. 이는 IEEE Xplore나 DBLP의 개별 논문 쪽을 읽었다는 뜻은 아니다. IEEE Xplore의 Enabling Delay-Guaranteed Congestion Control 논문 쪽, DBLP의 NeuroBalancer·Enabling Delay-Guaranteed Congestion Control·Augmenting Epidemic Models 서지 쪽, Zenodo의 CoActo 자료는 읽지 않았다. 홈페이지의 Dropbox·Google Drive 소개 자료와 대학 이름 링크도 읽지 않았다.
