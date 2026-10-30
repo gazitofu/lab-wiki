@@ -84,7 +84,7 @@ Professor의 Honors and Awards는 10행이다. 연도만 2021년으로 적힌 1�
 
 Professor·Members·Contact Us와 각 연도 News, 학과 교수 목록을 쪽별로 보아 이메일 무단 수집 거부 문장을 찾지 못했다. 연구실의 교수·구성원·공용 이메일 가운데 기호형 표기는 실제 계정 예시를 옮기지 않고 제외했다. 교수 이메일은 학과 교수 목록에 완성된 학교 주소로 게시돼 있어 그 쪽을 인용했다. Contact Us와 첫 화면의 모집 안내에도 완성된 교수 주소가 있으나 연락 줄의 근거는 학과 교수 목록이다. 개인 사진·전화·사생활은 옮기지 않았다.
 
-태그는 태그 어휘 1.6판(2026-10-26)에 있는 세 이름만 썼다. 제어 이론·제어 공학은 확률 제약을 다루는 모형 예측 제어 논문 초록, 다중 에이전트 시스템·분산 의사결정은 Multi-Agent System의 연구 설명, 상태 추정·필터링(데이터 동화)은 로봇 전파원 추정 논문 초록에 근거한다. 장비·제목·초청 연사의 연구 주제를 태그 근거로 삼지 않았다. 신규 어휘 요청은 없다.
+태그는 태그 어휘 1.6판(2026-10-26)에 있는 세 이름만 썼다. 제어 이론·제어 공학은 확률 제약을 다루는 모형 예측 제어 논문 초록, 다중 에이전트 시스템·분산 의사결정은 Multi-Agent System의 연구 설명, 상태 추정·필터링(데이터 동화)은 로봇 전파원 추정 논문 초록에 근거한다. 장비·제목·초청 연사의 연구 주제를 태그 근거로 삼지 않았다.
 
 Wiley의 Complementary Filter-Based Incremental Nonlinear Model Following Control Design for a Tilt-Wing UAV 논문 쪽 자체는 읽지 않았으며, 대표 설명은 Crossref 등록 초록을 근거로 썼다. Cross-modal Distillation, Efficient Decentralised Parallel Task Allocation, Visual Servoing Model Predictive Control 논문의 초록은 읽지 않았다. 공개 논문 목록의 서지를 옮긴 것과 개별 초록으로 연구 내용을 설명한 범위를 구분했다.
 

@@ -7,7 +7,7 @@
 | 자료 | 주소 | 열람일 | 본문에서 쓴 곳 |
 |---|---|---|---|
 | 연구실 누리집 첫 화면 | <https://advnano.kaist.ac.kr/pc/main/main.html> | 2026-10-23 | 누리집 이름, 바닥글 주소·전화 |
-| Research 메뉴 2쪽(Interests, Facility) | <https://advnano.kaist.ac.kr/pc/sub01/sub01.html> , <https://advnano.kaist.ac.kr/pc/sub05/board_list01.html?Sub_No=2> | 2026-10-23 | Research Overview(무엇을 연구하나, 태그 요청 근거). Facility 쪽은 본문에 쓰지 않음(장비 분류 제목과 장비 이름 하나뿐) |
+| Research 메뉴 2쪽(Interests, Facility) | <https://advnano.kaist.ac.kr/pc/sub01/sub01.html> , <https://advnano.kaist.ac.kr/pc/sub05/board_list01.html?Sub_No=2> | 2026-10-23 | Research Overview(무엇을 연구하나). Facility 쪽은 본문에 쓰지 않음(장비 분류 제목과 장비 이름 하나뿐) |
 | People 메뉴 3쪽(Il-Doo Kim, Members, Alumni) | <https://advnano.kaist.ac.kr/pc/sub02/sub01.html> 등 | 2026-10-23 | 교수 학력·경력·편집 직책·수상, IDK 창업, 연락처, 구성원 24명, 졸업생·이전 구성원 70명 |
 | Publications 메뉴 5쪽(Journal, Journal Cover, Patent의 Korea Registration·Foreign Registration, Book) | <https://advnano.kaist.ac.kr/pc/sub03/board_list01.html> 등 | 2026-10-23 | 최근 논문 목록 157편, 특허 60건, 대표 논문 후보와 교신저자 표시. Journal Cover 쪽은 본문에 쓰지 않음 |
 | News 메뉴 4쪽(News, Videos, Lecture, Events)과 News 글 3쪽 | <https://advnano.kaist.ac.kr/pc/sub04/board_list01.html> 등 | 2026-10-23 | 수상 51건, 소식 42건, 응용 분야의 방송·기사 소개. Lecture·Events 쪽은 본문에 쓰지 않음 |
