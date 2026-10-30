@@ -11,15 +11,16 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (301곳)
+## KAIST 연구실 (307곳)
 
-### 전기및전자공학부 (54)
+### 전기및전자공학부 (55)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
 | [3차원 마이크로-나노 구조체 연구실 (3D Micro-Nano Structures Laboratory, 3DMNSL)](wiki/kaist/mems.md) | 윤준보 교수 (전기및전자공학부·반도체공학대학원) | 입체적인 미세 기계 구조와 나노 구조를 설계하고 만들어, 전기를 켜고 끄는 기계식 스위치와 메모리, 가스·압력 센서, 빛을 다루는 광학 부품으로 연결하는 연구실이다. |
 | [ACSS 연구실 (Autonomous Control for Stochastic Systems Lab)](wiki/kaist/acss.md) | 한수진 교수 | 정전, 지연, 예측하기 어려운 보행자와 차량처럼 현실 곳곳에 있는 불확실성 속에서도 로봇과 자율 시스템이 안전하고 믿을 만하게 판단하고 움직이도록, 제어 이론과 최적화를 최신 인공지능과 결합하는 연구실이다. |
 | [AI-Native Networking Lab (AINL)](wiki/kaist/ainl.md) | 최성현 교수 | 이동통신망을 인공지능이 설계와 운영의 중심에 있는 망으로 다시 짜는 연구실이다. |
+| [CAMEL: 컴퓨터 아키텍처 및 메모리 시스템 연구실 (Computer Architecture and Memory Systems Laboratory)](wiki/kaist/camelab.md) | 정명수 교수(KAIST 석좌교수) (전기및전자공학부·반도체시스템공학과·인공지능반도체대학원·김재철AI대학원·AI시스템학과) | 프로세서와 메모리, 저장장치의 연결 구조부터 운영체제와 장치 내부 소프트웨어까지 함께 설계해, AI와 데이터 처리에 필요한 메모리 용량·데이터 이동·저장 성능 문제를 푸는 연구실이다. |
 | [CAST Lab (CAST Hardware Innovation Lab)](wiki/kaist/castlab.md) | 김주영 교수 | 인공지능 계산을 빠르고 적은 전력으로 처리하는 전용 하드웨어를 칩 회로부터 컴퓨터 구조, FPGA 서버 시스템까지 함께 설계해, 앞으로의 인공지능 응용을 위한 고성능·확장형 컴퓨팅 플랫폼을 만드는 연구실이다. |
 | [Cho's Circuits & Systems Lab (CCS)](wiki/kaist/ccs.md) | 조성환 교수 (전기및전자공학부·반도체시스템공학과) | 알고리즘과 시스템 구조부터 회로 기법까지 여러 단계를 함께 고려해 아날로그 집적회로를 설계하는 연구실로, 유선·무선 통신용 고속 회로, 센서용 저전력 회로, 기계학습·메모리 회로를 칩으로 만든다. |
 | [Device-to-System Integration Lab (DSIL)](wiki/kaist/dsil.md) | 권지민 교수 (전기및전자공학부·AI시스템학과) | 차세대 AI 하드웨어에 쓸 반도체 기술을 소자에서 패키징, 시스템까지 이어서 연구하는 연구실이다. |
@@ -130,7 +131,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [필드 인공지능 및 로보틱스 연구실 (Field AI and Robotics Laboratory, FAIR)](wiki/kaist/fair.md) | 오현동 교수 | 드론과 지상 로봇 같은 무인 이동체가 사람 없이 주변을 알아보고, 갈 길을 정하고, 여러 대가 함께 임무를 나눠 하도록 만드는 연구실이다. |
 | [혁신 에너지 시스템 공학 연구실 (IESEL)](wiki/kaist/iesel.md) | 장대준 교수 | 액화수소를 대륙 사이로 실어 나르는 공급망, 남는 전기를 열로 저장하는 대형 저장 장치, 수소로 움직이는 배와 도심 항공기처럼 기후 위기 대응에 필요한 큰 에너지 시스템을 설계하는 연구실이다. |
 
-### 전산학부 (34)
+### 전산학부 (38)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -149,6 +150,8 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [데이터 마이닝 연구실 (Data Mining Lab)](wiki/kaist/kaistdmlab.md) | 이재길 교수·석좌교수(Endowed Chair Professor)·학부장(Head) (전산학부·김재철AI대학원·데이터사이언스대학원) | 대규모 자료에서 패턴과 지식을 찾는 데이터 마이닝을 연구하며, 흐르는 자료와 이동 경로를 분석하고 잘못되거나 부족한 정답 표시, 변화하는 학습 환경, 자료 처리 비용의 문제를 푸는 연구실이다. |
 | [데이터 사이언스 연구실](wiki/kaist/kaist-ds.md) | 차미영 교수 | 가짜뉴스와 세관 탈세를 가리고, 위성 영상으로 지역 경제를 추정하며, 인공지능이 사회 속에서 어떻게 판단하고 영향을 주는지 연구하는 연구실이다. |
 | [머신러닝 & 마인드 랩 (Machine Learning and Mind Lab, MLML)](wiki/kaist/mlml.md) | 안성진 부교수 | 장면을 물체와 개념으로 나누어 이해하고, 앞으로 일어날 일을 예상하며, 기억과 추론으로 행동을 계획하는 범용 인공지능의 학습 방법을 만드는 연구실이다. |
+| [복잡도 및 실수 연산 연구실 (Complexity and Real Computation Laboratory)](wiki/kaist/theoryofcomputation.md) | 지글러 마틴 부교수 | 실수·함수처럼 연속적으로 변하는 자료를 컴퓨터가 어떻게 표현하고 계산해야 하는지, 그 계산의 정확성과 필요한 시간·기억 공간을 어떻게 보장할지 연구한다. |
+| [비전 및 학습 연구실 (Vision and Learning Laboratory, VL)](wiki/kaist/vllab.md) | 홍승훈 부교수 (전산학부·AI대학원) | 이미지·영상·입체 자료를 이해하고 생성하는 알고리즘을 만들며, 사람의 정답 표시를 줄여 새로운 과제에 적응하는 학습과 모델의 구조·계산 효율을 연구한다. |
 | [비주얼 컴퓨팅 연구실 (Visual Computing Laboratory, VCLAB)](wiki/kaist/vclab.md) | 김민혁 교수, 석좌교수(Endowed Chair Professor) | 카메라와 계산 방법을 함께 설계해 빛에서 물체의 모양·색·재질 정보를 얻고, 그 정보를 바탕으로 실제 장면을 복원하거나 컴퓨터 영상으로 재현하는 연구실이다. |
 | [빅데이터 분석 및 학습 연구실 (Laboratory of Big Data Analytics and Learning, BigDyL in WISE)](wiki/kaist/npark.md) | 박노성 부교수 (전산학부·김재철AI대학원·데이터사이언스대학원·AI수학대학원) | 그래프·신호 처리와 미분방정식의 관점으로 학습 모델을 설계하고, 과학 계산부터 표 자료, 추천, 시간에 따라 변하는 자료의 생성·예측까지 연구하는 연구실이다. |
 | [사이버 물리 시스템 연구실 (CPSLAB)](wiki/kaist/cpslab.md) | 신인식 교수 | 컴퓨터가 실제 기기와 사람의 행동에 맞춰 제때 동작하도록 계산·통신·앱 조작을 설계하고, 모바일 기기의 에너지 관리와 시스템 오류 검사를 연구하는 연구실이다. |
@@ -156,10 +159,12 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [센싱 지능 및 사이버-물리 보안 연구실 (Sensing Intelligence and Cyber-Physical Security Lab, CyPhy)](wiki/kaist/cyphy.md) | 한준 부교수 | 스마트폰·스마트워치와 주변의 물리 신호를 이용해 사물의 상태와 진위를 알아내고, 일상 기기에서 새어 나오는 정보와 인증 체계의 보안 문제를 연구한다. |
 | [소프트웨어 보안 연구실 (Software Security Research Lab, SoftSec Lab)](wiki/kaist/softsec.md) | 차상길 교수 (전산학부·정보보호대학원) | 컴퓨터 보안과 프로그램 분석이 만나는 곳에서 소프트웨어의 보안을 보장하는 시스템과 기법을 만드는 연구실로, 바이너리 분석, 공격 검증, 악성코드 분석, 퍼징, 기호 실행을 연구한다. |
 | [소프트웨어 테스팅 및 검증 연구실 (Software Testing and Verification Group, SWTV)](wiki/kaist/swtv.md) | 김문주 부교수 | 복잡한 소프트웨어의 오류를 자동으로 찾아내고 고치는 기술을 연구하며, 사람이 일일이 쓰기 어려운 테스트 입력과 실행 조건을 프로그램 분석으로 만드는 연구실이다. |
+| [소프트웨어 프로세스 개선 및 신뢰성 검증 연구실 (SPIRAL, Software Process Improvement and Reliability Assurance Laboratory)](wiki/kaist/spiral.md) | 백종문 교수 | 소프트웨어를 만드는 과정과 프로그램의 품질을 연구하며, 결함 예측·신뢰성 평가·코드 검토·취약점 분석과 엣지 컴퓨팅 서비스 추천 방법을 개발하는 연구실이다. |
 | [암호론 연구실 (Cryptology (Crypt) Lab)](wiki/kaist/cryptlab.md) | 이주영 부교수 (전산학부·정보보호대학원) | 대칭키 암호의 증명 가능한 안전성을 연구하는 KAIST 전산학부·정보보호대학원 이주영 교수의 연구실로, 인증 암호화 같은 운용 모드와 아코디언 암호를 설계해 그 안전성을 증명하고, 대칭키 암호 부품에 바탕을 둔 양자 내성 암호도 연구한다. |
 | [인터랙션 연구실 (KAIST Interaction Lab, KIXLAB)](wiki/kaist/kixlab.md) | 김주호 부교수 | 사람들이 온라인에서 배우고 협업하며 판단하는 과정을 돕는 시스템을 설계하고, 사람의 의도와 생각을 AI에 전달하는 방법을 연구하는 연구실이다. |
 | [임베디드 컴퓨팅 연구실 (Embedded Computing Laboratory, ECL)](wiki/kaist/ecl.md) | 김순태 교수 | 기기 안의 컴퓨터와 메모리·저장장치가 전력을 아끼면서 안정적으로 작동하도록, 하드웨어 구조와 시스템 소프트웨어를 함께 설계하는 연구실이다. |
 | [자연언어처리 및 계산언어학 연구실 (Natural Language Processing and Computational Linguistics Laboratory, NLP*CL Lab.)](wiki/kaist/nlpcl.md) | 박종철 교수 | 사람의 언어를 분석하는 기술로 문서를 찾고 신뢰도를 판단하며, 수어로 소통하고 온라인 유해 언어에 대응하는 방법을 연구한다. |
+| [지식공학 및 인공지능 연구실 (Knowledge Engineering and Artificial Intelligence, KEAI)](wiki/kaist/keai.md) | 최호진 KAIST교수 | 말과 글, 이미지에서 지식을 찾아 대화에 활용하고, 사용자의 맥락을 반영하는 대화 시스템과 판단 근거를 설명하는 인공지능을 연구한다. |
 | [첨단 네트워킹 연구실 (Advanced Networking Laboratory, ANLAB)](wiki/kaist/anlab.md) | 문수복 교수 | 컴퓨터와 데이터센터의 통신을 맡는 소프트웨어·시스템을 연구하고, 온라인 소셜 네트워크에서는 도덕 감정과 혐오 표현, 이용자의 참여 행동을 분석하는 연구실이다. |
 | [컴퓨터 그래픽스 및 가시화 연구실 (Computer Graphics and Visualization Lab, CGV)](wiki/kaist/cgv.md) | 박진아 교수 (전산학부·메타버스대학원) | 몸속 구조를 영상에서 수치 모형으로 만들고, 가상 물체를 보고 만지는 상호작용과 물리 현상을 계산하는 방법을 연구한다. |
 | [컴퓨터 비전 및 머신 러닝 랩 (KAIST Computer Vision and Learning Lab, KCVL)](wiki/kaist/tkkim.md) | 김태균 교수 | 사진이나 깊이 영상에서 사람의 손과 몸, 물체의 3차원 모양과 자세를 알아내고, 확산 모형 같은 생성 인공지능으로 손 동작이나 고해상도 이미지를 새로 만들어 내는 컴퓨터 비전·기계학습 연구실이다. |
@@ -355,6 +360,14 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [분리막·소재·머신 인텔리전스 연구실 (Membranes, Materials, Machine Intelligence Laboratory, MMML)](wiki/kaist/mmml.md) | 고동연 교수 | 원유를 증류 앞 단계에서 얇은 막으로 걸러 성분별로 미리 나누는 기술, 공기에서는 흡착 장치로, 바닷물에서는 전기화학 장치로 이산화탄소를 뽑아내는 기술처럼 에너지를 덜 쓰는 분리 기술을 만드는 연구실이다. |
 | [양자소재공학연구실 (Quantum Materials Engineering Laboratory, QMEL)](wiki/kaist/dclee.md) | 이도창 교수 (생명화학공학과·반도체공학대학원) | 양자점의 모양과 표면을 설계해 화면용 발광 소재를 만들고, 빛과 촉매를 이용해 암모니아·수소와 화학물질을 생산하는 연구실이다. |
 
+### AI컴퓨팅학과 (3)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [KAIST 비주얼 AI 그룹 (KAIST Visual AI Group)](wiki/kaist/visualai.md) | 성민혁 교수 | 이미지·영상·3차원 모양 같은 여러 시각 데이터를 만들고, 다루고, 분석하는 기술을 연구하는 연구실이다. |
+| [빅데이터 지능 연구실 (Big Data Intelligence Lab, BDI Lab)](wiki/kaist/bdi-lab.md) | 황지영 교수 (AI컴퓨팅학과·전산학부) | 데이터를 개체와 개체 사이의 관계로 나타내고 해석하는 그래프 기계학습·데이터 마이닝 알고리즘을 만드는 연구실이다. |
+| [인터랙티브 컴퓨팅 연구실 (Interactive Computing Laboratory, ICLab)](wiki/kaist/ic.md) | 이의진 교수, 석좌교수 (AI컴퓨팅학과·전산학부) | 스마트폰·착용 기기와 생활 공간에서 얻은 자료로 사람의 행동과 상태를 이해하고, 건강·안녕·일을 돕는 상호작용 시스템을 만드는 연구실이다. |
+
 ### 산업및시스템공학과 (3)
 
 | 연구실 | 교수 | 한 줄 요약 |
@@ -362,13 +375,6 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [DAIM 연구실 (DAIM Labs)](wiki/kaist/daim.md) | 장영재 교수 | 반도체·디스플레이 공장 안에서 수백 대의 운반 로봇이 서로 막히지 않고 제때 물건을 나르도록 길을 정하고 일을 배정하는 방법을 연구하는 연구실이다. |
 | [DSAIL (Data Science & Artificial Intelligence Lab)](wiki/kaist/dsail.md) | 박찬영 교수 (산업및시스템공학과·데이터사이언스대학원·안보과학기술대학원) | 관계형 데이터, 멀티모달 데이터, 과학 데이터처럼 복잡한 데이터를 이해하는 인공지능을 만들고, 거기서 배운 표현을 추론, 개인화, 발견으로 잇는 연구실이다. |
 | [통계적 의사결정 연구실 (Statistical Decision Making Lab, SDM)](wiki/kaist/statistical-decision-making.md) | 송호승 교수 (산업및시스템공학과·데이터사이언스대학원) | 데이터가 언제 달라졌는지, 두 데이터 묶음이 정말 다른지, 두 종류의 변수가 서로 관련이 있는지를 엄밀하게 판단하는 통계 방법을 만드는 연구실이다. |
-
-### AI컴퓨팅학과 (2)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [KAIST 비주얼 AI 그룹 (KAIST Visual AI Group)](wiki/kaist/visualai.md) | 성민혁 교수 | 이미지·영상·3차원 모양 같은 여러 시각 데이터를 만들고, 다루고, 분석하는 기술을 연구하는 연구실이다. |
-| [빅데이터 지능 연구실 (Big Data Intelligence Lab, BDI Lab)](wiki/kaist/bdi-lab.md) | 황지영 교수 (AI컴퓨팅학과·전산학부) | 데이터를 개체와 개체 사이의 관계로 나타내고 해석하는 그래프 기계학습·데이터 마이닝 알고리즘을 만드는 연구실이다. |
 
 ### 건설및환경공학과 (2)
 
