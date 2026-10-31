@@ -462,7 +462,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 |---|---|---|
 | [Wonder Lab](wiki/kaist/wonderlab.md) | 이우훈 교수 (산업디자인학과·메타버스대학원) | 디지털 정보와 실물의 상호작용을 설계해 사람이 놀고 배우고 만드는 경험을 연구하며, 이를 위한 기기·제작 도구·전시 콘텐츠를 만든다. |
 
-## 서울대 연구실 (86곳)
+## 서울대 연구실 (91곳)
 
 ### 공과대학 전기·정보공학부 (54)
 
@@ -523,11 +523,12 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [혼합신호IC 및 시스템 연구실 (Mixed-Signal IC and System Group, MICS)](wiki/snu/mics.md) | 김재하 교수 | 아날로그·디지털 회로를 함께 설계하고, 회로의 동작을 모델로 표현해 검증하며, 미리 만든 회로 블록을 조합하거나 프로그램으로 기능을 바꾸는 설계 방법을 연구하는 연구실이다. |
 | [휴먼인터페이스 연구실 (Human Interface Laboratory)](wiki/snu/hi.md) | 김남수 교수 | 사람의 말소리와 여러 소리를 다루는 음성·오디오 신호 처리 연구실로, 음성 인식·합성·향상과 화자 인식, 실감 음향·음향 장면 인식·음원 분리 같은 오디오 처리를 기계 학습으로 연구하고 대형 언어 모델 연구도 함께 한다. |
 
-### 공과대학 재료공학부 (28)
+### 공과대학 재료공학부 (33)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
 | [Advanced Next-generation Semiconductor Lab (ANSL)](wiki/snu/ansl.md) | 한준규 조교수 | 반도체 소자를 위로 쌓고, 신경세포의 동작과 확률적 변화를 계산에 활용하는 차세대 반도체 연구실이다. |
+| [BEAMS Lab (Battery Engineering & Advanced Materials Science Lab)](wiki/snu/skjung.md) | 정성균 조교수 (공과대학 재료공학부, 첨단융합학부) | 배터리 소재를 설계하고, 서로 맞닿은 재료의 반응과 변형을 분석해 충전식 전지를 개발하는 연구실이다. |
 | [Electron Microscopy & Spectroscopy Lab](wiki/snu/emsl.md) | 김미영 교수 | 전자현미경 관찰과 전자 구조 계산을 연결해 재료의 원자 배열이 전기적·물리적 성질과 어떤 관계를 맺는지 연구한다. |
 | [Gwan group (Nano Convergence Materials Laboratory)](wiki/snu/gwangroup.md) | 이관형 교수 | 원자층 물질을 만들고 겹쳐 그 성질을 조절하며, 이를 전자 소자와 빛을 다루는 소자, 배터리 소재로 연결하는 연구실이다. |
 | [LACE (Laboratory for Advanced Carbon Engineering)](wiki/snu/lace.md) | 양승재 부교수 | 탄소 소재를 합성하고 섬유·막·복합재료로 구성해, 항공우주 구조재와 에너지 저장 장치, 반도체 제조·열관리용 소재로 연결하는 연구실이다. |
@@ -539,7 +540,9 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [OSML (Optical Structures & Materials Lab)](wiki/snu/osml.md) | 이명재 부교수 | 빛이 가는 길과 재료의 구조를 함께 설계해, 빛을 안내하고 검출하고 만들어 내며 색에 따라 나누는 광학 부품과 그 결합 방법을 연구한다. |
 | [Organic Materials Design and Synthesis Laboratory](wiki/snu/kwonlab.md) | 권민상 부교수 | 분자의 구조를 설계해 빛으로 굳히고, 필요할 때 떼어 내거나 분해할 수 있는 재료와 물을 전기로 분해하는 장치에 쓰는 막을 연구한다. |
 | [Printed, Flexible Nano-Electronics & Energy Laboratory (PNEL)](wiki/snu/pnel.md) | 이태우 교수 (공과대학 재료공학부, Interdisciplinary Program in Bioengineering, 화학생물공학부(겸임)) | 빛을 내는 반도체와 휘거나 늘어나는 전자 재료를 만들고, 이를 화면·태양전지·신경을 흉내 내는 전자 장치로 연결하는 연구실이다. |
+| [SMID Lab (Semiconductor Materials & Intelligent Devices Lab)](wiki/snu/smid.md) | 서준민 조교수 (공과대학 재료공학부, 첨단융합학부) | 반도체 재료의 형태를 설계하고 서로 다른 기능의 재료를 위로 쌓아, 계산과 감지를 함께 수행하는 전자 부품과 유연한 센서 시스템을 연구한다. |
 | [THE KIM RESEARCH GROUP](wiki/snu/kimgroup.md) | 김영은 부교수 | 핵산을 재료로 새로운 구조와 센서를 만들고, 외부 자극에 반응하는 재료와 신속 진단 방법을 개발하는 연구실이다. |
+| [고분자신소재연구실 (APML, Advanced Polymeric Materials Lab)](wiki/snu/apmlsnu.md) | 박주혁 조교수 (공과대학 재료공학부, Interdisciplinary Program in Bioengineering(겸임)) | 고분자의 구조와 만드는 방법을 함께 설계해, 열과 물질의 이동·힘에 대한 반응을 조절하고 복합재료·조직 관찰용 소재·기능성 표면으로 연결하는 연구실이다. |
 | [고온열화학연구실 (High Temperature ThermoChemistry Laboratory)](wiki/snu/inho.md) | 정인호 교수 | 실험과 열역학 계산으로 금속·세라믹의 상태와 성질을 예측하고, 제조·재활용 공정을 설계하는 연구실이다. |
 | [금속부식 및 핵심소재 회수 연구실 (C²ORE Lab)](wiki/snu/core.md) | 김창규 조교수 | 금속이 주변 환경에서 손상되는 원리와 이를 보호하는 방법을 연구하고, 전기와 화학 반응으로 희토류 등 핵심소재를 분리·회수하는 연구실이다. |
 | [나노바이오재료연구실 (NBML, Nano Bio Materials Lab.)](wiki/snu/nbml.md) | 안철희 교수 | 재료를 합성하고 성질을 조절해 몸속 영상용 물질, 혈관을 막는 물질, 전자제품과 에너지 장치에 쓰는 재료를 만드는 연구실이다. |
@@ -552,8 +555,10 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [생체분자나노재료연구실 (BMNL Lab)](wiki/snu/nkitae.md) | 남기태 교수 | 생물의 구조와 반응 원리에서 재료 설계 방법을 찾고, 비대칭 금속 나노소재가 빛과 상호작용하는 방식과 전기를 이용한 물·이산화탄소 전환 반응을 연구한다. |
 | [생체재료 면역공학 연구실 (BioMaterials for Immuno-Engineering, BMIE)](wiki/snu/bmie.md) | 도준상 교수 | 면역세포를 관찰하고 조절할 생체재료와 미세가공 모형을 만들며, 세포가 주변 환경과 서로에게 반응하는 방식을 연구한다. |
 | [스핀파 동역학 소자 연구단 (Research Center for Spin Dynamics and Spin-Wave Devices)](wiki/snu/sdsw.md) | 김상국 교수 | 자성 물질 속 스핀의 움직임을 계산하고 실험으로 관찰해, 정보를 전달하고 계산하는 소자, 자기장으로 열을 내는 입자와 움직임을 제어하는 복합재료를 연구한다. |
+| [신소재 공정 연구실 (Advanced Materials Processing Laboratory)](wiki/snu/shhong.md) | 홍성현 교수 | 충전식 배터리의 구성 재료를 만들고, 재료의 조성과 내부 구조를 바꾸어 기능을 조절하며, 여러 재료를 결합하고 가열해 제품으로 만드는 공정을 연구한다. |
 | [유기차세대반도체 연구실 (ONELab, Organic Next-gen Electronics Lab)](wiki/snu/onelab.md) | 강기훈 부교수 | 분자 기반 반도체에서 전기와 빛의 성질을 조절하는 원리를 밝히고, 이를 유기 트랜지스터·발광 소재·정보 처리 소자로 연결하는 연구실이다. |
 | [유전박막연구실 (Dielectric Thin Film Laboratory, DTFL)](wiki/snu/dtfl.md) | 황철성 SNU Special Distinguished Professor (특임석좌교수) | 정보를 저장하는 반도체 박막과 소자를 만들고, 그 소자 자체로 신경계의 정보 처리와 확률 계산을 구현하는 연구실이다. |
+| [장호원 교수 연구실](wiki/snu/onnl.md) | 장호원 교수 | 재료의 층 구조와 성질을 조절해 태양광으로 화학물질을 만들고, 기체와 맛 성분을 감지하며, 정보를 처리하고 빛을 내는 반도체 소자를 연구한다. |
 | [재료역학연구실 (MAMEL, Materials Mechanics Laboratory)](wiki/snu/mamel.md) | 이명규 교수 | 금속·배터리·반도체 재료가 힘과 열을 받을 때 어떻게 변형되고 부서지거나 접합되는지를 실험과 계산으로 설명하고, 소재 가공과 부품의 파손을 예측하는 연구실이다. |
 
 ### 첨단융합학부 차세대지능형반도체전공 (4)
