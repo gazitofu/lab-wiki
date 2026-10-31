@@ -4,7 +4,8 @@ import json, re, sys
 from pathlib import Path
 import meta
 # census-11 visualai: CS venues ('CVPR 2024', 'NeurIPS 2025', "CHI EA '24") are conferences too, so the journal-lab guard below must not zero them
-CONF = re.compile(r"(?i)proc|conference|symposium|workshop|meeting|congress|\b(?:CVPR|ICCV|ECCV|NeurIPS|NIPS|ICLR|ICML|AAAI|IJCAI|SIGGRAPH|CHI|UIST|CSCW|ISMAR|VRST|ICRA|IROS|CoRL|RSS|ACL|EMNLP|NAACL|KDD|WACV|3DV|BMVC|MICCAI|ITSC|ICASSP|INTERSPEECH)\b|^[A-Z][A-Za-z0-9&-]{1,15}(?: [A-Z][A-Za-z]{1,10})?\s*'?\d{2,4}$")
+# snu-05 icsl: abbreviated venue names ('IEEE Symp. VLSI Circuits Dig.', 'Conf.', 'Dig.') are conferences too
+CONF = re.compile(r"(?i)proc|conference|symposium|symp\.|conf\.|dig\.|\bdigest\b|workshop|meeting|congress|\b(?:CVPR|ICCV|ECCV|NeurIPS|NIPS|ICLR|ICML|AAAI|IJCAI|SIGGRAPH|CHI|UIST|CSCW|ISMAR|VRST|ICRA|IROS|CoRL|RSS|ACL|EMNLP|NAACL|KDD|WACV|3DV|BMVC|MICCAI|ITSC|ICASSP|INTERSPEECH)\b|^[A-Z][A-Za-z0-9&-]{1,15}(?: [A-Z][A-Za-z]{1,10})?\s*'?\d{2,4}$")
 for slug in sys.argv[1:]:
     sel = json.loads(Path(f'{slug}-selection.json').read_text())
     out = []

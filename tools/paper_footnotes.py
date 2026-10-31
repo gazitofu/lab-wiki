@@ -6,7 +6,7 @@ slug, dois = sys.argv[1], [d.strip().lower() for d in sys.argv[2].split(',')]
 rows = json.loads(Path(f'{slug}-meta.json').read_text())
 by = {(r.get('doi') or '').lower(): r for r in rows if r.get('doi')}
 by.update({f"r{r['rank']}": r for r in rows})
-SRC = {'crossref': '초록 기준', 'semanticscholar': '초록 기준(Semantic Scholar 등록 초록)', 'arxiv': '초록 기준(arXiv 판)', 'paper-page': '초록 기준(논문 페이지 게시 초록)', 'publisher-page': '초록 기준(출판사 논문 페이지)', 'pure': '초록 기준(KAIST 연구자 포털 PURE 게시 초록)', 'europepmc': '초록 기준(Europe PMC 등록 초록)', 'conference-archive': '초록 기준(학회 아카이브 게시 초록)', 'proceedings-page': '초록 기준(학회 논문집 페이지 게시 초록)'}
+SRC = {'crossref': '초록 기준', 'semanticscholar': '초록 기준(Semantic Scholar 등록 초록)', 'arxiv': '초록 기준(arXiv 판)', 'paper-page': '초록 기준(논문 페이지 게시 초록)', 'publisher-page': '초록 기준(출판사 논문 페이지)', 'pure': '초록 기준(KAIST 연구자 포털 PURE 게시 초록)', 'europepmc': '초록 기준(Europe PMC 등록 초록)', 'conference-archive': '초록 기준(학회 아카이브 게시 초록)', 'proceedings-page': '초록 기준(학회 논문집 페이지 게시 초록)', 'openalex': '초록 기준(OpenAlex 등록 초록)'}
 def short(n):
     # 'Seungwon (Eugene) Jeong': drop a parenthetical nickname before abbreviating
     parts = re.sub(r'\s*\([^)]*\)', '', n).replace('‐', '-').split()
