@@ -12,7 +12,7 @@ def load(inst):
         if f.name.endswith('-sources.md'): continue
         L=f.read_text().splitlines()
         slug=f.stem
-        title=L[0][2:].strip(); dept,prof=L[2].strip('*').split(' · ',1)
+        title=L[0][2:].strip(); dept,prof=re.sub(r'\[\^[^\]]+\]','',L[2]).strip().strip('*').split(' · ',1)
         q=next(l for l in L if l.startswith('> '))[2:]
         q=re.sub(r'\[\^[^\]]+\]','',q).strip()
         first=re.split(r'(?<=다\.)\s',q)[0]
