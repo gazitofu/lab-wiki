@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (307곳)
+## KAIST 연구실 (312곳)
 
 ### 전기및전자공학부 (55)
 
@@ -360,6 +360,15 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [분리막·소재·머신 인텔리전스 연구실 (Membranes, Materials, Machine Intelligence Laboratory, MMML)](wiki/kaist/mmml.md) | 고동연 교수 | 원유를 증류 앞 단계에서 얇은 막으로 걸러 성분별로 미리 나누는 기술, 공기에서는 흡착 장치로, 바닷물에서는 전기화학 장치로 이산화탄소를 뽑아내는 기술처럼 에너지를 덜 쓰는 분리 기술을 만드는 연구실이다. |
 | [양자소재공학연구실 (Quantum Materials Engineering Laboratory, QMEL)](wiki/kaist/dclee.md) | 이도창 교수 (생명화학공학과·반도체공학대학원) | 양자점의 모양과 표면을 설계해 화면용 발광 소재를 만들고, 빛과 촉매를 이용해 암모니아·수소와 화학물질을 생산하는 연구실이다. |
 
+### 화학과 (4)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [Insung S. Choi's Lab (The CHOI Group)](wiki/kaist/cisgroup.md) | 최인성 교수 | 세포에 합성 재료로 기능을 더하고 신경세포의 배양 환경을 만들며, 분자 구조와 단백질 생산을 다루는 계산 방법을 개발하는 화학 연구실이다. |
+| [QUTI 연구실 (QUTI Lab)](wiki/kaist/quti.md) | 권오훈 교수 | 1000조분의 1초(펨토초) 단위로 아주 짧은 순간에 일어나는 분자와 물질의 변화를 레이저와 초고속 전자현미경으로 찍어 보는 연구실이다. |
+| [SCALE Lab (Surface science and Catalysis with Atomic Level Engineering)](wiki/kaist/scale.md) | 박정영 KAIST Endowed Chair Professor (화학과·물리학과·KINC) | 물질 표면과 서로 다른 물질이 만나는 경계에서 화학 반응·빛·접촉의 에너지가 어떻게 이동하는지 원자와 분자 수준에서 밝히고, 이를 촉매와 에너지 전환 소자로 연결하는 연구실이다. |
+| [분자생물물리 연구실 (Molecular Biophysics Laboratory)](wiki/kaist/molecular-biophysics.md) | 강진영 교수 | 생명 현상을 일으키는 큰 생체 분자 복합체의 3차원 구조를 극저온 전자현미경으로 밝혀, 분자들이 어떻게 맞물려 일하는지 연구하는 연구실이다. |
+
 ### AI컴퓨팅학과 (3)
 
 | 연구실 | 교수 | 한 줄 요약 |
@@ -375,6 +384,14 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [DAIM 연구실 (DAIM Labs)](wiki/kaist/daim.md) | 장영재 교수 | 반도체·디스플레이 공장 안에서 수백 대의 운반 로봇이 서로 막히지 않고 제때 물건을 나르도록 길을 정하고 일을 배정하는 방법을 연구하는 연구실이다. |
 | [DSAIL (Data Science & Artificial Intelligence Lab)](wiki/kaist/dsail.md) | 박찬영 교수 (산업및시스템공학과·데이터사이언스대학원·안보과학기술대학원) | 관계형 데이터, 멀티모달 데이터, 과학 데이터처럼 복잡한 데이터를 이해하는 인공지능을 만들고, 거기서 배운 표현을 추론, 개인화, 발견으로 잇는 연구실이다. |
 | [통계적 의사결정 연구실 (Statistical Decision Making Lab, SDM)](wiki/kaist/statistical-decision-making.md) | 송호승 교수 (산업및시스템공학과·데이터사이언스대학원) | 데이터가 언제 달라졌는지, 두 데이터 묶음이 정말 다른지, 두 종류의 변수가 서로 관련이 있는지를 엄밀하게 판단하는 통계 방법을 만드는 연구실이다. |
+
+### 의과학대학원 (3)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [단일 세포 유전체 의학 연구실 (Single-Cell Medical Genomics Laboratory, SCMGL)](wiki/kaist/scmgl.md) | 박종은 부교수 | 서로 다른 단일 세포 자료를 함께 분석하는 계산 방법과 조직 속 세포를 측정하는 기법을 개발하고, 세포 배양과 표적 조합 설계로 연결하는 연구실이다. |
+| [유전체 돌연변이 모자이시즘 연구실 (COSMOS: Comprehensive Observation of Somatic Mosaicism, its Origin and Significance)](wiki/kaist/julab.md) | 주영석 부교수 | 세포의 유전적 차이를 검출하고 그 관계를 해석하는 계산 방법과 측정 절차를 연구하며, 유전체 분석 소프트웨어와 오가노이드 기반 평가 체계도 다루는 연구실이다. |
+| [융합 의생명 영상화 연구실 (Ku Laboratory, integrative Biomedical Imaging Laboratory)](wiki/kaist/tkulab.md) | 구태윤 조교수 | 뇌 조직을 영상화에 맞게 가공하고 빛과 영상 처리 방법을 설계해, 신경 연결과 조직 속 분자 분포를 입체적으로 재는 연구실이다. |
 
 ### 건설및환경공학과 (2)
 
@@ -396,13 +413,6 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 |---|---|---|
 | [RNA Engineering & Application Lab](wiki/kaist/reallab.md) | 김유식 부교수 (생명과학과·공학생물학대학원) | 세포가 스스로 만드는 RNA의 기능과 면역 조절 원리를 밝히고, RNA를 검출·설계하는 도구와 약물 내성을 분석하는 계산 모형을 연구한다. |
 | [뉴럴 프로세싱 연구실 (Neural Processing Lab, JK Lab)](wiki/kaist/jk-lab.md) | 김재경 조교수 | 잠자는 뇌가 기억을 안정시키고, 배운 경험을 바꾸어 활용하며, 새로운 생각을 만들어낼 가능성을 연구한다. |
-
-### 화학과 (2)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [QUTI 연구실 (QUTI Lab)](wiki/kaist/quti.md) | 권오훈 교수 | 1000조분의 1초(펨토초) 단위로 아주 짧은 순간에 일어나는 분자와 물질의 변화를 레이저와 초고속 전자현미경으로 찍어 보는 연구실이다. |
-| [분자생물물리 연구실 (Molecular Biophysics Laboratory)](wiki/kaist/molecular-biophysics.md) | 강진영 교수 | 생명 현상을 일으키는 큰 생체 분자 복합체의 3차원 구조를 극저온 전자현미경으로 밝혀, 분자들이 어떻게 맞물려 일하는지 연구하는 연구실이다. |
 
 ### AI시스템학과 (1)
 
