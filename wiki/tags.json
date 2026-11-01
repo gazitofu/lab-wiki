@@ -1,5 +1,5 @@
 {
- "version": "1.9",
+ "version": "2.0",
  "updated": "2026-11-01",
  "fields": [
   {
@@ -6723,6 +6723,153 @@
    "status": "active",
    "merged_into": null,
    "note": "자료의 시각 표현 방법이나 시각적 분석 도구를 설계·평가할 때 단다. 3차원 장면의 표현·렌더링 기술은 컴퓨터 그래픽스·기하 처리, 도구 사용 경험 전반은 인간–컴퓨터 상호작용으로 판단한다. 연구 결과를 그림으로 보여 주기만 한 경우에는 달지 않는다."
+  },
+  {
+   "id": "organic-synthesis",
+   "name_ko": "유기합성·합성 방법론",
+   "name_en": "Organic synthesis and synthetic methodology",
+   "axis": "method",
+   "fields": [
+    "chemistry"
+   ],
+   "aliases": [
+    "유기합성",
+    "유기 합성",
+    "합성 방법론",
+    "유기합성 방법론",
+    "합성 유기화학",
+    "유기 촉매 반응",
+    "전기유기합성",
+    "다양성 지향 합성",
+    "organic synthesis",
+    "synthetic methodology",
+    "synthetic organic chemistry",
+    "organocatalysis",
+    "organic electrosynthesis",
+    "diversity-oriented synthesis"
+   ],
+   "definition": "유기 화합물을 합성하는 화학 반응과 합성 경로, 그리고 이를 위한 반응·시약·합성 전략의 개발과 반응 원리를 연구하는 분야.",
+   "related": [
+    "transition-metal-catalysis",
+    "natural-product-synthesis",
+    "soft-materials",
+    "electrocatalyst",
+    "photocatalysis"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "새 유기 반응·시약·합성 경로의 개발이나 유기 반응의 원리 규명을 연구할 때 단다. 전이금속 촉매 유기반응이나 천연물 합성이 같은 연구 내용을 더 구체적으로 나타내면 해당 태그를 우선한다. 별도의 유기합성 방법론·반응 원리 연구가 직접 확인될 때만 그 근거에 따라 함께 단다. 고분자 사슬의 합성과 물성은 연성 소재·고분자, 전극 표면에서 반응을 일으키는 물질은 전기화학 촉매, 빛으로 일으키는 촉매 반응 자체는 광촉매·광전기화학으로 판단한다. 다른 연구에 쓸 분자를 기존 방법으로 합성하기만 한 경우에는 달지 않는다."
+  },
+  {
+   "id": "transition-metal-catalysis",
+   "name_ko": "전이금속 촉매 유기반응",
+   "name_en": "Transition-metal-catalyzed organic reactions",
+   "axis": "method",
+   "fields": [
+    "chemistry"
+   ],
+   "aliases": [
+    "전이금속 촉매 유기 반응",
+    "전이금속 촉매 유기합성",
+    "전이금속 촉매 교차결합 반응",
+    "transition-metal catalysis in organic synthesis",
+    "transition-metal-catalyzed cross-coupling"
+   ],
+   "definition": "전이금속 원소를 포함한 촉매로 유기 분자의 결합 형성·절단과 작용기 변환을 일으키는 반응과, 그 촉매의 설계.",
+   "related": [
+    "organic-synthesis",
+    "electrocatalyst",
+    "single-atom-catalyst",
+    "photocatalysis"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "전이금속 촉매의 새 반응성, 교차결합 같은 결합 형성 반응, 반응 선택성 제어와 반응 기작을 연구할 때 단다. 전극 표면에서 전기화학 반응을 일으키는 물질은 전기화학 촉매, 지지체에 금속 원자를 하나씩 붙인 촉매는 단일 원자 촉매, 빛으로 일으키는 촉매 반응 자체는 광촉매·광전기화학으로 판단한다. 금속 없이 유기 분자로 일으키는 촉매 반응만이면 유기합성·합성 방법론으로 판단한다."
+  },
+  {
+   "id": "natural-product-synthesis",
+   "name_ko": "천연물 합성",
+   "name_en": "Natural product synthesis",
+   "axis": "object",
+   "fields": [
+    "chemistry"
+   ],
+   "aliases": [
+    "천연물 전합성",
+    "천연물의 전합성",
+    "천연물 유사체 합성",
+    "natural product total synthesis"
+   ],
+   "definition": "생물이 만드는 천연 화합물과 그 유사체를 화학 반응으로 만드는 합성 전략과 합성 경로.",
+   "related": [
+    "organic-synthesis",
+    "protein-engineering",
+    "synthetic-biology"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "천연물의 전합성(출발 물질로부터 목표 분자의 전체 구조를 화학 반응으로 구성하는 합성), 유사체 합성과 이를 위한 합성 전략을 연구할 때 단다. 생물이 효소로 천연물을 만드는 생합성 경로와 효소 반응을 밝히는 연구는 이 태그가 아니며, 효소를 바꾸거나 설계하면 단백질공학·효소공학, 생물 시스템을 설계하면 합성생물학·DNA 합성으로 판단한다. 천연물 합성이라는 사실만으로 유기합성·합성 방법론을 함께 달지 않는다. 별도의 새 유기 반응·시약·합성 방법론 연구가 직접 확인될 때만 그 근거에 따라 함께 단다. 천연물을 효능 평가 재료로 쓰기만 한 경우에는 달지 않는다."
+  },
+  {
+   "id": "chemical-biology",
+   "name_ko": "화학생물학",
+   "name_en": "Chemical biology",
+   "axis": "method",
+   "fields": [
+    "chemistry",
+    "basic-life"
+   ],
+   "aliases": [
+    "화학 생물학",
+    "생체 기능 연구용 화학 탐침",
+    "생체 기능 연구용 형광 탐침",
+    "화학 탐침 기반 표적 단백질 확인",
+    "화학 도구 기반 생리활성 분자 검색",
+    "chemical biology probes",
+    "chemical probe-based target identification"
+   ],
+   "definition": "화학적 원리와 분자 도구를 이용해 생체 분자와 생명 현상의 작동 원리를 밝히고, 생체 기능을 관찰·조절하는 분야.",
+   "related": [
+    "ai-drug-discovery",
+    "drug-gene-delivery",
+    "diagnostics-biosensor",
+    "structural-biology",
+    "organic-synthesis"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "생체 기능 연구를 위한 화학 도구를 개발하거나, 화학 도구로 생체 기능과 작동 원리를 밝히는 연구에 단다. 생리활성 분자 검색·표적 확인은 그 연구 갈래로 판단한다. 약이 될 분자를 계산과 인공지능으로 찾는 기술은 AI 신약 개발, 약물을 몸속 원하는 곳까지 옮기는 운반체는 약물·유전자 전달체, 질병 표지를 찾아내는 센서와 진단 장치는 진단 기기·바이오센서, 생체 분자의 3차원 구조 규명은 구조생물학으로 판단한다. 기존 시약이나 탐침을 생물 실험에 쓰기만 한 경우에는 달지 않는다."
+  },
+  {
+   "id": "protein-engineering",
+   "name_ko": "단백질공학·효소공학",
+   "name_en": "Protein and enzyme engineering",
+   "axis": "method",
+   "fields": [
+    "chemical-bioengineering",
+    "basic-life"
+   ],
+   "aliases": [
+    "단백질 공학",
+    "효소 공학",
+    "단백질 설계",
+    "계산 단백질 설계",
+    "효소의 방향성 진화",
+    "단백질의 방향성 진화",
+    "protein engineering",
+    "enzyme engineering",
+    "protein design",
+    "directed protein evolution"
+   ],
+   "definition": "단백질과 효소의 아미노산 서열이나 구조를 바꾸거나 새로 설계해 원하는 기능·안정성·반응 선택성을 얻는 방법.",
+   "related": [
+    "structural-biology",
+    "synthetic-biology",
+    "bioinformatics"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "단백질·효소의 설계, 돌연변이와 선택을 이용한 진화, 계산 단백질 설계를 연구할 때 단다. 생체 분자의 3차원 구조를 밝혀 기능을 이해하는 연구는 구조생물학, 유전자 회로·대사 경로를 설계해 생물 시스템을 만드는 연구는 합성생물학·DNA 합성, 단백질 자료를 분석하는 계산 방법 일반은 바이오정보학·계산생물학으로 판단한다. 기존 효소를 반응 도구로 쓰기만 한 경우에는 달지 않는다."
   }
  ],
  "changelog": [
@@ -6773,6 +6920,10 @@
   {
    "date": "2026-11-01",
    "change": "v1.9 사용자 승인(D-30a 검토표 collection-staging/2026-10-30/tags-v19-review.md와 2026-11-01 보강, 사용자 「요청 승인. 반입하자」): 신규 태그 7개(시계열 분석·예측: npark·dsail, 프로그래밍 언어·컴파일러: plrg·서울대 smoon, 사물인터넷 플랫폼·서비스: nclab·ai2lab, 자연어 처리·계산언어학: nlpcl·keai, 의료 서비스 운영·정책: csdlab·mso, 인간공학·인적 요인: hfel·nqe-nica, 데이터 시각화·시각적 분석: ic·tx). 한 곳 요청은 보류."
+  },
+  {
+   "date": "2026-11-01",
+   "change": "v2.0 화학 핵심 묶음(collection-staging/2026-11-01/tags-v20-review.md, 사용자 「지금 핵심만 먼저」): 신규 태그 5개(유기합성·합성 방법론: 서울대 hglgroup·dykchenlab·cbleegroup, 전이금속 촉매 유기반응: 같은 세 곳, 천연물 합성: 같은 세 곳, 화학생물학: 서울대 chembio·bfnl, 단백질공학·효소공학: 서울대 biomoldiv·KAIST kaist-bcbl). 나머지 화학 개념은 v2.1 안건."
   }
  ]
 }
