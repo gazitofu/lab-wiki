@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (336곳)
+## KAIST 연구실 (337곳)
 
 ### 전기및전자공학부 (60)
 
@@ -139,13 +139,14 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [필드 인공지능 및 로보틱스 연구실 (Field AI and Robotics Laboratory, FAIR)](wiki/kaist/fair.md) | 오현동 교수 | 드론과 지상 로봇 같은 무인 이동체가 사람 없이 주변을 알아보고, 갈 길을 정하고, 여러 대가 함께 임무를 나눠 하도록 만드는 연구실이다. |
 | [혁신 에너지 시스템 공학 연구실 (IESEL)](wiki/kaist/iesel.md) | 장대준 교수 | 액화수소를 대륙 사이로 실어 나르는 공급망, 남는 전기를 열로 저장하는 대형 저장 장치, 수소로 움직이는 배와 도심 항공기처럼 기후 위기 대응에 필요한 큰 에너지 시스템을 설계하는 연구실이다. |
 
-### 전산학부 (38)
+### 전산학부 (39)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
 | [AI² 연구실 (AI² Lab)](wiki/kaist/ai2lab.md) | 김대영 교수 | 사물인터넷의 자료를 표준에 맞게 연결하고 공유하는 플랫폼과, 글·영상·음성을 이해하고 생성하는 인공지능을 연구한다. |
 | [KAIST HCI Lab (HCIL)](wiki/kaist/hcil.md) | 이기혁 교수 | 새로운 컴퓨터에 맞는 새로운 입력 방법을 만드는 연구실이다. |
 | [NC 연구실 (NCLab)](wiki/kaist/nclab.md) | 송준화 교수 | 모바일 기기와 일상 공간의 기기를 사람의 필요와 연결하고, 여러 사람이 함께 쓰는 서비스와 시스템을 연구하는 연구실이다. |
+| [Users & Information Lab. (U&I Lab)](wiki/kaist/uilab.md) | 오혜연 교수, 석좌교수(Endowed Chair Professor) | 언어와 문화에 따라 인공지능의 이해·판단이 어떻게 달라지는지 측정하고, 여러 언어와 공동체를 고려하는 언어 기술을 만드는 연구실이다. |
 | [Web Security & Privacy Lab (WSP Lab)](wiki/kaist/ssonkaist.md) | 손수엘 부교수 (전산학부·정보보호대학원·안보과학기술대학원) | 웹 보안과 프라이버시에 관한 여러 주제를 연구하는 전산학부 연구실이다. |
 | [강인지능 및 로보틱스 연구실 (Robust Intelligence and Robotics Laboratory, RIRO Lab)](wiki/kaist/rirolab.md) | 박대형 부교수 (전산학부·AI Computing·Graduate School of AI·Robotics Program·Graduate School of Advanced Security Science and Technology) | 사람의 말과 시연을 이해하고, 물체를 다루며, 작업 도중 상황이 바뀌어도 계획을 고쳐 실행하는 로봇의 지능을 연구한다. |
 | [계산지능형 소프트웨어 공학 연구실 (Computational Intelligence for Software Engineering Lab, COINSE)](wiki/kaist/coinse.md) | 유신 교수, 석좌교수(Endowed Chair Professor) | 인공지능으로 소프트웨어의 오류를 찾아 설명하고 고치는 방법과, 인공지능을 품은 소프트웨어 자체를 시험하는 방법을 함께 연구한다. |
