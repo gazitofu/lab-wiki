@@ -4,7 +4,7 @@
 
 - 분야: 데이터 중심 인공지능, 시계열·이동 경로 데이터 분석, 온라인 이상 탐지, 연속학습, 분산 딥러닝
 - 대분야: 컴퓨팅·AI
-- 태그: 데이터 중심 AI·데이터 효율 학습[^research][^p1][^p2], 이상·변화점 탐지[^research][^p4], 연속학습[^p5][^p6], 연합학습·분산 학습[^research][^projects], 생성 인공지능[^p1][^projects], 대형 언어 모델[^projects], 멀티모달 AI[^p8]
+- 태그: 데이터 중심 AI·데이터 효율 학습[^research][^p1][^p2], 이상·변화점 탐지[^research][^p4], 연속학습[^p5][^p6], 연합학습·분산 학습[^research][^projects], 생성 인공지능[^p1][^projects], 대형 언어 모델[^projects], 멀티모달 AI[^p8], 시계열 분석·예측[^p3]
 - 홈페이지: <https://www.kaistdmlab.org/>
 - 근거와 출처: [데이터 마이닝 연구실 근거 페이지](kaistdmlab-sources.md)
 
