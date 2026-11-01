@@ -251,12 +251,26 @@ Publications의 Published 구획 중 2021–2026년 구역에 게시된 90편(86
 
 ## 수상과 선정
 
-교수 소개의 2022–2025년 수상 7건과 News 첫 쪽의 연구실 구성원 수상·선정 글 1건이다. 교수 수상의 연도는 누리집 연도 표기이며, 소식은 게시 날짜다.[^pi][^news]
+교수 소개의 2022–2025년 수상 7건과 News에 2021년 10월 22일–2026년 10월 22일에 게시된 연구실 구성원 수상·선정 글 15건이다. 교수 수상의 연도는 누리집 연도 표기이며, 소식은 게시 날짜다.[^pi][^news]
 
 - 2026-05-09 · 2026 MRS Spring Meeting에서 Chanyeol Park가 Best Poster Award를 받았다. Chanyeol Park, Jundong Yeo, Gaeun Moon의 포스터가 선정됐다.
+- 2026-04-01 · 33rd Korean Conference on Semiconductors (KCS 2026)에서 Eun-Su Lee가 Outstanding Poster Award를 받았다.
+- 2026-03-25 · Donghoon Moon과 Sein Lee가 Sejong Science Fellowship에 선정됐다.
+- 2026-03-07 · 4th Phase Brain Korea (BK) 21 Excellence Awards에서 Donghoon Moon이 National Research Foundation (NRF) President’s Award를 받았다.
+- 2025-12-30 · 하이포택시를 이용한 2차원 반도체 성장 연구가 2025년 과학기술 뉴스로 선정됐다.
+- 2025-12-25 · 14th International Conference on Advanced Materials and Devices (ICAMD 2025)에서 Seong Chul, Jaewoong, Jiwon이 Best Poster Awards를 받았다.
+- 2025-12-23 · MRS 2025 Fall Meeting에서 Seongchul Hong이 Poster Presentation Award를 받았다.
+- 2025-12-16 · BK21 Program에서 Seong Chul이 Outstanding Research Achievement Award를 받았다.
+- 2025-09-05 · 2D TMDs 2025 Conference에서 Hayeong Sung이 Student Poster Award를 받았다.
+- 2025-07-17 · Korea Graphene Society의 Graphene Symposium 2025에서 Jihwan Baek이 Novoselov Outstanding Oral Presentation Award를, Seongchul이 Novoselov Outstanding Poster Presentation Award를 받았다.
+- 2025-07-17 · NanoKorea 2025에서 Jiwon Lee가 Outstanding Poster Award를 받았다.
+- 2025-06-07 · BK21에서 Donghoon Moon이 Outstanding Research Achievement Award를 받았다.
 - 2025 · The Scientist of the Month Award (이달의 과학기술인상, 12월)
 - 2025 · SNU-Samsung Electronics Cooperative Research Awards, Outstanding Paper Award/Patent Achievement Award (삼성전자 우수논문상/우수특허상)
 - 2025 · The Nano Research Innovation Award from Minister of Science and ICT (나노코리아 2025 어워드 연구혁신부문 과학기술정보통신부 장관상)
+- 2024-12-07 · S-OIL에서 Ji-Hwan Baek이 S-OIL Excellent Dissertation Award를 받았다.
+- 2024-05-18 · Hangyel Kim과 June-chul Shin이 Sejong Science Fellowship (Overseas Training Track)에 선정됐다.
+- 2023-04-13 · Materials Research Society (MRS) Spring Meeting에서 Jiwoo가 Best Poster Award를 받았다.
 - 2023 · The Startup Innovation Award from Minister of Science and ICT (창업혁신국가, 과학기술정보통신부 장관상)
 - 2023 · The Excellent Teaching Award from Seoul National University (우수강의상)
 - 2022 · The Entrepreneurship Award from Minister of Ministry of SMEs and Startups (창업 유공자 포상, 중소벤처기업부 장관상)
@@ -264,13 +278,60 @@ Publications의 Published 구획 중 2021–2026년 구역에 게시된 90편(86
 
 ## 소식
 
-News 첫 쪽의 8건 가운데 2021년 10월 22일–2026년 10월 22일에 게시된 논문 게재 승인 글 5건이다. 날짜는 게시 날짜다.[^news]
+News에 2021년 10월 22일–2026년 10월 22일에 게시된 글 87건 가운데 논문 게재 승인 글 52건이다. 날짜는 게시 날짜다.[^news]
 
 - 2026-10-10 · Hyeong Seok Lee와 Jundong Yeo의 2차원 전이금속 칼코겐화물 구조 경계 리뷰 논문이 2D Materials에서 게재 승인됐다.
 - 2026-10-10 · Hyun-Young Choi의 「Writing Electronic Phases into Atomic Layers」 관점 논문이 Science에서 게재 승인됐다.
 - 2026-10-10 · Jungmin Lee의 탄화규소 표면과 그래핀 성장 연구 논문이 Diamond & Related Materials에서 게재 승인됐다.
 - 2026-06-22 · June-Chul Shin, Taegyun Park, Dong Hoon Shin, Hyun-Young Choi가 참여한 메모리와 논리 기능을 통합하는 2차원 트랜지스터 논문이 ACS Nano에서 게재 승인됐다.
 - 2026-06-09 · Jaehyeok Lee와 Jinwoo Kim의 성장 경로 제어를 통한 황화주석 합성 연구 논문이 Advanced Science에서 게재 승인됐다.
+- 2026-04-14 · Jungmin Lee의 「Growth Behaviors of Chemical Vapor Deposited 3C-SiC Films on Epitaxial Graphene」 논문이 Ceramics International에서 게재 승인됐다.
+- 2026-04-09 · Jinwoo Kim, Ingyu Yoo, Jaewoong Joo의 「Visualizing Lattice-mismatch-dependent Strain Relaxation in Epitaxially Grown MoS2/WS2 and MoS2/WSe2 Hetero-bilayers」 논문이 Reports on Progress in Physics에서 게재 승인됐다.
+- 2026-02-17 · Byeong Chan Kim과 Yoona Kim의 「Precision Local Strain Engineering in 2D Semiconductors and Their van der Waals Heterostructures」 리뷰 논문이 Small에서 게재 승인됐다.
+- 2026-01-28 · Donghoon Moon, Yoona Kim, Jiwon Lee의 「Hypotaxy-enabled Selective Growth of MoS2 for Laterally-connected Edge and van der Waals Bottom Contacts」 논문이 Advanced Functional Materials에서 게재 승인됐다.
+- 2025-12-13 · Jimin Jang의 「Challenges and Opportunities in Wafer-Scale 2D Device Integration」 관점 논문이 Device에서 게재 승인됐다.
+- 2025-12-13 · Ingyu Yoo와 Jinwoo Kim의 「Unravelling Diverse Stacking Sequence in CVD-grown WSe2 Multilayers using Electron Diffraction Polarity」 논문이 ACS Applied Materials & Interfaces에서 게재 승인됐다.
+- 2025-11-30 · Jiwoo Kim, Donghoon Moon, Yoona Kim의 「Graphene-Based Origami with Bidirectional Bending and Folding」 논문이 Nano Today에서 게재 승인됐다.
+- 2025-11-26 · Ji-Hwan Baek과 Wonseok Choi의 「Moiré-driven Band Renormalization and Quantum Transport in Twisted 2D Materials」 리뷰 논문이 npj 2D Materials and Applications에서 게재 승인됐다.
+- 2025-11-14 · Seong Chul Hong, Ji-Hwan Baek, Yunyeong Chang의 「Overcoming the Lattice Mismatch Barrier for Atomic Reconstruction in MoSe2/MoS2 Heterobilayers」 논문이 ACS Nano에서 게재 승인됐다.
+- 2025-10-17 · Ji-Hwan Baek과 Seong Chul Hong의 「Domain-wall-free Sliding Ferroelectricity in Fully Commensurate 3R Transition Metal Dichalcogenide Bilayers」 논문이 Advanced Functional Materials에서 게재 승인됐다.
+- 2025-07-28 · Kyungmin Yang과 Yuna Lee의 「Geometrically confined strain engineering of MoS2 via quasi-van der Waals recrystallization of gold nanopillars」 논문이 Advanced Science에서 게재 승인됐다.
+- 2025-07-23 · Seong Chul Hong, Ji-Hwan Baek, Jinwoo Kim의 「Strain-mediated Control of Domain Structures in 3R-MoS2 Bilayers Synthesized by Vapor-Liquid-Solid Growth in Chemical Vapor Deposition」 논문이 ACS Nano에서 게재 승인됐다.
+- 2025-07-09 · Jaewoong의 「Advances and Challenges in 2D Semiconductor Devices for Monolithic 3D Integration」 관점 논문이 2D Materials에서 게재 승인됐다.
+- 2025-06-05 · Hyunjun과 Huije Ryu의 「Vertical Stacking of Atomic-layer-deposited Oxide Layers via Fluorinated Graphene Transfer Technique」 논문이 ACS Nano에서 게재 승인됐다.
+- 2025-05-23 · Moon-Chul과 Jiwoo의 「Advances in Gate Dielectrics for 2D Electronic」 리뷰 논문이 Physica Status Solidi (RRL) - Rapid Research Letters에서 게재 승인됐다.
+- 2025-03-09 · Hyun-Geun의 「Commensurate, Incommensurate, and Reconstructed Structures of Multilayer Transition Metal Dichalcogenide and Their Applications」 리뷰 논문이 Small에서 게재 승인됐다.
+- 2025-02-10 · Jiwoo Kim과 Young Wook Cho의 「Advancements in Chemical Vapor Deposited Carbon Films for Secondary Battery Applications」 리뷰 논문이 Small에서 게재 승인됐다.
+- 2024-12-07 · Hyunjun Kim과 Joonyup Bae의 「Van der Waals Epitaxy and Beyond for Monolithic 3D Integration」 논문이 2D Materials에서 게재 승인됐다.
+- 2024-11-13 · Donghoon Moon의 「Hypotaxy of Wafer-scale Single Crystal Transition Metal Dichalcogenides」 논문이 Nature에서 게재 승인됐다.
+- 2024-11-01 · Yeonjoon Jung과 Donghoon Moon의 「WOx-driven Growth of 2H- and 3R-WS2 Multilayers by Physical Vapor Deposition」 논문이 Applied Surface Science에서 게재 승인됐다.
+- 2024-11-01 · Yuna Lee와 Eunji Ji의 「Flexible and Transparent Gold Network Electrodes on Fluorinated Graphene」 논문이 Journal of Materials Chemistry A에서 게재 승인됐다.
+- 2024-04-09 · Huije Ryu와 Hyunjun Kim의 「Van der Waals Epitaxially-grown Molecular Crystal Dielectric of α-Sb2O3 for 2D Electronics」 논문이 ACS Nano에서 게재 승인됐다.
+- 2024-03-13 · Jiwoo의 「Ultrathin and Deformable Graphene Etching Mask for Fabrication of 3D Microstructures」 논문이 ACS Nano에서 게재 승인됐다.
+- 2024-02-26 · Huije Ryu와 Seong Chul의 「Optical Grade Transformation of Monolayer Transition Metal Dichalcogenides via Encapsulation Annealing」 논문이 Nanoscale에서 게재 승인됐다.
+- 2024-01-02 · Jihwan Baek의 「Atom-by-atom Imaging of Moiré Transformations in 2D Transition Metal Dichalcogenides」 논문이 Science Advances에서 게재 승인됐다.
+- 2023-12-30 · June-Chul Shin과 Jae Hwan Jeong의 「Electrically Confined Electroluminescence of Neutral Excitons in WSe2 Light-emitting Transistors」 논문이 Advanced Materials에서 게재 승인됐다.
+- 2023-12-19 · Junyoung Kwon의 「200-mm wafer scale integration of high performance polycrystalline MoS2 thin film transistors」 논문이 Nature Electronics에서 게재 승인됐다.
+- 2023-12-14 · Hangyel Kim과 Changheon의 「In-plane Anisotropic Two-dimensional Materials for Twistronics」 리뷰 논문이 Nanotechnology에서 게재 승인됐다.
+- 2023-11-05 · Yongjun의 「Facilitated Fluorination and Etching of 2D Materials」 논문이 Applied Surface Science에서 게재 승인됐다.
+- 2023-11-05 · Minjung의 「Solvent-free Transfer of Monolayer Graphene with Recrystallized Cyclododecane」 논문이 Applied Physics Letters에서 게재 승인됐다.
+- 2023-08-23 · Jihwan의 「Thermally Induced Atomic Reconstruction into Fully Commensurate Structures of Transition Metal Dichalcogenide Layers」 논문이 Nature Materials에서 게재 승인됐다.
+- 2023-08-05 · Jong Hun Kim과 Hayeong의 「Phase Engineering of Two-dimensional Transition Metal Dichalcogenides」 논문이 Small Science에서 게재 승인됐다.
+- 2023-04-29 · Hangyel의 「In-plane Anisotropy of Graphene by Strong Interlayer Interaction with van der Waals Epitaxially-grown MoO3」 논문이 Science Advances에서 게재 승인됐다.
+- 2023-04-13 · Yeonjoon의 「Nucleation and Growth of Monolayer MoS2 at Multi-steps of MoO2 Crystals by Sulfurization」 논문이 ACS Nano에서 게재 승인됐다.
+- 2023-02-11 · Jae Hwan Jeong의 「Gate-tunable Electrostatic Friction of Grain Boundary in Chemical-vapor-deposited MoS2」 논문이 Nano Letters에서 게재 승인됐다.
+- 2023-01-10 · Chia-Hao와 Ryu의 「In situ Imaging of an Anisotropic Layer-by-layer Phase Transition in Few-layer MoTe2」 논문이 Nano Letters에서 게재 승인됐다.
+- 2022-12-19 · Yunah Lee의 「Quasi-van der Waals Epitaxial Recrystallization of Gold Thin Film into Crystallographically Aligned Single Crystals」 논문이 ACS Applied Materials & Interfaces에서 게재 승인됐다.
+- 2022-12-17 · Huije Ryu의 「Laser-induced Phase Transition and Patterning of hBN-encapsulated MoTe2」 논문이 Small에서 게재 승인됐다.
+- 2022-10-29 · Jonghun Kim의 「Fatigue-induced Surface Modification of Zr-based Metallic Glass under Environmental Condition」 논문이 ACS Omega에서 게재 승인됐다.
+- 2022-08-23 · Eunji Ji와 Kyungmin의 「Exciton-dominant Photoluminescence of MoS2 by Functionalized Substrate」 논문이 Nanoscale에서 게재 승인됐다.
+- 2022-07-20 · Youn Sung과 June-Chul의 「Irreversible Conducive Filament Contacts for passivated van der Waals Heterostructure Devices」 논문이 Advanced Functional Materials에서 게재 승인됐다.
+- 2022-07-04 · Huije의 「Two-dimensional Material Templates for van der Waals Epitaxy, Remote Epitaxy, and Intercalation Growth」 리뷰 논문이 Applied Physics Review에서 게재 승인됐다.
+- 2022-06-03 · Yongjun의 「Graphene Via Contact Architecture for Vertical Integration of vdW Heterostructure Devices」 논문이 Small에서 게재 승인됐다.
+- 2022-04-19 · Jaehwan의 「Recent Trend in Chemical Functionalization of 2D Materials」 리뷰 논문이 Physical Chemistry Chemical Physics에서 게재 승인됐다.
+- 2022-02-23 · Huije의 「Fluorinated Graphene Contacts and Passivation Layer for MoS2 Field-effect Transistors」 논문이 Advanced Electronic Materials에서 게재 승인됐다.
+- 2022-01-29 · Eunji와 Jong Hun Kim의 「Modulation of Electrical Properties in MoTe2 by XeF2-mediated Surface Oxidation」 논문이 Nanoscale Advances에서 게재 승인됐다.
+- 2021-11-03 · June-Chul의 「Band Structure Engineering of WSe2 Homo-junction Interfaces via Thickness Control」 논문이 Advanced Materials Interfaces에서 게재 승인됐다.
 
 ## 연락과 위치
 
@@ -286,7 +347,7 @@ News 첫 쪽의 8건 가운데 2021년 10월 22일–2026년 10월 22일에 게�
 [^members]: Gwan group Members. <http://gwangroup.snu.ac.kr/Members> (관측 2026-10-30).
 [^alumni]: Gwan group Alumni. <http://gwangroup.snu.ac.kr/Alumni> (관측 2026-10-30).
 [^pubs]: Gwan group Publications. <http://gwangroup.snu.ac.kr/Publications> (관측 2026-10-30).
-[^news]: Gwan group News 첫 쪽. <http://gwangroup.snu.ac.kr/News> (관측 2026-10-30).
+[^news]: Gwan group News 전체 145건(19쪽). <http://gwangroup.snu.ac.kr/News> (관측 2026-11-01).
 [^faculty]: 서울대학교 재료공학부 이관형 교수 소개. <https://mse.snu.ac.kr/%EC%9D%B4%EA%B4%80%ED%98%95/> (관측 2026-10-30).
 
 [^p1]: J. Lee, J. Kim, G.-H. Lee, Advanced Science 13, e76199 (온라인 2026-06-26). <https://doi.org/10.1002/advs.76199> 초록 기준(출판사 논문 페이지). 초록 원문 <https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76199> (관측 2026-10-30).

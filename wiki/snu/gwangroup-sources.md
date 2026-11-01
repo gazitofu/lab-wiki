@@ -12,7 +12,7 @@
 | Gwan group Members | <http://gwangroup.snu.ac.kr/Members> | 2026-10-30 |
 | Gwan group Alumni | <http://gwangroup.snu.ac.kr/Alumni> | 2026-10-30 |
 | Gwan group Publications | <http://gwangroup.snu.ac.kr/Publications> | 2026-10-30 |
-| Gwan group News 1쪽: 소식·수상과 게시 날짜 | <http://gwangroup.snu.ac.kr/News> | 2026-10-30 |
+| Gwan group News 전체 19쪽: 소식·수상과 게시 날짜 | <http://gwangroup.snu.ac.kr/News> | 2026-11-01 |
 | 서울대학교 재료공학부 이관형 교수 소개 | <https://mse.snu.ac.kr/%EC%9D%B4%EA%B4%80%ED%98%95/> | 2026-10-30 |
 | 서울대학교 재료공학부 교수 목록 | <https://mse.snu.ac.kr/snumse-main/people/professors/> | 2026-10-30 |
 | 대표 논문 1 초록과 서지 | <https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76199> | 2026-10-30 |
@@ -65,7 +65,7 @@
 - 2026년 171번 「Biocompatible Hydrogenated Graphene Interfaces Promote Axonal Regeneration」: 신경 손상 뒤 회복과 염증 반응 평가가 중심이다. 초록은 기존 그래핀과 수소화 그래핀의 생물학적 효과를 비교하며 새 공학 방법 개발을 핵심 기여로 제시하지 않는다.
 - 2026년 160번 「Electrochemical Detection of tRNA-Derived Fragment (tRF) Biomarkers Using a Multi-Functionalized Carbon Electrode」: 등록 초록을 찾지 못해 개별 공학 기여를 확인하지 못했다.
 - 2021년 87번 「Hydrogenated Graphene Improves Neuronal Network Maturation and Excitatory Transmission」은 Crossref 등록 초록을 근거로 수록했다. 수소로 그래핀 표면을 처리해 전기가 흐르는 성질을 유지하면서 신경세포와 접촉하는 재료의 표면 성질을 설계한 연구다. 초록은 표면 처리와 젖음성 제어를 신경 접촉 재료 개발의 핵심으로 제시한다. 초록의 수치나 생물 실험 조건은 본문에 옮기지 않았다.
-- News에는 총 145건 표시가 있고, 첫 쪽 8건의 전체 글과 절대 게시 날짜를 읽었다. 그중 논문 게재 승인 글 5건을 소식에, 수상·선정 글 1건을 수상 절에 썼다. 모집 안내 1건과 졸업생 부임 안내 1건은 소식에서 제외했다. 나머지 137건은 읽지 않았다. 따라서 최근 5년 소식을 전부 담았다는 뜻이 아니다. 위키에 쓴 첫 쪽 글의 게시일은 모두 기간 안이다. 사이트맵에는 연구실 메뉴 주소가 실려 있다.
-- 교수 소개의 수상은 2022–2025년 7건을 수상 절에 한 번만 실었다. 2025년 12월 수상과 연도만 적힌 다른 항목을 구분했다. 구성원 수상 글은 2026년 5월 9일 게시이며 선발 규모를 옮기지 않았다. 교수 소개의 2019년 이전 수상은 최근 수상 목록에 넣지 않았다.
+- News 전체 145건(19쪽)의 전체 글과 게시 시각을 읽었다. 2021년 10월 22일–2026년 10월 22일에 게시된 글은 87건이며, 논문 게재 승인 글 52건을 소식에, 수상·선정 글 15건을 수상 절에 썼다. 싣지 않은 20건은 모집 안내 1건, 구성원 개인 근황 14건, 교수 소개 수상과 같은 수상 3건, 언론 보도 소개 1건, 누리집 자체 소식 1건이다. 기간 밖인 2019년 9월 10일–2021년 10월 17일 게시 글 58건은 싣지 않았다. 사이트맵에는 연구실 메뉴 주소가 실려 있다.
+- 교수 소개의 수상은 2022–2025년 7건을 수상 절에 한 번만 실었다. 2025년 12월 수상과 연도만 적힌 다른 항목을 구분했다. News의 연구실 구성원 수상·선정 글은 15건이며 선발 규모·비율은 옮기지 않았다. 교수 소개와 같은 수상을 알리는 News 글 3건은 교수 소개의 수상 줄 하나로 두었고, 그 연도를 News 게시 날짜로 바꾸지 않았다. 교수 소개의 2019년 이전 수상은 최근 수상 목록에 넣지 않았다.
 - 읽은 메뉴와 교수 소개에서는 별도의 특허·과제 목록을 확보하지 않았다. 논문 감사의 연구비를 과제 목록으로 바꾸지 않았다. 사진·외부 링크 모음은 읽은 자료에 넣지 않았다.
 - 첫 화면·Research·Primary Researcher·Members·Alumni·Publications·News 각 페이지와 학부 교수 목록·상세의 본문에서 이메일 수집 거부 문장을 찾지 못했다. 교수 업무 이메일은 랩 교수 소개에도 같은 주소가 게시돼 있어 그 출처를 인용했다. 구성원 표에는 학교 밖 개인 이메일을 싣지 않았으며, 이전 구성원 이메일도 쓰지 않았다. 사진과 행정 정보는 옮기지 않았다.
