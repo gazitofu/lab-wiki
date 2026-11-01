@@ -475,7 +475,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 |---|---|---|
 | [Wonder Lab](wiki/kaist/wonderlab.md) | 이우훈 교수 (산업디자인학과·메타버스대학원) | 디지털 정보와 실물의 상호작용을 설계해 사람이 놀고 배우고 만드는 경험을 연구하며, 이를 위한 기기·제작 도구·전시 콘텐츠를 만든다. |
 
-## 서울대 연구실 (101곳)
+## 서울대 연구실 (106곳)
 
 ### 공과대학 전기·정보공학부 (54)
 
@@ -536,7 +536,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [혼합신호IC 및 시스템 연구실 (Mixed-Signal IC and System Group, MICS)](wiki/snu/mics.md) | 김재하 교수 | 아날로그·디지털 회로를 함께 설계하고, 회로의 동작을 모델로 표현해 검증하며, 미리 만든 회로 블록을 조합하거나 프로그램으로 기능을 바꾸는 설계 방법을 연구하는 연구실이다. |
 | [휴먼인터페이스 연구실 (Human Interface Laboratory)](wiki/snu/hi.md) | 김남수 교수 | 사람의 말소리와 여러 소리를 다루는 음성·오디오 신호 처리 연구실로, 음성 인식·합성·향상과 화자 인식, 실감 음향·음향 장면 인식·음원 분리 같은 오디오 처리를 기계 학습으로 연구하고 대형 언어 모델 연구도 함께 한다. |
 
-### 공과대학 재료공학부 (35)
+### 공과대학 재료공학부 (36)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -548,6 +548,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [MFSM Lab. (Multi-Functional Soft Materials Lab)](wiki/snu/mfsm.md) | 선정윤 교수 | 하이드로젤과 탄성체의 구조·물성을 설계해 늘어나는 전극과 이온 소자, 조직확장 소재, 움직이는 연성 로봇을 만드는 연구실이다. |
 | [MTSE Lab (Materials Thermal Science & Engineering Laboratory)](wiki/snu/hjang.md) | 장혜진 부교수 | 재료 안에서 열이 이동하는 원리와 열이 전기·자기적 성질에 미치는 영향을 연구하고, 이를 전자 소자의 열관리와 새로운 열 측정 방법으로 연결하는 연구실이다. |
 | [MVSM Lab (Multi-Variant Structures & Materials Lab)](wiki/snu/mvsmlab.md) | 최인석 교수 | 재료 안의 전자 상태부터 접고 펼치는 구조까지 설계해, 재료가 힘을 받을 때의 움직임과 전자 소자의 안정성을 연구하는 연구실이다. |
+| [Materials & Device Analysis Lab (유효빈 교수 연구실)](wiki/snu/mdal.md) | 유효빈 부교수 | 재료와 전자 부품이 작동하는 동안 원자 배열이 어떻게 변하는지 관찰하고, 그 변화와 전기적 기능의 관계를 밝히는 연구실이다. |
 | [Multi-Dimensional Materials Laboratory (MDM Lab)](wiki/snu/bielab.md) | 강승균 교수 | 몸속이나 자연환경에서 사용 뒤 분해되는 전자 재료와 소자를 만들고, 재료의 형태·수명·기계적 성질을 조절해 생체 계측, 친환경 전자 장치, 하드웨어 보안과 안전 진단에 연결하는 연구실이다. |
 | [Nano Electronic & Energy Materials Laboratory](wiki/snu/nano.md) | 박민혁 부교수 | 전자기기의 에너지 소비를 줄이기 위해 강유전체 재료의 성질과 제조 조건을 조절하고, 이를 정보를 저장하거나 계산하는 소자와 에너지를 수확하는 소자에 연결하는 연구실이다. |
 | [OSML (Optical Structures & Materials Lab)](wiki/snu/osml.md) | 이명재 부교수 | 빛이 가는 길과 재료의 구조를 함께 설계해, 빛을 안내하고 검출하고 만들어 내며 색에 따라 나누는 광학 부품과 그 결합 방법을 연구한다. |
@@ -576,16 +577,20 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [재료역학연구실 (MAMEL, Materials Mechanics Laboratory)](wiki/snu/mamel.md) | 이명규 교수 | 금속·배터리·반도체 재료가 힘과 열을 받을 때 어떻게 변형되고 부서지거나 접합되는지를 실험과 계산으로 설명하고, 소재 가공과 부품의 파손을 예측하는 연구실이다. |
 | [지속가능 에너지 재료 연구실 (Sustainable Energy Materials Lab.)](wiki/snu/wjunggroup.md) | 정우철 부교수 | 재료 표면의 반응을 조절해 연료로 전기를 만들고, 전기로 수소와 화학제품을 생산하는 기술을 연구한다. |
 
-### 자연과학대학 화학부 (8)
+### 자연과학대학 화학부 (12)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
+| [고분자 합성 실험실 (KT Kim Group, Synthetic Polymer Chemistry Lab)](wiki/snu/ktkimgroup.md) | 김경택 교수 | 고분자 사슬의 길이와 구성 단위의 배열을 정밀하게 정하고, 그 사슬이 스스로 모여 만드는 구조와 정보 저장 방법을 연구한다. |
 | [나노바이오융합 연구실 (BFNL, Dal-Hee Min Group)](wiki/snu/bfnl.md) | 민달희 교수 | 재료의 표면을 설계해 센서와 물질 전달 도구를 만드는 연구실로, 본문의 최근 논문 22편은 소재·분석 도구·전달체·실험 모형과 생체물질 구조를 다룬다. |
+| [동적 소재 디자인 연구실 (Dynamic Materials Design Laboratory, DMDL)](wiki/snu/jiheongkanglab.md) | 강지형 부교수 | 분자 사이의 결합과 고분자의 구조를 설계해, 손상을 회복하고 늘어나도 기능하는 전자 소재와 리튬 금속 전지용 소재를 만드는 연구실이다. |
 | [생체분자 다양성 연구실 (Laboratory of Biomolecular Diversity)](wiki/snu/biomoldiv.md) | 김석희 부교수 | 생물이 다양한 물질을 만드는 원리를 밝히고, 생명 활동에 쓰이는 물질의 기능을 바꾸는 실험 도구를 개발하는 연구실이다. |
+| [에너지 및 재료 분석화학 연구실 (Battery and Energy Research Group)](wiki/snu/jwlimgroup.md) | 임종우 부교수 | 전지 안에서 리튬이 이동하고 재료가 변하는 과정을 관찰하며, 그 원리로 전지 소재·제조 방법과 전기화학 촉매를 설계하는 연구실이다. |
 | [유기합성실험실 (Complexity-Inspired Organic Synthesis LAB)](wiki/snu/dykchenlab.md) | 데이비드 첸 교수 | 천연물(생물에서 만들어지는 화합물)의 전합성(기본 원료에서 출발해 목표 화합물의 구조 전체를 만드는 합성)을 연구하며, 복잡한 구조를 어떤 반응과 순서로 만들지 설계하는 연구실이다. |
 | [유기화학 실험실 (Chulbom Lee Research Group)](wiki/snu/cbleegroup.md) | 이철범 교수 | 목표 물질을 만드는 반응과 합성 경로, 형광 염료의 광변환을 연구하는 연구실로, 연구실·학과의 2021–2026년 게시 논문은 10편이다. |
 | [전기화학연구실 (ELECTROCHEMISTRY LAB.)](wiki/snu/echem.md) | 정택동 교수 | 전극과 용액, 세포가 맞닿는 경계에서 전자와 이온이 움직이는 원리를 재고, 이를 물속에서 작동하는 전원·회로, 화학 센서와 신경 연결 장치로 만드는 연구실이다. |
 | [첨단 주족 화학 연구실 (Advanced Main Group Chemistry Lab)](wiki/snu/amglab.md) | 이은성 교수 | 안정한 유기 라디칼과 금속 촉매를 만들고, 이를 고리형 고분자 합성과 에너지 소재 설계로 연결하는 연구실이다. |
+| [청정촉매소재 연구실 (CMRE LAB, Catalytic Materials for Renewable Energy)](wiki/snu/hwangchemgroup.md) | 황윤정 교수 | 전기와 햇빛으로 이산화탄소·물·질소를 연료와 화학 원료로 바꾸는 촉매 소재와 장치를 연구한다. |
 | [합성유기화학 연구실 (Synthetic Organic Chemistry Lab)](wiki/snu/hglgroup.md) | 이홍근 부교수 | 빛·전기·금속 촉매로 탄소 중심에서 새로운 결합을 만드는 방법을 개발하고, 이를 생의학 연구에 필요한 물질과 천연물의 합성으로 연결하는 연구실이다. |
 | [화학생물학연구실 (SNU Chemical Biology Lab)](wiki/snu/chembio.md) | 박승범 교수 | 서로 다른 구조의 화합물을 설계·합성하고, 빛과 세포의 변화를 이용해 그 화합물의 성질과 작용 대상을 알아보는 화학 도구를 개발하는 연구실이다. |
 
