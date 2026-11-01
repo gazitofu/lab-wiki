@@ -25,7 +25,9 @@
 | Crossref 등록 서지 10편·등록 초록 6편 | <https://api.crossref.org/works/10.1039/d6qi00915h>, 논문별 주소는 [본문 각주](amglab.md) | 2026-11-01 | 의료·생체 응용 2편과 대표 후보 8편의 전체 저자·등록 날짜, 대표 논문 1·2·3·5·6·7의 초록 |
 | OpenAlex 등록 서지 10편·등록 초록 4편, ORCID 목록 120건 | <https://api.openalex.org/works?per-page=10&select=id,doi,title,type,publication_year,publication_date,primary_location,abstract_inverted_index,authorships&filter=doi:10.1039/d6qi00915h%7C10.1039/d6sc02808j>, <https://api.openalex.org/works?per-page=200&sort=publication_date:desc&select=id,doi,title,publication_year,publication_date,type,primary_location,authorships,abstract_inverted_index&filter=author.orcid:0000-0002-1507-098X,publication_year:2021-2026> | 2026-11-01 | 의료·생체 응용 2편과 대표 논문 4·8의 초록, 대표 후보 8편의 저자 소속, 교수 논문별 소속 |
 
-태그는 태그 어휘 1.8판(2026-10-28)의 정의를 기준으로 달았다. 고분자 합성, 골격 소재 설계, 광촉매 개발을 직접 설명하는 RESEARCH를 각 태그의 근거로 썼다. 고분자 태그에는 촉매와 고분자 합성을 직접 다룬 대표 논문 4·5, 골격 소재 태그에는 골격 자체의 설계·변형을 다룬 대표 논문 6·8을 더했다. 연구 소개의 용어는 본문에서 괄호나 이어지는 문장으로 풀어, 같은 낱말의 별도 마우스 올림 풀이를 겹치지 않았다.
+태그는 태그 어휘 2.0판(2026-11-01)의 정의를 기준으로 달았다. 고분자 합성, 골격 소재 설계, 광촉매 개발을 직접 설명하는 RESEARCH를 각 태그의 근거로 썼다. 고분자 태그에는 촉매와 고분자 합성을 직접 다룬 대표 논문 4·5, 골격 소재 태그에는 골격 자체의 설계·변형을 다룬 대표 논문 6·8을 더했다.
+유기합성·합성 방법론은 대표 논문 2의 선택적 탄소-탄소 결합 절단과 대표 논문 3의 단계적 라디칼 합성 방법을 근거로 했다.
+전이금속 촉매 유기반응은 RESEARCH의 금속 촉매·리간드 설계와 대표 논문 4의 루테늄 촉매 구조·반응 시작 속도 조절을 근거로 했다. 연구 소개의 용어는 본문에서 괄호나 이어지는 문장으로 풀어, 같은 낱말의 별도 마우스 올림 풀이를 겹치지 않았다.
 
 ## 이름·직급·위치 표기 차이
 

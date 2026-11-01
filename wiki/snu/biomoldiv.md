@@ -4,7 +4,7 @@
 
 - 분야: 생화학, 펩타이드 생합성, 효소의 구조와 작동 원리, 단백질 유도 진화[^research]
 - 대분야: 화학, 기초생명·생물물리
-- 태그: 구조생물학[^research][^p8], 합성생물학·DNA 합성[^research][^p1][^p5]
+- 태그: 구조생물학[^research][^p8], 합성생물학·DNA 합성[^research][^p1][^p5], 단백질공학·효소공학[^research][^p1]
 - 홈페이지: [Seokhee Kim Lab](https://biomoldiv.snu.ac.kr/)
 - 근거와 출처: [생체분자 다양성 연구실 근거 페이지](biomoldiv-sources.md)
 

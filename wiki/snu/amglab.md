@@ -4,7 +4,7 @@
 
 - 분야: 안정한 유기 라디칼, 유기금속 촉매, 고리형 고분자 합성, 다공성 골격 소재
 - 대분야: 화학, 소재
-- 태그: 연성 소재·고분자[^research][^p4][^p5], 다공성 골격 소재(MOF·COF)[^research][^p6][^p8], 광촉매·광전기화학[^research]
+- 태그: 연성 소재·고분자[^research][^p4][^p5], 다공성 골격 소재(MOF·COF)[^research][^p6][^p8], 광촉매·광전기화학[^research], 유기합성·합성 방법론[^p2][^p3], 전이금속 촉매 유기반응[^research][^p4]
 - 홈페이지: <https://amglab.wixsite.com/eslee>
 - 근거와 출처: [첨단 주족 화학 연구실 근거 페이지](amglab-sources.md)
 
