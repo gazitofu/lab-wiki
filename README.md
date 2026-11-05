@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (350곳)
+## KAIST 연구실 (362곳)
 
 ### 전기및전자공학부 (60)
 
@@ -220,6 +220,40 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [전산 소재 설계 및 탐색 연구실 (Computational Materials Design & Discovery Lab, CMDD)](wiki/kaist/cmdd.md) | 서동화 교수 | 계산, AI, 실험을 함께 써서 배터리 소재를 개발하는 신소재공학과 연구실이다. |
 | [차세대 광전나노재료 연구실 (Next-Generation Optoelectronic Nanomaterials Laboratory, NGON Lab)](wiki/kaist/ngonlab.md) | 조힘찬 교수 | 용액으로 만드는 나노미터 크기의 반도체 결정(양자점, 페로브스카이트 나노결정)으로 더 선명한 디스플레이와 새로운 빛 소자를 만드는 연구실이다. |
 
+### 화학과 (29)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [Baik Laboratory: Computational Molecular Modeling](wiki/kaist/baiklab.md) | 백무현 교수 | 화학반응의 진행 과정을 컴퓨터 계산과 실험으로 밝히고, 그 지식을 바탕으로 촉매와 새로운 반응을 설계하며 전압으로 분자의 반응성을 조절하는 연구실이다. |
+| [Biomimetic Organic Laboratory (BOL)](wiki/kaist/hslee.md) | 이희승 교수 | 접히는 인공 펩타이드의 구조와 서로 모이는 방식을 설계해 입체 분자 구조를 만들고, 분자 인식·분리·촉매에 연결하는 연구실이다. |
+| [Center for Catalytic Hydrocarbon Functionalizations](wiki/kaist/sbchang.md) | 장석복 교수 | 금속 촉매로 분자의 원하는 위치에 새 결합을 만들고, 메탄과 생물 유래 원료를 유용한 화학 원료로 바꾸는 반응을 연구한다. |
+| [Center for Sustainable Molecular Editing](wiki/kaist/ddnpslab.md) | 홍승우 교수 | 분자의 결합과 고리 구조를 바꾸는 합성법을 개발하고, 빛·금속 촉매 반응과 약물 분자의 설계·합성·생체 기능 조절을 함께 연구하는 홍승우 교수의 연구실이다. |
+| [Chemical Dynamics & Nanomaterials Lab](wiki/kaist/cdnl.md) | 김상규 교수 | 빛을 받은 분자의 구조와 결합, 전자가 변하는 순간을 레이저로 관찰하고 계산과 대조해 화학반응의 원리를 밝히며, 같은 측정 방법으로 나노소재의 빛에 대한 반응도 연구한다. |
+| [Electrochemical Materials Design Laboratory (EMDL)](wiki/kaist/emdl.md) | 변혜령 교수 | 전지 안에서 이온이 이동하고 전극에서 반응하는 원리를 밝혀 에너지를 저장하는 소재를 설계하고, 전기로 물질을 바꾸거나 이산화탄소를 포집하는 촉매를 연구한다. |
+| [Functional Inorganic Materials Chemistry Lab (FIMCL)](wiki/kaist/parklab.md) | 박선아 부교수 | 분자와 입자를 조립해 새로운 무기 소재를 만들고, 조립 구조에 따라 전기와 자기적 성질이 어떻게 나타나는지 밝혀 에너지 저장과 전기화학 촉매에 연결하는 연구실이다. |
+| [Hyunwoo Kim Group](wiki/kaist/hwkim-lab.md) | 김현우 교수 | 분자의 입체구조를 선택하는 촉매 반응과 거울상 분자를 구별하는 핵자기공명 분석법을 개발하고, 고속 실험·기계학습으로 합성 조건을 찾는다. |
+| [Ihee Laboratory (Molecular Structural Dynamics Laboratory)](wiki/kaist/iheelab.md) | 이효철 교수 | 화학 반응 도중 분자를 이루는 원자들이 어떻게 움직이는지 관측하고, 그 움직임이 반응 경로와 단백질 기능을 어떻게 결정하는지 연구한다. |
+| [Insung S. Choi's Lab (The CHOI Group)](wiki/kaist/cisgroup.md) | 최인성 교수 | 세포에 합성 재료로 기능을 더하고 신경세포의 배양 환경을 만들며, 분자 구조와 단백질 생산을 다루는 계산 방법을 개발하는 화학 연구실이다. |
+| [Intelligent Chemistry Lab](wiki/kaist/wooyoun.md) | 김우연 교수 | 물리 법칙에 따른 계산과 인공지능을 결합해 화학반응을 예측하고, 약물과 발광 소재가 될 분자를 설계하는 연구실이다. |
+| [Jung Lab](wiki/kaist/ywjunglab.md) | 정용원 교수 | 단백질들이 함께 모여 작동하는 원리를 밝히고, 그 원리로 인공 조립체와 분자 검출·전달 도구를 만드는 연구실이다. |
+| [Laboratory for Bio-inspired Therapeutic Materials](wiki/kaist/sticky.md) | 이해신 교수 | 홍합과 식물에서 착안한 접착 화학으로 물질 표면의 성질을 바꾸고, 의료·화장품용 접착 소재와 약물 전달 소재를 연구하는 연구실이다. |
+| [Laboratory of Catalysis & Stereoselective Chemical Synthesis (CataLeesis Lab)](wiki/kaist/cataleesis.md) | 이윤미 부교수 | 분자 사이에 새 결합을 만드는 촉매를 설계하고, 만들어지는 분자의 연결 위치와 공간 배치를 선택하는 합성 방법을 연구한다. |
+| [Lim Lab (KAIST)](wiki/kaist/miheelimlab.md) | 임미희 교수 · 의과학대학원(겸임) · 생명과학과(겸임) | 금속과 단백질, 생체 분자 사이의 결합·반응을 연구하고, 그 상호작용을 관찰하거나 조절하는 분자와 단백질 도구를 만든다. |
+| [M-design Laboratory](wiki/kaist/m-design-lab.md) | 김형준 교수 | 물질이 맞닿는 곳에서 일어나는 반응을 원자·분자 수준의 계산으로 설명하고, 그 계산 방법과 에너지 소재를 함께 설계한다. |
+| [Molecular Catalysis Lab](wiki/kaist/catalysis.md) | 홍순혁 교수 | 촉매와 분자 구조를 설계해 재활용 가능한 고분자를 만들고, 쓰고 난 플라스틱·고무와 이산화탄소를 부가가치 제품으로 바꾸는 연구실이다. |
+| [Nanocatalyst Research Laboratory](wiki/kaist/small.md) | 송현준 교수 | 나노입자의 모양·조성·표면을 설계하고 반응 중 변화를 관찰해, 빛과 전기로 수소를 만들거나 이산화탄소를 화학 원료로 바꾸는 촉매의 설계 원리를 연구한다. |
+| [QUTI 연구실 (QUTI Lab)](wiki/kaist/quti.md) | 권오훈 교수 | 1000조분의 1초(펨토초) 단위로 아주 짧은 순간에 일어나는 분자와 물질의 변화를 레이저와 초고속 전자현미경으로 찍어 보는 연구실이다. |
+| [SCALE Lab (Surface science and Catalysis with Atomic Level Engineering)](wiki/kaist/scale.md) | 박정영 KAIST Endowed Chair Professor (화학과·물리학과·KINC) | 물질 표면과 서로 다른 물질이 만나는 경계에서 화학 반응·빛·접촉의 에너지가 어떻게 이동하는지 원자와 분자 수준에서 밝히고, 이를 촉매와 에너지 전환 소자로 연결하는 연구실이다. |
+| [Soft Material Assembly Group](wiki/kaist/yoon.md) | 나노과학기술대학원(겸임) · KAIST Institute for the NanoCentury(겸임) · 윤동기 교수 | 액정과 고분자 등 연성 소재의 분자·입자 배열을 조절해, 빛과 전기에 반응하는 재료와 전자 소재를 연구하는 연구실이다. |
+| [The Baek Group (Organometallics Lab)](wiki/kaist/baeklab2.md) | 백윤정 부교수 · 전기및전자공학부(겸임) | 금속을 둘러싼 분자 구조를 설계해 물질의 반응을 조절하고, 빛과 전자 전달을 이용한 촉매 및 발광 소재를 연구하는 연구실이다. |
+| [The Geneius Lab (DNA/RNA Chemistry for Healthspan)](wiki/kaist/geneius.md) | 전용웅 조교수 | DNA가 손상되고 복구되는 과정을 화학 도구로 연구하고, DNA와 RNA를 바꾸어 생체 기능의 관찰과 단백질 생산 조절에 활용하는 연구실이다. |
+| [The Han Laboratory at KAIST](wiki/kaist/synthesis.md) | 한순규 교수 | 생물이 만드는 복잡한 화합물을 실험실에서 합성하고, 새로운 반응과 구조 변환 방법을 찾아 빛에 반응하는 분자, 생합성 원리, 화학 반응 자료로 연구를 넓히는 연구실이다. |
+| [The Hwang Group (Chemical Upconversion for Renewable Energy Catalysis, CURE)](wiki/kaist/hwanggroup.md) | 황승준 부교수 | 촉매 분자를 만들고 반응 도중의 물질을 관찰해, 구하기 쉬운 작은 분자를 부가가치가 있는 화학 원료로 바꾸는 반응을 설계하는 연구실이다. |
+| [Transition Metal Catalysis & Mechanism](wiki/kaist/tmcm.md) | 박기영 부교수 | 촉매 반응에 참여하는 금속 중심의 구조와 변화를 분광 측정과 계산으로 살펴, 반응이 어떤 단계를 거치고 어떤 생성물을 만드는지 밝히는 연구실이다. |
+| [분자생물물리 연구실 (Molecular Biophysics Laboratory)](wiki/kaist/molecular-biophysics.md) | 강진영 교수 | 생명 현상을 일으키는 큰 생체 분자 복합체의 3차원 구조를 극저온 전자현미경으로 밝혀, 분자들이 어떻게 맞물려 일하는지 연구하는 연구실이다. |
+| [분자합성생물학 및 단백질화학 연구실 (Molecular Synthetic Biology Laboratory)](wiki/kaist/msbl.md) | 박희성 교수 | 단백질의 원하는 위치에 화학적 변화를 주거나 새로운 아미노산을 넣는 방법을 개발하고, 단백질의 구조·기능을 밝히며 효소와 약물 후보를 설계하는 연구실이다. |
+| [친환경 광전기 화학 연구실 (Sustainable Photoelectrochemistry Lab, SPEC Lab)](wiki/kaist/spec.md) | 김태규 교수 | 빛과 전기로 물에서 수소를 얻고 이산화탄소를 연료·화학 원료로 바꾸는 재료를 만들며, 빛을 받은 뒤 물질 안에서 전자가 어떻게 움직이는지 X선으로 살피는 연구실이다. |
+
 ### 항공우주공학과 (21)
 
 | 연구실 | 교수 | 한 줄 요약 |
@@ -315,28 +349,6 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [이원희 교수 연구실 (MFBSL)](wiki/kaist/mfbsl.md) | 이원희 교수 | 작은 칩 위에 아주 가는 물길과 센서를 만들어, 세포가 내는 아주 작은 열이나 산성도 변화를 재고 단백질이 순식간에 모양을 바꾸는 순간을 붙잡는 연구실이다. |
 | [초고속 스핀 동역학 연구실 (Ultrafast Spin Dynamics Laboratory, USDL)](wiki/kaist/spintronics.md) | 김갑진 교수 | 자석 속 전자의 스핀이 시간에 따라 어떻게 움직이는지(스핀 동역학) 실험으로 관찰하고 해석해, 스핀파(마그논)와 자구벽·스커미온 같은 자성 구조를 다루는 원리를 밝히고 이를 스핀트로닉스 메모리·논리 소자 개발로 잇는 연구실이다. |
 | [초전도 양자 나노전자 연구실 (Superconducting Quantum Nanoelectronics Laboratory, SQNL)](wiki/kaist/sqnl.md) | 김은성 교수 | 밀리켈빈(켈빈의 1000분의 1) 수준의 극저온에서 나타나는 양자 현상을 실험으로 연구하는 연구실로, 지금 대학원생들은 초전도 회로로 만든 양자 비트(초전도 큐비트)를 만들고 측정·제어하는 양자 정보 연구를 하며, 최근 논문에는 2차원 초전도 박막의 양자 상전이와 흑연 위 2차원 헬륨 막의 초유체 연구도 있다. |
-
-### 화학과 (17)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [Baik Laboratory: Computational Molecular Modeling](wiki/kaist/baiklab.md) | 백무현 교수 | 화학반응의 진행 과정을 컴퓨터 계산과 실험으로 밝히고, 그 지식을 바탕으로 촉매와 새로운 반응을 설계하며 전압으로 분자의 반응성을 조절하는 연구실이다. |
-| [Chemical Dynamics & Nanomaterials Lab](wiki/kaist/cdnl.md) | 김상규 교수 | 빛을 받은 분자의 구조와 결합, 전자가 변하는 순간을 레이저로 관찰하고 계산과 대조해 화학반응의 원리를 밝히며, 같은 측정 방법으로 나노소재의 빛에 대한 반응도 연구한다. |
-| [Electrochemical Materials Design Laboratory (EMDL)](wiki/kaist/emdl.md) | 변혜령 교수 | 전지 안에서 이온이 이동하고 전극에서 반응하는 원리를 밝혀 에너지를 저장하는 소재를 설계하고, 전기로 물질을 바꾸거나 이산화탄소를 포집하는 촉매를 연구한다. |
-| [Functional Inorganic Materials Chemistry Lab (FIMCL)](wiki/kaist/parklab.md) | 박선아 부교수 | 분자와 입자를 조립해 새로운 무기 소재를 만들고, 조립 구조에 따라 전기와 자기적 성질이 어떻게 나타나는지 밝혀 에너지 저장과 전기화학 촉매에 연결하는 연구실이다. |
-| [Insung S. Choi's Lab (The CHOI Group)](wiki/kaist/cisgroup.md) | 최인성 교수 | 세포에 합성 재료로 기능을 더하고 신경세포의 배양 환경을 만들며, 분자 구조와 단백질 생산을 다루는 계산 방법을 개발하는 화학 연구실이다. |
-| [Intelligent Chemistry Lab](wiki/kaist/wooyoun.md) | 김우연 교수 | 물리 법칙에 따른 계산과 인공지능을 결합해 화학반응을 예측하고, 약물과 발광 소재가 될 분자를 설계하는 연구실이다. |
-| [Laboratory for Bio-inspired Therapeutic Materials](wiki/kaist/sticky.md) | 이해신 교수 | 홍합과 식물에서 착안한 접착 화학으로 물질 표면의 성질을 바꾸고, 의료·화장품용 접착 소재와 약물 전달 소재를 연구하는 연구실이다. |
-| [Laboratory of Catalysis & Stereoselective Chemical Synthesis (CataLeesis Lab)](wiki/kaist/cataleesis.md) | 이윤미 부교수 | 분자 사이에 새 결합을 만드는 촉매를 설계하고, 만들어지는 분자의 연결 위치와 공간 배치를 선택하는 합성 방법을 연구한다. |
-| [Nanocatalyst Research Laboratory](wiki/kaist/small.md) | 송현준 교수 | 나노입자의 모양·조성·표면을 설계하고 반응 중 변화를 관찰해, 빛과 전기로 수소를 만들거나 이산화탄소를 화학 원료로 바꾸는 촉매의 설계 원리를 연구한다. |
-| [QUTI 연구실 (QUTI Lab)](wiki/kaist/quti.md) | 권오훈 교수 | 1000조분의 1초(펨토초) 단위로 아주 짧은 순간에 일어나는 분자와 물질의 변화를 레이저와 초고속 전자현미경으로 찍어 보는 연구실이다. |
-| [SCALE Lab (Surface science and Catalysis with Atomic Level Engineering)](wiki/kaist/scale.md) | 박정영 KAIST Endowed Chair Professor (화학과·물리학과·KINC) | 물질 표면과 서로 다른 물질이 만나는 경계에서 화학 반응·빛·접촉의 에너지가 어떻게 이동하는지 원자와 분자 수준에서 밝히고, 이를 촉매와 에너지 전환 소자로 연결하는 연구실이다. |
-| [Soft Material Assembly Group](wiki/kaist/yoon.md) | 나노과학기술대학원(겸임) · KAIST Institute for the NanoCentury(겸임) · 윤동기 교수 | 액정과 고분자 등 연성 소재의 분자·입자 배열을 조절해, 빛과 전기에 반응하는 재료와 전자 소재를 연구하는 연구실이다. |
-| [The Baek Group (Organometallics Lab)](wiki/kaist/baeklab2.md) | 백윤정 부교수 · 전기및전자공학부(겸임) | 금속을 둘러싼 분자 구조를 설계해 물질의 반응을 조절하고, 빛과 전자 전달을 이용한 촉매 및 발광 소재를 연구하는 연구실이다. |
-| [Transition Metal Catalysis & Mechanism](wiki/kaist/tmcm.md) | 박기영 부교수 | 촉매 반응에 참여하는 금속 중심의 구조와 변화를 분광 측정과 계산으로 살펴, 반응이 어떤 단계를 거치고 어떤 생성물을 만드는지 밝히는 연구실이다. |
-| [분자생물물리 연구실 (Molecular Biophysics Laboratory)](wiki/kaist/molecular-biophysics.md) | 강진영 교수 | 생명 현상을 일으키는 큰 생체 분자 복합체의 3차원 구조를 극저온 전자현미경으로 밝혀, 분자들이 어떻게 맞물려 일하는지 연구하는 연구실이다. |
-| [분자합성생물학 및 단백질화학 연구실 (Molecular Synthetic Biology Laboratory)](wiki/kaist/msbl.md) | 박희성 교수 | 단백질의 원하는 위치에 화학적 변화를 주거나 새로운 아미노산을 넣는 방법을 개발하고, 단백질의 구조·기능을 밝히며 효소와 약물 후보를 설계하는 연구실이다. |
-| [친환경 광전기 화학 연구실 (Sustainable Photoelectrochemistry Lab, SPEC Lab)](wiki/kaist/spec.md) | 김태규 교수 | 빛과 전기로 물에서 수소를 얻고 이산화탄소를 연료·화학 원료로 바꾸는 재료를 만들며, 빛을 받은 뒤 물질 안에서 전자가 어떻게 움직이는지 X선으로 살피는 연구실이다. |
 
 ### 산업및시스템공학과 (15)
 
