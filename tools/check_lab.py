@@ -142,13 +142,26 @@ def lab_checks(lab, slug, wiki):
     if mpath.exists():
         meta = json.loads(mpath.read_text())
         meta = meta if isinstance(meta, list) else meta.get('papers') or list(meta.values())
-        by_rank = {}
-        for r in meta:
-            if isinstance(r, dict) and r.get('rank') is not None:
-                au = r.get('authors') if isinstance(r.get('authors'), list) else []
-                if not au and r.get('authors_posted'):
-                    au = re.split(r',| and ', r['authors_posted'])
-                by_rank[int(r['rank'])] = au
+        def authors(r):
+            au = r.get('authors') if isinstance(r.get('authors'), list) else []
+            if not au and r.get('authors_posted'):
+                au = re.split(r',| and ', r['authors_posted'])
+            return au
+        rows = [r for r in meta if isinstance(r, dict)]
+        by_rank = {int(r['rank']): authors(r) for r in rows if r.get('rank') is not None}
+        # render_lists numbers the marks by the body's representative-paper table rows (the --order from order_from_head),
+        # which need not equal meta rank (snu-24 yunhochem kept candidate numbers as rank), so map the table row to its meta row
+        norm = lambda s: re.sub(r'[^a-z0-9]', '', (s or '').lower())
+        by_num = {}
+        for n, cell in re.findall(r'^\| (\d+) \| \d{4} \| (.*?) \|', body, re.M):
+            m = re.search(r'https://doi\.org/(10\.[^)\s]+)', cell)
+            hit = [r for r in rows if m and (r.get('doi') or '').lower() == m.group(1).lower()]
+            if not hit:
+                t = norm(re.sub(r'^\[|\]\(.*$', '', cell.split(' · ')[0]))
+                hit = [r for r in rows if t and norm(r.get('title')) and (t in norm(r.get('title')) or norm(r.get('title')) in t)]
+            if len(hit) == 1:
+                by_num[int(n)] = authors(hit[0])
+        by_rank = by_num or by_rank
         header = None
         for ln in lines:
             if ln.startswith('| ') and '대표 논문 참여' in ln:
@@ -161,7 +174,8 @@ def lab_checks(lab, slug, wiki):
                 marks = re.findall(r'\d+', cells[header.index('대표 논문 참여')])
                 if not marks:
                     continue
-                nm = cells[0].replace('\\|', '|')
+                # a name cell may carry a footnote mark (snu-24 songroup 「Seungwon Jeong[^member-seungwon]」)
+                nm = re.sub(r'\[\^[^\]]+\]', '', cells[0]).replace('\\|', '|').strip()
                 outside = re.sub(r'\(.*?\)', '', nm).strip()
                 par = re.findall(r'\((.*?)\)', nm)
                 latin = outside if re.search('[A-Za-z]', outside) else next((x for x in par if re.search('[A-Za-z]', x)), outside)
