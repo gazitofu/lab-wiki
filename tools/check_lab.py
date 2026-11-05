@@ -21,9 +21,12 @@ PROCESS = ['웹 도구', 'web tool', '봇 확인', '확인 화면', 'Crawled', '
 ROBOTS = re.compile(r'robots(?:\.txt|[가-힣]| 규칙| 금지| 파일)')
 BODY_ONLY = ['영향력 지수']  # the sources page may state that impact factors were left out
 HISTORY = re.compile(r'(?:어휘|태그)[^.\n]{0,40}(?:요청|제안)|(?:요청|제안)[^.\n]{0,20}어휘|census-\d+|snu-\d+')
-EMOJI = re.compile('[%s-%s%s-%s%s-%s%s-%s%s]' % tuple(map(chr, (0x1F300, 0x1FAFF, 0x1F000, 0x1F2FF, 0x2700, 0x271C, 0x271E, 0x27BF, 0xFE0F))))  # U+271D is a posted author mark
-OBFUSCATED = re.compile(r'[A-Za-z0-9._-]+\s*[(\[{]\s*(?:at|AT|At)\s*[)\]}]\s*[A-Za-z0-9-]+\.[A-Za-z]'
-                        r'|[A-Za-z0-9._-]+ +@ *[A-Za-z0-9-]+\.[A-Za-z]|[A-Za-z0-9._-]+ *@ +[A-Za-z0-9-]+\.[A-Za-z]')
+# pictographs only: dingbat arrows (U+2794) and the posted author mark (U+271D) are text
+EMOJI = re.compile('[%s-%s%s-%s%s]' % (chr(0x1F000), chr(0x1F2FF), chr(0x1F300), chr(0x1FAFF),
+                   ''.join(map(chr, (0x2764, 0x2728, 0x2705, 0x274C, 0x2B50, 0x270C, 0xFE0F)))))
+OBFUSCATED = re.compile(r'[A-Za-z0-9._-]+\s*[(\[{]\s*(?:at|AT|At)\s*[)\]}]\s*[A-Za-z0-9-]+\.[A-Za-z]')
+# spaced @ is also a job line (CEO @ Softly.ai), so it is a warning
+SPACED_AT = re.compile(r'[A-Za-z0-9._-]+ +@ *[A-Za-z0-9-]+\.[A-Za-z]|[A-Za-z0-9._-]+ *@ +[A-Za-z0-9-]+\.[A-Za-z]')
 EMAIL = re.compile(r'[A-Za-z0-9._%+-]+@[A-Za-z0-9-]+(?:\.[A-Za-z0-9-]+)+')
 WARN = {
     'warn_scale': re.compile(r'\bTop[ -]?\d+|out of \d+|\d+\s?대 (?:기술|과제|발명)|경쟁률|상위 \d+(?:\.\d+)?\s?%'),
@@ -64,6 +67,7 @@ def doc_checks(body, src):
     res['history_in_docs'] = sorted({m.group(0) for m in HISTORY.finditer(src + '\n' + body)})
     res['emoji'] = sorted({m.group(0) for m in EMOJI.finditer(src + '\n' + body)})
     res['obfuscated_email'] = sorted({m.group(0) for m in OBFUSCATED.finditer(src + '\n' + body)})
+    res['warn_spaced_at'] = sorted({m.group(0) for m in SPACED_AT.finditer(src + '\n' + body)})
     # cover and military words may be quoted in the sources page as the criterion (brief-common §5.1-6, §5.5-3); scale may not
     for k, rx in WARN.items():
         res[k] = sorted({m.group(0) for m in rx.finditer(body if k in ('warn_cover', 'warn_military') else src + '\n' + body)})
