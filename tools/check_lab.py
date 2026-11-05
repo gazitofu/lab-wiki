@@ -75,8 +75,24 @@ def doc_checks(body, src):
     prose = [ln for ln in head.splitlines() + body.split('\n## 구성원', 1)[0].splitlines()
              if not ln.startswith(('[^', '|', '- 태그', '- 홈페이지', '- 근거'))]
     res['warn_quantity_suffix'] = sorted({m.group(0) for ln in prose for m in QUANTITY.finditer(re.sub(r'\[\^[^\]]+\]|<[^>]+>|`[^`]*`', '', ln))})
+    res['table_rows_cell_count_mismatch'] = {k: table_mismatch(t) for k, t in (('body', body), ('sources', src)) if table_mismatch(t)}
     res.update(tag_checks(body))
     return res
+
+
+def table_mismatch(text):
+    # census-59 mcfl: a lab script put the posted 「Ph.D. Candidate | Full-time」 into a member cell, the raw | split the
+    # row into extra cells and the 「대표 논문 참여」 marks fell outside the table; every row must have the header's cell count
+    bad, lines, n = [], text.splitlines(), 0
+    pipes = lambda ln: len(re.findall(r'(?<!\\)\|', ln.strip()))
+    for i, ln in enumerate(lines):
+        if not ln.startswith('|'):
+            n = 0
+        elif n == 0 and i + 1 < len(lines) and re.match(r'^\|\s*:?-{3,}', lines[i + 1]):
+            n = pipes(ln)
+        elif n and pipes(ln) != n:
+            bad.append(i + 1)
+    return bad
 
 
 def tag_checks(body):
