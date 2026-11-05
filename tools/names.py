@@ -19,5 +19,11 @@ def same_person(a, b):
     ea, eb = exact_name(a), exact_name(b)
     if not ea or not eb:
         return False
-    # a lab page that writes the whole name in capitals (JAEKYUNG YI) differs from the author list only in case
-    return ea == eb or ((ea.isupper() or eb.isupper()) and ea.casefold() == eb.casefold())
+    # a lab page that writes the whole name in capitals (JAEKYUNG YI) differs from the author list only in case;
+    # census-59 catmat writes only the family name in capitals (Jae Won LEE): compare part by part, a part matches when it is
+    # identical or when one side writes that part all in capitals and the parts are equal ignoring case
+    if ea == eb or ((ea.isupper() or eb.isupper()) and ea.casefold() == eb.casefold()):
+        return True
+    pa, pb = ea.split(' '), eb.split(' ')
+    return len(pa) == len(pb) and all(x == y or ((x.isupper() or y.isupper()) and x.casefold() == y.casefold())
+                                      for x, y in zip(pa, pb))
