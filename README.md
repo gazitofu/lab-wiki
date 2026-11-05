@@ -500,7 +500,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 |---|---|---|
 | [Wonder Lab](wiki/kaist/wonderlab.md) | 이우훈 교수 (산업디자인학과·메타버스대학원) | 디지털 정보와 실물의 상호작용을 설계해 사람이 놀고 배우고 만드는 경험을 연구하며, 이를 위한 기기·제작 도구·전시 콘텐츠를 만든다. |
 
-## 서울대 연구실 (115곳)
+## 서울대 연구실 (120곳)
 
 ### 공과대학 전기·정보공학부 (54)
 
@@ -602,17 +602,20 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [재료역학연구실 (MAMEL, Materials Mechanics Laboratory)](wiki/snu/mamel.md) | 이명규 교수 | 금속·배터리·반도체 재료가 힘과 열을 받을 때 어떻게 변형되고 부서지거나 접합되는지를 실험과 계산으로 설명하고, 소재 가공과 부품의 파손을 예측하는 연구실이다. |
 | [지속가능 에너지 재료 연구실 (Sustainable Energy Materials Lab.)](wiki/snu/wjunggroup.md) | 정우철 부교수 | 재료 표면의 반응을 조절해 연료로 전기를 만들고, 전기로 수소와 화학제품을 생산하는 기술을 연구한다. |
 
-### 자연과학대학 화학부 (21)
+### 자연과학대학 화학부 (26)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
 | [계산생물학 연구실 (SNU Compbio Lab)](wiki/snu/seoklab.md) | 석차옥 교수 | 생체 물질의 모양과 결합을 계산으로 예측하고, 이를 분자 설계에 연결하는 방법을 개발한다. |
+| [계산양자화학 연구실 (Computational Quantum Chemistry Group)](wiki/snu/snu-qchem-lab.md) | 이승훈 조교수 | 전이금속이 포함된 분자와 소재에서 전자가 이동하고 반응 경로가 바뀌는 원리를 계산하며, 이를 고전 컴퓨터와 양자 컴퓨터에서 풀기 위한 양자화학 방법을 개발한다. |
 | [고분자 및 소프트 나노소재 연구실 (Polymeric and Soft Nanomaterials Lab)](wiki/snu/polynano.md) | 손병혁 교수 | 고분자가 스스로 모여 만드는 입자와 얇은 막의 구조를 조절하고, 이를 입자 사슬과 기능성 소재의 배열로 연결하는 연구실이다. |
 | [고분자 합성 실험실 (KT Kim Group, Synthetic Polymer Chemistry Lab)](wiki/snu/ktkimgroup.md) | 김경택 교수 | 고분자 사슬의 길이와 구성 단위의 배열을 정밀하게 정하고, 그 사슬이 스스로 모여 만드는 구조와 정보 저장 방법을 연구한다. |
 | [구조 생화학 연구실 (Structural Biochemistry Lab)](wiki/snu/sblabsnu.md) | 이형호 교수 | 세포가 주변 환경을 감지하고 반응하는 과정을, 관련 물질의 구조와 움직임으로 설명한다. |
 | [나노바이오융합 연구실 (BFNL, Dal-Hee Min Group)](wiki/snu/bfnl.md) | 민달희 교수 | 재료의 표면을 설계해 센서와 물질 전달 도구를 만드는 연구실로, 본문의 최근 논문 22편은 소재·분석 도구·전달체·실험 모형과 생체물질 구조를 다룬다. |
 | [단백질 스핀 동역학 연구실 (Protein Spin Dynamics Laboratory)](wiki/snu/resonance.md) | 이정호 부교수 | 형태가 유연한 단백질의 구조와 상호작용을 알아보고, 이를 용액과 살아 있는 세포에서 측정할 핵자기공명 방법과 장치를 개발한다. |
+| [단일 분자 및 세포 동역학 연구실 (Single-molecule & Cell Dynamics Lab)](wiki/snu/smcbsnu.md) | 이남기 교수 | 분자 하나와 살아 있는 세포를 관찰하는 형광 영상 기법을 개발해, 유전 정보가 읽히는 과정과 단백질의 결합·움직임, DNA가 굽고 구조를 바꾸는 원리를 연구한다. |
 | [동적 소재 디자인 연구실 (Dynamic Materials Design Laboratory, DMDL)](wiki/snu/jiheongkanglab.md) | 강지형 부교수 | 분자 사이의 결합과 고분자의 구조를 설계해, 손상을 회복하고 늘어나도 기능하는 전자 소재와 리튬 금속 전지용 소재를 만드는 연구실이다. |
+| [무기분자변환연구실 (IMC Lab @ SNU)](wiki/snu/yunhochem.md) | 이윤호 교수 | 생물에서 배운 원리로 금속을 포함한 물질을 설계하고, 화학 원료를 만드는 반응과 빛을 내는 물질을 연구한다. |
 | [반응성 화학 시스템 연구실 (Laboratory of Stimuli-Responsive Chemical Systems)](wiki/snu/leelab.md) | 이동환 교수 | 분자의 구조와 결합을 설계해 외부 자극에 따라 빛·전자 이동·움직임이 바뀌는 화학 체계를 만들고, 이를 화학 감지와 기능 소재에 연결하는 연구실이다. |
 | [생유기화학연구실 (Jun-Seok Lee group)](wiki/snu/leegroup.md) | 이준석 부교수 (자연과학대학 화학부, 첨단융합학부 혁신신약전공(겸무)) | 빛으로 생체 반응을 관찰하는 화학 도구를 만들고, 약물이 세포 안에서 어떤 단백질과 상호작용하는지 연구하는 연구실이다. |
 | [생체분자 다양성 연구실 (Laboratory of Biomolecular Diversity)](wiki/snu/biomoldiv.md) | 김석희 부교수 | 생물이 다양한 물질을 만드는 원리를 밝히고, 생명 활동에 쓰이는 물질의 기능을 바꾸는 실험 도구를 개발하는 연구실이다. |
@@ -620,8 +623,10 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [에너지 및 재료 분석화학 연구실 (Battery and Energy Research Group)](wiki/snu/jwlimgroup.md) | 임종우 부교수 | 전지 안에서 리튬이 이동하고 재료가 변하는 과정을 관찰하며, 그 원리로 전지 소재·제조 방법과 전기화학 촉매를 설계하는 연구실이다. |
 | [유기합성실험실 (Complexity-Inspired Organic Synthesis LAB)](wiki/snu/dykchenlab.md) | 데이비드 첸 교수 | 천연물(생물에서 만들어지는 화합물)의 전합성(기본 원료에서 출발해 목표 화합물의 구조 전체를 만드는 합성)을 연구하며, 복잡한 구조를 어떤 반응과 순서로 만들지 설계하는 연구실이다. |
 | [유기화학 실험실 (Chulbom Lee Research Group)](wiki/snu/cbleegroup.md) | 이철범 교수 | 목표 물질을 만드는 반응과 합성 경로, 형광 염료의 광변환을 연구하는 연구실로, 연구실·학과의 2021–2026년 게시 논문은 10편이다. |
+| [자율화학실험실 (Self-Driving Chemistry Laboratory)](wiki/snu/sdcl.md) | 한상수 교수 | 로봇과 인공지능으로 화학 실험을 이어 가고, 원하는 성질의 재료와 반응 조건을 계산으로 찾아 설계하는 연구실이다. |
 | [재료화학 및 촉매 연구실 (The JOO Group)](wiki/snu/shjoo.md) | 주상훈 교수 | 재료의 구조와 주변 환경을 설계해, 전기로 연료와 화학 원료를 만드는 반응을 조절하는 연구실이다. |
 | [전기화학연구실 (ELECTROCHEMISTRY LAB.)](wiki/snu/echem.md) | 정택동 교수 | 전극과 용액, 세포가 맞닿는 경계에서 전자와 이온이 움직이는 원리를 재고, 이를 물속에서 작동하는 전원·회로, 화학 센서와 신경 연결 장치로 만드는 연구실이다. |
+| [전산 에너지/바이오 소재 연구실 (Son Research Lab)](wiki/snu/songroup.md) | 손창윤 부교수 | 분자 모의와 계산 방법 개발로 에너지·바이오 소재의 구조·움직임·반응을 설명하고 소재 설계를 돕는 계산화학 연구실이다. |
 | [첨단 주족 화학 연구실 (Advanced Main Group Chemistry Lab)](wiki/snu/amglab.md) | 이은성 교수 | 안정한 유기 라디칼과 금속 촉매를 만들고, 이를 고리형 고분자 합성과 에너지 소재 설계로 연결하는 연구실이다. |
 | [청정촉매소재 연구실 (CMRE LAB, Catalytic Materials for Renewable Energy)](wiki/snu/hwangchemgroup.md) | 황윤정 교수 | 전기와 햇빛으로 이산화탄소·물·질소를 연료와 화학 원료로 바꾸는 촉매 소재와 장치를 연구한다. |
 | [크로마틴 구조제어 연구실 (The Seo Group)](wiki/snu/seolab.md) | 서필준 교수 | 식물의 유전 정보가 쓰이는 방식과 세포의 성질이 바뀌는 원리를 밝히고, 이를 식물 재생과 유전체·대사 설계로 연결하는 연구실이다. |
