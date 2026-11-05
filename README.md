@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (362곳)
+## KAIST 연구실 (375곳)
 
 ### 전기및전자공학부 (60)
 
@@ -350,6 +350,28 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [초고속 스핀 동역학 연구실 (Ultrafast Spin Dynamics Laboratory, USDL)](wiki/kaist/spintronics.md) | 김갑진 교수 | 자석 속 전자의 스핀이 시간에 따라 어떻게 움직이는지(스핀 동역학) 실험으로 관찰하고 해석해, 스핀파(마그논)와 자구벽·스커미온 같은 자성 구조를 다루는 원리를 밝히고 이를 스핀트로닉스 메모리·논리 소자 개발로 잇는 연구실이다. |
 | [초전도 양자 나노전자 연구실 (Superconducting Quantum Nanoelectronics Laboratory, SQNL)](wiki/kaist/sqnl.md) | 김은성 교수 | 밀리켈빈(켈빈의 1000분의 1) 수준의 극저온에서 나타나는 양자 현상을 실험으로 연구하는 연구실로, 지금 대학원생들은 초전도 회로로 만든 양자 비트(초전도 큐비트)를 만들고 측정·제어하는 양자 정보 연구를 하며, 최근 논문에는 2차원 초전도 박막의 양자 상전이와 흑연 위 2차원 헬륨 막의 초유체 연구도 있다. |
 
+### 생명화학공학과 (17)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [Abiotic-Biotic Link Engineering (ABLE) Group](wiki/kaist/jiminparkgroup.md) | 박지민 조교수 | 전기가 오가는 장치와 생물 사이의 접점을 설계하는 연구실이다. |
+| [Autonomous Materials & Devices Laboratory](wiki/kaist/jiheonkim-group.md) | 김지헌 조교수 | 사람의 연구 경험과 자동 실험·자료 학습을 결합해, 탄소 배출을 줄이는 기술에 쓰일 재료와 장치를 개발하는 연구실이다. |
+| [BMNDKAIST](wiki/kaist/bmnd.md) | 김유천 교수 | 약물과 유전 물질이 필요한 곳까지 도달하도록 운반 재료와 전달 장치를 설계하고, 세포 안으로 들어가는 합성 펩타이드와 백신 전달 방법을 연구하는 연구실이다. |
+| [EED Lab](wiki/kaist/eedlab.md) | 김희탁 교수 | 전지를 이루는 재료와 내부 경계를 설계해 전기를 저장하고, 수소를 만들거나 연료에서 전기를 얻는 장치의 성능과 수명을 연구한다. |
+| [KAIST 분자 모사 연구실 (Molecular Simulation Group)](wiki/kaist/molsim.md) | 김지한 교수 | 컴퓨터 계산과 인공지능으로 원하는 성질의 재료를 설계하고, 탄소 포집·기체 저장·전지에 쓸 소재를 찾으며 계산화학 연구 자체를 자동화하는 연구실이다. |
+| [Nanostructured Polymer Engineering Laboratory (Li Polymer Lab at KAIST)](wiki/kaist/npel.md) | 리섕 부교수 | 새로운 재료를 합성하고 내부 배열과 성질의 관계를 밝혀, 지속가능한 소재와 유전 물질을 운반하는 재료를 설계하는 연구실이다. |
+| [PEEL](wiki/kaist/peel.md) | 김범준 석좌교수 | 고분자의 분자 구조와 조립 방식을 바꿔, 늘어나는 태양전지와 전자 소자, 전지용 전해질, 자극에 반응하는 입자를 만드는 연구실이다. |
+| [Polymer Ionic Materials & Ionotronics Lab (PI2L)](wiki/kaist/pi2l.md) | 문홍철 부교수 | 모양이 바뀌어도 기능을 유지하는 이온 전도 소재를 설계하고, 이를 색이 바뀌는 화면과 창문, 열이나 움직임으로 전기를 만드는 장치, 전지, 피부처럼 늘어나는 센서에 연결하는 연구실이다. |
+| [Solar Energy Organic-hybrid electronics Laboratory (SEOL)](wiki/kaist/seol.md) | 서장원 부교수·석좌교수 | 빛을 전기로 바꾸는 페로브스카이트 태양전지의 소재와 층 구조를 연구하고, 효율과 안정성을 높이면서 휘는 소자와 넓은 면적으로 만드는 제조 방법을 개발한다. |
+| [Systems Biology and Medicine Laboratory (SBML)](wiki/kaist/sbml.md) | 김현욱 부교수 | 생명체의 물질 반응과 유전자 작용을 컴퓨터 모형으로 표현해, 미생물 생산과 생물 기능 설계에 필요한 방법을 만들고 질병 관련 표적을 예측하는 연구실이다. |
+| [기능성 박막 연구실 (Functional Thin Films Lab, FTFL)](wiki/kaist/ftfl.md) | 임성갑 석좌교수 (생명화학공학과·반도체공학대학원) | 기체 상태의 원료로 고분자막을 만들고 그 표면과 구조를 조절해, 전자소자를 보호하고 전지의 계면을 안정화하며 세포가 자라는 환경을 설계하는 연구실이다. |
+| [대사공학연구실 (Metabolic and Biomolecular Engineering Laboratory, MBEL)](wiki/kaist/mbel.md) | 이상엽 특훈교수 | 미생물의 유전자와 물질 생산 경로를 설계하고 배양 공정과 연결해 화학물질·플라스틱·천연물을 만드는 연구실이다. |
+| [반도체 나노기술 연구실 (Semiconductor Nanotechnology Lab, Joonki Suh Group)](wiki/kaist/joonkisuhlab.md) | 서준기 부교수 (생명화학공학과·반도체공학대학원) | 반도체 재료를 설계하고 얇은 막으로 만드는 공정부터, 전기를 제어하는 소자와 정보를 저장하고 신경계의 작동 원리를 구현하는 소자까지 연결하는 연구실이다. |
+| [분리막·소재·머신 인텔리전스 연구실 (Membranes, Materials, Machine Intelligence Laboratory, MMML)](wiki/kaist/mmml.md) | 고동연 교수 | 원유를 증류 앞 단계에서 얇은 막으로 걸러 성분별로 미리 나누는 기술, 공기에서는 흡착 장치로, 바닷물에서는 전기화학 장치로 이산화탄소를 뽑아내는 기술처럼 에너지를 덜 쓰는 분리 기술을 만드는 연구실이다. |
+| [양자소재공학연구실 (Quantum Materials Engineering Laboratory, QMEL)](wiki/kaist/dclee.md) | 이도창 교수 (생명화학공학과·반도체공학대학원) | 양자점의 모양과 표면을 설계해 화면용 발광 소재를 만들고, 빛과 촉매를 이용해 암모니아·수소와 화학물질을 생산하는 연구실이다. |
+| [지능형 연성소재 연구실 (Intelligent Soft Materials Lab., ISML)](wiki/kaist/isml.md) | 김신현 교수 | 부드러운 물질과 미세입자의 구조를 설계해 색을 내고 빛으로 물질을 감지하는 소재, 내용물을 저장하고 내보내는 캡슐을 만드는 연구실이다. |
+| [환경 및 분리기술 연구실 (Molecular Separation Laboratory, Bae Research Group)](wiki/kaist/thebaeresearchgroup.md) | 배태현 교수 | 물질이 지나가는 구멍과 표면의 성질을 설계해 혼합물을 나누고, 이산화탄소 포집·기체 정제·물 정화에 쓰는 소재와 분리 공정을 연구한다. |
+
 ### 산업및시스템공학과 (15)
 
 | 연구실 | 교수 | 한 줄 요약 |
@@ -416,15 +438,6 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [유비쿼터스 가상현실 연구실 (Ubiquitous Virtual Reality Laboratory, UVR Lab)](wiki/kaist/uvrlab.md) | 우운택 교수 (문화기술대학원·메타버스대학원) | 증강현실(AR)·가상현실(VR) 기술로 사람이 미디어·공간·다른 사람과 만나는 새로운 컴퓨팅 방식을 연구하는 연구실로, 3차원 비전, 디지로그 사용자 인터페이스, 맥락을 아는 모바일 증강현실을 중심 주제로 삼는다. |
 | [음악 및 오디오 컴퓨팅 연구실 (Music and Audio Computing Lab, MACLab)](wiki/kaist/mac.md) | 남주한 교수 | 사람이 음악을 즐기고 연주하고 만드는 방식을 기술로 넓히려는 연구실이다. |
 | [총체적 경험 크리에이티브 AI 연구실 (Total Experience Creative AI Lab, TX Lab)](wiki/kaist/tx.md) | 이진준 교수 (문화기술대학원·메타버스대학원) | 소리·빛·향·분위기처럼 여러 감각이 한데 어우러지는 '총체적 경험(Total Experience)'을 주제로, 데이터·XR·AI 같은 새 기술로 미디어 아트 작품을 만들고 그 작품을 공학과 미학의 연구로 풀어내는 연구실이다. |
-
-### 생명화학공학과 (4)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [기능성 박막 연구실 (Functional Thin Films Lab, FTFL)](wiki/kaist/ftfl.md) | 임성갑 석좌교수 (생명화학공학과·반도체공학대학원) | 기체 상태의 원료로 고분자막을 만들고 그 표면과 구조를 조절해, 전자소자를 보호하고 전지의 계면을 안정화하며 세포가 자라는 환경을 설계하는 연구실이다. |
-| [반도체 나노기술 연구실 (Semiconductor Nanotechnology Lab, Joonki Suh Group)](wiki/kaist/joonkisuhlab.md) | 서준기 부교수 (생명화학공학과·반도체공학대학원) | 반도체 재료를 설계하고 얇은 막으로 만드는 공정부터, 전기를 제어하는 소자와 정보를 저장하고 신경계의 작동 원리를 구현하는 소자까지 연결하는 연구실이다. |
-| [분리막·소재·머신 인텔리전스 연구실 (Membranes, Materials, Machine Intelligence Laboratory, MMML)](wiki/kaist/mmml.md) | 고동연 교수 | 원유를 증류 앞 단계에서 얇은 막으로 걸러 성분별로 미리 나누는 기술, 공기에서는 흡착 장치로, 바닷물에서는 전기화학 장치로 이산화탄소를 뽑아내는 기술처럼 에너지를 덜 쓰는 분리 기술을 만드는 연구실이다. |
-| [양자소재공학연구실 (Quantum Materials Engineering Laboratory, QMEL)](wiki/kaist/dclee.md) | 이도창 교수 (생명화학공학과·반도체공학대학원) | 양자점의 모양과 표면을 설계해 화면용 발광 소재를 만들고, 빛과 촉매를 이용해 암모니아·수소와 화학물질을 생산하는 연구실이다. |
 
 ### AI컴퓨팅학과 (3)
 
