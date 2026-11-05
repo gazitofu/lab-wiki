@@ -45,6 +45,10 @@ def main():
         fetch = dst / 'fetch.py'
         fetch.write_text(fetch.read_text().replace('__RAW__', str(raw)))
     (batch / 'tools').symlink_to(os.path.relpath(here, batch), target_is_directory=True)
+    # the batch cites its own copy of the common brief (collection-staging/brief-common.md) by section and line
+    common = root / 'brief-common.md'
+    if common.exists():
+        shutil.copy2(common, batch / 'brief-common.md')
     print(batch)
 
 
