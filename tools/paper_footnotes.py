@@ -25,7 +25,11 @@ for i, d in enumerate(dois, 1):
     c = html.unescape(r.get('container') or '')
     vol = r.get('volume'); pg = r.get('page')
     on = r.get('published_online') or [None]
-    date = f" (온라인 {on[0]}-{on[1]:02d}-{on[2]:02d})" if on and len(on) == 3 and all(on) else (f" ({(r.get('published_print') or [None])[0] or on[0]})" if (r.get('published_print') or on) else '')
+    # census-58: never print a missing year as (None); writers sometimes leave published_online/print as [null] and put the
+    # date in publication_date or year (isml, eedlab footnotes showed 「(None)」)
+    pr = r.get('published_print') or [None]
+    year = pr[0] or on[0] or str(r.get('publication_date') or '')[:4] or r.get('year')
+    date = f" (온라인 {on[0]}-{on[1]:02d}-{on[2]:02d})" if on and len(on) == 3 and all(on) else (f" ({year})" if year else '')
     src = SRC.get(r.get('abstract_source'), '초록 기준')
     vp = ' '.join(x for x in [c, str(vol) if vol else ''] if x) + (f", {pg}" if pg else '')
     link = f"https://doi.org/{r['doi']}" if r.get('doi') else (r.get('link') or (r.get('pure_page') or {}).get('url') or (r.get('paper_page') or {}).get('url') or r.get('doi_or_link'))
