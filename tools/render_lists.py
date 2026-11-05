@@ -18,45 +18,7 @@ def authors_of(key):
                 au = [re.sub(r'[*†‡#+✝]', '', x).replace(' and ', ' ').strip() for x in re.split(r',| and ', r['authors_posted'])]
             return [x for x in au if x]
     return []
-def toks(n):
-    return [t for t in re.split(r'[^a-z]+', (n or '').lower().replace('-', '')) if t]
-def same_person(a, b):
-    if _same_person(a, b):
-        return True
-    # 'Lim, Yoon Seop' vs 'Yoon-Seop Lim': merge adjacent given-name tokens and retry
-    for va in _variants(a):
-        for vb in _variants(b):
-            if (va, vb) != (a, b) and _same_person(va, vb):
-                return True
-    return False
-def _variants(n):
-    t = toks(n); out = [n]
-    if len(t) == 3:
-        out += [f'{t[0]}{t[1]} {t[2]}', f'{t[0]} {t[1]}{t[2]}']
-    return out
-def _same_person(a, b):
-    # order-insensitive token match; single-letter tokens match initials (handles 'Jung, Hyunwoo' vs 'Hyunwoo Jung', 'Hung D. Nguyen' vs 'Nguyen Duy Hung')
-    ta, tb = toks(a), toks(b)
-    if ta and tb and abs(len(ta) - len(tb)) == 1:
-        # 'Y. Han' vs 'Yoon Seong Han': shorter name = full surname + initials, longer has one extra given-name token
-        sh, lo = (ta, tb) if len(ta) < len(tb) else (tb, ta)
-        if len(sh) >= 2 and all(len(x) > 1 for x in sh) and all(x in lo for x in sh):
-            return True  # 'Rachel Kim' vs 'Rachel Jungmin Kim'
-        if any(len(t) == 1 for t in sh):
-            left = list(lo)
-            for t in sh:
-                hit = next((x for x in left if x == t), None) if len(t) > 1 else next((x for x in left if x[0] == t and len(x) > 1), None)
-                if not hit: return False
-                left.remove(hit)
-            return sum(1 for t in sh if len(t) > 1) >= 1
-    if not ta or not tb or len(ta) != len(tb):
-        return norm(a) == norm(b) and bool(norm(a))
-    left = list(tb)
-    for t in ta:
-        hit = next((x for x in left if x == t), None) or next((x for x in left if (len(x) == 1 and t[0] == x) or (len(t) == 1 and x[0] == t)), None)
-        if not hit: return False
-        left.remove(hit)
-    return sum(1 for t in ta if len(t) > 1 and t in tb) >= 1
+from names import same_person
 rep_authors = [(i + 1, authors_of(d)) for i, d in enumerate(order)]
 STAGE = [(r'post[- ]?doc|postdoctoral|박사후', '박사후연구원'), (r'^graduate student$', '대학원생'), (r'post-?master', '연구원'), (r'integrated|통합|m\.?s\.?\s*/\s*ph\.?\s?d|master-ph\.?\s?d|m\.?s\.?\s*[-+&]\s*ph\.?\s?d|ph\.?\s?d\.?\s*[-+&/]\s*m\.?s|joint\s+program|combined', '석박사통합과정'), (r'ph\.?\s?d|doctoral|박사', '박사과정'),
          (r'm\.?\s?sc?\b|master|석사', '석사과정'), (r'undergrad\w*\s+(?:research\s+)?intern|학부\s*(?:연구\s*)?인턴', '학부 인턴'), (r'undergrad|학부', '학부 연구생'), (r'intern', '인턴'), (r'visiting student|방문 학생', '방문 학생'), (r'visit|방문', '방문 연구원'),
