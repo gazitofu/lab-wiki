@@ -526,7 +526,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 |---|---|---|
 | [Wonder Lab](wiki/kaist/wonderlab.md) | 이우훈 교수 (산업디자인학과·메타버스대학원) | 디지털 정보와 실물의 상호작용을 설계해 사람이 놀고 배우고 만드는 경험을 연구하며, 이를 위한 기기·제작 도구·전시 콘텐츠를 만든다. |
 
-## 서울대 연구실 (120곳)
+## 서울대 연구실 (125곳)
 
 ### 공과대학 전기·정보공학부 (54)
 
@@ -628,10 +628,14 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [재료역학연구실 (MAMEL, Materials Mechanics Laboratory)](wiki/snu/mamel.md) | 이명규 교수 | 금속·배터리·반도체 재료가 힘과 열을 받을 때 어떻게 변형되고 부서지거나 접합되는지를 실험과 계산으로 설명하고, 소재 가공과 부품의 파손을 예측하는 연구실이다. |
 | [지속가능 에너지 재료 연구실 (Sustainable Energy Materials Lab.)](wiki/snu/wjunggroup.md) | 정우철 부교수 | 재료 표면의 반응을 조절해 연료로 전기를 만들고, 전기로 수소와 화학제품을 생산하는 기술을 연구한다. |
 
-### 자연과학대학 화학부 (26)
+### 자연과학대학 화학부 (31)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
+| [Bioinorganic Laboratory](wiki/snu/bioinorg.md) | 송윤주 부교수 | 단백질 안의 금속이 어떤 반응을 하는지 주변 구조와의 관계로 밝히고, 그 원리로 새로운 반응을 수행하는 단백질을 설계하는 연구실이다. |
+| [Hong Research Group](wiki/snu/syhonglab.md) | 홍승윤 조교수 | 주족 원소와 전이금속의 반응 원리를 이용해 새 시약과 촉매를 설계하고, 유기 화합물을 만드는 방법을 개발하는 연구실이다. |
+| [Molecular Plasmonics and Nanoscopy Lab](wiki/snu/spectra.md) | 김지환 교수 | 빛과 금속, 분자 사이의 상호작용을 연구하고, 분자 하나에서 일어나는 반응을 관찰할 광학 측정법을 개발한다. |
+| [Xcelerating Lab](wiki/snu/xceleratinglab.md) | 김예진 조교수 | 빛을 받은 물질의 변화와 내부 구조의 관계를 시간 순서대로 측정하며, 그 측정에 필요한 장치를 직접 만드는 연구실이다. |
 | [계산생물학 연구실 (SNU Compbio Lab)](wiki/snu/seoklab.md) | 석차옥 교수 | 생체 물질의 모양과 결합을 계산으로 예측하고, 이를 분자 설계에 연결하는 방법을 개발한다. |
 | [계산양자화학 연구실 (Computational Quantum Chemistry Group)](wiki/snu/snu-qchem-lab.md) | 이승훈 조교수 | 전이금속이 포함된 분자와 소재에서 전자가 이동하고 반응 경로가 바뀌는 원리를 계산하며, 이를 고전 컴퓨터와 양자 컴퓨터에서 풀기 위한 양자화학 방법을 개발한다. |
 | [고분자 및 소프트 나노소재 연구실 (Polymeric and Soft Nanomaterials Lab)](wiki/snu/polynano.md) | 손병혁 교수 | 고분자가 스스로 모여 만드는 입자와 얇은 막의 구조를 조절하고, 이를 입자 사슬과 기능성 소재의 배열로 연결하는 연구실이다. |
@@ -645,6 +649,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [반응성 화학 시스템 연구실 (Laboratory of Stimuli-Responsive Chemical Systems)](wiki/snu/leelab.md) | 이동환 교수 | 분자의 구조와 결합을 설계해 외부 자극에 따라 빛·전자 이동·움직임이 바뀌는 화학 체계를 만들고, 이를 화학 감지와 기능 소재에 연결하는 연구실이다. |
 | [생유기화학연구실 (Jun-Seok Lee group)](wiki/snu/leegroup.md) | 이준석 부교수 (자연과학대학 화학부, 첨단융합학부 혁신신약전공(겸무)) | 빛으로 생체 반응을 관찰하는 화학 도구를 만들고, 약물이 세포 안에서 어떤 단백질과 상호작용하는지 연구하는 연구실이다. |
 | [생체분자 다양성 연구실 (Laboratory of Biomolecular Diversity)](wiki/snu/biomoldiv.md) | 김석희 부교수 | 생물이 다양한 물질을 만드는 원리를 밝히고, 생명 활동에 쓰이는 물질의 기능을 바꾸는 실험 도구를 개발하는 연구실이다. |
+| [서울대학교 신경회로 연구실](wiki/snu/sungyonkimlab.md) | 김성연 부교수 | 몸의 필요와 이전 경험이 같은 감각을 다른 행동으로 바꾸는 원리를, 생쥐의 먹기·마시기·체온 조절·사회적 행동을 통해 밝히는 연구실이다. |
 | [시스템 화학생물학 연구실 (Systems Chemical Biology Lab)](wiki/snu/rheesnu.md) | 이현우 교수 (자연과학대학 화학부, 생명과학부(겸임)) | 효소 반응과 빛을 이용한 화학 도구를 만들어, 살아 있는 세포 안에서 단백질의 위치와 상호작용을 알아보는 연구실이다. |
 | [에너지 및 재료 분석화학 연구실 (Battery and Energy Research Group)](wiki/snu/jwlimgroup.md) | 임종우 부교수 | 전지 안에서 리튬이 이동하고 재료가 변하는 과정을 관찰하며, 그 원리로 전지 소재·제조 방법과 전기화학 촉매를 설계하는 연구실이다. |
 | [유기합성실험실 (Complexity-Inspired Organic Synthesis LAB)](wiki/snu/dykchenlab.md) | 데이비드 첸 교수 | 천연물(생물에서 만들어지는 화합물)의 전합성(기본 원료에서 출발해 목표 화합물의 구조 전체를 만드는 합성)을 연구하며, 복잡한 구조를 어떤 반응과 순서로 만들지 설계하는 연구실이다. |
