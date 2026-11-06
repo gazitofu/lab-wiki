@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (387곳)
+## KAIST 연구실 (388곳)
 
 ### 전기및전자공학부 (60)
 
@@ -220,7 +220,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [전산 소재 설계 및 탐색 연구실 (Computational Materials Design & Discovery Lab, CMDD)](wiki/kaist/cmdd.md) | 서동화 교수 | 계산, AI, 실험을 함께 써서 배터리 소재를 개발하는 신소재공학과 연구실이다. |
 | [차세대 광전나노재료 연구실 (Next-Generation Optoelectronic Nanomaterials Laboratory, NGON Lab)](wiki/kaist/ngonlab.md) | 조힘찬 교수 | 용액으로 만드는 나노미터 크기의 반도체 결정(양자점, 페로브스카이트 나노결정)으로 더 선명한 디스플레이와 새로운 빛 소자를 만드는 연구실이다. |
 
-### 생명화학공학과 (29)
+### 생명화학공학과 (30)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -232,6 +232,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [EGCL](wiki/kaist/egcl.md) | 최민기 교수 | 물질 내부의 구멍과 반응이 일어나는 자리를 설계해, 이산화탄소를 붙잡고 화학 원료를 만들며 폐자원을 다시 쓰는 촉매와 흡착 재료를 연구한다. |
 | [Electrochemistry Discovery Laboratory (EDL-LAB)](wiki/kaist/edl.md) | 정동영 부교수 | 전기가 전달되는 재료와 반응 용액이 맞닿는 곳을 설계하고, 그곳의 변화가 반응과 장치 수명에 미치는 영향을 밝혀 물 분해·연료전지·이산화탄소 전환으로 연결하는 연구실이다. |
 | [Energy Materials Lab](wiki/kaist/surfchem.md) | 최남순 석좌교수 | 전지 안에서 맞닿는 물질들의 반응을 조절해 충전 속도·수명·안정성을 높이는 재료를 연구한다. |
+| [Eum Research Group](wiki/kaist/eumlab.md) | 음동건 조교수 | 전지 재료가 반응하고 변하는 원리와 제조 방법, 물의 성질을 연구 방향으로 제시한 그룹으로, 음동건 교수는 2027년 2월 KAIST 부임 예정이다. |
 | [KAIST 분자 모사 연구실 (Molecular Simulation Group)](wiki/kaist/molsim.md) | 김지한 교수 | 컴퓨터 계산과 인공지능으로 원하는 성질의 재료를 설계하고, 탄소 포집·기체 저장·전지에 쓸 소재를 찾으며 계산화학 연구 자체를 자동화하는 연구실이다. |
 | [Nanostructured Polymer Engineering Laboratory (Li Polymer Lab at KAIST)](wiki/kaist/npel.md) | 리섕 부교수 | 새로운 재료를 합성하고 내부 배열과 성질의 관계를 밝혀, 지속가능한 소재와 유전 물질을 운반하는 재료를 설계하는 연구실이다. |
 | [OOEM 연구실 (Organic Opto-Electronic Materials Laboratory)](wiki/kaist/ooem.md) | 정희태 석좌교수 | 분자가 스스로 정렬하는 성질과 표면에 무늬를 만드는 공정을 연구하고, 이를 기후 대응 촉매·분리막과 센서·광전자 소자에 연결하는 연구실이다. |
