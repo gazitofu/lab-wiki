@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (398곳)
+## KAIST 연구실 (408곳)
 
 ### 전기및전자공학부 (60)
 
@@ -289,6 +289,33 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [분자합성생물학 및 단백질화학 연구실 (Molecular Synthetic Biology Laboratory)](wiki/kaist/msbl.md) | 박희성 교수 | 단백질의 원하는 위치에 화학적 변화를 주거나 새로운 아미노산을 넣는 방법을 개발하고, 단백질의 구조·기능을 밝히며 효소와 약물 후보를 설계하는 연구실이다. |
 | [친환경 광전기 화학 연구실 (Sustainable Photoelectrochemistry Lab, SPEC Lab)](wiki/kaist/spec.md) | 김태규 교수 | 빛과 전기로 물에서 수소를 얻고 이산화탄소를 연료·화학 원료로 바꾸는 재료를 만들며, 빛을 받은 뒤 물질 안에서 전자가 어떻게 움직이는지 X선으로 살피는 연구실이다. |
 
+### 건설및환경공학과 (22)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [Environment Back To Environment Lab (EBTEL)](wiki/kaist/ebtel.md) | 한종인 교수 | 공기와 물의 오염물질을 붙잡아 제거하고, 이를 연료나 화학 원료로 바꾸거나 쓸모 있는 자원을 회수하는 환경공학 연구실이다. |
+| [Environmental Microbiology Laboratory](wiki/kaist/eml.md) | 윤석환 부교수 | 토양과 물, 하수처리시설의 미생물이 온실가스와 오염물질을 만들거나 없애는 원리를 밝히고, 이를 배출 저감과 환경정화에 쓰는 연구실이다. |
+| [Geo-Energy LAboratory (GELA)](wiki/kaist/kwon.md) | 권태혁 교수 | 흙과 암석 속 물·기체의 흐름과 지반의 변형을 연구하고, 지중 에너지 저장, 미생물을 이용한 지반개량, 산사태 예방과 지반 상태 측정으로 연결하는 연구실이다. |
+| [Health Design Lab.](wiki/kaist/healthdesign.md) | 임리사 부교수 | 건물과 도시의 배치가 사람의 이동·협업·안전에 미치는 관계를 분석하고, 고령자와 교통약자도 이용할 수 있는 공간과 의료시설의 설계·평가 방법을 연구한다. |
+| [IMPACT Lab](wiki/kaist/impactlab.md) | 인소영 조교수 | 기후 변화와 저탄소 전환이 기업·투자·에너지 기반시설의 가치에 미치는 영향을 분석하고, 이를 투자 전략과 금융·정책 제도에 반영하는 연구실이다. |
+| [KAIST Transportation and Infrastructure Lab](wiki/kaist/lee.md) | 이진우 부교수 | 사람과 차량의 이동을 분석해 충전소·차고지·도로 같은 기반 시설을 계획하고, 교통 서비스와 시설의 운영·유지·재난 대응을 함께 연구하는 연구실이다. |
+| [Planning Lab for Sustainability and Climate Change (PLaSC2 Lab)](wiki/kaist/plasc2.md) | 한동훈 부교수 | 도시가 확장되고 에너지를 쓰는 방식, 토지 보전과 시민 소통을 분석해 지속가능한 도시와 기후변화 대응을 위한 계획·정책을 연구한다. |
+| [WITH 연구실 (Waste-Innovating Technologies for Humanity Laboratory, WITHLAB)](wiki/kaist/withlab.md) | 명재욱 부교수 | 미생물이 플라스틱과 메탄을 바꾸는 원리를 연구하고, 폐기물로 생분해성 소재와 유용한 자원을 만드는 환경생물공학 연구실이다. |
+| [건설재료 및 구조해석 연구실 (Structural Analysis & Materials Research Laboratory, SAMLAB)](wiki/kaist/samlab.md) | 이행기 교수 | 콘크리트가 균열을 스스로 메우고 열을 내거나 변형을 감지하도록 재료를 설계하며, 이산화탄소를 저장하는 시멘트와 재료의 성질을 예측하는 계산 모형을 연구한다. |
+| [구조설계 연구실 (Structural Design Laboratory, SDLAB)](wiki/kaist/sdlab.md) | 곽효경 교수 | 콘크리트 구조물이 힘·시간·수분 변화에 따라 어떻게 변형하고 손상되는지 계산하고, 교량·고층 건물·수중 터널의 설계에 연결하는 연구실이다. |
+| [기후시스템연구실 (Climate System Lab)](wiki/kaist/climatesystem.md) | 김진수 조교수 | 대기·바다·육상 생태계의 상호작용으로 기후변화와 산불, 탄소 흡수의 변화를 설명하고 기후변화 대응 방안을 연구한다. |
+| [도시설계연구실 (Urban Design Lab)](wiki/kaist/urbandesignlab.md) | 김영철 교수 (건설및환경공학과·녹색성장지속가능대학원·메타버스대학원) | "도시를 어떻게 더 좋게 만들 수 있을까"를 묻고, 사람이 도시에서 일상을 꾸려 가는 데 건물과 도시 환경이 어떤 역할을 하는지를 도시설계와 도시 데이터 분석으로 탐구하는 연구실이다. |
+| [물환경에너지공학 연구실 (SWEET Lab, Sustainable Water Environment and Energy Technology Laboratory)](wiki/kaist/sweet.md) | 강석태 교수 | 깨끗한 물을 만들고 쓰고 난 물을 다시 쓰게 하는 분리막·촉매 기술과, 음식물 쓰레기에서 바이오가스를 얻는 기술을 연구하는 연구실이다. |
+| [스마트구조시스템 연구실 (Smart Structures & Systems Laboratory, SSSlab)](wiki/kaist/ssslab.md) | 손훈 교수 | 교량과 기계·반도체 시스템의 이상을 알아내기 위해 측정 기술과 자료 해석 방법을 개발하고, 금속을 쌓아 만드는 제조 공정의 품질도 감시하는 연구실이다. |
+| [시공간지능 연구실 (Spacetime Intelligence Laboratory)](wiki/kaist/spacetime.md) | 윤윤진 부교수 | 사람과 차량의 이동, 도시의 공간과 생활 자료를 함께 분석해 교통을 예측하고 도시와 항공 교통의 운영·접근성·안전을 연구하는 연구실이다. |
+| [응용역학 연구실 (Advanced Applied Mechanics Laboratory, AAML)](wiki/kaist/aaml.md) | 홍정욱 교수 | 구조물과 재료가 힘을 받아 변형되고 부서지는 과정을 실험과 계산으로 밝히고, 이를 예측하는 해석 방법과 자연을 본뜬 복합재료를 연구한다. |
+| [인공지능 x 모빌리티 연구실 (KAIST AI x Mobility Lab, AixMobility Lab)](wiki/kaist/aimobility.md) | 여화수 교수 | 차량과 보행자의 움직임을 모형으로 설명하고 교통 상태와 사고 위험을 예측하며, 교통신호·이동 서비스·도시 공간과 교통 기반시설의 설계·운영·관리를 연구한다. |
+| [인터랙티브 로봇 시스템 연구실 (Interactive Robotic Systems Laboratory, IRiS Lab)](wiki/kaist/iris.md) | 유지환 교수 | 사람이 접근하기 어려운 곳에서 로봇을 조종하고, 로봇이 사람과 주변 환경에 맞춰 움직이도록 장치의 구조와 제어 방법을 함께 개발하는 연구실이다. |
+| [지반시스템 연구실 (Geosystems Laboratory)](wiki/kaist/geosystems.md) | 조계춘 교수 | 흙과 암반의 성질을 이해해 터널과 지하 공간을 안전하게 만들고, 친환경 흙 보강재·굴착 기술·기반시설 검사·해저 탄소 저장으로 연결하는 연구실이다. |
+| [지반지진 및 재해 연구실 (Geotechnical Earthquake and GeoHazards Lab, GEHL)](wiki/kaist/gehl.md) | 고길완 조교수 | 지진 때 지반과 구조물이 함께 흔들리는 과정, 흙이 지지력을 잃는 현상, 단층 움직임으로 댐과 제방이 갈라지고 침식되는 과정을 실험과 계산으로 연구해 자연재해에 견디는 도시와 시설물의 설계를 돕는 연구실이다. |
+| [첨단환경소재 연구실 (Advanced Environmental Materials Laboratory, AEML)](wiki/kaist/aemlab.md) | 부찬희 조교수 | 산업폐수와 바닷물에서 물과 유용한 물질을 나누어 회수하기 위해, 오래 견디는 분리막과 수처리 공정을 개발하는 연구실이다. |
+| [콘크리트 연구실 (Research group for concrete structures, materials and construction)](wiki/kaist/concrete.md) | 김재홍 부교수 · 데이터사이언스대학원(겸임) · AX학과(겸임) | 콘크리트가 잘 흐르고 원하는 모양으로 굳도록 재료의 성질과 시공 방법을 함께 연구하며, 자동 실험·인공지능과 이산화탄소 활용을 건설재료 개발에 연결한다. |
+
 ### 항공우주공학과 (21)
 
 | 연구실 | 교수 | 한 줄 요약 |
@@ -404,23 +431,6 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [시스템 지능 연구실 (System Intelligence Lab, SILAB)](wiki/kaist/silab.md) | 박진규 부교수 (산업및시스템공학과·데이터사이언스대학원·AI대학원) | 여러 행동 주체의 의사결정과 복잡한 최적화 문제를 다루며, 강화학습과 생성 모형으로 경로·일정·설계안을 찾는 알고리즘을 만드는 연구실이다. |
 | [지식혁신연구센터 (Knowledge Innovation Research Center, KIRC)](wiki/kaist/kirc.md) | 이문용 교수 (산업및시스템공학과·데이터사이언스대학원) | 사람의 지적 활동을 돕는 지식서비스를 목표로, 개인화 추천·교육 평가·의료 인공지능·제조 영상 생성과 대화형 에이전트 평가 방법을 연구한다. |
 | [통계적 의사결정 연구실 (Statistical Decision Making Lab, SDM)](wiki/kaist/statistical-decision-making.md) | 송호승 교수 (산업및시스템공학과·데이터사이언스대학원) | 데이터가 언제 달라졌는지, 두 데이터 묶음이 정말 다른지, 두 종류의 변수가 서로 관련이 있는지를 엄밀하게 판단하는 통계 방법을 만드는 연구실이다. |
-
-### 건설및환경공학과 (12)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [Geo-Energy LAboratory (GELA)](wiki/kaist/kwon.md) | 권태혁 교수 | 흙과 암석 속 물·기체의 흐름과 지반의 변형을 연구하고, 지중 에너지 저장, 미생물을 이용한 지반개량, 산사태 예방과 지반 상태 측정으로 연결하는 연구실이다. |
-| [WITH 연구실 (Waste-Innovating Technologies for Humanity Laboratory, WITHLAB)](wiki/kaist/withlab.md) | 명재욱 부교수 | 미생물이 플라스틱과 메탄을 바꾸는 원리를 연구하고, 폐기물로 생분해성 소재와 유용한 자원을 만드는 환경생물공학 연구실이다. |
-| [구조설계 연구실 (Structural Design Laboratory, SDLAB)](wiki/kaist/sdlab.md) | 곽효경 교수 | 콘크리트 구조물이 힘·시간·수분 변화에 따라 어떻게 변형하고 손상되는지 계산하고, 교량·고층 건물·수중 터널의 설계에 연결하는 연구실이다. |
-| [기후시스템연구실 (Climate System Lab)](wiki/kaist/climatesystem.md) | 김진수 조교수 | 대기·바다·육상 생태계의 상호작용으로 기후변화와 산불, 탄소 흡수의 변화를 설명하고 기후변화 대응 방안을 연구한다. |
-| [도시설계연구실 (Urban Design Lab)](wiki/kaist/urbandesignlab.md) | 김영철 교수 (건설및환경공학과·녹색성장지속가능대학원·메타버스대학원) | "도시를 어떻게 더 좋게 만들 수 있을까"를 묻고, 사람이 도시에서 일상을 꾸려 가는 데 건물과 도시 환경이 어떤 역할을 하는지를 도시설계와 도시 데이터 분석으로 탐구하는 연구실이다. |
-| [물환경에너지공학 연구실 (SWEET Lab, Sustainable Water Environment and Energy Technology Laboratory)](wiki/kaist/sweet.md) | 강석태 교수 | 깨끗한 물을 만들고 쓰고 난 물을 다시 쓰게 하는 분리막·촉매 기술과, 음식물 쓰레기에서 바이오가스를 얻는 기술을 연구하는 연구실이다. |
-| [스마트구조시스템 연구실 (Smart Structures & Systems Laboratory, SSSlab)](wiki/kaist/ssslab.md) | 손훈 교수 | 교량과 기계·반도체 시스템의 이상을 알아내기 위해 측정 기술과 자료 해석 방법을 개발하고, 금속을 쌓아 만드는 제조 공정의 품질도 감시하는 연구실이다. |
-| [인공지능 x 모빌리티 연구실 (KAIST AI x Mobility Lab, AixMobility Lab)](wiki/kaist/aimobility.md) | 여화수 교수 | 차량과 보행자의 움직임을 모형으로 설명하고 교통 상태와 사고 위험을 예측하며, 교통신호·이동 서비스·도시 공간과 교통 기반시설의 설계·운영·관리를 연구한다. |
-| [인터랙티브 로봇 시스템 연구실 (Interactive Robotic Systems Laboratory, IRiS Lab)](wiki/kaist/iris.md) | 유지환 교수 | 사람이 접근하기 어려운 곳에서 로봇을 조종하고, 로봇이 사람과 주변 환경에 맞춰 움직이도록 장치의 구조와 제어 방법을 함께 개발하는 연구실이다. |
-| [지반지진 및 재해 연구실 (Geotechnical Earthquake and GeoHazards Lab, GEHL)](wiki/kaist/gehl.md) | 고길완 조교수 | 지진 때 지반과 구조물이 함께 흔들리는 과정, 흙이 지지력을 잃는 현상, 단층 움직임으로 댐과 제방이 갈라지고 침식되는 과정을 실험과 계산으로 연구해 자연재해에 견디는 도시와 시설물의 설계를 돕는 연구실이다. |
-| [첨단환경소재 연구실 (Advanced Environmental Materials Laboratory, AEML)](wiki/kaist/aemlab.md) | 부찬희 조교수 | 산업폐수와 바닷물에서 물과 유용한 물질을 나누어 회수하기 위해, 오래 견디는 분리막과 수처리 공정을 개발하는 연구실이다. |
-| [콘크리트 연구실 (Research group for concrete structures, materials and construction)](wiki/kaist/concrete.md) | 김재홍 부교수 · 데이터사이언스대학원(겸임) · AX학과(겸임) | 콘크리트가 잘 흐르고 원하는 모양으로 굳도록 재료의 성질과 시공 방법을 함께 연구하며, 자동 실험·인공지능과 이산화탄소 활용을 건설재료 개발에 연결한다. |
 
 ### 뇌인지과학과 (12)
 
