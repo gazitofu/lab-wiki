@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (423곳)
+## KAIST 연구실 (426곳)
 
 ### 전기및전자공학부 (60)
 
@@ -183,7 +183,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [협동 분산 시스템 및 네트워크 연구실 (Collaborative Distributed Systems and Networks Laboratory, CDSN)](wiki/kaist/cdsn.md) | 이동만 KAIST교수 | 사람의 활동과 도시의 변화를 알아내고, 주변 기기와 서버가 계산·서비스를 나눠 수행하도록 만드는 연구실이다. |
 | [협동 사회 기술 연구실 (Collaborative Social Technologies Lab, CSTL)](wiki/kaist/cstlab.md) | 시어링 조셉(Joseph Seering) 부교수 | 온라인 공동체에서 사람들이 안전하게 협력하고 소통하도록 도구를 설계하고, 사람 사이의 관계를 지원하는 인공지능과 대화 시스템을 연구한다. |
 
-### 물리학과 (32)
+### 물리학과 (35)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -195,12 +195,15 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [KAIST Min Group](wiki/kaist/photonics.md) | 민범기 교수 | 인공 광학 구조와 전기 회로, 기계 진동계를 만들어, 실제 물질에서 관측하기 어려운 위상·비에르미트 물리 현상을 재현하고 제어하는 연구실이다. |
 | [KAIST OQT LAB](wiki/kaist/oqt.md) | 김동규 조교수 | 빛으로 원자를 제어하는 양자 정보 처리 장치를 연구한다. |
 | [KAIST ultracold atom lab](wiki/kaist/jylab.md) | 최재윤 부교수 | 물질을 극저온으로 식혀 여러 입자가 함께 움직일 때 나타나는 현상을 실험하고, 개별 입자를 구별해 관찰하는 연구실이다. |
+| [Observational Cosmology and Astrophysics Lab (ObsCAL)](wiki/kaist/astro.md) | 김준한 조교수 | 우주에서 오는 전파를 받는 장비와 자료 분석 방법을 개발해, 은하 주변의 기체와 은하단의 입체 구조, 거대질량 블랙홀을 연구하는 연구실이다. |
+| [Particle Theory Group (KAIST-PTG)](wiki/kaist/force.md) | 이혜성 부교수 | 우주를 이루는 입자와 그 사이에 작용하는 힘을 이론으로 연구하고, 물리학의 방법으로 인공신경망이 학습하는 원리를 설명하는 연구실이다. |
 | [QSD 연구실 (QSD Lab)](wiki/kaist/sekwonkim.md) | 김세권 교수 | 자석 속 수많은 스핀이 만드는 소용돌이·스커미온 같은 위상 솔리톤과 스핀파가 어떻게 생기고 움직이는지 이론으로 밝히는 연구실이다. |
 | [QUANTUM TRANSPORT LAB (CHO GROUP @ KAIST)](wiki/kaist/qtak.md) | 조성재 부교수 | 얇은 층상 물질에서 전자와 스핀의 움직임, 물질 상태의 변화를 실험하고 그 성질을 새로운 전자 소자로 잇는 연구실이다. |
 | [Quantum Information Theory Group (KAIST QIT)](wiki/kaist/qit.md) | 오창훈 조교수 | 양자 장치가 계산·학습·측정에서 갖는 이점과 그 한계를 이론으로 따지는 연구실이다. |
 | [Quantum Many Body Theory Group](wiki/kaist/egmoon.md) | 문은국 부교수 | 많은 입자가 서로 강하게 영향을 주고 얽혀 있을 때 생기는 물질의 성질을 이론으로 설명하며, 양자 스핀 액체와 초전도 상태를 구별하고 얽힌 상태를 만드는 방법을 연구한다. |
 | [Quantum Matter Theory Group (QMT)](wiki/kaist/qmtlee.md) | 이성빈 부교수 | 물질 속 입자들의 집단적인 움직임을 수학적 모형으로 설명하고, 새로운 물질 상태와 그 상태를 구별할 실험 방법을 연구한다. |
 | [SOHN GROUP at KAIST](wiki/kaist/sohnkaist.md) | 손창희 부교수 | 물질을 이루는 입자들의 집단적 거동과 빛·자기에 대한 반응을 실험으로 밝혀, 정보 처리와 광학 기술에 쓸 물질을 설계하는 연구실이다. |
+| [TPP-QFT Group](wiki/kaist/tppqft.md) | 홍성우 조교수 | 물리 법칙의 대칭을 새롭게 분석해 입자와 힘의 이론을 제약하고, 액시온·암흑물질과 우주의 물질 생성 문제를 연구한다. |
 | [Theory of Ultrafast Quantum Phenomena Lab (TUQP)](wiki/kaist/tuqp.md) | 안드레이 모스칼렌코 부교수 | 짧은 빛으로 빛과 물질의 양자 상태를 읽고 바꾸는 방법을 이론으로 연구한다. |
 | [Ultrafast Lasers & Photonics Lab (ULPL)](wiki/kaist/ulpl.md) | 이상민 교수 | 짧은 빛의 펄스를 만드는 레이저와 광소자를 개발하고, 그 빛으로 물질 안의 전자·진동·자성이 빠르게 변하는 과정을 연구하는 연구실이다. |
 | [나노포토닉 시스템 연구실 (Nanophotonic Systems Laboratory)](wiki/kaist/nanophotonic-systems.md) | 이한석 교수 | 빛을 아주 작은 칩 위의 고리 모양 구조에 오래 가두는 초고품질 광 공진기를 만들어, 분자를 찾아내는 중적외선 레이저와 광원, 정밀 시간·주파수 기준, 양자 기술용 부품을 하나의 칩에 구현하는 연구실이다. |
