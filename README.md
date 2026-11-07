@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (415곳)
+## KAIST 연구실 (423곳)
 
 ### 전기및전자공학부 (60)
 
@@ -183,6 +183,43 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [협동 분산 시스템 및 네트워크 연구실 (Collaborative Distributed Systems and Networks Laboratory, CDSN)](wiki/kaist/cdsn.md) | 이동만 KAIST교수 | 사람의 활동과 도시의 변화를 알아내고, 주변 기기와 서버가 계산·서비스를 나눠 수행하도록 만드는 연구실이다. |
 | [협동 사회 기술 연구실 (Collaborative Social Technologies Lab, CSTL)](wiki/kaist/cstlab.md) | 시어링 조셉(Joseph Seering) 부교수 | 온라인 공동체에서 사람들이 안전하게 협력하고 소통하도록 도구를 설계하고, 사람 사이의 관계를 지원하는 인공지능과 대화 시스템을 연구한다. |
 
+### 물리학과 (32)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [Biomedical Optics Laboratory (BMOL)](wiki/kaist/bmol.md) | 박용근 교수 | 빛을 측정하고 제어하는 장치와 계산 방법을 개발해 살아 있는 세포와 광학 소자의 내부 구조를 입체적으로 정량화한다. |
+| [CHARM 연구실 (Complex Heterostructures & Advanced Researches on Multiferroics Laboratory)](wiki/kaist/oxide.md) | 양찬호 교수 | 원자 수준의 정밀도로 쌓은 산화물 박막에서 전기 분극, 자성, 전자의 궤도가 서로 얽혀 나타나는 현상을 찾고, 이를 전기장으로 조절하는 방법을 연구하는 물리학 연구실이다. |
+| [CULTure](wiki/kaist/absolutezero.md) | 최형순 부교수 | 액체 헬륨, 반도체 속 전자, 빛과 물질이 결합한 유체를 통해 저온에서 나타나는 집단 현상과 흐름을 연구하고, 이를 재는 장치를 개발한다. |
+| [Electronic Structure Theory Group](wiki/kaist/myungjoonhan.md) | 한명준 교수 | 물질의 자석 성질과 전기가 흐르는 방식을 계산으로 설명하고, 새로운 물질을 찾는 이론 연구실이다. |
+| [Electronic structure Research Laboratory (ERLab)](wiki/kaist/erlab.md) | 김용관 부교수 | 빛을 쬐어 물질에서 나온 전자를 측정하고, 물질 안의 전자들이 함께 만들어 내는 초전도와 표면 전도 현상을 연구하는 실험 연구실이다. |
+| [KAIST Min Group](wiki/kaist/photonics.md) | 민범기 교수 | 인공 광학 구조와 전기 회로, 기계 진동계를 만들어, 실제 물질에서 관측하기 어려운 위상·비에르미트 물리 현상을 재현하고 제어하는 연구실이다. |
+| [KAIST OQT LAB](wiki/kaist/oqt.md) | 김동규 조교수 | 빛으로 원자를 제어하는 양자 정보 처리 장치를 연구한다. |
+| [KAIST ultracold atom lab](wiki/kaist/jylab.md) | 최재윤 부교수 | 물질을 극저온으로 식혀 여러 입자가 함께 움직일 때 나타나는 현상을 실험하고, 개별 입자를 구별해 관찰하는 연구실이다. |
+| [QSD 연구실 (QSD Lab)](wiki/kaist/sekwonkim.md) | 김세권 교수 | 자석 속 수많은 스핀이 만드는 소용돌이·스커미온 같은 위상 솔리톤과 스핀파가 어떻게 생기고 움직이는지 이론으로 밝히는 연구실이다. |
+| [QUANTUM TRANSPORT LAB (CHO GROUP @ KAIST)](wiki/kaist/qtak.md) | 조성재 부교수 | 얇은 층상 물질에서 전자와 스핀의 움직임, 물질 상태의 변화를 실험하고 그 성질을 새로운 전자 소자로 잇는 연구실이다. |
+| [Quantum Information Theory Group (KAIST QIT)](wiki/kaist/qit.md) | 오창훈 조교수 | 양자 장치가 계산·학습·측정에서 갖는 이점과 그 한계를 이론으로 따지는 연구실이다. |
+| [Quantum Many Body Theory Group](wiki/kaist/egmoon.md) | 문은국 부교수 | 많은 입자가 서로 강하게 영향을 주고 얽혀 있을 때 생기는 물질의 성질을 이론으로 설명하며, 양자 스핀 액체와 초전도 상태를 구별하고 얽힌 상태를 만드는 방법을 연구한다. |
+| [Quantum Matter Theory Group (QMT)](wiki/kaist/qmtlee.md) | 이성빈 부교수 | 물질 속 입자들의 집단적인 움직임을 수학적 모형으로 설명하고, 새로운 물질 상태와 그 상태를 구별할 실험 방법을 연구한다. |
+| [SOHN GROUP at KAIST](wiki/kaist/sohnkaist.md) | 손창희 부교수 | 물질을 이루는 입자들의 집단적 거동과 빛·자기에 대한 반응을 실험으로 밝혀, 정보 처리와 광학 기술에 쓸 물질을 설계하는 연구실이다. |
+| [Theory of Ultrafast Quantum Phenomena Lab (TUQP)](wiki/kaist/tuqp.md) | 안드레이 모스칼렌코 부교수 | 짧은 빛으로 빛과 물질의 양자 상태를 읽고 바꾸는 방법을 이론으로 연구한다. |
+| [Ultrafast Lasers & Photonics Lab (ULPL)](wiki/kaist/ulpl.md) | 이상민 교수 | 짧은 빛의 펄스를 만드는 레이저와 광소자를 개발하고, 그 빛으로 물질 안의 전자·진동·자성이 빠르게 변하는 과정을 연구하는 연구실이다. |
+| [나노포토닉 시스템 연구실 (Nanophotonic Systems Laboratory)](wiki/kaist/nanophotonic-systems.md) | 이한석 교수 | 빛을 아주 작은 칩 위의 고리 모양 구조에 오래 가두는 초고품질 광 공진기를 만들어, 분자를 찾아내는 중적외선 레이저와 광원, 정밀 시간·주파수 기준, 양자 기술용 부품을 하나의 칩에 구현하는 연구실이다. |
+| [다차원 원자 영상 연구실 (Multi-Dimensional Atomic Imaging Laboratory, MDAIL)](wiki/kaist/mdail.md) | 양용수 교수 | 전자현미경으로 물질을 여러 각도에서 찍어 원자 하나하나의 3차원 위치를 알아내는 연구실이다. |
+| [마이크로·서브마이크로 광학 연구실 (Micro/Submicro Optics Laboratory, MSMOL)](wiki/kaist/optics.md) | 강명수 교수 | 아주 가늘게 늘린 광섬유처럼 마이크로미터 이하 크기의 구조에 빛을 가둬, 빛과 물질이 강하게 부딪칠 때 생기는 새로운 비선형·양자 광학 현상을 찾는 연구실이다. |
+| [비선형·양자 광자학 연구실 (Nonlinear and Quantum Photonics Lab, NQPL)](wiki/kaist/swol.md) | 서민교 교수 | 광자(빛의 입자)끼리 서로 영향을 주게 만드는 광학적 비선형성을 칩 위의 마이크로 공진기로 키워, 얽힌 광자쌍 같은 양자 광원과 광 변조기·주파수 빗을 만들고, 나노 구조로 빛과 물질의 상호작용을 조절하는 연구실이다. |
+| [양자 광반도체 연구실 (Quantum and Nanobio Photonics Laboratory, QNP Lab)](wiki/kaist/qnp.md) | 조용훈 교수 | 양자점 같은 아주 작은 반도체 구조와 빛을 결합해 빛과 물질이 강하게 주고받는 현상을 연구하고, 이를 이용해 광자를 하나씩 내는 양자 광원, 아주 작은 LED 화소, 빛의 회절 한계를 넘는 영상 기술을 만드는 연구실이다. |
+| [양자 에너지 소자 연구실 (Quantum Energy Device Laboratory, QED Lab)](wiki/kaist/csnsyang.md) | 양희준 교수 | 원자 몇 층 두께의 2차원 물질에서 결정 구조와 전자 상태가 바뀌는 현상(상전이)을 밝히고 조절해, 적은 에너지로 동작하는 메모리·트랜지스터·뉴로모픽 소자를 만드는 물리학과 연구실이다. |
+| [양자 전자 상관·수송 이론 연구실 (Quantum Electron Correlation & Transport Theory Group, QECT Lab)](wiki/kaist/qet.md) | 심흥선 교수 | 나노미터에서 마이크로미터 크기의 아주 작은 전자 회로에서 나타나는 양자 현상을 수식과 수치 계산으로 연구하는 이론 물리 연구실이다. |
+| [양자광학·양자정보 연구실 (Quantum Optics and Quantum Information Laboratory, QOQI)](wiki/kaist/qoqi.md) | 라영식 교수 | 빛의 양자 상태를 실험실에서 만들고 재는 양자 광학 실험 연구실이다. |
+| [양자물성이론연구실 (Quantum nano Materials Simulation Group, QnMSG)](wiki/kaist/qnmsg.md) | 김용현 교수 | 실제 물질에서 일어나는 현상을 양자역학과 슈퍼컴퓨터로 설명하고 예측하는 이론 물리 연구실이다. |
+| [양자컴퓨팅 연구실 (Jaewook Ahn's Quantum Computing Lab)](wiki/kaist/qcl.md) | 안재욱 교수 | 레이저로 원자를 하나씩 붙잡아 원하는 모양으로 늘어놓고, 원자들 사이의 강한 상호작용을 이용해 양자컴퓨터와 양자 시뮬레이터를 만드는 연구실이다. |
+| [위상 양자 물질 이론 그룹 (GY Cho's Group, Topological Quantum Matter)](wiki/kaist/gilyoungcho.md) | 조길영 교수 | 수많은 전자가 서로 강하게 얽혀 만드는 새로운 양자 상태를 수식과 컴퓨터 계산으로 찾는 이론 물리 연구 그룹이다. |
+| [응용 스핀트로닉스 연구실 (Applied Spintronics Lab)](wiki/kaist/kyungjinlee.md) | 이경진 교수 | 전자의 스핀과 궤도 운동이 만드는 새로운 전류와 자기 현상을 이론으로 밝히고, 이를 차세대 메모리와 고주파 소자에 쓰는 방법을 실험 연구진과 함께 찾는 스핀트로닉스 연구실이다. |
+| [이원희 교수 연구실 (MFBSL)](wiki/kaist/mfbsl.md) | 이원희 교수 | 작은 칩 위에 아주 가는 물길과 센서를 만들어, 세포가 내는 아주 작은 열이나 산성도 변화를 재고 단백질이 순식간에 모양을 바꾸는 순간을 붙잡는 연구실이다. |
+| [초고속 스핀 동역학 연구실 (Ultrafast Spin Dynamics Laboratory, USDL)](wiki/kaist/spintronics.md) | 김갑진 교수 | 자석 속 전자의 스핀이 시간에 따라 어떻게 움직이는지(스핀 동역학) 실험으로 관찰하고 해석해, 스핀파(마그논)와 자구벽·스커미온 같은 자성 구조를 다루는 원리를 밝히고 이를 스핀트로닉스 메모리·논리 소자 개발로 잇는 연구실이다. |
+| [초전도 양자 나노전자 연구실 (Superconducting Quantum Nanoelectronics Laboratory, SQNL)](wiki/kaist/sqnl.md) | 김은성 교수 | 밀리켈빈(켈빈의 1000분의 1) 수준의 극저온에서 나타나는 양자 현상을 실험으로 연구하는 연구실로, 지금 대학원생들은 초전도 회로로 만든 양자 비트(초전도 큐비트)를 만들고 측정·제어하는 양자 정보 연구를 하며, 최근 논문에는 2차원 초전도 박막의 양자 상전이와 흑연 위 2차원 헬륨 막의 초유체 연구도 있다. |
+| [통계물리이론 연구실 (Statistical Physics Theory Group)](wiki/kaist/statphys.md) | 김용운 부교수 | 많은 구성 요소가 상호작용할 때 나타나는 집단적 성질을 이론으로 설명하며, 생체 물질의 형태와 움직임, 무작위 탐색의 시간, 양자계의 열과 일을 연구한다. |
+
 ### 신소재공학과 (32)
 
 | 연구실 | 교수 | 한 줄 요약 |
@@ -288,35 +325,6 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [분자생물물리 연구실 (Molecular Biophysics Laboratory)](wiki/kaist/molecular-biophysics.md) | 강진영 교수 | 생명 현상을 일으키는 큰 생체 분자 복합체의 3차원 구조를 극저온 전자현미경으로 밝혀, 분자들이 어떻게 맞물려 일하는지 연구하는 연구실이다. |
 | [분자합성생물학 및 단백질화학 연구실 (Molecular Synthetic Biology Laboratory)](wiki/kaist/msbl.md) | 박희성 교수 | 단백질의 원하는 위치에 화학적 변화를 주거나 새로운 아미노산을 넣는 방법을 개발하고, 단백질의 구조·기능을 밝히며 효소와 약물 후보를 설계하는 연구실이다. |
 | [친환경 광전기 화학 연구실 (Sustainable Photoelectrochemistry Lab, SPEC Lab)](wiki/kaist/spec.md) | 김태규 교수 | 빛과 전기로 물에서 수소를 얻고 이산화탄소를 연료·화학 원료로 바꾸는 재료를 만들며, 빛을 받은 뒤 물질 안에서 전자가 어떻게 움직이는지 X선으로 살피는 연구실이다. |
-
-### 물리학과 (24)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [CHARM 연구실 (Complex Heterostructures & Advanced Researches on Multiferroics Laboratory)](wiki/kaist/oxide.md) | 양찬호 교수 | 원자 수준의 정밀도로 쌓은 산화물 박막에서 전기 분극, 자성, 전자의 궤도가 서로 얽혀 나타나는 현상을 찾고, 이를 전기장으로 조절하는 방법을 연구하는 물리학 연구실이다. |
-| [CULTure](wiki/kaist/absolutezero.md) | 최형순 부교수 | 액체 헬륨, 반도체 속 전자, 빛과 물질이 결합한 유체를 통해 저온에서 나타나는 집단 현상과 흐름을 연구하고, 이를 재는 장치를 개발한다. |
-| [Electronic Structure Theory Group](wiki/kaist/myungjoonhan.md) | 한명준 교수 | 물질의 자석 성질과 전기가 흐르는 방식을 계산으로 설명하고, 새로운 물질을 찾는 이론 연구실이다. |
-| [Electronic structure Research Laboratory (ERLab)](wiki/kaist/erlab.md) | 김용관 부교수 | 빛을 쬐어 물질에서 나온 전자를 측정하고, 물질 안의 전자들이 함께 만들어 내는 초전도와 표면 전도 현상을 연구하는 실험 연구실이다. |
-| [KAIST OQT LAB](wiki/kaist/oqt.md) | 김동규 조교수 | 빛으로 원자를 제어하는 양자 정보 처리 장치를 연구한다. |
-| [KAIST ultracold atom lab](wiki/kaist/jylab.md) | 최재윤 부교수 | 물질을 극저온으로 식혀 여러 입자가 함께 움직일 때 나타나는 현상을 실험하고, 개별 입자를 구별해 관찰하는 연구실이다. |
-| [QSD 연구실 (QSD Lab)](wiki/kaist/sekwonkim.md) | 김세권 교수 | 자석 속 수많은 스핀이 만드는 소용돌이·스커미온 같은 위상 솔리톤과 스핀파가 어떻게 생기고 움직이는지 이론으로 밝히는 연구실이다. |
-| [QUANTUM TRANSPORT LAB (CHO GROUP @ KAIST)](wiki/kaist/qtak.md) | 조성재 부교수 | 얇은 층상 물질에서 전자와 스핀의 움직임, 물질 상태의 변화를 실험하고 그 성질을 새로운 전자 소자로 잇는 연구실이다. |
-| [나노포토닉 시스템 연구실 (Nanophotonic Systems Laboratory)](wiki/kaist/nanophotonic-systems.md) | 이한석 교수 | 빛을 아주 작은 칩 위의 고리 모양 구조에 오래 가두는 초고품질 광 공진기를 만들어, 분자를 찾아내는 중적외선 레이저와 광원, 정밀 시간·주파수 기준, 양자 기술용 부품을 하나의 칩에 구현하는 연구실이다. |
-| [다차원 원자 영상 연구실 (Multi-Dimensional Atomic Imaging Laboratory, MDAIL)](wiki/kaist/mdail.md) | 양용수 교수 | 전자현미경으로 물질을 여러 각도에서 찍어 원자 하나하나의 3차원 위치를 알아내는 연구실이다. |
-| [마이크로·서브마이크로 광학 연구실 (Micro/Submicro Optics Laboratory, MSMOL)](wiki/kaist/optics.md) | 강명수 교수 | 아주 가늘게 늘린 광섬유처럼 마이크로미터 이하 크기의 구조에 빛을 가둬, 빛과 물질이 강하게 부딪칠 때 생기는 새로운 비선형·양자 광학 현상을 찾는 연구실이다. |
-| [비선형·양자 광자학 연구실 (Nonlinear and Quantum Photonics Lab, NQPL)](wiki/kaist/swol.md) | 서민교 교수 | 광자(빛의 입자)끼리 서로 영향을 주게 만드는 광학적 비선형성을 칩 위의 마이크로 공진기로 키워, 얽힌 광자쌍 같은 양자 광원과 광 변조기·주파수 빗을 만들고, 나노 구조로 빛과 물질의 상호작용을 조절하는 연구실이다. |
-| [양자 광반도체 연구실 (Quantum and Nanobio Photonics Laboratory, QNP Lab)](wiki/kaist/qnp.md) | 조용훈 교수 | 양자점 같은 아주 작은 반도체 구조와 빛을 결합해 빛과 물질이 강하게 주고받는 현상을 연구하고, 이를 이용해 광자를 하나씩 내는 양자 광원, 아주 작은 LED 화소, 빛의 회절 한계를 넘는 영상 기술을 만드는 연구실이다. |
-| [양자 에너지 소자 연구실 (Quantum Energy Device Laboratory, QED Lab)](wiki/kaist/csnsyang.md) | 양희준 교수 | 원자 몇 층 두께의 2차원 물질에서 결정 구조와 전자 상태가 바뀌는 현상(상전이)을 밝히고 조절해, 적은 에너지로 동작하는 메모리·트랜지스터·뉴로모픽 소자를 만드는 물리학과 연구실이다. |
-| [양자 전자 상관·수송 이론 연구실 (Quantum Electron Correlation & Transport Theory Group, QECT Lab)](wiki/kaist/qet.md) | 심흥선 교수 | 나노미터에서 마이크로미터 크기의 아주 작은 전자 회로에서 나타나는 양자 현상을 수식과 수치 계산으로 연구하는 이론 물리 연구실이다. |
-| [양자광학·양자정보 연구실 (Quantum Optics and Quantum Information Laboratory, QOQI)](wiki/kaist/qoqi.md) | 라영식 교수 | 빛의 양자 상태를 실험실에서 만들고 재는 양자 광학 실험 연구실이다. |
-| [양자물성이론연구실 (Quantum nano Materials Simulation Group, QnMSG)](wiki/kaist/qnmsg.md) | 김용현 교수 | 실제 물질에서 일어나는 현상을 양자역학과 슈퍼컴퓨터로 설명하고 예측하는 이론 물리 연구실이다. |
-| [양자컴퓨팅 연구실 (Jaewook Ahn's Quantum Computing Lab)](wiki/kaist/qcl.md) | 안재욱 교수 | 레이저로 원자를 하나씩 붙잡아 원하는 모양으로 늘어놓고, 원자들 사이의 강한 상호작용을 이용해 양자컴퓨터와 양자 시뮬레이터를 만드는 연구실이다. |
-| [위상 양자 물질 이론 그룹 (GY Cho's Group, Topological Quantum Matter)](wiki/kaist/gilyoungcho.md) | 조길영 교수 | 수많은 전자가 서로 강하게 얽혀 만드는 새로운 양자 상태를 수식과 컴퓨터 계산으로 찾는 이론 물리 연구 그룹이다. |
-| [응용 스핀트로닉스 연구실 (Applied Spintronics Lab)](wiki/kaist/kyungjinlee.md) | 이경진 교수 | 전자의 스핀과 궤도 운동이 만드는 새로운 전류와 자기 현상을 이론으로 밝히고, 이를 차세대 메모리와 고주파 소자에 쓰는 방법을 실험 연구진과 함께 찾는 스핀트로닉스 연구실이다. |
-| [이원희 교수 연구실 (MFBSL)](wiki/kaist/mfbsl.md) | 이원희 교수 | 작은 칩 위에 아주 가는 물길과 센서를 만들어, 세포가 내는 아주 작은 열이나 산성도 변화를 재고 단백질이 순식간에 모양을 바꾸는 순간을 붙잡는 연구실이다. |
-| [초고속 스핀 동역학 연구실 (Ultrafast Spin Dynamics Laboratory, USDL)](wiki/kaist/spintronics.md) | 김갑진 교수 | 자석 속 전자의 스핀이 시간에 따라 어떻게 움직이는지(스핀 동역학) 실험으로 관찰하고 해석해, 스핀파(마그논)와 자구벽·스커미온 같은 자성 구조를 다루는 원리를 밝히고 이를 스핀트로닉스 메모리·논리 소자 개발로 잇는 연구실이다. |
-| [초전도 양자 나노전자 연구실 (Superconducting Quantum Nanoelectronics Laboratory, SQNL)](wiki/kaist/sqnl.md) | 김은성 교수 | 밀리켈빈(켈빈의 1000분의 1) 수준의 극저온에서 나타나는 양자 현상을 실험으로 연구하는 연구실로, 지금 대학원생들은 초전도 회로로 만든 양자 비트(초전도 큐비트)를 만들고 측정·제어하는 양자 정보 연구를 하며, 최근 논문에는 2차원 초전도 박막의 양자 상전이와 흑연 위 2차원 헬륨 막의 초유체 연구도 있다. |
-| [통계물리이론 연구실 (Statistical Physics Theory Group)](wiki/kaist/statphys.md) | 김용운 부교수 | 많은 구성 요소가 상호작용할 때 나타나는 집단적 성질을 이론으로 설명하며, 생체 물질의 형태와 움직임, 무작위 탐색의 시간, 양자계의 열과 일을 연구한다. |
 
 ### 건설및환경공학과 (22)
 
