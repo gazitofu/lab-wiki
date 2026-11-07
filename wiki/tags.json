@@ -1,6 +1,6 @@
 {
- "version": "2.0",
- "updated": "2026-11-01",
+ "version": "2.1",
+ "updated": "2026-11-07",
  "fields": [
   {
    "id": "math-statistics",
@@ -6870,6 +6870,95 @@
    "status": "active",
    "merged_into": null,
    "note": "단백질·효소의 설계, 돌연변이와 선택을 이용한 진화, 계산 단백질 설계를 연구할 때 단다. 생체 분자의 3차원 구조를 밝혀 기능을 이해하는 연구는 구조생물학, 유전자 회로·대사 경로를 설계해 생물 시스템을 만드는 연구는 합성생물학·DNA 합성, 단백질 자료를 분석하는 계산 방법 일반은 바이오정보학·계산생물학으로 판단한다. 기존 효소를 반응 도구로 쓰기만 한 경우에는 달지 않는다."
+  },
+  {
+   "id": "particle-physics-theory",
+   "name_ko": "입자물리 이론",
+   "name_en": "Theoretical particle physics",
+   "axis": "object",
+   "fields": [
+    "physics"
+   ],
+   "aliases": [
+    "입자물리학 이론",
+    "입자 현상론",
+    "표준모형 너머",
+    "BSM",
+    "중성미자 물리",
+    "particle phenomenology"
+   ],
+   "definition": "기본 입자와 그 상호작용, 표준모형을 넘어서는 새 입자·힘을 이론과 계산으로 연구하는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "qft-string-theory",
+   "name_ko": "양자장론·끈이론",
+   "name_en": "Quantum field theory and string theory",
+   "axis": "object",
+   "fields": [
+    "physics"
+   ],
+   "aliases": [
+    "양자장론",
+    "끈이론",
+    "초대칭 장 이론",
+    "일반화 대칭",
+    "양자중력",
+    "AdS/CFT",
+    "quantum field theory",
+    "string theory"
+   ],
+   "definition": "장(場)으로 입자와 힘을 기술하는 양자장론의 구조(대칭·초대칭·비섭동 현상)와 끈이론·양자중력을 수학적으로 연구하는 이론 물리 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "dark-matter-energy",
+   "name_ko": "암흑물질·암흑에너지",
+   "name_en": "Dark matter and dark energy",
+   "axis": "object",
+   "fields": [
+    "physics"
+   ],
+   "aliases": [
+    "암흑물질",
+    "암흑에너지",
+    "액시온",
+    "dark matter",
+    "dark energy",
+    "axion"
+   ],
+   "definition": "빛으로 직접 보이지 않으면서 우주의 질량과 팽창에 영향을 주는 암흑물질·암흑에너지의 정체와 탐색 방법을 연구하는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "cosmology-astrophysics",
+   "name_ko": "관측 우주론·천체물리",
+   "name_en": "Observational cosmology and astrophysics",
+   "axis": "object",
+   "fields": [
+    "physics"
+   ],
+   "aliases": [
+    "관측 우주론",
+    "천체물리",
+    "은하단",
+    "은하 형성",
+    "블랙홀",
+    "전파천문학",
+    "cosmology",
+    "astrophysics",
+    "radio astronomy"
+   ],
+   "definition": "은하·은하단·블랙홀 같은 천체와 우주의 구조·진화를 관측 자료로 연구하는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
   }
  ],
  "changelog": [
@@ -6924,6 +7013,10 @@
   {
    "date": "2026-11-01",
    "change": "v2.0 화학 핵심 묶음(collection-staging/2026-11-01/tags-v20-review.md, 사용자 「지금 핵심만 먼저」): 신규 태그 5개(유기합성·합성 방법론: 서울대 hglgroup·dykchenlab·cbleegroup, 전이금속 촉매 유기반응: 같은 세 곳, 천연물 합성: 같은 세 곳, 화학생물학: 서울대 chembio·bfnl, 단백질공학·효소공학: 서울대 biomoldiv·KAIST kaist-bcbl). 나머지 화학 개념은 v2.1 안건."
+  },
+  {
+   "date": "2026-11-07",
+   "change": "v2.1 물리 핵심 묶음(collection-staging/2026-11-07/tags-v21-physics-review.md, 사용자 승인 2026-11-07 「핵심 4개 추가」): 신규 태그 4개(입자물리 이론: KAIST force·tppqft, 양자장론·끈이론: string·tppqft, 암흑물질·암흑에너지: force·tppqft, 관측 우주론·천체물리: astro). 나머지 물리 요청(통계물리·양자 스핀 액체·초유체·시간 변조 광학 등)은 다음 안건."
   }
  ]
 }
