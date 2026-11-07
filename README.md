@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (426곳)
+## KAIST 연구실 (427곳)
 
 ### 전기및전자공학부 (60)
 
@@ -183,7 +183,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [협동 분산 시스템 및 네트워크 연구실 (Collaborative Distributed Systems and Networks Laboratory, CDSN)](wiki/kaist/cdsn.md) | 이동만 KAIST교수 | 사람의 활동과 도시의 변화를 알아내고, 주변 기기와 서버가 계산·서비스를 나눠 수행하도록 만드는 연구실이다. |
 | [협동 사회 기술 연구실 (Collaborative Social Technologies Lab, CSTL)](wiki/kaist/cstlab.md) | 시어링 조셉(Joseph Seering) 부교수 | 온라인 공동체에서 사람들이 안전하게 협력하고 소통하도록 도구를 설계하고, 사람 사이의 관계를 지원하는 인공지능과 대화 시스템을 연구한다. |
 
-### 물리학과 (35)
+### 물리학과 (36)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -199,6 +199,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [Particle Theory Group (KAIST-PTG)](wiki/kaist/force.md) | 이혜성 부교수 | 우주를 이루는 입자와 그 사이에 작용하는 힘을 이론으로 연구하고, 물리학의 방법으로 인공신경망이 학습하는 원리를 설명하는 연구실이다. |
 | [QSD 연구실 (QSD Lab)](wiki/kaist/sekwonkim.md) | 김세권 교수 | 자석 속 수많은 스핀이 만드는 소용돌이·스커미온 같은 위상 솔리톤과 스핀파가 어떻게 생기고 움직이는지 이론으로 밝히는 연구실이다. |
 | [QUANTUM TRANSPORT LAB (CHO GROUP @ KAIST)](wiki/kaist/qtak.md) | 조성재 부교수 | 얇은 층상 물질에서 전자와 스핀의 움직임, 물질 상태의 변화를 실험하고 그 성질을 새로운 전자 소자로 잇는 연구실이다. |
+| [Quantum Field Theory & String Theory Group (KAIST QFT/String)](wiki/kaist/string.md) | 송재원 부교수 | 입자와 힘을 설명하는 양자장론의 비섭동적 성질을 연구하고, 초대칭과 수학적 구조를 이용해 블랙홀과 양자중력을 이해하는 이론 연구 그룹이다. |
 | [Quantum Information Theory Group (KAIST QIT)](wiki/kaist/qit.md) | 오창훈 조교수 | 양자 장치가 계산·학습·측정에서 갖는 이점과 그 한계를 이론으로 따지는 연구실이다. |
 | [Quantum Many Body Theory Group](wiki/kaist/egmoon.md) | 문은국 부교수 | 많은 입자가 서로 강하게 영향을 주고 얽혀 있을 때 생기는 물질의 성질을 이론으로 설명하며, 양자 스핀 액체와 초전도 상태를 구별하고 얽힌 상태를 만드는 방법을 연구한다. |
 | [Quantum Matter Theory Group (QMT)](wiki/kaist/qmtlee.md) | 이성빈 부교수 | 물질 속 입자들의 집단적인 움직임을 수학적 모형으로 설명하고, 새로운 물질 상태와 그 상태를 구별할 실험 방법을 연구한다. |
