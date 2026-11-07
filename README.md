@@ -11,9 +11,9 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (437곳)
+## KAIST 연구실 (442곳)
 
-### 전기및전자공학부 (60)
+### 전기및전자공학부 (63)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -30,11 +30,14 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [IPC Lab (Integrated Power Circuit Laboratory)](wiki/kaist/ipc.md) | 백재일 교수 | 새로 떠오르는 응용과 앞으로의 응용에 쓸, 더 작고 더 큰 전력을 다루는 집적 전력전자(전력 칩)를 만드는 방법을 연구하는 연구실이다. |
 | [I³ Group (Intelligence, Imaging & Integration Group)](wiki/kaist/i3-group.md) | 강익성 교수 | 렌즈·측정 장치와 인공지능을 함께 설계해, 살아 있는 쥐의 뇌 속 신경세포나 반도체 칩 내부 같은 작은 3차원 구조를 부수지 않고 선명하게 보는 영상 기술을 만든다. |
 | [I³ Group (Intelligence, Imaging & Integration Group)](wiki/kaist/iksungk.md) | 강익성 교수 | 광학 장치와 측정 방식, 물리 법칙을 담은 인공지능을 함께 설계해 작은 대상의 3차원 구조를 부수지 않고 선명하게 보는 계산 현미경을 만드는 연구실이다. |
+| [KAIST Power Electronics Lab.](wiki/kaist/kaistpelab.md) | 문건우 교수 | 전기를 기기에 필요한 형태로 바꾸는 회로와 제어 방법을 만들고, 데이터센터·전기차·배터리·위성의 전력 공급에 연결하는 연구실이다. |
+| [KAIST 무인시스템 및 제어 연구실 (Unmanned Systems Research Group, USRG)](wiki/kaist/unmanned.md) | 심현철 교수 | 드론과 자동차가 주변을 알아보고 스스로 이동하는 기술부터 사람용 조종석의 기기를 다루는 인간형 로봇까지, 실제 환경에서 작동하는 자율 시스템을 만드는 연구실이다. |
 | [KAIST 집적 메타포토닉스 그룹 (KAIST Integrated Metaphotonics Group, KIM Group)](wiki/kaist/integrated-metaphotonics.md) | 김상식 교수 | 부피 큰 광학 장치를 작은 칩 위의 광회로로 바꾸는 연구를 하는 그룹이다. |
 | [Mobile Intelligence & Interaction Lab (MIIL)](wiki/kaist/nmsl.md) | 이성주 교수 (전기및전자공학부·안보과학기술대학원) | 모바일 컴퓨팅, 인공지능, 인간–컴퓨터 상호작용, 시스템 분야의 전문성으로 새로운 모바일 서비스와 응용을 만드는 전기및전자공학부 연구실이다. |
 | [Multimodal AI Lab](wiki/kaist/mm.md) | 정준선 부교수 (전기및전자공학부·메타버스대학원) | 소리·영상·글과 촉각 정보 사이의 대응을 배우고, 사람의 말과 동작을 인식하거나 음성을 만들어 내는 인공지능을 연구한다. |
 | [Nano-Oriented Bio-Electronics Lab](wiki/kaist/nobelab.md) | 최양규 교수 (전기및전자공학부·반도체공학대학원) | 반도체 소자로 신경세포의 정보 처리를 구현하고, 정보를 저장하는 메모리와 기기를 식별하는 보안 소자, 주변의 움직임에서 전기를 얻는 장치를 연구하는 연구실이다. |
 | [SMILE Lab (Smart and Mobile Systems Lab)](wiki/kaist/smilelab.md) | 김성민 교수 | 모바일 시스템과 배터리 없는 기기의 하드웨어와 소프트웨어를 함께 설계해, 대규모 통신, 초정밀 센싱, 지능형 상호작용을 이루려는 연구실이다. |
+| [Statistical Inference & Information Theory Laboratory (SIIT)](wiki/kaist/siit.md) | 김준모 교수 | 이미지·영상·글·소리를 함께 이해하는 인공지능과, 새로운 자료를 생성하고 안전하게 학습하는 방법을 연구한다. |
 | [SysSec 연구실 (System Security Lab)](wiki/kaist/syssec.md) | 김용대 교수 (전기및전자공학부·정보보호대학원·안보과학기술대학원) | 이동통신망, 드론, 자율주행차처럼 새로 등장하는 시스템에서 보안 취약점을 찾아내고 분석하는 연구실이다. |
 | [VLSI 연구실 (KAIST VLSI Research Lab)](wiki/kaist/bongjin.md) | 김봉진 교수 (전기및전자공학부·반도체시스템공학과·AI시스템학과) | 계산과 통신을 맡는 집적회로와 시스템을 칩으로 설계해 만드는 연구실이다. |
 | [Wearable and Interactive Technology Lab (WIT Lab)](wiki/kaist/wit.md) | 이안 오클리(Ian Oakley) 교수 | 스마트워치, 이어버드, 스마트 글라스, 가상·증강현실 헤드셋처럼 몸에 쓰는 기기를 사람이 더 쉽고 정확하고 안전하게 쓰도록, 새 입력 방법과 사용자 인증 방법을 만들고 사람을 대상으로 한 실험으로 평가하는 인간–컴퓨터 상호작용 연구실이다. |
@@ -78,7 +81,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [혼성신호 집적회로 연구실 (Mixed Signal Integrated Circuits Lab, MSICL)](wiki/kaist/msicl.md) | 류승탁 교수 | 아날로그 신호와 디지털 신호를 서로 바꾸는 데이터 변환기를 중심으로 아날로그·혼성 신호 집적회로를 설계하는 연구실이다. |
 | [회로설계 연구실 (Circuit Lab)](wiki/kaist/icdesignlab.md) | 김현식 교수 | 화면을 움직이는 디스플레이 구동 칩, 전자 기기에 맞는 전압을 만들어 공급하는 전력 관리 칩, 센서 신호를 읽어 내는 판독 칩을 아날로그 집적회로로 설계하고, 이 지식을 모아 완전한 시스템 온 칩을 만들려는 연구실이다. |
 
-### 기계공학과 (56)
+### 기계공학과 (57)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -105,6 +108,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [수송동력연구실 (Future Transport Power Laboratory, FTPL)](wiki/kaist/ftpl.md) | 배충식 교수, 황준식 교수 | 자동차·배·항공기를 움직이는 엔진(수송 동력 장치)을 더 깨끗하고 효율적으로 만드는 연구실이다. |
 | [스마트 에너지 소재 및 응용 연구실 (SMILE Lab, SMART MATERIALS & ENERGY Laboratory)](wiki/kaist/misokimgroup.md) | 김미소 교수 | 압전 소재와 음향·기계적 메타물질로 주변의 진동과 소리에서 전기를 얻는 에너지 하베스팅, 외부 전원 없이 움직임을 재는 자가발전 센서를 연구하는 기계공학과 연구실이다. |
 | [스마트생산시스템 연구실 (Smart Manufacturing Systems Laboratory, SMS Lab.)](wiki/kaist/smslab.md) | 윤희택 교수 | 공장의 로봇과 공작 기계가 데이터와 인공지능으로 스스로 판단하고 움직이게 하는 스마트 제조를 연구하는 기계공학과 연구실이다. |
+| [스마트설계연구실 (Smart Design Lab, SDL)](wiki/kaist/smartdesignlab.md) | 강남우 부교수 | 인공지능으로 제품의 설계안을 만들고 성능과 고객 선호를 예측하며, 주어진 조건에 맞는 부품의 모양과 기계의 연결 구조를 찾는 연구실이다. |
 | [시각 지능 연구실 (Visual Intelligence Lab, VILab)](wiki/kaist/vi.md) | 윤국진 교수 | 사진과 영상, 여러 센서 자료를 컴퓨터가 알아보고 3차원 세계를 이해하게 하는 컴퓨터 비전 연구실이다. |
 | [신경재활공학 연구실 (Neuro-Rehabilitation Engineering Laboratory)](wiki/kaist/rehab.md) | 박형순 교수 | 다치거나 신경계 질환을 앓아 몸을 움직이기 어려운 사람의 재활을 돕는 로봇과 기기, 평가 방법을 만드는 연구실이다. |
 | [신에너지변환시스템연구실 (New Energy Conversion System Laboratory, NECS)](wiki/kaist/necs.md) | 배중면 교수 (기계공학과·녹색성장지속가능대학원·안보과학기술대학원) | 디젤 같은 탄화수소 연료에서 수소를 뽑아내는 개질 반응기와 촉매, 수소를 액체 유기물·암모니아·금속에 담아 저장하는 기술, 수소를 전기로 바꾸는 고체산화물 연료전지를 함께 연구하는 수소 에너지 연구실이다. |
@@ -468,11 +472,12 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [하드웨어 인공지능 연구실 (Hardware Artificial Intelligence Lab, HAL)](wiki/kaist/hal-kaist.md) | 김진훈 교수 | 나노소재로 뇌의 뉴런과 시냅스, 그리고 이들의 연결 구조를 흉내 낸 뉴로모픽 하드웨어를 만드는 연구실이다. |
 | [행동지능 연구실 (Behavioral Intelligence Laboratory)](wiki/kaist/bi-lab.md) | 김대수 교수 (뇌인지과학과·생명과학과) | 광유전학과 칼슘 영상 같은 신경 조작·기록 기법으로 신경회로의 기능을 밝히고, 인공지능으로 약물과 신경 조작이 행동에 주는 영향을 자세히 분석하는 뇌인지과학과 연구실이다. |
 
-### 조천식모빌리티대학원 (11)
+### 조천식모빌리티대학원 (12)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
 | [AVE 연구실 (Autonomous Vehicles and Embedded systems)](wiki/kaist/ave.md) | 공승현 부교수 (조천식모빌리티대학원·안보과학기술대학원) | 레이더·라이다·카메라로 차량 주변을 알아보고, 경험에서 운전 방법을 배우며, 차량 안에서 동작할 인공지능과 정확한 위치 추정 기술을 연구하는 연구실이다. |
+| [Mobility Intelligence and Control Laboratory (MIC Lab)](wiki/kaist/miclab.md) | 최경환 조교수 | 차량이 주행하고 에너지를 쓰는 방법을 수학적으로 정하고, 실제 운전 중 들어오는 정보로 제어기와 차량 모형을 갱신하는 연구실이다. |
 | [교통 전동화 및 재생 에너지 통합 시스템 연구실 (TETRIS Lab, Transportation Electrification and Grid Integration Systems Lab)](wiki/kaist/kibumpark99.md) | 박기범 부교수 (조천식모빌리티대학원·녹색성장지속가능대학원) | 전기차와 전기 추진 선박의 구동·충전 장치, 재생에너지를 전력망에 연결하는 전력 변환 회로와 제어를 연구하는 연구실이다. |
 | [교통·도시계획 AI 연구실 (TUPA, Transport and Urban Planning with AI)](wiki/kaist/tupa.md) | 김인희 교수 | 사람들이 도시에서 더 안전하고 편하게 이동하도록 교통 시스템을 인공지능과 시뮬레이션으로 연구하는 연구실이다. |
 | [모빌리티 시스템 혁신 설계 연구실 (Innovative Design for Mobility Systems Laboratory, ID LAB)](wiki/kaist/idlab.md) | 장인권 교수 | 무선으로 전력을 보내는 장치, 사람과 차량의 이동 경로, 뼈의 구조와 영상을 컴퓨터로 분석하고 최적화하여 설계하는 연구실이다. |
