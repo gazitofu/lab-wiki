@@ -1,5 +1,5 @@
 {
- "version": "2.1",
+ "version": "2.2",
  "updated": "2026-11-07",
  "fields": [
   {
@@ -6959,6 +6959,75 @@
    "related": [],
    "status": "active",
    "merged_into": null
+  },
+  {
+   "id": "pde-analysis",
+   "name_ko": "편미분방정식·해석학",
+   "name_en": "Partial differential equations and analysis",
+   "axis": "object",
+   "fields": [
+    "math-statistics"
+   ],
+   "aliases": [
+    "편미분방정식",
+    "해석학",
+    "비선형 해석",
+    "보존 법칙",
+    "충격파 이론",
+    "PDE",
+    "partial differential equations",
+    "nonlinear analysis"
+   ],
+   "definition": "여러 변수에 대한 변화율로 현상을 기술하는 편미분방정식의 해의 존재·유일성·안정성과 그 바탕이 되는 해석학을 연구하는 수학 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "number-theory",
+   "name_ko": "정수론·산술기하",
+   "name_en": "Number theory and arithmetic geometry",
+   "axis": "object",
+   "fields": [
+    "math-statistics"
+   ],
+   "aliases": [
+    "정수론",
+    "산술기하",
+    "모듈러 형식",
+    "타원곡선",
+    "다중 제타값",
+    "number theory",
+    "arithmetic geometry",
+    "modular forms"
+   ],
+   "definition": "정수와 그 확장의 성질, 그리고 방정식의 정수·유리수 해를 대수기하의 방법으로 연구하는 수학 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
+  },
+  {
+   "id": "geometry-topology",
+   "name_ko": "기하·위상수학",
+   "name_en": "Geometry and topology",
+   "axis": "object",
+   "fields": [
+    "math-statistics"
+   ],
+   "aliases": [
+    "위상수학",
+    "기하학",
+    "기하위상수학",
+    "기하군론",
+    "쌍곡기하학",
+    "저차원 위상수학",
+    "topology",
+    "geometric group theory"
+   ],
+   "definition": "공간과 도형의 모양·연결 구조와 그 대칭을 다루는 기하학·위상수학과, 군을 기하적 대상으로 보는 연구 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null
   }
  ],
  "changelog": [
@@ -7017,6 +7086,10 @@
   {
    "date": "2026-11-07",
    "change": "v2.1 물리 핵심 묶음(collection-staging/2026-11-07/tags-v21-physics-review.md, 사용자 승인 2026-11-07 「핵심 4개 추가」): 신규 태그 4개(입자물리 이론: KAIST force·tppqft, 양자장론·끈이론: string·tppqft, 암흑물질·암흑에너지: force·tppqft, 관측 우주론·천체물리: astro). 나머지 물리 요청(통계물리·양자 스핀 액체·초유체·시간 변조 광학 등)은 다음 안건."
+  },
+  {
+   "date": "2026-11-07",
+   "change": "v2.2 수학 핵심 묶음(collection-staging/2026-11-07/tags-v22-math-review.md, 사용자 승인 2026-11-07 「핵심 3개 추가」): 신규 태그 3개(편미분방정식·해석학: KAIST byeon·moonjinkang, 정수론·산술기하: imbh, 기하·위상수학: hbaik). 나머지 수학·기계학습 요청(역문제·연산자 스펙트럼 해석·확률적 기계학습·메타학습·도메인 적응 등)은 다음 안건."
   }
  ]
 }
