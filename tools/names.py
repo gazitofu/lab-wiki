@@ -8,6 +8,8 @@ def exact_name(n):
     # hyphens and initials are not (Kyungtae Hong ≠ Kyung Tae Hong, Sol Kim ≠ S. Kim).
     n = re.sub('[*\u2020\u2021#+\u271d\u00b6\u00a7]', '', n or '').strip()
     n = re.sub(r'^(?:Dr|Prof)\.?\s+', '', n)
+    # census-66 cholab: a trailing degree (SUHYUNG CHO, Ph.D.) was read as 'Family, Given' and the mark was lost
+    n = re.sub(r'(?:\s*,\s*(?:Ph\.?\s?D|M\.?\s?D|D\.?\s?Phil)\.?)+$', '', n, flags=re.I)
     n = re.sub('[\u2010\u2011\u2012\u2013\u2212]', '-', n)
     if n.count(',') == 1:
         fam, giv = (x.strip() for x in n.split(','))
