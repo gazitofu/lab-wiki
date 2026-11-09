@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (442곳)
+## KAIST 연구실 (446곳)
 
 ### 전기및전자공학부 (63)
 
@@ -489,6 +489,21 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [지속가능 교통 운영 및 계획 연구실 (Transportation Operation and Planning for Sustainability Lab., TOPS)](wiki/kaist/tops.md) | 장기태 교수 (조천식모빌리티대학원·녹색성장지속가능대학원) | 도로·대중교통·차량에서 나오는 자료로 사람들이 어떻게 이동하는지 분석하고, 교통 신호와 차량 군 운영, 자율주행·공유 모빌리티 같은 미래 교통 서비스까지 교통 체계를 더 안전하고 효율적이며 지속가능하게 운영하고 계획하는 방법을 연구하는 연구실이다. |
 | [차량지능 연구실 (Vehicular Intelligence Lab, VIL)](wiki/kaist/vil.md) | 하동수 교수 | 지능형 모빌리티 시스템을 만들고 검증하는 연구실로, 모빌리티가 주변을 알아보는 인식과 움직임을 정하는 제어를 인공지능으로 다루고, 모빌리티를 포함한 시스템의 에너지 관리도 이론과 실제 양쪽에서 연구한다. |
 
+### 문화기술대학원 (10)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [HCI Tech Lab (Human-Centered Interactive Technologies Laboratory)](wiki/kaist/hci-tech.md) | 윤상호 교수 | 사람이 가상현실과 컴퓨터를 손과 몸으로 더 자연스럽게 다루도록, 손끝에 촉감을 주는 장갑과 장치, 몸의 움직임을 읽는 센서, 진동 패턴을 글로 만들어 주는 인공지능 같은 상호작용 기술을 만든다. |
+| [KAIST Robotics and Vision Lab (RVLab)](wiki/kaist/rv.md) | 임성훈 부교수 | 영상으로 공간을 이해하고, 글과 영상으로 새 장면을 만들며, 로봇이 실제 환경에서 행동을 배우게 하는 연구실이다. |
+| [디지털 헤리티지 연구실 (Digital Heritage Lab)](wiki/kaist/digital-heritage.md) | 안재홍 초빙교수 | 문화유산을 3차원 스캔과 사진 기술로 정밀하게 기록하고, 메타버스·가상현실 같은 디지털 공간에서 사람들이 유산을 체험하고 이해하도록 돕는 방법을 연구하는 연구실이다. |
+| [미래공간 연구실 (Future Space Lab, FSL)](wiki/kaist/future-space.md) | 차승현 교수 | 건축과 기술을 엮어 "앞으로의 공간"을 설계하고 연구하는 연구실이다. |
+| [소셜컴퓨팅랩 (KAIST Social Computing Lab)](wiki/kaist/sociology.md) | 이원재 교수 (문화기술대학원·메타버스대학원) | 온라인 게시글, 영상, 청원, 플레이리스트, 그림 같은 대규모 디지털 자료를 자연어 처리·기계학습·연결망 분석으로 읽어, 사람들이 어떤 감정과 관계 속에서 정치·문화·건강 기술에 반응하는지 밝히는 사회학 연구실이다. |
+| [시각 인지 연구실 (Visual Cognition Lab, VCL)](wiki/kaist/vcl.md) | 이정미 교수 (문화기술대학원·메타버스대학원) | 가상·증강현실이나 사람과 AI가 함께하는 새로운 상호작용 환경에서 사람이 여러 감각의 정보를 어떻게 받아들이고 생각하고 느끼는지를 인지신경과학 방법으로 밝히고, 그 원리를 바탕으로 상호작용 기술을 설계하는 연구실이다. |
+| [실감 아바타·에이전트 연구실 (Lifelike Avatar & Agent Laboratory, LAVA Lab)](wiki/kaist/lava.md) | 이성희 교수 | 가상현실·메타버스·게임에 나오는 아바타와 가상 캐릭터가 사람처럼 자연스럽게 움직이고 행동하게 만드는 연구실이다. |
+| [유비쿼터스 가상현실 연구실 (Ubiquitous Virtual Reality Laboratory, UVR Lab)](wiki/kaist/uvrlab.md) | 우운택 교수 (문화기술대학원·메타버스대학원) | 증강현실(AR)·가상현실(VR) 기술로 사람이 미디어·공간·다른 사람과 만나는 새로운 컴퓨팅 방식을 연구하는 연구실로, 3차원 비전, 디지로그 사용자 인터페이스, 맥락을 아는 모바일 증강현실을 중심 주제로 삼는다. |
+| [음악 및 오디오 컴퓨팅 연구실 (Music and Audio Computing Lab, MACLab)](wiki/kaist/mac.md) | 남주한 교수 | 사람이 음악을 즐기고 연주하고 만드는 방식을 기술로 넓히려는 연구실이다. |
+| [총체적 경험 크리에이티브 AI 연구실 (Total Experience Creative AI Lab, TX Lab)](wiki/kaist/tx.md) | 이진준 교수 (문화기술대학원·메타버스대학원) | 소리·빛·향·분위기처럼 여러 감각이 한데 어우러지는 '총체적 경험(Total Experience)'을 주제로, 데이터·XR·AI 같은 새 기술로 미디어 아트 작품을 만들고 그 작품을 공학과 미학의 연구로 풀어내는 연구실이다. |
+
 ### 수리과학과 (10)
 
 | 연구실 | 교수 | 한 줄 요약 |
@@ -504,20 +519,6 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [정연승 교수 연구실](wiki/kaist/yeonseungchung.md) | 정연승 교수 | 지역과 시간에 따라 달라지는 자료의 관계를 다루는 통계 모형을 만들고, 환경 자료·반도체 제조·영상 속 이동 경로 분석에 연결하는 연구실이다. |
 | [하우석 교수 연구실](wiki/kaist/haywse.md) | 하우석 조교수 | 자료에서 예측 규칙을 배우는 방법을 수학적으로 분석하고, 학습할 때와 사용할 때 자료의 성질이 달라져도 예측을 유지하는 방법을 연구한다. |
 
-### 문화기술대학원 (9)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [HCI Tech Lab (Human-Centered Interactive Technologies Laboratory)](wiki/kaist/hci-tech.md) | 윤상호 교수 | 사람이 가상현실과 컴퓨터를 손과 몸으로 더 자연스럽게 다루도록, 손끝에 촉감을 주는 장갑과 장치, 몸의 움직임을 읽는 센서, 진동 패턴을 글로 만들어 주는 인공지능 같은 상호작용 기술을 만든다. |
-| [디지털 헤리티지 연구실 (Digital Heritage Lab)](wiki/kaist/digital-heritage.md) | 안재홍 초빙교수 | 문화유산을 3차원 스캔과 사진 기술로 정밀하게 기록하고, 메타버스·가상현실 같은 디지털 공간에서 사람들이 유산을 체험하고 이해하도록 돕는 방법을 연구하는 연구실이다. |
-| [미래공간 연구실 (Future Space Lab, FSL)](wiki/kaist/future-space.md) | 차승현 교수 | 건축과 기술을 엮어 "앞으로의 공간"을 설계하고 연구하는 연구실이다. |
-| [소셜컴퓨팅랩 (KAIST Social Computing Lab)](wiki/kaist/sociology.md) | 이원재 교수 (문화기술대학원·메타버스대학원) | 온라인 게시글, 영상, 청원, 플레이리스트, 그림 같은 대규모 디지털 자료를 자연어 처리·기계학습·연결망 분석으로 읽어, 사람들이 어떤 감정과 관계 속에서 정치·문화·건강 기술에 반응하는지 밝히는 사회학 연구실이다. |
-| [시각 인지 연구실 (Visual Cognition Lab, VCL)](wiki/kaist/vcl.md) | 이정미 교수 (문화기술대학원·메타버스대학원) | 가상·증강현실이나 사람과 AI가 함께하는 새로운 상호작용 환경에서 사람이 여러 감각의 정보를 어떻게 받아들이고 생각하고 느끼는지를 인지신경과학 방법으로 밝히고, 그 원리를 바탕으로 상호작용 기술을 설계하는 연구실이다. |
-| [실감 아바타·에이전트 연구실 (Lifelike Avatar & Agent Laboratory, LAVA Lab)](wiki/kaist/lava.md) | 이성희 교수 | 가상현실·메타버스·게임에 나오는 아바타와 가상 캐릭터가 사람처럼 자연스럽게 움직이고 행동하게 만드는 연구실이다. |
-| [유비쿼터스 가상현실 연구실 (Ubiquitous Virtual Reality Laboratory, UVR Lab)](wiki/kaist/uvrlab.md) | 우운택 교수 (문화기술대학원·메타버스대학원) | 증강현실(AR)·가상현실(VR) 기술로 사람이 미디어·공간·다른 사람과 만나는 새로운 컴퓨팅 방식을 연구하는 연구실로, 3차원 비전, 디지로그 사용자 인터페이스, 맥락을 아는 모바일 증강현실을 중심 주제로 삼는다. |
-| [음악 및 오디오 컴퓨팅 연구실 (Music and Audio Computing Lab, MACLab)](wiki/kaist/mac.md) | 남주한 교수 | 사람이 음악을 즐기고 연주하고 만드는 방식을 기술로 넓히려는 연구실이다. |
-| [총체적 경험 크리에이티브 AI 연구실 (Total Experience Creative AI Lab, TX Lab)](wiki/kaist/tx.md) | 이진준 교수 (문화기술대학원·메타버스대학원) | 소리·빛·향·분위기처럼 여러 감각이 한데 어우러지는 '총체적 경험(Total Experience)'을 주제로, 데이터·XR·AI 같은 새 기술로 미디어 아트 작품을 만들고 그 작품을 공학과 미학의 연구로 풀어내는 연구실이다. |
-
 ### AI컴퓨팅학과 (3)
 
 | 연구실 | 교수 | 한 줄 요약 |
@@ -525,6 +526,14 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [KAIST 비주얼 AI 그룹 (KAIST Visual AI Group)](wiki/kaist/visualai.md) | 성민혁 교수 | 이미지·영상·3차원 모양 같은 여러 시각 데이터를 만들고, 다루고, 분석하는 기술을 연구하는 연구실이다. |
 | [빅데이터 지능 연구실 (Big Data Intelligence Lab, BDI Lab)](wiki/kaist/bdi-lab.md) | 황지영 교수 (AI컴퓨팅학과·전산학부) | 데이터를 개체와 개체 사이의 관계로 나타내고 해석하는 그래프 기계학습·데이터 마이닝 알고리즘을 만드는 연구실이다. |
 | [인터랙티브 컴퓨팅 연구실 (Interactive Computing Laboratory, ICLab)](wiki/kaist/ic.md) | 이의진 교수, 석좌교수 (AI컴퓨팅학과·전산학부) | 스마트폰·착용 기기와 생활 공간에서 얻은 자료로 사람의 행동과 상태를 이해하고, 건강·안녕·일을 돕는 상호작용 시스템을 만드는 연구실이다. |
+
+### 김재철AI대학원 (3)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [Bio Imaging, Signal Processing, and Machine Learning Lab (BISPL)](wiki/kaist/bispl.md) | 예종철 교수 | 영상과 의료 자료에서 출발해 새로운 학습 원리와 계산 방법을 만들고, 이를 영상 생성·복원과 의료 자료 해석에 연결하는 연구실이다. |
+| [지능형 네트워크 구조 연구실 (Intelligent Network Architecture Lab, INA)](wiki/kaist/ina.md) | 한동수 교수 | 인터넷 서비스와 클라우드, 그리고 인공지능을 돌리는 컴퓨터 시스템을 더 빠르고 싸게 만드는 연구실이다. |
+| [컴퓨터 비전 연구실 (CVLAB, Computer Vision Lab.)](wiki/kaist/cvlab.md) | 김승룡 교수 | 컴퓨터가 사진과 영상을 보고 3차원 공간을 복원하고, 움직임을 이해하고, 새로운 영상을 만들어 내게 하는 인공지능을 연구한다. |
 
 ### 의과학대학원 (3)
 
@@ -534,12 +543,12 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [유전체 돌연변이 모자이시즘 연구실 (COSMOS: Comprehensive Observation of Somatic Mosaicism, its Origin and Significance)](wiki/kaist/julab.md) | 주영석 부교수 | 세포의 유전적 차이를 검출하고 그 관계를 해석하는 계산 방법과 측정 절차를 연구하며, 유전체 분석 소프트웨어와 오가노이드 기반 평가 체계도 다루는 연구실이다. |
 | [융합 의생명 영상화 연구실 (Ku Laboratory, integrative Biomedical Imaging Laboratory)](wiki/kaist/tkulab.md) | 구태윤 조교수 | 뇌 조직을 영상화에 맞게 가공하고 빛과 영상 처리 방법을 설계해, 신경 연결과 조직 속 분자 분포를 입체적으로 재는 연구실이다. |
 
-### 김재철AI대학원 (2)
+### 공학생물학대학원 (2)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
-| [지능형 네트워크 구조 연구실 (Intelligent Network Architecture Lab, INA)](wiki/kaist/ina.md) | 한동수 교수 | 인터넷 서비스와 클라우드, 그리고 인공지능을 돌리는 컴퓨터 시스템을 더 빠르고 싸게 만드는 연구실이다. |
-| [컴퓨터 비전 연구실 (CVLAB, Computer Vision Lab.)](wiki/kaist/cvlab.md) | 김승룡 교수 | 컴퓨터가 사진과 영상을 보고 3차원 공간을 복원하고, 움직임을 이해하고, 새로운 영상을 만들어 내게 하는 인공지능을 연구한다. |
+| [Nucleic Acids Design Studio (NDS)](wiki/kaist/nds.md) | 최영재 조교수 | 핵산을 원하는 순서로 만들고 골라내는 방법을 개발하고, 그 분자로 정보를 저장·계산하거나 모양을 바꾸는 소재를 설계하는 연구실이다. |
+| [카이스트 시스템 및 합성생물학연구실 (Systems and Synthetic Biology Lab.)](wiki/kaist/cholab.md) | 조병관 교수 | 미생물의 유전정보와 물질 생산 경로를 설계해 원료 가스와 영양분을 유용한 화합물로 바꾸는 연구실이다. |
 
 ### 문술미래전략대학원 (2)
 
