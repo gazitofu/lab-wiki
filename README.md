@@ -11,9 +11,9 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (446곳)
+## KAIST 연구실 (451곳)
 
-### 전기및전자공학부 (63)
+### 전기및전자공학부 (68)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
@@ -33,9 +33,12 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [KAIST Power Electronics Lab.](wiki/kaist/kaistpelab.md) | 문건우 교수 | 전기를 기기에 필요한 형태로 바꾸는 회로와 제어 방법을 만들고, 데이터센터·전기차·배터리·위성의 전력 공급에 연결하는 연구실이다. |
 | [KAIST 무인시스템 및 제어 연구실 (Unmanned Systems Research Group, USRG)](wiki/kaist/unmanned.md) | 심현철 교수 | 드론과 자동차가 주변을 알아보고 스스로 이동하는 기술부터 사람용 조종석의 기기를 다루는 인간형 로봇까지, 실제 환경에서 작동하는 자율 시스템을 만드는 연구실이다. |
 | [KAIST 집적 메타포토닉스 그룹 (KAIST Integrated Metaphotonics Group, KIM Group)](wiki/kaist/integrated-metaphotonics.md) | 김상식 교수 | 부피 큰 광학 장치를 작은 칩 위의 광회로로 바꾸는 연구를 하는 그룹이다. |
+| [Min Seok Jang Lab](wiki/kaist/janglab.md) | 장민석 교수 | 물질과 표면 구조로 빛이 지나가는 양과 진행 방향을 조절하고, 원하는 빛의 특성을 내는 소자 구조를 계산으로 찾는 연구실이다. |
 | [Mobile Intelligence & Interaction Lab (MIIL)](wiki/kaist/nmsl.md) | 이성주 교수 (전기및전자공학부·안보과학기술대학원) | 모바일 컴퓨팅, 인공지능, 인간–컴퓨터 상호작용, 시스템 분야의 전문성으로 새로운 모바일 서비스와 응용을 만드는 전기및전자공학부 연구실이다. |
 | [Multimodal AI Lab](wiki/kaist/mm.md) | 정준선 부교수 (전기및전자공학부·메타버스대학원) | 소리·영상·글과 촉각 정보 사이의 대응을 배우고, 사람의 말과 동작을 인식하거나 음성을 만들어 내는 인공지능을 연구한다. |
 | [Nano-Oriented Bio-Electronics Lab](wiki/kaist/nobelab.md) | 최양규 교수 (전기및전자공학부·반도체공학대학원) | 반도체 소자로 신경세포의 정보 처리를 구현하고, 정보를 저장하는 메모리와 기기를 식별하는 보안 소자, 주변의 움직임에서 전기를 얻는 장치를 연구하는 연구실이다. |
+| [RF 시스템 솔루션 연구실 (Radio Frequency System Solution Lab, RFSS)](wiki/kaist/rfss.md) | 유종원 교수 | 전파를 보내고 받는 안테나와 회로를 함께 설계해, 무선 통신·무선 충전·산업용 측정 시스템으로 만드는 연구실이다. |
+| [Reinforced Decision Intelligence Lab](wiki/kaist/rdi.md) | 이동환 부교수 | 행동을 배우는 알고리즘이 왜 제대로 작동하는지 수학적으로 분석하고, 안정성과 안전을 고려한 학습 방법을 로봇·자율주행·산업 시스템에 연결하는 연구실이다. |
 | [SMILE Lab (Smart and Mobile Systems Lab)](wiki/kaist/smilelab.md) | 김성민 교수 | 모바일 시스템과 배터리 없는 기기의 하드웨어와 소프트웨어를 함께 설계해, 대규모 통신, 초정밀 센싱, 지능형 상호작용을 이루려는 연구실이다. |
 | [Statistical Inference & Information Theory Laboratory (SIIT)](wiki/kaist/siit.md) | 김준모 교수 | 이미지·영상·글·소리를 함께 이해하는 인공지능과, 새로운 자료를 생성하고 안전하게 학습하는 방법을 연구한다. |
 | [SysSec 연구실 (System Security Lab)](wiki/kaist/syssec.md) | 김용대 교수 (전기및전자공학부·정보보호대학원·안보과학기술대학원) | 이동통신망, 드론, 자율주행차처럼 새로 등장하는 시스템에서 보안 취약점을 찾아내고 분석하는 연구실이다. |
@@ -54,6 +57,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [미래도시 로봇연구실 (Urban Robotics Lab, URL)](wiki/kaist/urobot.md) | 명현 교수 | 스마트 도시의 실제 환경에서 움직이는 로봇 기술을 연구하는 연구실이다. |
 | [바이오 일렉트로닉스 연구실 (Jeong Research Group)](wiki/kaist/bio-electronics.md) | 정재웅 교수 | 사람 몸과 자연스럽게 붙어 일하는 부드러운 전자 장치를 만드는 연구실이다. |
 | [부호 및 통신 연구실 (CoCoA, Coding and Communications lAb)](wiki/kaist/cocoa.md) | 하정석 교수 | 잡음 속에서도 정보가 틀리지 않게 지키는 "오류 정정 부호"를 연구한다. |
+| [스마트 정보 시스템 연구실 (Smart Information Systems Research Lab., SISReL)](wiki/kaist/sisrel.md) | 성영철 교수 | 행동의 결과에서 배우는 강화학습을 중심으로, 여러 과제와 목표를 함께 다루는 학습 이론·알고리즘을 만들고 언어 모델의 판단과 로봇의 움직임으로 연결하는 연구실이다. |
 | [신경망 모사 소자 및 회로 개발 연구실 (Emerging Nanoelectronic Technology and Integrated Systems Laboratory, ENTIS)](wiki/kaist/shinhyunlab.md) | 최신현 교수 | 전기 신호의 이력을 기억하는 멤리스터 같은 새 반도체 소자를 직접 설계·제작하고, 이 소자로 뇌의 신경세포와 시냅스를 흉내 내 적은 에너지로 인공지능 계산을 하는 칩과 시스템을 만드는 연구실이다. |
 | [신호 정보 통신 연구실 (Signal, Information & Communications for Everything, SIC-X LAB)](wiki/kaist/sic-x.md) | 최진석 교수 (전기및전자공학부·안보과학기술대학원) | 양자화 비트, 계산량, 용량, 파일럿처럼 자원이 제한될 때도 최적에 가까운 성능을 내는 신호 처리·학습 알고리즘을 설계하는 연구실로, 다중 안테나 통신, 통합 센싱·통신, 지상·비지상 통합망, 셀 프리 시스템과 통신 효율적인 AI를 연구한다. |
 | [안토니스 연구실 (ANTONIS Lab)](wiki/kaist/antonis.md) | 전상훈 교수 (전기및전자공학부·반도체시스템공학과·반도체공학대학원) | 강유전체와 산화물 반도체의 성질을 이용해 메모리 소자를 만들고, 메모리 안의 계산과 센서에서 시작하는 정보 처리를 연구한다. |
@@ -65,6 +69,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [정보 및 통신 연구실 (InfoLab)](wiki/kaist/infolab.md) | 이시현 교수 | 차세대 무선 통신과 데이터 처리 시스템의 근본 한계와 효율적인 알고리즘을 연구하는 연구실이다. |
 | [제어 및 지능형 시스템 연구실 (Control and Intelligent Systems Lab, CIS Lab)](wiki/kaist/cis.md) | 안희진 교수 (전기및전자공학부·안보과학기술대학원) | 안전하고 서로 협력하는 지능형 시스템을 만드는 연구실로, 제어 이론과 현대 인공지능을 이어 하나의 에이전트부터 대규모 다중 에이전트 시스템까지 다룬다. |
 | [제어연구실 (Control Lab, Ctrl Lab)](wiki/kaist/control.md) | 장동의 교수 | 드론과 로봇 같은 기계 시스템이 원하는 대로 움직이고 자기 위치와 자세를 정확히 알도록 하는 제어·추정 이론을 세우고, 강화학습 같은 인공지능 방법을 더해 드론 비행, 혈관 시술용 가이드와이어 조종, 메모리 신호 보정, 화학 가스 분류에 쓰는 연구실이다. |
+| [지능형 로봇시스템 연구실 (Intelligent Robotic Systems Lab, IRSL)](wiki/kaist/irsl.md) | 김민준 부교수 | 로봇이 사람·물체와 접촉하며 안전하게 움직이는 방법을 연구하고, 로봇 팔의 감지·조작과 높은 곳에서 일하는 공중 로봇의 설계로 연결하는 연구실이다. |
 | [지능형 통신시스템 연구실 (Intelligent Communication Systems Lab., ICL)](wiki/kaist/icl.md) | 최준일 교수 | 6G 이동통신과 그 이후의 핵심 기술이 될 새로운 무선통신 시스템을 연구하고, 신호처리·확률론·최적화·랜덤 행렬 이론·압축 센싱·기계학습을 분석 도구로 쓰는 연구실이다. |
 | [지능형전력효율설계연구실 (SEED Lab, Smart Energy-Efficient Design Lab)](wiki/kaist/seed.md) | 정완영 교수 (전기및전자공학부·AI시스템학과) | 작고 스스로 움직이는 시스템에 들어갈 저전력 집적회로를 만드는 연구실이다. |
 | [집적 나노포토닉스 연구실 (Integrated Nanophotonics Lab)](wiki/kaist/integrated-nanophotonics.md) | 유경식 교수 | 빛으로 계산하고 통신하고 감지하는 아주 작은 광회로를 반도체 칩 위에 만드는 연구실이다. |
