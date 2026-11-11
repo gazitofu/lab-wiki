@@ -605,7 +605,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 |---|---|---|
 | [Wonder Lab](wiki/kaist/wonderlab.md) | 이우훈 교수 (산업디자인학과·메타버스대학원) | 디지털 정보와 실물의 상호작용을 설계해 사람이 놀고 배우고 만드는 경험을 연구하며, 이를 위한 기기·제작 도구·전시 콘텐츠를 만든다. |
 
-## 서울대 연구실 (145곳)
+## 서울대 연구실 (150곳)
 
 ### 공과대학 전기·정보공학부 (54)
 
@@ -743,13 +743,14 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [합성유기화학 연구실 (Synthetic Organic Chemistry Lab)](wiki/snu/hglgroup.md) | 이홍근 부교수 | 빛·전기·금속 촉매로 탄소 중심에서 새로운 결합을 만드는 방법을 개발하고, 이를 생의학 연구에 필요한 물질과 천연물의 합성으로 연결하는 연구실이다. |
 | [화학생물학연구실 (SNU Chemical Biology Lab)](wiki/snu/chembio.md) | 박승범 교수 | 서로 다른 구조의 화합물을 설계·합성하고, 빛과 세포의 변화를 이용해 그 화합물의 성질과 작용 대상을 알아보는 화학 도구를 개발하는 연구실이다. |
 
-### 공과대학 기계공학부 (20)
+### 공과대학 기계공학부 (25)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
 | [AESLab](wiki/snu/aesl.md) | 송한호 교수 | 연료로 전기와 동력을 만드는 장치와 차량의 운전 방법을 연구하고, 연료의 생산부터 사용까지 생기는 환경 영향을 함께 평가한다. |
 | [AI주도 시뮬레이션 및 설계 연구실](wiki/snu/aisdl.md) | 김도년 교수 | 분자로 만든 구조부터 기계 부품까지 힘을 받을 때의 모양과 움직임을 계산하고, 인공지능으로 설계·제조·검사를 돕는 방법을 개발하는 연구실이다. |
 | [BIOINSPIRED EMBODIED INTELLIGENCE ROBOTICS LABORATORY](wiki/snu/biorobotics.md) | 조규진 교수 | 생물의 움직임과 몸 구조에서 설계 원리를 찾아, 사람의 동작을 돕는 착용형 로봇과 환경에 맞춰 움직이고 접히는 로봇을 만드는 연구실이다. |
+| [Energy Device and Nano-Engineering Laboratory](wiki/snu/energy.md) | 이윤석 교수 | 전지, 빛을 전기로 바꾸거나 전기로 빛을 내는 부품, 정보를 저장하며 계산하는 부품을 만들기 위해 재료의 층을 형성하고 떼어 옮기고 접합하는 제조 기술을 연구한다. |
 | [Healthcare Robotics Lab (HeRo Lab)](wiki/snu/hero.md) | 한경원 부교수 | 수술 도구의 위치와 접촉을 알아내고, 몸속 기관의 움직임을 돕는 장치를 설계하는 연구실이다. |
 | [INRoL (Interactive & Networked Robotics Laboratory)](wiki/snu/inrol.md) | 이동준 교수 | 사람의 손과 로봇을 연결하는 조작 장치, 접촉하는 물체의 움직임을 계산하는 방법, 공중 로봇과 산업 장비의 제어를 연구한다. |
 | [Imaging Intelligence Laboratory](wiki/snu/imaging.md) | 이승아 부교수 | 빛을 기록하는 장치와 영상을 복원하는 계산 방법을 함께 설계해, 카메라·현미경을 작게 만들고 생체의 구조와 움직임을 영상으로 알아보는 연구실이다. |
@@ -760,11 +761,15 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [Nano Energy Transport and Engineering (NETE) Laboratory](wiki/snu/nanoheat.md) | 김태용 부교수 | 재료 안에서 열이 이동하고 빛을 받은 입자가 움직이는 원리를 밝히며, 그 결과를 열을 빼는 소재와 에너지를 바꾸거나 기체를 저장하는 재료 설계로 연결하는 연구실이다. |
 | [Reacting Flow Lab. (Reacting Flow Laboratory)](wiki/snu/rfl.md) | 도형록 교수 | 연료가 타는 흐름을 빛으로 측정하고, 연소 장치와 고속 공기 흡입식 추진 장치를 연구하는 연구실이다. |
 | [Robotics Laboratory](wiki/snu/fcp.md) | 박종우 교수 | 로봇이 물체를 알아보고 잡고 움직이는 방법을 연구하며, 실제 로봇의 물리적 성질과 자료에서 배우는 방법을 수학으로 연결하는 연구실이다. |
+| [SNU Automotive Laboratory (SNUAL)](wiki/snu/snual.md) | 민경덕 교수 | 자동차를 움직이는 동력원이 전기와 열을 어떻게 만들고 사용하는지 실험과 계산으로 분석하며, 연료전지·엔진·배터리·모터의 성능과 내구성을 연구한다. |
+| [SNU Robot Vision Lab](wiki/snu/snu-rvlab.md) | 임종우 교수 | 카메라로 주변의 모양과 의미를 파악하고, 로봇과 차량이 어디에 있으며 어떻게 움직이는지 알아내는 방법을 연구한다. |
+| [The Shin Lab](wiki/snu/shinlab.md) | 신용대 부교수 | 세포 속 물질이 모이고 기능을 수행하는 물리적 원리를 밝히고, 그 원리를 조절하거나 원하는 기능을 가진 인공 분자 시스템을 만드는 연구실이다. |
 | [Wearable Soft Electronics Lab (WSE Lab)](wiki/snu/ants.md) | 고승환 교수 | 몸과 사물의 움직임에 맞춰 휘고 늘어나는 전자소자와 소프트 로봇을 만들고, 레이저(들어온 빛이 같은 특성의 빛 방출을 유도하는 현상을 이용해 빛을 증폭하는 장치) 가공·생체 측정·열관리 기술로 연결하는 연구실이다. |
 | [냉동시스템 및 컨트롤 연구실 / 연료전지 시스템 연구실](wiki/snu/reflab.md) | 김민수 교수 | 냉난방에 쓰는 열의 회수와 운전 방법, 수소로 전기를 만드는 장치의 성능·온도·고장을 함께 연구한다. |
 | [서울대학교 초자율화 인공지능 연구실](wiki/snu/hai.md) | 윤병동 교수 | 기계의 운전 자료에서 고장을 알아내고, 설계안을 만들고 검증하며, 공장 안에서 행동하는 인공지능의 안전을 평가하는 연구실이다. |
 | [에너지 및 환경유동 연구실 (Energy and Environmental Flow Lab)](wiki/snu/eeflow.md) | 황원태 교수 | 공기와 물의 흐름, 그 안의 입자와 물방울을 측정해 원리를 밝히고, 가스터빈 냉각·드론 소음·반도체 운반 장치의 흐름을 개선하는 연구실이다. |
 | [음향 및 진동 연구실 (Acoustics and Vibration Laboratory)](wiki/snu/acustica.md) | 강연준 교수 | 자동차와 기계에서 소리와 떨림이 생기고 전해지는 과정을 분석하고, 소음을 줄이는 재료·부품·제어 방법과 제품의 소리를 평가하는 방법을 연구한다. |
+| [자율주행 및 차량 지능 연구실 (Vehicle Autonomy & Intelligence Lab, VAIL)](wiki/snu/snu-vail.md) | 좌은혁 조교수 | 차량이 안전하게 스스로 달리고 새로운 도로와 도시에서도 작동하도록, 자율주행의 판단·움직임과 차량 제어 방법을 연구한다. |
 | [재생에너지변환연구실 (Renewable Energy Conversion Laboratory)](wiki/snu/recl.md) | 차석원 교수 | 연료로 전기를 만드는 재료와 장치를 개발하고, 수소 생산과 차량·선박의 전력 운용 방법을 연구하는 연구실이다. |
 | [친환경 에너지 및 나노열 연구실 (CLEAN Lab)](wiki/snu/hydrogen.md) | 박상욱 부교수 | 수소를 생산하고 저장하는 재료·장치를 만들고, 온실기체를 연료와 원료로 바꾸며, 컴퓨터로 에너지 시스템의 성능과 비용을 분석하는 연구실이다. |
 
