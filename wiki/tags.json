@@ -1,6 +1,6 @@
 {
- "version": "2.2",
- "updated": "2026-11-07",
+ "version": "2.3",
+ "updated": "2026-11-11",
  "fields": [
   {
    "id": "math-statistics",
@@ -7028,6 +7028,37 @@
    "related": [],
    "status": "active",
    "merged_into": null
+  },
+  {
+   "id": "ml-theory",
+   "name_ko": "기계학습 이론·알고리즘",
+   "name_en": "Machine learning theory and algorithms",
+   "axis": "method",
+   "fields": [
+    "computing-ai",
+    "math-statistics"
+   ],
+   "aliases": [
+    "기계학습 이론",
+    "학습 이론",
+    "딥러닝 이론",
+    "심층학습 이론",
+    "통계적 학습 이론",
+    "일반화 이론",
+    "machine learning theory",
+    "learning theory",
+    "deep learning theory",
+    "statistical learning theory",
+    "generalization theory"
+   ],
+   "definition": "특정 응용에 묶이지 않은 기계학습 방법의 일반화·수렴·표현력 같은 성질을 수학적으로 분석하고, 그 분석에 근거해 범용 학습 알고리즘을 설계하는 연구.",
+   "related": [
+    "mathematical-optimization",
+    "information-theory"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "방법 태그: 랩이 학습 이론이나 범용 기계학습 알고리즘을 연구 방법으로 내세울 때만. 강화학습·연속학습·연합학습·생성 인공지능처럼 따로 태그가 있는 방법은 그 태그를 쓰고, 최적화 이론 자체는 「수리 최적화·최적화 알고리즘」을 쓴다."
   }
  ],
  "changelog": [
@@ -7090,6 +7121,10 @@
   {
    "date": "2026-11-07",
    "change": "v2.2 수학 핵심 묶음(collection-staging/2026-11-07/tags-v22-math-review.md, 사용자 승인 2026-11-07 「핵심 3개 추가」): 신규 태그 3개(편미분방정식·해석학: KAIST byeon·moonjinkang, 정수론·산술기하: imbh, 기하·위상수학: hbaik). 나머지 수학·기계학습 요청(역문제·연산자 스펙트럼 해석·확률적 기계학습·메타학습·도메인 적응 등)은 다음 안건."
+  },
+  {
+   "date": "2026-11-11",
+   "change": "v2.3 기계학습 이론 1개(collection-staging/2026-11-09/census-68/_main/vocab-proposal-ml-theory.md, 사용자 승인 2026-11-11 「승인해 2.3판에 추가」): 신규 태그 「기계학습 이론·알고리즘」(KAIST mli·chulheeyun 두 랩의 요청을 하나로 묶음). 나머지 후보(안테나·고주파 시스템, 나노광학, DNA 정보 저장 등)는 두 번째 랩 필요가 나올 때까지 보류."
   }
  ]
 }
