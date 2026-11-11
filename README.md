@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (461곳)
+## KAIST 연구실 (466곳)
 
 ### 전기및전자공학부 (74)
 
@@ -466,6 +466,23 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [지식혁신연구센터 (Knowledge Innovation Research Center, KIRC)](wiki/kaist/kirc.md) | 이문용 교수 (산업및시스템공학과·데이터사이언스대학원) | 사람의 지적 활동을 돕는 지식서비스를 목표로, 개인화 추천·교육 평가·의료 인공지능·제조 영상 생성과 대화형 에이전트 평가 방법을 연구한다. |
 | [통계적 의사결정 연구실 (Statistical Decision Making Lab, SDM)](wiki/kaist/statistical-decision-making.md) | 송호승 교수 (산업및시스템공학과·데이터사이언스대학원) | 데이터가 언제 달라졌는지, 두 데이터 묶음이 정말 다른지, 두 종류의 변수가 서로 관련이 있는지를 엄밀하게 판단하는 통계 방법을 만드는 연구실이다. |
 
+### 김재철AI대학원 (12)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [Algorithmic General Intelligence Laboratory (AGI-LAB)](wiki/kaist/alinlab.md) | 신진우 교수 | 자료와 계산을 효율적으로 쓰는 학습·추론 방법을 만들고, 이를 로봇의 행동, 언어 모델의 작업 수행, 영상 생성과 모델의 안전성으로 연결하는 연구실이다. |
+| [Bio Imaging, Signal Processing, and Machine Learning Lab (BISPL)](wiki/kaist/bispl.md) | 예종철 교수 | 영상과 의료 자료에서 출발해 새로운 학습 원리와 계산 방법을 만들고, 이를 영상 생성·복원과 의료 자료 해석에 연결하는 연구실이다. |
+| [Data Mining Lab](wiki/kaist/kaistdata.md) | 신기정 부교수 | 사람·물건·집단 사이의 관계에서 반복되는 구조를 찾고 배우며, 큰 관계 자료를 요약·압축하고 사용자에게 맞는 항목을 추천하는 방법을 연구한다. |
+| [GLOW Lab (Generative Learning of Worlds)](wiki/kaist/glowlab.md) | 김승욱 조교수 | 행동에 따라 주변 환경이 어떻게 변하는지 배우는 인공지능을 만들어, 실제 환경을 대신하는 모의실험과 행동 계획에 연결하는 연구실이다. |
+| [KAIST AIPR Lab (Artificial Intelligence & Probabilistic Reasoning Lab)](wiki/kaist/aipr.md) | 김기응 교수 | 불확실한 상황에서 행동을 정하는 학습 알고리즘을 연구하고, 저장된 경험을 활용한 의사결정부터 언어·이미지 생성의 학습과 안전성까지 다룬다. |
+| [KAIST CVML Lab (Computer Vision & Machine Learning Lab)](wiki/kaist/kaist-cvml.md) | 심현정 부교수 | 그림과 글을 함께 이해하고 새 이미지를 만드는 인공지능을 연구하며, 현실의 공간·주행 환경을 이해하는 능력과 사람에 대한 공정성, 학습·계산 효율을 함께 다룬다. |
+| [Optimization & Machine Learning (OptiML) Laboratory](wiki/kaist/chulheeyun.md) | 윤철희 부교수 | 학습 알고리즘이 어떤 답을 찾고 어떤 정보를 배우는지 수학적으로 설명하며, 그 원리에 기반한 학습 방법을 만드는 연구실이다. |
+| [RISE Lab](wiki/kaist/kiminlee.md) | 이기민 조교수 | 로봇과 컴퓨터 프로그램이 경험과 사람의 시범에서 행동을 배우게 하고, 그림을 만드는 인공지능의 학습 방법과 자율 행동의 안전을 연구하는 연구실이다. |
+| [SEAL (Scalable & Efficient AI Lab)](wiki/kaist/seal.md) | 김세훈 조교수 | 인공지능의 계산과 저장 부담을 줄이는 방법을 모델 설계부터 실행 시스템까지 함께 연구하며, 언어 모델과 자율 작업 수행 기술을 다양한 계산 환경에서 쓸 수 있게 만드는 연구실이다. |
+| [지능형 네트워크 구조 연구실 (Intelligent Network Architecture Lab, INA)](wiki/kaist/ina.md) | 한동수 교수 | 인터넷 서비스와 클라우드, 그리고 인공지능을 돌리는 컴퓨터 시스템을 더 빠르고 싸게 만드는 연구실이다. |
+| [컴퓨터 비전 연구실 (CVLAB, Computer Vision Lab.)](wiki/kaist/cvlab.md) | 김승룡 교수 | 컴퓨터가 사진과 영상을 보고 3차원 공간을 복원하고, 움직임을 이해하고, 새로운 영상을 만들어 내게 하는 인공지능을 연구한다. |
+| [통계적 인공지능 연구실 (Statistical Artificial Intelligence Lab, SAILAB)](wiki/kaist/sailab.md) | 최재식 교수 | 인공지능이 어떤 근거로 판단하는지 설명하는 방법을 중심으로, 이미지·음성 생성, 로봇의 행동 계획, 기상과 시계열 예측 방법도 연구하는 연구실이다. |
+
 ### 뇌인지과학과 (12)
 
 | 연구실 | 교수 | 한 줄 요약 |
@@ -529,18 +546,6 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [임보해 교수 연구실](wiki/kaist/imbh.md) | 임보해 교수 | 방정식의 해가 이루는 구조, 특별한 값들 사이의 관계, 대칭을 가진 함수의 영점을 연구하는 정수론·산술기하 연구실이다. |
 | [정연승 교수 연구실](wiki/kaist/yeonseungchung.md) | 정연승 교수 | 지역과 시간에 따라 달라지는 자료의 관계를 다루는 통계 모형을 만들고, 환경 자료·반도체 제조·영상 속 이동 경로 분석에 연결하는 연구실이다. |
 | [하우석 교수 연구실](wiki/kaist/haywse.md) | 하우석 조교수 | 자료에서 예측 규칙을 배우는 방법을 수학적으로 분석하고, 학습할 때와 사용할 때 자료의 성질이 달라져도 예측을 유지하는 방법을 연구한다. |
-
-### 김재철AI대학원 (7)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [Bio Imaging, Signal Processing, and Machine Learning Lab (BISPL)](wiki/kaist/bispl.md) | 예종철 교수 | 영상과 의료 자료에서 출발해 새로운 학습 원리와 계산 방법을 만들고, 이를 영상 생성·복원과 의료 자료 해석에 연결하는 연구실이다. |
-| [KAIST AIPR Lab (Artificial Intelligence & Probabilistic Reasoning Lab)](wiki/kaist/aipr.md) | 김기응 교수 | 불확실한 상황에서 행동을 정하는 학습 알고리즘을 연구하고, 저장된 경험을 활용한 의사결정부터 언어·이미지 생성의 학습과 안전성까지 다룬다. |
-| [Optimization & Machine Learning (OptiML) Laboratory](wiki/kaist/chulheeyun.md) | 윤철희 부교수 | 학습 알고리즘이 어떤 답을 찾고 어떤 정보를 배우는지 수학적으로 설명하며, 그 원리에 기반한 학습 방법을 만드는 연구실이다. |
-| [RISE Lab](wiki/kaist/kiminlee.md) | 이기민 조교수 | 로봇과 컴퓨터 프로그램이 경험과 사람의 시범에서 행동을 배우게 하고, 그림을 만드는 인공지능의 학습 방법과 자율 행동의 안전을 연구하는 연구실이다. |
-| [SEAL (Scalable & Efficient AI Lab)](wiki/kaist/seal.md) | 김세훈 조교수 | 인공지능의 계산과 저장 부담을 줄이는 방법을 모델 설계부터 실행 시스템까지 함께 연구하며, 언어 모델과 자율 작업 수행 기술을 다양한 계산 환경에서 쓸 수 있게 만드는 연구실이다. |
-| [지능형 네트워크 구조 연구실 (Intelligent Network Architecture Lab, INA)](wiki/kaist/ina.md) | 한동수 교수 | 인터넷 서비스와 클라우드, 그리고 인공지능을 돌리는 컴퓨터 시스템을 더 빠르고 싸게 만드는 연구실이다. |
-| [컴퓨터 비전 연구실 (CVLAB, Computer Vision Lab.)](wiki/kaist/cvlab.md) | 김승룡 교수 | 컴퓨터가 사진과 영상을 보고 3차원 공간을 복원하고, 움직임을 이해하고, 새로운 영상을 만들어 내게 하는 인공지능을 연구한다. |
 
 ### AI컴퓨팅학과 (3)
 
