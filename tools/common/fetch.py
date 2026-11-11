@@ -98,6 +98,14 @@ def log(rec):
         f.write(json.dumps(rec, ensure_ascii=False) + '\n')
 
 
+def robots_text(body):
+    # snu-31: softrobotics.snu.ac.kr serves robots.txt as UTF-16 with a BOM ("User-agent: * / Disallow: /"); read as UTF-8 it
+    # has no rules and passes as allow-all. Follow a UTF-16 or UTF-8 BOM so the owner's rules are honored.
+    if body[:2] in (b'\xff\xfe', b'\xfe\xff'):
+        return body.decode('utf-16', 'replace')
+    return body.decode('utf-8-sig', 'replace')
+
+
 def rfc9309_allows(text, url):
     # urllib.robotparser returns the first matching rule, so "Allow: /" listed before "Disallow: /api" allowed /api
     # (census-09 sound, 2026-10-21). RFC 9309: the longest matching path wins; on a tie Allow wins.
@@ -165,11 +173,11 @@ def robots_allows(url):
     status = json.loads(meta)['status']
     if status == 200:
         rp = urllib.robotparser.RobotFileParser()
-        rp.parse(body.decode('utf-8', 'replace').splitlines())
+        rp.parse(robots_text(body).splitlines())
         delay = rp.crawl_delay(UA)
         if delay:
             DELAY[parts.hostname.lower()] = float(delay)
-        return rfc9309_allows(body.decode('utf-8', 'replace'), url), f'robots 200 parsed (longest match)' + (f'; crawl-delay {delay}s honored' if delay else '')
+        return rfc9309_allows(robots_text(body), url), f'robots 200 parsed (longest match)' + (f'; crawl-delay {delay}s honored' if delay else '')
     if isinstance(status, int) and 400 <= status < 500 and status not in (401, 403):
         return True, f'robots {status}: no robots file'
     return False, f'robots {status}: unresolved, not fetched'
