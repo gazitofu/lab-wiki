@@ -5,7 +5,7 @@
 - 영문 이름: KAIST IAM Group
 - 분야: 기후·에너지 통합평가, 탈탄소 경로, 정책 시나리오
 - 대분야: 에너지·환경·지구, 컴퓨팅·AI
-- 태그: 기후·극한 기상[^models], 과학·공학 AI[^models][^p1]
+- 태그: 기후·극한 기상[^models], 과학·공학 AI[^models][^p1], 기후·에너지 통합평가모형[^home][^models]
 - 홈페이지: <https://kaist-iam.github.io/group/>
 - 근거와 출처: [KAIST IAM Group 근거 페이지](kaist-iam-sources.md)
 
