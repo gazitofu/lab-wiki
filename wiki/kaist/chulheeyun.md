@@ -4,7 +4,7 @@
 
 - 분야: 기계학습 이론, 딥러닝 이론, 최적화[^home]
 - 대분야: 컴퓨팅·AI, 수학·통계
-- 태그: 수리 최적화·최적화 알고리즘[^home]
+- 태그: 수리 최적화·최적화 알고리즘[^home], 기계학습 이론·알고리즘[^home][^p5][^p7]
 - 홈페이지: <https://chulheeyun.github.io>
 - 근거와 출처: [Optimization & Machine Learning (OptiML) Laboratory 근거 페이지](chulheeyun-sources.md)
 
