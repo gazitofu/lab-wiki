@@ -1,5 +1,5 @@
 {
- "version": "2.3",
+ "version": "2.4",
  "updated": "2026-11-11",
  "fields": [
   {
@@ -7059,6 +7059,68 @@
    "status": "active",
    "merged_into": null,
    "note": "방법 태그: 랩이 학습 이론이나 범용 기계학습 알고리즘을 연구 방법으로 내세울 때만. 강화학습·연속학습·연합학습·생성 인공지능처럼 따로 태그가 있는 방법은 그 태그를 쓰고, 최적화 이론 자체는 「수리 최적화·최적화 알고리즘」을 쓴다."
+  },
+  {
+   "id": "integrated-assessment-modeling",
+   "name_ko": "기후·에너지 통합평가모형",
+   "name_en": "Climate-energy integrated assessment modeling",
+   "axis": "method",
+   "fields": [
+    "energy-environment",
+    "social-humanities"
+   ],
+   "aliases": [
+    "통합평가모형",
+    "통합 평가 모형",
+    "IAM",
+    "integrated assessment model",
+    "integrated assessment modeling",
+    "GCAM",
+    "탈탄소 경로 분석",
+    "감축 경로 분석",
+    "넷제로 경로",
+    "net-zero pathway",
+    "mitigation pathway"
+   ],
+   "definition": "에너지·경제·토지·물·기후를 하나의 계산 모형으로 연결해 온실가스 감축 경로를 모의하고, 기후·에너지 정책과 기술 선택의 비용과 효과를 평가하는 방법.",
+   "related": [
+    "climate-weather"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "랩이 통합평가모형이나 그에 준하는 에너지·경제·기후 결합 모형으로 감축 경로·정책을 연구한다고 직접 말할 때 단다. 기후 변화와 극한 기상의 원인·영향 자체를 관측·모형으로 연구하면 「기후·극한 기상」, 전력망 단위의 운영·거래 최적화는 「스마트 그리드·전력 관리」."
+  },
+  {
+   "id": "energy-demand",
+   "name_ko": "에너지 수요 분석·수요관리",
+   "name_en": "Energy demand analysis and demand-side management",
+   "axis": "object",
+   "fields": [
+    "energy-environment",
+    "social-humanities"
+   ],
+   "aliases": [
+    "에너지 수요",
+    "에너지 수요관리",
+    "수요관리",
+    "수요 반응",
+    "수요반응",
+    "계시별 요금제",
+    "시간대별 요금제",
+    "에너지 효율 정책",
+    "energy demand",
+    "demand-side management",
+    "demand response",
+    "time-of-use pricing",
+    "energy efficiency policy"
+   ],
+   "definition": "가정·기업·교통의 에너지 사용량과 사용 시간이 가격·요금 제도·정보·기술에 따라 어떻게 달라지는지 자료와 모형으로 분석하고, 수요를 줄이거나 옮기는 제도를 설계·평가하는 연구.",
+   "related": [
+    "smart-grid"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "에너지 사용 행태와 수요 측 제도를 연구할 때 단다. 발전·저장·소비 설비를 묶은 전력망의 운영·거래·충방전 일정 최적화 기술은 「스마트 그리드·전력 관리」."
   }
  ],
  "changelog": [
@@ -7125,6 +7187,10 @@
   {
    "date": "2026-11-11",
    "change": "v2.3 기계학습 이론 1개(collection-staging/2026-11-09/census-68/_main/vocab-proposal-ml-theory.md, 사용자 승인 2026-11-11 「승인해 2.3판에 추가」): 신규 태그 「기계학습 이론·알고리즘」(KAIST mli·chulheeyun 두 랩의 요청을 하나로 묶음). 나머지 후보(안테나·고주파 시스템, 나노광학, DNA 정보 저장 등)는 두 번째 랩 필요가 나올 때까지 보류."
+  },
+  {
+   "date": "2026-11-11",
+   "change": "v2.4 에너지·기후 정책 2개(collection-staging/2026-11-11/census-69/_main/vocab-proposal-energy-policy.md, 사용자 승인 2026-11-11 「2개 모두 추가」): 신규 태그 「기후·에너지 통합평가모형」(KAIST kaist-iam·cepslab), 「에너지 수요 분석·수요관리」(KAIST etp·cepslab). 나머지 단일 랩 요청(기술 경제성 평가, 지속가능금융, 미생물 식품, 생물학적 탄소 전환)은 두 번째 랩 필요가 나올 때까지 보류."
   }
  ]
 }
