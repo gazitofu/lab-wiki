@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (486곳)
+## KAIST 연구실 (488곳)
 
 ### 전기및전자공학부 (74)
 
@@ -489,6 +489,25 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [지식혁신연구센터 (Knowledge Innovation Research Center, KIRC)](wiki/kaist/kirc.md) | 이문용 교수 (산업및시스템공학과·데이터사이언스대학원) | 사람의 지적 활동을 돕는 지식서비스를 목표로, 개인화 추천·교육 평가·의료 인공지능·제조 영상 생성과 대화형 에이전트 평가 방법을 연구한다. |
 | [통계적 의사결정 연구실 (Statistical Decision Making Lab, SDM)](wiki/kaist/statistical-decision-making.md) | 송호승 교수 (산업및시스템공학과·데이터사이언스대학원) | 데이터가 언제 달라졌는지, 두 데이터 묶음이 정말 다른지, 두 종류의 변수가 서로 관련이 있는지를 엄밀하게 판단하는 통계 방법을 만드는 연구실이다. |
 
+### 뇌인지과학과 (14)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [계산 및 네트워크 신경과학 연구실 (Computational and Network Neuroscience Laboratory, CNNL)](wiki/kaist/cnnl.md) | 이병욱 교수 | 뇌를 여러 영역이 연결된 네트워크로 보고, 계산 모델과 뇌 영상 분석으로 나이가 들어도 인지 기능을 지키는 뇌와 그렇지 못한 뇌가 어떻게 다른지 밝히려는 뇌인지과학과 연구실이다. |
+| [기억 및 인지 연구실 (Ko Lab)](wiki/kaist/ko-lab.md) | 고상윤 조교수 | 학습과 경험이 기억으로 형성되고 유지되며 재구성되는 뇌의 원리를 연구한다. |
+| [뇌 기계지능 연구실 (Brain x Machine Intelligence Lab)](wiki/kaist/aibrain.md) | 이상완 부교수·KAIST 지정 석좌교수 (뇌인지과학과·김재철AI대학원(겸임)·데이터사이언스대학원(겸임)·바이오및뇌공학과(겸임)) | 뇌가 여러 학습 전략을 선택하고 경험에서 추론하는 원리를 계산 모형으로 설명하며, 그 원리에서 착안한 인공지능 학습법과 인간·AI 협력 기술을 연구한다. |
+| [브레인 인터페이스 및 신경보철 연구실 (Brain Interfaces and Neural Prosthetics Laboratory, BINP)](wiki/kaist/binp.md) | 이승우 교수 | 신경세포가 전기·자기 같은 인공 자극에 어떻게 반응하는지 연구해 더 나은 자극 방법을 만들고, 이를 바탕으로 뇌 인터페이스와 신경보철 기기를 개발하는 뇌인지과학과 연구실이다. |
+| [사회 행동 및 신경과학 연구실 (Social Mind and Decision Neuroscience)](wiki/kaist/social-mind.md) | 강평원 교수 | 사람의 사회적 행동과 그 밑에 있는 인지·신경 기전을 밝히려는 뇌인지과학과 연구실이다. |
+| [소프트 신경공학 연구실 (Soft Neuro Electronics Lab, SNEL)](wiki/kaist/snel.md) | 이영준 교수 (뇌인지과학과·신소재공학과·전기및전자공학부) | 부드럽고 생체에 맞는 기능성 소재와 소자로 뇌·신경과 상호작용하는 「부드러운 뇌-기계 인터페이스」를 연구하는 뇌인지과학과 연구실이다. |
+| [시각 신경과학 연구실 (Visual NeuroDynamics Lab)](wiki/kaist/soohyunparklab.md) | 박수현 조교수 | 눈으로 들어오는 장면과 다른 개체의 행동을 뇌가 어떻게 이해하는지 밝히고, 이를 관찰할 뇌 활동 측정 기술을 함께 만드는 연구실이다. |
+| [신경-전자 보철 연구실 (Neuro-Electronics Prosthetics Lab, NEP)](wiki/kaist/nep.md) | 이지훈 교수 | 신경 센서와 자극기를 위한 집적회로를 설계하고, 이를 바탕으로 이식형·착용형 신경 장치와 차세대 뇌-기계 인터페이스를 연구하는 뇌인지과학과 연구실이다. |
+| [신경회로·계산 연구실 (Lab of Neural Circuits & Computation, NCC Lab)](wiki/kaist/anmokimlab.md) | 김안모 교수 | 초파리의 뇌를 연구해, 신경계가 외부 자극 정보를 처리하고 기억하며 행동을 정하고 동작을 제어하는 신경회로의 구조와 알고리즘을 단일 세포 수준에서 밝히는 뇌인지과학과 연구실이다. |
+| [의사결정 뇌동역학 연구실 (Decision Brain Dynamics Laboratory)](wiki/kaist/raphe.md) | 정재승 교수 | 사람이 어떻게 결정을 내리고 다른 사람과 어울리는지, 그 과정이 정신질환에서 어떻게 달라지는지를 뇌의 움직임으로 이해하려는 뇌과학 연구실이다. |
+| [이론 및 계산 신경과학 연구실 (Theoretical and Computational Neuroscience Laboratory)](wiki/kaist/tbcs.md) | 김대욱 교수 | 직접 볼 수 없는 시스템의 상태를 측정값으로 추정하는 수학·통계·인공지능 방법을 만들고, 이를 웨어러블 기기로 모은 생체 신호에 적용해 생체 시계와 수면을 분석하고 정신 질환·수면 장애·신경퇴행성 질환을 수량으로 예측하는 디지털 바이오마커를 개발하는 뇌인지과학과 연구실이다. |
+| [인지지능 연구실 (Cognitive Intelligence Laboratory, Paik Lab)](wiki/kaist/cogi.md) | 백세범 교수 | 뇌가 학습하기 전부터 어떻게 지능을 갖추는지를 컴퓨터 모델로 밝히고, 그 원리로 더 효율적으로 배우고 잘 잊지 않는 인공지능을 만드는 계산신경과학 연구실이다. |
+| [하드웨어 인공지능 연구실 (Hardware Artificial Intelligence Lab, HAL)](wiki/kaist/hal-kaist.md) | 김진훈 교수 | 나노소재로 뇌의 뉴런과 시냅스, 그리고 이들의 연결 구조를 흉내 낸 뉴로모픽 하드웨어를 만드는 연구실이다. |
+| [행동지능 연구실 (Behavioral Intelligence Laboratory)](wiki/kaist/bi-lab.md) | 김대수 교수 (뇌인지과학과·생명과학과) | 광유전학과 칼슘 영상 같은 신경 조작·기록 기법으로 신경회로의 기능을 밝히고, 인공지능으로 약물과 신경 조작이 행동에 주는 영향을 자세히 분석하는 뇌인지과학과 연구실이다. |
+
 ### 조천식모빌리티대학원 (13)
 
 | 연구실 | 교수 | 한 줄 요약 |
@@ -506,23 +525,6 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [전자파 적합성 연구실 (EMC Lab, Electromagnetic Compatibility Lab)](wiki/kaist/emc.md) | 안승영 교수 | 전자기기가 서로 전자파로 방해하지 않게 하고, 칩 안의 고속 신호와 전력이 깨끗하게 전달되게 하며, 전기차를 선 없이 안전하게 충전하는 기술을 연구한다. |
 | [지속가능 교통 운영 및 계획 연구실 (Transportation Operation and Planning for Sustainability Lab., TOPS)](wiki/kaist/tops.md) | 장기태 교수 (조천식모빌리티대학원·녹색성장지속가능대학원) | 도로·대중교통·차량에서 나오는 자료로 사람들이 어떻게 이동하는지 분석하고, 교통 신호와 차량 군 운영, 자율주행·공유 모빌리티 같은 미래 교통 서비스까지 교통 체계를 더 안전하고 효율적이며 지속가능하게 운영하고 계획하는 방법을 연구하는 연구실이다. |
 | [차량지능 연구실 (Vehicular Intelligence Lab, VIL)](wiki/kaist/vil.md) | 하동수 교수 | 지능형 모빌리티 시스템을 만들고 검증하는 연구실로, 모빌리티가 주변을 알아보는 인식과 움직임을 정하는 제어를 인공지능으로 다루고, 모빌리티를 포함한 시스템의 에너지 관리도 이론과 실제 양쪽에서 연구한다. |
-
-### 뇌인지과학과 (12)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [계산 및 네트워크 신경과학 연구실 (Computational and Network Neuroscience Laboratory, CNNL)](wiki/kaist/cnnl.md) | 이병욱 교수 | 뇌를 여러 영역이 연결된 네트워크로 보고, 계산 모델과 뇌 영상 분석으로 나이가 들어도 인지 기능을 지키는 뇌와 그렇지 못한 뇌가 어떻게 다른지 밝히려는 뇌인지과학과 연구실이다. |
-| [뇌 기계지능 연구실 (Brain x Machine Intelligence Lab)](wiki/kaist/aibrain.md) | 이상완 부교수·KAIST 지정 석좌교수 (뇌인지과학과·김재철AI대학원(겸임)·데이터사이언스대학원(겸임)·바이오및뇌공학과(겸임)) | 뇌가 여러 학습 전략을 선택하고 경험에서 추론하는 원리를 계산 모형으로 설명하며, 그 원리에서 착안한 인공지능 학습법과 인간·AI 협력 기술을 연구한다. |
-| [브레인 인터페이스 및 신경보철 연구실 (Brain Interfaces and Neural Prosthetics Laboratory, BINP)](wiki/kaist/binp.md) | 이승우 교수 | 신경세포가 전기·자기 같은 인공 자극에 어떻게 반응하는지 연구해 더 나은 자극 방법을 만들고, 이를 바탕으로 뇌 인터페이스와 신경보철 기기를 개발하는 뇌인지과학과 연구실이다. |
-| [사회 행동 및 신경과학 연구실 (Social Mind and Decision Neuroscience)](wiki/kaist/social-mind.md) | 강평원 교수 | 사람의 사회적 행동과 그 밑에 있는 인지·신경 기전을 밝히려는 뇌인지과학과 연구실이다. |
-| [소프트 신경공학 연구실 (Soft Neuro Electronics Lab, SNEL)](wiki/kaist/snel.md) | 이영준 교수 (뇌인지과학과·신소재공학과·전기및전자공학부) | 부드럽고 생체에 맞는 기능성 소재와 소자로 뇌·신경과 상호작용하는 「부드러운 뇌-기계 인터페이스」를 연구하는 뇌인지과학과 연구실이다. |
-| [신경-전자 보철 연구실 (Neuro-Electronics Prosthetics Lab, NEP)](wiki/kaist/nep.md) | 이지훈 교수 | 신경 센서와 자극기를 위한 집적회로를 설계하고, 이를 바탕으로 이식형·착용형 신경 장치와 차세대 뇌-기계 인터페이스를 연구하는 뇌인지과학과 연구실이다. |
-| [신경회로·계산 연구실 (Lab of Neural Circuits & Computation, NCC Lab)](wiki/kaist/anmokimlab.md) | 김안모 교수 | 초파리의 뇌를 연구해, 신경계가 외부 자극 정보를 처리하고 기억하며 행동을 정하고 동작을 제어하는 신경회로의 구조와 알고리즘을 단일 세포 수준에서 밝히는 뇌인지과학과 연구실이다. |
-| [의사결정 뇌동역학 연구실 (Decision Brain Dynamics Laboratory)](wiki/kaist/raphe.md) | 정재승 교수 | 사람이 어떻게 결정을 내리고 다른 사람과 어울리는지, 그 과정이 정신질환에서 어떻게 달라지는지를 뇌의 움직임으로 이해하려는 뇌과학 연구실이다. |
-| [이론 및 계산 신경과학 연구실 (Theoretical and Computational Neuroscience Laboratory)](wiki/kaist/tbcs.md) | 김대욱 교수 | 직접 볼 수 없는 시스템의 상태를 측정값으로 추정하는 수학·통계·인공지능 방법을 만들고, 이를 웨어러블 기기로 모은 생체 신호에 적용해 생체 시계와 수면을 분석하고 정신 질환·수면 장애·신경퇴행성 질환을 수량으로 예측하는 디지털 바이오마커를 개발하는 뇌인지과학과 연구실이다. |
-| [인지지능 연구실 (Cognitive Intelligence Laboratory, Paik Lab)](wiki/kaist/cogi.md) | 백세범 교수 | 뇌가 학습하기 전부터 어떻게 지능을 갖추는지를 컴퓨터 모델로 밝히고, 그 원리로 더 효율적으로 배우고 잘 잊지 않는 인공지능을 만드는 계산신경과학 연구실이다. |
-| [하드웨어 인공지능 연구실 (Hardware Artificial Intelligence Lab, HAL)](wiki/kaist/hal-kaist.md) | 김진훈 교수 | 나노소재로 뇌의 뉴런과 시냅스, 그리고 이들의 연결 구조를 흉내 낸 뉴로모픽 하드웨어를 만드는 연구실이다. |
-| [행동지능 연구실 (Behavioral Intelligence Laboratory)](wiki/kaist/bi-lab.md) | 김대수 교수 (뇌인지과학과·생명과학과) | 광유전학과 칼슘 영상 같은 신경 조작·기록 기법으로 신경회로의 기능을 밝히고, 인공지능으로 약물과 신경 조작이 행동에 주는 영향을 자세히 분석하는 뇌인지과학과 연구실이다. |
 
 ### 문화기술대학원 (10)
 
