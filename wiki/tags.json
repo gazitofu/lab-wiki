@@ -1,6 +1,6 @@
 {
- "version": "2.4",
- "updated": "2026-11-11",
+ "version": "2.5",
+ "updated": "2026-11-12",
  "fields": [
   {
    "id": "math-statistics",
@@ -7121,6 +7121,39 @@
    "status": "active",
    "merged_into": null,
    "note": "에너지 사용 행태와 수요 측 제도를 연구할 때 단다. 발전·저장·소비 설비를 묶은 전력망의 운영·거래·충방전 일정 최적화 기술은 「스마트 그리드·전력 관리」."
+  },
+  {
+   "id": "epigenetic-aging",
+   "name_ko": "후성유전 조절·노화 리프로그래밍",
+   "name_en": "Epigenetic regulation and aging reprogramming",
+   "axis": "object",
+   "fields": [
+    "basic-life"
+   ],
+   "aliases": [
+    "후성유전",
+    "후성유전학",
+    "epigenetics",
+    "epigenetic regulation",
+    "후성유전체",
+    "epigenome",
+    "후성유전 리프로그래밍",
+    "epigenetic reprogramming",
+    "부분 리프로그래밍",
+    "partial reprogramming",
+    "역노화",
+    "rejuvenation",
+    "후성유전 시계",
+    "epigenetic clock"
+   ],
+   "definition": "DNA 염기서열을 바꾸지 않고 유전자가 켜지고 꺼지는 상태를 정하는 후성유전 정보가 유지되거나 손실되는 원리, 그 변화가 세포 정체성과 노화에 미치는 영향, 후성유전 상태를 다시 설정해 세포를 젊은 상태로 되돌리는 재프로그래밍을 다루는 분야.",
+   "related": [
+    "synthetic-biology",
+    "bioinformatics"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "랩이 후성유전 정보의 조절 원리나 노화·역노화를 직접 연구한다고 말할 때 단다. 질병 기전·치료 연구에서 후성유전 분석을 도구로 쓰기만 한 경우에는 달지 않는다(plan §3). 유전자 회로·생물 시스템을 설계해 새 기능을 만드는 연구는 「합성생물학·DNA 합성」, 후성유전체 자료의 계산 분석 방법은 「바이오정보학·계산생물학」."
   }
  ],
  "changelog": [
@@ -7191,6 +7224,10 @@
   {
    "date": "2026-11-11",
    "change": "v2.4 에너지·기후 정책 2개(collection-staging/2026-11-11/census-69/_main/vocab-proposal-energy-policy.md, 사용자 승인 2026-11-11 「2개 모두 추가」): 신규 태그 「기후·에너지 통합평가모형」(KAIST kaist-iam·cepslab), 「에너지 수요 분석·수요관리」(KAIST etp·cepslab). 나머지 단일 랩 요청(기술 경제성 평가, 지속가능금융, 미생물 식품, 생물학적 탄소 전환)은 두 번째 랩 필요가 나올 때까지 보류."
+  },
+  {
+   "date": "2026-11-12",
+   "change": "v2.5 후성유전·노화 1개(collection-staging/2026-11-12/census-72/_main/vocab-proposal.md, 사용자 승인 2026-11-12 「후성유전·노화만 추가」): 신규 태그 「후성유전 조절·노화 리프로그래밍」(KAIST yanglab). 「오가노이드 기반 생물학적 컴퓨팅」(mineechoilab)은 근거가 첫 화면 사명 문장 하나라 보류."
   }
  ]
 }
