@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (485곳)
+## KAIST 연구실 (486곳)
 
 ### 전기및전자공학부 (74)
 
@@ -489,6 +489,24 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [지식혁신연구센터 (Knowledge Innovation Research Center, KIRC)](wiki/kaist/kirc.md) | 이문용 교수 (산업및시스템공학과·데이터사이언스대학원) | 사람의 지적 활동을 돕는 지식서비스를 목표로, 개인화 추천·교육 평가·의료 인공지능·제조 영상 생성과 대화형 에이전트 평가 방법을 연구한다. |
 | [통계적 의사결정 연구실 (Statistical Decision Making Lab, SDM)](wiki/kaist/statistical-decision-making.md) | 송호승 교수 (산업및시스템공학과·데이터사이언스대학원) | 데이터가 언제 달라졌는지, 두 데이터 묶음이 정말 다른지, 두 종류의 변수가 서로 관련이 있는지를 엄밀하게 판단하는 통계 방법을 만드는 연구실이다. |
 
+### 조천식모빌리티대학원 (13)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [AVE 연구실 (Autonomous Vehicles and Embedded systems)](wiki/kaist/ave.md) | 공승현 부교수 (조천식모빌리티대학원·안보과학기술대학원) | 레이더·라이다·카메라로 차량 주변을 알아보고, 경험에서 운전 방법을 배우며, 차량 안에서 동작할 인공지능과 정확한 위치 추정 기술을 연구하는 연구실이다. |
+| [Mobility Intelligence and Control Laboratory (MIC Lab)](wiki/kaist/miclab.md) | 최경환 조교수 | 차량이 주행하고 에너지를 쓰는 방법을 수학적으로 정하고, 실제 운전 중 들어오는 정보로 제어기와 차량 모형을 갱신하는 연구실이다. |
+| [Mobility Intelligence and Data Science Lab for Sustainable Transport Planning and Policy (MINDS)](wiki/kaist/minds.md) | 이창주 부교수 (조천식모빌리티대학원·녹색성장지속가능대학원(겸임)·AI미래학과(겸임)) | 교통 자료를 분석해 교통 체계와 정책을 설계하고, 환경 부담을 줄이는 이동 계획과 교통 분야의 국제 협력을 연구하는 연구실이다. |
+| [교통 전동화 및 재생 에너지 통합 시스템 연구실 (TETRIS Lab, Transportation Electrification and Grid Integration Systems Lab)](wiki/kaist/kibumpark99.md) | 박기범 부교수 (조천식모빌리티대학원·녹색성장지속가능대학원) | 전기차와 전기 추진 선박의 구동·충전 장치, 재생에너지를 전력망에 연결하는 전력 변환 회로와 제어를 연구하는 연구실이다. |
+| [교통·도시계획 AI 연구실 (TUPA, Transport and Urban Planning with AI)](wiki/kaist/tupa.md) | 김인희 교수 | 사람들이 도시에서 더 안전하고 편하게 이동하도록 교통 시스템을 인공지능과 시뮬레이션으로 연구하는 연구실이다. |
+| [모빌리티 시스템 혁신 설계 연구실 (Innovative Design for Mobility Systems Laboratory, ID LAB)](wiki/kaist/idlab.md) | 장인권 교수 | 무선으로 전력을 보내는 장치, 사람과 차량의 이동 경로, 뼈의 구조와 영상을 컴퓨터로 분석하고 최적화하여 설계하는 연구실이다. |
+| [배터리 시스템 연구실 (Battery System Laboratory, BSL)](wiki/kaist/bsl.md) | 이윤구 부교수 (조천식모빌리티대학원·미래자동차학제전공(겸임)) | 배터리 안의 반응·변형·발열과 노화를 계산하고, 그 결과를 배터리 관리와 전기차·드론·에너지 저장장치의 안전한 설계로 잇는 연구실이다. |
+| [인적 요소 중심 교통 안전 연구실 (Human Factors Centered Transport Safety Laboratory, Human-FACTS)](wiki/kaist/human-facts.md) | Tiantian (Nicole) Chen 부교수 | 사람의 판단과 행동을 중심에 놓고 교통사고 위험을 분석하며, 운전 시뮬레이션·통행 선택 분석·언어 모델 기반 차량 보조를 연구한다. |
+| [자동차 지능 및 전동화 연구실 (Automotive Intelligence X Electrification Lab, AXE Lab)](wiki/kaist/axelab.md) | 금동석 부교수 (조천식모빌리티대학원·로봇공학학제전공·김재철AI대학원·AX학과·기계공학과·미래자동차학제전공) | 자동차가 주변을 인식하고 갈 길을 정하는 기술과, 전기·하이브리드 자동차의 동력·열·에너지를 관리하는 기술을 함께 연구한다. |
+| [자율 지능형 시스템 연구실 (Autonomous and Intelligent Systems Laboratory, AIS Lab)](wiki/kaist/kaist-ais.md) | 신효상 교수 | 도시 같은 복잡한 환경에서 무인·자율 시스템이 상황을 파악하고 움직이며, 여러 시스템이 서로 연결돼 임무를 수행하도록 계획·제어·정보 처리 방법을 연구한다. |
+| [전자파 적합성 연구실 (EMC Lab, Electromagnetic Compatibility Lab)](wiki/kaist/emc.md) | 안승영 교수 | 전자기기가 서로 전자파로 방해하지 않게 하고, 칩 안의 고속 신호와 전력이 깨끗하게 전달되게 하며, 전기차를 선 없이 안전하게 충전하는 기술을 연구한다. |
+| [지속가능 교통 운영 및 계획 연구실 (Transportation Operation and Planning for Sustainability Lab., TOPS)](wiki/kaist/tops.md) | 장기태 교수 (조천식모빌리티대학원·녹색성장지속가능대학원) | 도로·대중교통·차량에서 나오는 자료로 사람들이 어떻게 이동하는지 분석하고, 교통 신호와 차량 군 운영, 자율주행·공유 모빌리티 같은 미래 교통 서비스까지 교통 체계를 더 안전하고 효율적이며 지속가능하게 운영하고 계획하는 방법을 연구하는 연구실이다. |
+| [차량지능 연구실 (Vehicular Intelligence Lab, VIL)](wiki/kaist/vil.md) | 하동수 교수 | 지능형 모빌리티 시스템을 만들고 검증하는 연구실로, 모빌리티가 주변을 알아보는 인식과 움직임을 정하는 제어를 인공지능으로 다루고, 모빌리티를 포함한 시스템의 에너지 관리도 이론과 실제 양쪽에서 연구한다. |
+
 ### 뇌인지과학과 (12)
 
 | 연구실 | 교수 | 한 줄 요약 |
@@ -505,23 +523,6 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [인지지능 연구실 (Cognitive Intelligence Laboratory, Paik Lab)](wiki/kaist/cogi.md) | 백세범 교수 | 뇌가 학습하기 전부터 어떻게 지능을 갖추는지를 컴퓨터 모델로 밝히고, 그 원리로 더 효율적으로 배우고 잘 잊지 않는 인공지능을 만드는 계산신경과학 연구실이다. |
 | [하드웨어 인공지능 연구실 (Hardware Artificial Intelligence Lab, HAL)](wiki/kaist/hal-kaist.md) | 김진훈 교수 | 나노소재로 뇌의 뉴런과 시냅스, 그리고 이들의 연결 구조를 흉내 낸 뉴로모픽 하드웨어를 만드는 연구실이다. |
 | [행동지능 연구실 (Behavioral Intelligence Laboratory)](wiki/kaist/bi-lab.md) | 김대수 교수 (뇌인지과학과·생명과학과) | 광유전학과 칼슘 영상 같은 신경 조작·기록 기법으로 신경회로의 기능을 밝히고, 인공지능으로 약물과 신경 조작이 행동에 주는 영향을 자세히 분석하는 뇌인지과학과 연구실이다. |
-
-### 조천식모빌리티대학원 (12)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [AVE 연구실 (Autonomous Vehicles and Embedded systems)](wiki/kaist/ave.md) | 공승현 부교수 (조천식모빌리티대학원·안보과학기술대학원) | 레이더·라이다·카메라로 차량 주변을 알아보고, 경험에서 운전 방법을 배우며, 차량 안에서 동작할 인공지능과 정확한 위치 추정 기술을 연구하는 연구실이다. |
-| [Mobility Intelligence and Control Laboratory (MIC Lab)](wiki/kaist/miclab.md) | 최경환 조교수 | 차량이 주행하고 에너지를 쓰는 방법을 수학적으로 정하고, 실제 운전 중 들어오는 정보로 제어기와 차량 모형을 갱신하는 연구실이다. |
-| [교통 전동화 및 재생 에너지 통합 시스템 연구실 (TETRIS Lab, Transportation Electrification and Grid Integration Systems Lab)](wiki/kaist/kibumpark99.md) | 박기범 부교수 (조천식모빌리티대학원·녹색성장지속가능대학원) | 전기차와 전기 추진 선박의 구동·충전 장치, 재생에너지를 전력망에 연결하는 전력 변환 회로와 제어를 연구하는 연구실이다. |
-| [교통·도시계획 AI 연구실 (TUPA, Transport and Urban Planning with AI)](wiki/kaist/tupa.md) | 김인희 교수 | 사람들이 도시에서 더 안전하고 편하게 이동하도록 교통 시스템을 인공지능과 시뮬레이션으로 연구하는 연구실이다. |
-| [모빌리티 시스템 혁신 설계 연구실 (Innovative Design for Mobility Systems Laboratory, ID LAB)](wiki/kaist/idlab.md) | 장인권 교수 | 무선으로 전력을 보내는 장치, 사람과 차량의 이동 경로, 뼈의 구조와 영상을 컴퓨터로 분석하고 최적화하여 설계하는 연구실이다. |
-| [배터리 시스템 연구실 (Battery System Laboratory, BSL)](wiki/kaist/bsl.md) | 이윤구 부교수 (조천식모빌리티대학원·미래자동차학제전공(겸임)) | 배터리 안의 반응·변형·발열과 노화를 계산하고, 그 결과를 배터리 관리와 전기차·드론·에너지 저장장치의 안전한 설계로 잇는 연구실이다. |
-| [인적 요소 중심 교통 안전 연구실 (Human Factors Centered Transport Safety Laboratory, Human-FACTS)](wiki/kaist/human-facts.md) | Tiantian (Nicole) Chen 부교수 | 사람의 판단과 행동을 중심에 놓고 교통사고 위험을 분석하며, 운전 시뮬레이션·통행 선택 분석·언어 모델 기반 차량 보조를 연구한다. |
-| [자동차 지능 및 전동화 연구실 (Automotive Intelligence X Electrification Lab, AXE Lab)](wiki/kaist/axelab.md) | 금동석 부교수 (조천식모빌리티대학원·로봇공학학제전공·김재철AI대학원·AX학과·기계공학과·미래자동차학제전공) | 자동차가 주변을 인식하고 갈 길을 정하는 기술과, 전기·하이브리드 자동차의 동력·열·에너지를 관리하는 기술을 함께 연구한다. |
-| [자율 지능형 시스템 연구실 (Autonomous and Intelligent Systems Laboratory, AIS Lab)](wiki/kaist/kaist-ais.md) | 신효상 교수 | 도시 같은 복잡한 환경에서 무인·자율 시스템이 상황을 파악하고 움직이며, 여러 시스템이 서로 연결돼 임무를 수행하도록 계획·제어·정보 처리 방법을 연구한다. |
-| [전자파 적합성 연구실 (EMC Lab, Electromagnetic Compatibility Lab)](wiki/kaist/emc.md) | 안승영 교수 | 전자기기가 서로 전자파로 방해하지 않게 하고, 칩 안의 고속 신호와 전력이 깨끗하게 전달되게 하며, 전기차를 선 없이 안전하게 충전하는 기술을 연구한다. |
-| [지속가능 교통 운영 및 계획 연구실 (Transportation Operation and Planning for Sustainability Lab., TOPS)](wiki/kaist/tops.md) | 장기태 교수 (조천식모빌리티대학원·녹색성장지속가능대학원) | 도로·대중교통·차량에서 나오는 자료로 사람들이 어떻게 이동하는지 분석하고, 교통 신호와 차량 군 운영, 자율주행·공유 모빌리티 같은 미래 교통 서비스까지 교통 체계를 더 안전하고 효율적이며 지속가능하게 운영하고 계획하는 방법을 연구하는 연구실이다. |
-| [차량지능 연구실 (Vehicular Intelligence Lab, VIL)](wiki/kaist/vil.md) | 하동수 교수 | 지능형 모빌리티 시스템을 만들고 검증하는 연구실로, 모빌리티가 주변을 알아보는 인식과 움직임을 정하는 제어를 인공지능으로 다루고, 모빌리티를 포함한 시스템의 에너지 관리도 이론과 실제 양쪽에서 연구한다. |
 
 ### 문화기술대학원 (10)
 
