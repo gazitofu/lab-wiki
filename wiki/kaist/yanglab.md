@@ -5,7 +5,7 @@
 - 영문 이름: Yang Lab
 - 분야: 후성유전 정보와 노화, 세포 정체성의 유지와 회복, 노화 저항 생물 시스템 설계[^research]
 - 대분야: 기초생명·생물물리, 화학공정·바이오공학
-- 태그: 합성생물학·DNA 합성[^design]
+- 태그: 후성유전 조절·노화 리프로그래밍[^research][^dept], 합성생물학·DNA 합성[^design]
 - 홈페이지: <https://www.yanglab.net/>
 - 근거와 출처: [노화 리프로그래밍 연구실 근거 페이지](yanglab-sources.md)
 
