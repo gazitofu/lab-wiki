@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (494곳)
+## KAIST 연구실 (497곳)
 
 ### 전기및전자공학부 (74)
 
@@ -469,6 +469,28 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [컴퓨터 비전 연구실 (CVLAB, Computer Vision Lab.)](wiki/kaist/cvlab.md) | 김승룡 교수 | 컴퓨터가 사진과 영상을 보고 3차원 공간을 복원하고, 움직임을 이해하고, 새로운 영상을 만들어 내게 하는 인공지능을 연구한다. |
 | [통계적 인공지능 연구실 (Statistical Artificial Intelligence Lab, SAILAB)](wiki/kaist/sailab.md) | 최재식 교수 | 인공지능이 어떤 근거로 판단하는지 설명하는 방법을 중심으로, 이미지·음성 생성, 로봇의 행동 계획, 기상과 시계열 예측 방법도 연구하는 연구실이다. |
 
+### 산업및시스템공학과 (17)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [AI and Robotic Systems Lab (AIRS)](wiki/kaist/airs.md) | 김우준 조교수 (산업및시스템공학과·데이터사이언스대학원) | 여러 주체가 각자 판단하면서 함께 일하고, 환경과 동료가 달라져도 행동을 조정하도록 학습 방법을 만드는 연구실이다. |
+| [Complex System Design Laboratory (CSD Lab.)](wiki/kaist/csdlab.md) | 이태식 교수 | 환자·병원·운전자처럼 각자 판단하는 주체들의 행동을 수학적 모형과 모의실험으로 연결하고, 전체 서비스 시스템의 구성과 운영 방침을 설계하는 연구실이다. |
+| [Computational Optimization Methods Lab (COMET)](wiki/kaist/comet.md) | 권창현 부교수 (산업및시스템공학과·조천식모빌리티대학원(겸임)) | 차량·드론의 배송 경로와 제조 작업 일정을 정하는 수학적 최적화 방법을 만들고, 기계학습과 탐색 알고리즘을 결합해 큰 문제를 푸는 계산 절차를 연구한다. |
+| [DAIM 연구실 (DAIM Labs)](wiki/kaist/daim.md) | 장영재 교수 | 반도체·디스플레이 공장 안에서 수백 대의 운반 로봇이 서로 막히지 않고 제때 물건을 나르도록 길을 정하고 일을 배정하는 방법을 연구하는 연구실이다. |
+| [DSAIL (Data Science & Artificial Intelligence Lab)](wiki/kaist/dsail.md) | 박찬영 교수 (산업및시스템공학과·데이터사이언스대학원·안보과학기술대학원) | 관계형 데이터, 멀티모달 데이터, 과학 데이터처럼 복잡한 데이터를 이해하는 인공지능을 만들고, 거기서 배운 표현을 추론, 개인화, 발견으로 잇는 연구실이다. |
+| [Data Intelligence System Lab (DISLab)](wiki/kaist/disl.md) | 송환준 조교수 (산업및시스템공학과·데이터사이언스대학원·AX학과) | 자료의 품질과 활용 방식을 바탕으로, 긴 문맥과 불완전한 정보 속에서도 신뢰할 수 있게 판단하고 행동하는 인공지능 에이전트를 연구한다. |
+| [Engineering Data Science Lab](wiki/kaist/eds.md) | 김희영 부교수, KAIST 지정 석좌교수 (산업및시스템공학과·인공지능대학원(겸임)) | 자료의 불균형과 부족, 예측의 불확실성, 시간·공간의 관계를 다루는 통계·인공지능 방법을 개발해 산업 시스템의 품질 문제에 연결하는 연구실이다. |
+| [Financial Engineering Lab.](wiki/kaist/felab.md) | 김우창 교수 (산업및시스템공학과·경영대학(겸직)) | 투자자의 목표와 금융시장의 불확실성을 수학 모형으로 표현하고, 투자 결정과 금융 계획을 계산할 최적화·기계학습 방법을 연구한다. |
+| [Human Factors and Ergonomics Lab (HFEL)](wiki/kaist/hfel.md) | Shuping Xiong 정교수 (산업및시스템공학과·데이터사이언스대학원) | 사람의 움직임과 행동을 측정하고 모형으로 표현해, 작업과 제품의 안전성·사용 경험을 설계하는 연구실이다. |
+| [Management Science and Operations (MSO) Lab.](wiki/kaist/mso.md) | 황우남 부교수 | 공급망과 의료 서비스에서 조직과 사람의 선택이 운영 결과에 미치는 영향을 분석하고, 가격·지불 규칙과 운영 계획을 설계하는 연구실이다. |
+| [Manufacturing and Service Systems Lab](wiki/kaist/msslab.md) | 김현정 부교수 (산업및시스템공학과·녹색성장지속가능대학원(겸임)) | 공장의 설비·로봇과 물류 자원이 어떤 순서로 일할지 정하는 방법을 연구하며, 수학적 최적화와 학습 방법으로 생산 일정과 창고 운영 문제를 푼다. |
+| [Reinforcement Learning Lab (RLLab)](wiki/kaist/kihyukhong.md) | 홍기혁 조교수 (산업및시스템공학과·데이터사이언스대학원·AX학과(겸임)) | 행동의 결과에서 배우는 학습 방법을 수학적으로 분석하고, 자료와 계산량이 제한되거나 안전 조건이 있는 상황에서 쓸 수 있는 알고리즘을 만드는 연구실이다. |
+| [Statistical Data Science Lab](wiki/kaist/statds.md) | 안정연 교수 (산업및시스템공학과·Graduate School of AI for Math(겸임)) | 변수가 많거나 비율·곡선처럼 특별한 구조를 가진 자료를 분석하는 통계 방법을 만들고, 결과의 해석 가능성과 개인정보 보호를 함께 연구하는 연구실이다. |
+| [생산혁신인공지능연구실 (Artificial Intelligence for M Excellence Lab, AIME)](wiki/kaist/aime.md) | 이종석 부교수 (산업및시스템공학과·데이터사이언스대학원) | 제조 현장의 자료로 공정과 설비를 이해하고, 사전 지식·예측의 신뢰성·설명 가능성을 반영한 인공지능과 최적화 방법으로 생산과 운영을 개선하는 연구실이다. |
+| [시스템 지능 연구실 (System Intelligence Lab, SILAB)](wiki/kaist/silab.md) | 박진규 부교수 (산업및시스템공학과·데이터사이언스대학원·AI대학원) | 여러 행동 주체의 의사결정과 복잡한 최적화 문제를 다루며, 강화학습과 생성 모형으로 경로·일정·설계안을 찾는 알고리즘을 만드는 연구실이다. |
+| [지식혁신연구센터 (Knowledge Innovation Research Center, KIRC)](wiki/kaist/kirc.md) | 이문용 교수 (산업및시스템공학과·데이터사이언스대학원) | 사람의 지적 활동을 돕는 지식서비스를 목표로, 개인화 추천·교육 평가·의료 인공지능·제조 영상 생성과 대화형 에이전트 평가 방법을 연구한다. |
+| [통계적 의사결정 연구실 (Statistical Decision Making Lab, SDM)](wiki/kaist/statistical-decision-making.md) | 송호승 교수 (산업및시스템공학과·데이터사이언스대학원) | 데이터가 언제 달라졌는지, 두 데이터 묶음이 정말 다른지, 두 종류의 변수가 서로 관련이 있는지를 엄밀하게 판단하는 통계 방법을 만드는 연구실이다. |
+
 ### 뇌인지과학과 (16)
 
 | 연구실 | 교수 | 한 줄 요약 |
@@ -490,27 +512,6 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [하드웨어 인공지능 연구실 (Hardware Artificial Intelligence Lab, HAL)](wiki/kaist/hal-kaist.md) | 김진훈 교수 | 나노소재로 뇌의 뉴런과 시냅스, 그리고 이들의 연결 구조를 흉내 낸 뉴로모픽 하드웨어를 만드는 연구실이다. |
 | [행동지능 연구실 (Behavioral Intelligence Laboratory)](wiki/kaist/bi-lab.md) | 김대수 교수 (뇌인지과학과·생명과학과) | 광유전학과 칼슘 영상 같은 신경 조작·기록 기법으로 신경회로의 기능을 밝히고, 인공지능으로 약물과 신경 조작이 행동에 주는 영향을 자세히 분석하는 뇌인지과학과 연구실이다. |
 
-### 산업및시스템공학과 (16)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [Complex System Design Laboratory (CSD Lab.)](wiki/kaist/csdlab.md) | 이태식 교수 | 환자·병원·운전자처럼 각자 판단하는 주체들의 행동을 수학적 모형과 모의실험으로 연결하고, 전체 서비스 시스템의 구성과 운영 방침을 설계하는 연구실이다. |
-| [Computational Optimization Methods Lab (COMET)](wiki/kaist/comet.md) | 권창현 부교수 (산업및시스템공학과·조천식모빌리티대학원(겸임)) | 차량·드론의 배송 경로와 제조 작업 일정을 정하는 수학적 최적화 방법을 만들고, 기계학습과 탐색 알고리즘을 결합해 큰 문제를 푸는 계산 절차를 연구한다. |
-| [DAIM 연구실 (DAIM Labs)](wiki/kaist/daim.md) | 장영재 교수 | 반도체·디스플레이 공장 안에서 수백 대의 운반 로봇이 서로 막히지 않고 제때 물건을 나르도록 길을 정하고 일을 배정하는 방법을 연구하는 연구실이다. |
-| [DSAIL (Data Science & Artificial Intelligence Lab)](wiki/kaist/dsail.md) | 박찬영 교수 (산업및시스템공학과·데이터사이언스대학원·안보과학기술대학원) | 관계형 데이터, 멀티모달 데이터, 과학 데이터처럼 복잡한 데이터를 이해하는 인공지능을 만들고, 거기서 배운 표현을 추론, 개인화, 발견으로 잇는 연구실이다. |
-| [Data Intelligence System Lab (DISLab)](wiki/kaist/disl.md) | 송환준 조교수 (산업및시스템공학과·데이터사이언스대학원·AX학과) | 자료의 품질과 활용 방식을 바탕으로, 긴 문맥과 불완전한 정보 속에서도 신뢰할 수 있게 판단하고 행동하는 인공지능 에이전트를 연구한다. |
-| [Engineering Data Science Lab](wiki/kaist/eds.md) | 김희영 부교수, KAIST 지정 석좌교수 (산업및시스템공학과·인공지능대학원(겸임)) | 자료의 불균형과 부족, 예측의 불확실성, 시간·공간의 관계를 다루는 통계·인공지능 방법을 개발해 산업 시스템의 품질 문제에 연결하는 연구실이다. |
-| [Financial Engineering Lab.](wiki/kaist/felab.md) | 김우창 교수 (산업및시스템공학과·경영대학(겸직)) | 투자자의 목표와 금융시장의 불확실성을 수학 모형으로 표현하고, 투자 결정과 금융 계획을 계산할 최적화·기계학습 방법을 연구한다. |
-| [Human Factors and Ergonomics Lab (HFEL)](wiki/kaist/hfel.md) | Shuping Xiong 정교수 (산업및시스템공학과·데이터사이언스대학원) | 사람의 움직임과 행동을 측정하고 모형으로 표현해, 작업과 제품의 안전성·사용 경험을 설계하는 연구실이다. |
-| [Management Science and Operations (MSO) Lab.](wiki/kaist/mso.md) | 황우남 부교수 | 공급망과 의료 서비스에서 조직과 사람의 선택이 운영 결과에 미치는 영향을 분석하고, 가격·지불 규칙과 운영 계획을 설계하는 연구실이다. |
-| [Manufacturing and Service Systems Lab](wiki/kaist/msslab.md) | 김현정 부교수 (산업및시스템공학과·녹색성장지속가능대학원(겸임)) | 공장의 설비·로봇과 물류 자원이 어떤 순서로 일할지 정하는 방법을 연구하며, 수학적 최적화와 학습 방법으로 생산 일정과 창고 운영 문제를 푼다. |
-| [Reinforcement Learning Lab (RLLab)](wiki/kaist/kihyukhong.md) | 홍기혁 조교수 (산업및시스템공학과·데이터사이언스대학원·AX학과(겸임)) | 행동의 결과에서 배우는 학습 방법을 수학적으로 분석하고, 자료와 계산량이 제한되거나 안전 조건이 있는 상황에서 쓸 수 있는 알고리즘을 만드는 연구실이다. |
-| [Statistical Data Science Lab](wiki/kaist/statds.md) | 안정연 교수 (산업및시스템공학과·Graduate School of AI for Math(겸임)) | 변수가 많거나 비율·곡선처럼 특별한 구조를 가진 자료를 분석하는 통계 방법을 만들고, 결과의 해석 가능성과 개인정보 보호를 함께 연구하는 연구실이다. |
-| [생산혁신인공지능연구실 (Artificial Intelligence for M Excellence Lab, AIME)](wiki/kaist/aime.md) | 이종석 부교수 (산업및시스템공학과·데이터사이언스대학원) | 제조 현장의 자료로 공정과 설비를 이해하고, 사전 지식·예측의 신뢰성·설명 가능성을 반영한 인공지능과 최적화 방법으로 생산과 운영을 개선하는 연구실이다. |
-| [시스템 지능 연구실 (System Intelligence Lab, SILAB)](wiki/kaist/silab.md) | 박진규 부교수 (산업및시스템공학과·데이터사이언스대학원·AI대학원) | 여러 행동 주체의 의사결정과 복잡한 최적화 문제를 다루며, 강화학습과 생성 모형으로 경로·일정·설계안을 찾는 알고리즘을 만드는 연구실이다. |
-| [지식혁신연구센터 (Knowledge Innovation Research Center, KIRC)](wiki/kaist/kirc.md) | 이문용 교수 (산업및시스템공학과·데이터사이언스대학원) | 사람의 지적 활동을 돕는 지식서비스를 목표로, 개인화 추천·교육 평가·의료 인공지능·제조 영상 생성과 대화형 에이전트 평가 방법을 연구한다. |
-| [통계적 의사결정 연구실 (Statistical Decision Making Lab, SDM)](wiki/kaist/statistical-decision-making.md) | 송호승 교수 (산업및시스템공학과·데이터사이언스대학원) | 데이터가 언제 달라졌는지, 두 데이터 묶음이 정말 다른지, 두 종류의 변수가 서로 관련이 있는지를 엄밀하게 판단하는 통계 방법을 만드는 연구실이다. |
-
 ### 조천식모빌리티대학원 (13)
 
 | 연구실 | 교수 | 한 줄 요약 |
@@ -529,11 +530,12 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [지속가능 교통 운영 및 계획 연구실 (Transportation Operation and Planning for Sustainability Lab., TOPS)](wiki/kaist/tops.md) | 장기태 교수 (조천식모빌리티대학원·녹색성장지속가능대학원) | 도로·대중교통·차량에서 나오는 자료로 사람들이 어떻게 이동하는지 분석하고, 교통 신호와 차량 군 운영, 자율주행·공유 모빌리티 같은 미래 교통 서비스까지 교통 체계를 더 안전하고 효율적이며 지속가능하게 운영하고 계획하는 방법을 연구하는 연구실이다. |
 | [차량지능 연구실 (Vehicular Intelligence Lab, VIL)](wiki/kaist/vil.md) | 하동수 교수 | 지능형 모빌리티 시스템을 만들고 검증하는 연구실로, 모빌리티가 주변을 알아보는 인식과 움직임을 정하는 제어를 인공지능으로 다루고, 모빌리티를 포함한 시스템의 에너지 관리도 이론과 실제 양쪽에서 연구한다. |
 
-### 문화기술대학원 (10)
+### 문화기술대학원 (11)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
 | [HCI Tech Lab (Human-Centered Interactive Technologies Laboratory)](wiki/kaist/hci-tech.md) | 윤상호 교수 | 사람이 가상현실과 컴퓨터를 손과 몸으로 더 자연스럽게 다루도록, 손끝에 촉감을 주는 장갑과 장치, 몸의 움직임을 읽는 센서, 진동 패턴을 글로 만들어 주는 인공지능 같은 상호작용 기술을 만든다. |
+| [Information-Based Design Lab (IBD)](wiki/kaist/ibd-lab.md) | 이지현 교수 | 사람의 공간 이용과 경험을 계산 가능한 자료로 바꾸고, 이를 도시·전시·주거와 가구의 설계에 연결하는 연구실이다. |
 | [KAIST Robotics and Vision Lab (RVLab)](wiki/kaist/rv.md) | 임성훈 부교수 | 영상으로 공간을 이해하고, 글과 영상으로 새 장면을 만들며, 로봇이 실제 환경에서 행동을 배우게 하는 연구실이다. |
 | [디지털 헤리티지 연구실 (Digital Heritage Lab)](wiki/kaist/digital-heritage.md) | 안재홍 초빙교수 | 문화유산을 3차원 스캔과 사진 기술로 정밀하게 기록하고, 메타버스·가상현실 같은 디지털 공간에서 사람들이 유산을 체험하고 이해하도록 돕는 방법을 연구하는 연구실이다. |
 | [미래공간 연구실 (Future Space Lab, FSL)](wiki/kaist/future-space.md) | 차승현 교수 | 건축과 기술을 엮어 "앞으로의 공간"을 설계하고 연구하는 연구실이다. |
@@ -583,6 +585,15 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [Yoon Group](wiki/kaist/yoongroup.md) | 윤보학 조교수 (녹색성장지속가능대학원·AX학과(겸임)) | 물리 법칙을 반영한 인공지능과 여러 크기·시간 범위를 연결하는 계산으로, 탄소를 포집·전환하는 물질과 지속가능한 화학 공정을 설계하는 연구실이다. |
 | [기후 에너지 정책 및 전략 연구실 (CEPS Research Group, Climate and Energy Policy & Strategy)](wiki/kaist/cepslab.md) | 엄지용 교수 (녹색성장지속가능대학원·기술경영학부) | 기후 변화와 에너지 전환의 경로를 정량 모형으로 평가하고, 소비자의 전기 사용과 금융의 투자 결정을 함께 연구하는 연구실이다. |
 
+### 의과학대학원 (4)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [Computational Affective Neuroscience & Development Lab (CNDL)](wiki/kaist/cndl.md) | 정범석 교수 | 사람마다 느끼고 판단하는 방식이 다른 이유를 행동과 뇌 자료로 설명하는 계산 모형을 개발하는 연구실이다. |
+| [단일 세포 유전체 의학 연구실 (Single-Cell Medical Genomics Laboratory, SCMGL)](wiki/kaist/scmgl.md) | 박종은 부교수 | 서로 다른 단일 세포 자료를 함께 분석하는 계산 방법과 조직 속 세포를 측정하는 기법을 개발하고, 세포 배양과 표적 조합 설계로 연결하는 연구실이다. |
+| [유전체 돌연변이 모자이시즘 연구실 (COSMOS: Comprehensive Observation of Somatic Mosaicism, its Origin and Significance)](wiki/kaist/julab.md) | 주영석 부교수 | 세포의 유전적 차이를 검출하고 그 관계를 해석하는 계산 방법과 측정 절차를 연구하며, 유전체 분석 소프트웨어와 오가노이드 기반 평가 체계도 다루는 연구실이다. |
+| [융합 의생명 영상화 연구실 (Ku Laboratory, integrative Biomedical Imaging Laboratory)](wiki/kaist/tkulab.md) | 구태윤 조교수 | 뇌 조직을 영상화에 맞게 가공하고 빛과 영상 처리 방법을 설계해, 신경 연결과 조직 속 분자 분포를 입체적으로 재는 연구실이다. |
+
 ### AI컴퓨팅학과 (3)
 
 | 연구실 | 교수 | 한 줄 요약 |
@@ -590,14 +601,6 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [KAIST 비주얼 AI 그룹 (KAIST Visual AI Group)](wiki/kaist/visualai.md) | 성민혁 교수 | 이미지·영상·3차원 모양 같은 여러 시각 데이터를 만들고, 다루고, 분석하는 기술을 연구하는 연구실이다. |
 | [빅데이터 지능 연구실 (Big Data Intelligence Lab, BDI Lab)](wiki/kaist/bdi-lab.md) | 황지영 교수 (AI컴퓨팅학과·전산학부) | 데이터를 개체와 개체 사이의 관계로 나타내고 해석하는 그래프 기계학습·데이터 마이닝 알고리즘을 만드는 연구실이다. |
 | [인터랙티브 컴퓨팅 연구실 (Interactive Computing Laboratory, ICLab)](wiki/kaist/ic.md) | 이의진 교수, 석좌교수 (AI컴퓨팅학과·전산학부) | 스마트폰·착용 기기와 생활 공간에서 얻은 자료로 사람의 행동과 상태를 이해하고, 건강·안녕·일을 돕는 상호작용 시스템을 만드는 연구실이다. |
-
-### 의과학대학원 (3)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [단일 세포 유전체 의학 연구실 (Single-Cell Medical Genomics Laboratory, SCMGL)](wiki/kaist/scmgl.md) | 박종은 부교수 | 서로 다른 단일 세포 자료를 함께 분석하는 계산 방법과 조직 속 세포를 측정하는 기법을 개발하고, 세포 배양과 표적 조합 설계로 연결하는 연구실이다. |
-| [유전체 돌연변이 모자이시즘 연구실 (COSMOS: Comprehensive Observation of Somatic Mosaicism, its Origin and Significance)](wiki/kaist/julab.md) | 주영석 부교수 | 세포의 유전적 차이를 검출하고 그 관계를 해석하는 계산 방법과 측정 절차를 연구하며, 유전체 분석 소프트웨어와 오가노이드 기반 평가 체계도 다루는 연구실이다. |
-| [융합 의생명 영상화 연구실 (Ku Laboratory, integrative Biomedical Imaging Laboratory)](wiki/kaist/tkulab.md) | 구태윤 조교수 | 뇌 조직을 영상화에 맞게 가공하고 빛과 영상 처리 방법을 설계해, 신경 연결과 조직 속 분자 분포를 입체적으로 재는 연구실이다. |
 
 ### AI미래학과 (2)
 
