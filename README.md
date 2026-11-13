@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (508곳)
+## KAIST 연구실 (510곳)
 
 ### 전기및전자공학부 (74)
 
@@ -512,13 +512,15 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [하드웨어 인공지능 연구실 (Hardware Artificial Intelligence Lab, HAL)](wiki/kaist/hal-kaist.md) | 김진훈 교수 | 나노소재로 뇌의 뉴런과 시냅스, 그리고 이들의 연결 구조를 흉내 낸 뉴로모픽 하드웨어를 만드는 연구실이다. |
 | [행동지능 연구실 (Behavioral Intelligence Laboratory)](wiki/kaist/bi-lab.md) | 김대수 교수 (뇌인지과학과·생명과학과) | 광유전학과 칼슘 영상 같은 신경 조작·기록 기법으로 신경회로의 기능을 밝히고, 인공지능으로 약물과 신경 조작이 행동에 주는 영향을 자세히 분석하는 뇌인지과학과 연구실이다. |
 
-### 생명과학과 (13)
+### 생명과학과 (15)
 
 | 연구실 | 교수 | 한 줄 요약 |
 |---|---|---|
+| [CODE Lab (Chromatin Organization, Decoding & Engineering)](wiki/kaist/minheeparklab.md) | 박민희 조교수 | 세포 안에서 유전물질이 접히고 조절되는 규칙을 관측과 인공 설계로 밝히고, 유전자 활동을 정밀하게 제어하는 도구를 만드는 연구실이다. |
 | [CONNCS Lab](wiki/kaist/conncs.md) | 배준환 조교수 | 신경세포의 연결 구조로 뇌 기능과 행동을 설명하고, 이를 위한 뇌 지도와 영상 분석 모형을 개발한다. |
 | [Intercellular Connectomics Laboratory (Chang Lab)](wiki/kaist/thechanglab.md) | 장민혁 조교수 | 세포들이 서로 이어져 물질을 주고받고, 그 연결이 뇌와 조직의 기능을 이루는 원리를 밝히는 연구실이다. |
 | [KAIST Glia Neuro-Immunology Laboratory](wiki/kaist/kaistglia.md) | 정원석 부교수 | 뇌의 신경세포를 둘러싼 세포들이 신경세포 사이의 연결을 선택적으로 없애고, 혈관·면역세포와 소통하면서 뇌의 형성과 기능을 조절하는 원리를 연구한다. |
+| [Lab for Integrated Protein Design & Structure (LIPDS)](wiki/kaist/lipds.md) | 김호민 교수 | 세포 사이에서 단백질이 결합하고 신호를 전달하는 구조 원리를 밝히며, 그 지식을 바탕으로 원하는 기능을 가진 단백질과 신약 후보를 설계하는 연구실이다. |
 | [Laboratory of Eukaryotic Transcription](wiki/kaist/eukaryotic.md) | 김재훈 교수 | 유전 정보가 읽히는 과정에서 단백질의 화학적 변화와 유전물질의 포장 상태가 어떤 역할을 하는지 밝히는 연구실이다. |
 | [Lee Lab](wiki/kaist/leelab2013.md) | 이승희 부교수 | 시각과 청각 같은 감각 정보가 뇌에서 합쳐지고, 주의와 행동 상태에 따라 판단과 행동이 달라지는 신경회로의 원리를 연구한다. |
 | [MBL](wiki/kaist/kaistmbl.md) | 한진희 교수 | 경험이 뇌의 어느 세포와 연결에 기억으로 남고, 다시 떠올리거나 되풀이할 때 어떻게 바뀌는지 연구한다. |
