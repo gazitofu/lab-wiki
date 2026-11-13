@@ -1,6 +1,6 @@
 {
- "version": "2.5",
- "updated": "2026-11-12",
+ "version": "2.6",
+ "updated": "2026-11-13",
  "fields": [
   {
    "id": "math-statistics",
@@ -7154,6 +7154,37 @@
    "status": "active",
    "merged_into": null,
    "note": "랩이 후성유전 정보의 조절 원리나 노화·역노화를 직접 연구한다고 말할 때 단다. 질병 기전·치료 연구에서 후성유전 분석을 도구로 쓰기만 한 경우에는 달지 않는다(plan §3). 유전자 회로·생물 시스템을 설계해 새 기능을 만드는 연구는 「합성생물학·DNA 합성」, 후성유전체 자료의 계산 분석 방법은 「바이오정보학·계산생물학」."
+  },
+  {
+   "id": "climate-adaptation",
+   "name_ko": "기후변화 적응·도시 회복탄력성",
+   "name_en": "Climate change adaptation and urban resilience",
+   "axis": "object",
+   "fields": [
+    "civil-infrastructure",
+    "energy-environment"
+   ],
+   "aliases": [
+    "기후변화 적응",
+    "기후 적응",
+    "climate change adaptation",
+    "climate adaptation",
+    "도시 회복탄력성",
+    "도시 회복력",
+    "urban resilience",
+    "기후 회복탄력성",
+    "climate resilience",
+    "기후 취약성",
+    "climate vulnerability"
+   ],
+   "definition": "기후 변화로 커지는 위험에 도시와 지역 사회가 노출되는 정도와 취약성을 자료로 분석하고, 피해를 줄이며 도시 기능을 유지·회복하도록 공간·기반시설·정책을 설계하는 분야.",
+   "related": [
+    "climate-weather",
+    "spatial-analysis-gis"
+   ],
+   "status": "active",
+   "merged_into": null,
+   "note": "랩이 기후 위험에 대한 도시·지역의 취약성 분석이나 적응·회복 전략 설계를 직접 연구한다고 말할 때 단다. 극한 기상 자체의 원인·영향을 관측·모형으로 연구하면 「기후·극한 기상」, 온실가스 감축 경로·정책 평가는 「기후·에너지 통합평가모형」."
   }
  ],
  "changelog": [
@@ -7228,6 +7259,10 @@
   {
    "date": "2026-11-12",
    "change": "v2.5 후성유전·노화 1개(collection-staging/2026-11-12/census-72/_main/vocab-proposal.md, 사용자 승인 2026-11-12 「후성유전·노화만 추가」): 신규 태그 「후성유전 조절·노화 리프로그래밍」(KAIST yanglab). 「오가노이드 기반 생물학적 컴퓨팅」(mineechoilab)은 근거가 첫 화면 사명 문장 하나라 보류."
+  },
+  {
+   "date": "2026-11-13",
+   "change": "v2.6 기후 적응 1개(collection-staging/2026-11-12/census-73/_main/vocab-proposal.md, 사용자 승인 2026-11-13 「기후 적응만 추가」): 신규 태그 「기후변화 적응·도시 회복탄력성」(KAIST skim-lab). 「환경정의」(skim-lab)·「금융 위험 모형화」(jyjeon)는 두 번째 랩 필요가 나올 때까지 보류."
   }
  ]
 }
