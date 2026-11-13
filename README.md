@@ -11,7 +11,7 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 - 본문의 각주는 문장마다 근거가 된 연구실 누리집, 학과 페이지, 논문 서지를 가리킨다. 각 문서에 딸린 「근거」 페이지에 읽은 자료, 이름·직급 표기 차이, 대표 논문을 고른 이유, 확인한 범위를 적었다.
 - 구성원·졸업생·논문·과제·소식 목록은 연구실이 게시한 내용을 옮긴 것이다. 기준일은 각 문서의 구성원 절과 각주에 있다. 최근 논문 목록은 2021년 이후 논문이다.
 
-## KAIST 연구실 (517곳)
+## KAIST 연구실 (518곳)
 
 ### 전기및전자공학부 (74)
 
@@ -345,6 +345,34 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [분자합성생물학 및 단백질화학 연구실 (Molecular Synthetic Biology Laboratory)](wiki/kaist/msbl.md) | 박희성 교수 | 단백질의 원하는 위치에 화학적 변화를 주거나 새로운 아미노산을 넣는 방법을 개발하고, 단백질의 구조·기능을 밝히며 효소와 약물 후보를 설계하는 연구실이다. |
 | [친환경 광전기 화학 연구실 (Sustainable Photoelectrochemistry Lab, SPEC Lab)](wiki/kaist/spec.md) | 김태규 교수 | 빛과 전기로 물에서 수소를 얻고 이산화탄소를 연료·화학 원료로 바꾸는 재료를 만들며, 빛을 받은 뒤 물질 안에서 전자가 어떻게 움직이는지 X선으로 살피는 연구실이다. |
 
+### 생명과학과 (23)
+
+| 연구실 | 교수 | 한 줄 요약 |
+|---|---|---|
+| [CODE Lab (Chromatin Organization, Decoding & Engineering)](wiki/kaist/minheeparklab.md) | 박민희 조교수 | 세포 안에서 유전물질이 접히고 조절되는 규칙을 관측과 인공 설계로 밝히고, 유전자 활동을 정밀하게 제어하는 도구를 만드는 연구실이다. |
+| [CONNCS Lab](wiki/kaist/conncs.md) | 배준환 조교수 | 신경세포의 연결 구조로 뇌 기능과 행동을 설명하고, 이를 위한 뇌 지도와 영상 분석 모형을 개발한다. |
+| [HeoLab 광유전학 및 RNA 시공간 제어 연구실](wiki/kaist/heolab.md) | 허원도 교수 | 빛에 반응하는 분자 도구와 RNA 조절 도구를 설계해, 세포 안의 물질이 언제 어디서 작동하는지 제어하고 세포와 뇌의 기능을 연구하는 연구실이다. |
+| [Intercellular Connectomics Laboratory (Chang Lab)](wiki/kaist/thechanglab.md) | 장민혁 조교수 | 세포들이 서로 이어져 물질을 주고받고, 그 연결이 뇌와 조직의 기능을 이루는 원리를 밝히는 연구실이다. |
+| [Jung Lab](wiki/kaist/junglab.md) | 정인경 부교수 | 유전 물질이 입체적으로 접히는 구조와 세포마다 달라지는 유전자 작동 원리를 밝히고, 이를 분석하는 계산법과 학습 모형을 만드는 연구실이다. |
+| [KAIST Chromatin Biology Lab](wiki/kaist/kaistchromatin.md) | 이대엽 교수 | 세포가 유전정보를 읽는 과정과 유전물질의 접힘이 서로 어떻게 영향을 주는지 밝히는 연구실이다. |
+| [KAIST Glia Neuro-Immunology Laboratory](wiki/kaist/kaistglia.md) | 정원석 부교수 | 뇌의 신경세포를 둘러싼 세포들이 신경세포 사이의 연결을 선택적으로 없애고, 혈관·면역세포와 소통하면서 뇌의 형성과 기능을 조절하는 원리를 연구한다. |
+| [Lab for Integrated Protein Design & Structure (LIPDS)](wiki/kaist/lipds.md) | 김호민 교수 | 세포 사이에서 단백질이 결합하고 신호를 전달하는 구조 원리를 밝히며, 그 지식을 바탕으로 원하는 기능을 가진 단백질과 신약 후보를 설계하는 연구실이다. |
+| [Laboratory of Eukaryotic Transcription](wiki/kaist/eukaryotic.md) | 김재훈 교수 | 유전 정보가 읽히는 과정에서 단백질의 화학적 변화와 유전물질의 포장 상태가 어떤 역할을 하는지 밝히는 연구실이다. |
+| [Lee Lab](wiki/kaist/leelab2013.md) | 이승희 부교수 | 시각과 청각 같은 감각 정보가 뇌에서 합쳐지고, 주의와 행동 상태에 따라 판단과 행동이 달라지는 신경회로의 원리를 연구한다. |
+| [MBL](wiki/kaist/kaistmbl.md) | 한진희 교수 | 경험이 뇌의 어느 세포와 연결에 기억으로 남고, 다시 떠올리거나 되풀이할 때 어떻게 바뀌는지 연구한다. |
+| [NABI Lab](wiki/kaist/nabislab.md) | 남윤성 교수 | 생체분자의 자기조립으로 백신·약물 운반체를 설계하고, 분자 인식과 생체막의 성질을 실험과 계산으로 연구한다. |
+| [ProteinDesign@KAIST](wiki/kaist/aipdlab.md) | 이규리 조교수 | 원하는 대상을 골라 붙잡거나 감지하는 단백질을 인공지능으로 설계하고, 계산 설계와 실험을 반복해 설계 방법을 개선하는 연구실이다. |
+| [Quantitative Intelligence Lab](wiki/kaist/ingiehonglab.md) | 홍인기 조교수 | 살아 있는 뇌에서 세포와 회로의 활동을 측정하고, 그 활동을 조절하는 분자의 역할과 학습·기억의 관계를 연구하며 새로운 바이오센서를 개발하는 연구실이다. |
+| [RNA Engineering & Application Lab](wiki/kaist/reallab.md) | 김유식 부교수 (생명과학과·공학생물학대학원) | 세포가 스스로 만드는 RNA의 기능과 면역 조절 원리를 밝히고, RNA를 검출·설계하는 도구와 약물 내성을 분석하는 계산 모형을 연구한다. |
+| [SPARK Golgi](wiki/kaist/golgilab.md) | 박승열 부교수 | 세포를 둘러싼 막과 세포 안의 여러 기관이 모양을 바꾸고 서로 물질을 주고받는 원리를 밝히며, 단백질을 세포 밖으로 내보내는 경로를 바꾸어 생산 기술로 연결하는 연구실이다. |
+| [Sohn Lab](wiki/kaist/sohnlab.md) | 손종우 부교수 | 뇌와 몸이 정보를 주고받아 음식과 소금의 섭취, 열 생산, 혈당과 혈압을 조절하는 원리를 신경세포와 회로 수준에서 연구한다. |
+| [Song Lab](wiki/kaist/songlab.md) | 송지준 교수 | 단백질의 입체 구조와 결합 방식을 밝혀, 유전 물질을 정리하고 유전자 활성을 조절하는 원리와 세포 안 단백질의 정상 기능을 연구하는 연구실이다. |
+| [Systems Neuro Lab](wiki/kaist/systemsneuro.md) | 정민환 교수 | 뇌가 경험을 기억하고, 그 경험과 예상 보상을 바탕으로 다음 행동을 선택하는 과정을 연구한다. |
+| [The Lim Lab](wiki/kaist/thelimlab.md) | 임정훈 부교수 | 단백질을 만드는 리보솜의 정체와 충돌을 세포가 어떻게 감지하고 조절하는지, 그 과정이 신경세포의 기능과 노화에 어떻게 연결되는지를 연구한다. |
+| [Won-Ki Cho Lab](wiki/kaist/wonkicholab.md) | 조원기 부교수 | 유전자가 켜지고 꺼지는 과정과 세포 안 구조들의 움직임을 빛으로 관찰해, 유전자 조절과 세포의 스트레스 대응 원리를 밝히는 연구실이다. |
+| [Yoon Lab](wiki/kaist/kijunyoonlab.md) | 윤기준 조교수 | 뇌를 만드는 신경줄기세포의 분열·이동·분화가 어떻게 정밀하게 조절되는지 연구하며, RNA의 화학적 변화와 뇌 조직 모형, 영상 분석도 함께 다룬다. |
+| [뉴럴 프로세싱 연구실 (Neural Processing Lab, JK Lab)](wiki/kaist/jk-lab.md) | 김재경 조교수 | 잠자는 뇌가 기억을 안정시키고, 배운 경험을 바꾸어 활용하며, 새로운 생각을 만들어낼 가능성을 연구한다. |
+
 ### 건설및환경공학과 (22)
 
 | 연구실 | 교수 | 한 줄 요약 |
@@ -371,33 +399,6 @@ KAIST·서울대 연구실을 한 곳에서 찾아보는 위키다. 연구실마
 | [지반지진 및 재해 연구실 (Geotechnical Earthquake and GeoHazards Lab, GEHL)](wiki/kaist/gehl.md) | 고길완 조교수 | 지진 때 지반과 구조물이 함께 흔들리는 과정, 흙이 지지력을 잃는 현상, 단층 움직임으로 댐과 제방이 갈라지고 침식되는 과정을 실험과 계산으로 연구해 자연재해에 견디는 도시와 시설물의 설계를 돕는 연구실이다. |
 | [첨단환경소재 연구실 (Advanced Environmental Materials Laboratory, AEML)](wiki/kaist/aemlab.md) | 부찬희 조교수 | 산업폐수와 바닷물에서 물과 유용한 물질을 나누어 회수하기 위해, 오래 견디는 분리막과 수처리 공정을 개발하는 연구실이다. |
 | [콘크리트 연구실 (Research group for concrete structures, materials and construction)](wiki/kaist/concrete.md) | 김재홍 부교수 · 데이터사이언스대학원(겸임) · AX학과(겸임) | 콘크리트가 잘 흐르고 원하는 모양으로 굳도록 재료의 성질과 시공 방법을 함께 연구하며, 자동 실험·인공지능과 이산화탄소 활용을 건설재료 개발에 연결한다. |
-
-### 생명과학과 (22)
-
-| 연구실 | 교수 | 한 줄 요약 |
-|---|---|---|
-| [CODE Lab (Chromatin Organization, Decoding & Engineering)](wiki/kaist/minheeparklab.md) | 박민희 조교수 | 세포 안에서 유전물질이 접히고 조절되는 규칙을 관측과 인공 설계로 밝히고, 유전자 활동을 정밀하게 제어하는 도구를 만드는 연구실이다. |
-| [CONNCS Lab](wiki/kaist/conncs.md) | 배준환 조교수 | 신경세포의 연결 구조로 뇌 기능과 행동을 설명하고, 이를 위한 뇌 지도와 영상 분석 모형을 개발한다. |
-| [HeoLab 광유전학 및 RNA 시공간 제어 연구실](wiki/kaist/heolab.md) | 허원도 교수 | 빛에 반응하는 분자 도구와 RNA 조절 도구를 설계해, 세포 안의 물질이 언제 어디서 작동하는지 제어하고 세포와 뇌의 기능을 연구하는 연구실이다. |
-| [Intercellular Connectomics Laboratory (Chang Lab)](wiki/kaist/thechanglab.md) | 장민혁 조교수 | 세포들이 서로 이어져 물질을 주고받고, 그 연결이 뇌와 조직의 기능을 이루는 원리를 밝히는 연구실이다. |
-| [Jung Lab](wiki/kaist/junglab.md) | 정인경 부교수 | 유전 물질이 입체적으로 접히는 구조와 세포마다 달라지는 유전자 작동 원리를 밝히고, 이를 분석하는 계산법과 학습 모형을 만드는 연구실이다. |
-| [KAIST Chromatin Biology Lab](wiki/kaist/kaistchromatin.md) | 이대엽 교수 | 세포가 유전정보를 읽는 과정과 유전물질의 접힘이 서로 어떻게 영향을 주는지 밝히는 연구실이다. |
-| [KAIST Glia Neuro-Immunology Laboratory](wiki/kaist/kaistglia.md) | 정원석 부교수 | 뇌의 신경세포를 둘러싼 세포들이 신경세포 사이의 연결을 선택적으로 없애고, 혈관·면역세포와 소통하면서 뇌의 형성과 기능을 조절하는 원리를 연구한다. |
-| [Lab for Integrated Protein Design & Structure (LIPDS)](wiki/kaist/lipds.md) | 김호민 교수 | 세포 사이에서 단백질이 결합하고 신호를 전달하는 구조 원리를 밝히며, 그 지식을 바탕으로 원하는 기능을 가진 단백질과 신약 후보를 설계하는 연구실이다. |
-| [Laboratory of Eukaryotic Transcription](wiki/kaist/eukaryotic.md) | 김재훈 교수 | 유전 정보가 읽히는 과정에서 단백질의 화학적 변화와 유전물질의 포장 상태가 어떤 역할을 하는지 밝히는 연구실이다. |
-| [Lee Lab](wiki/kaist/leelab2013.md) | 이승희 부교수 | 시각과 청각 같은 감각 정보가 뇌에서 합쳐지고, 주의와 행동 상태에 따라 판단과 행동이 달라지는 신경회로의 원리를 연구한다. |
-| [MBL](wiki/kaist/kaistmbl.md) | 한진희 교수 | 경험이 뇌의 어느 세포와 연결에 기억으로 남고, 다시 떠올리거나 되풀이할 때 어떻게 바뀌는지 연구한다. |
-| [NABI Lab](wiki/kaist/nabislab.md) | 남윤성 교수 | 생체분자의 자기조립으로 백신·약물 운반체를 설계하고, 분자 인식과 생체막의 성질을 실험과 계산으로 연구한다. |
-| [ProteinDesign@KAIST](wiki/kaist/aipdlab.md) | 이규리 조교수 | 원하는 대상을 골라 붙잡거나 감지하는 단백질을 인공지능으로 설계하고, 계산 설계와 실험을 반복해 설계 방법을 개선하는 연구실이다. |
-| [Quantitative Intelligence Lab](wiki/kaist/ingiehonglab.md) | 홍인기 조교수 | 살아 있는 뇌에서 세포와 회로의 활동을 측정하고, 그 활동을 조절하는 분자의 역할과 학습·기억의 관계를 연구하며 새로운 바이오센서를 개발하는 연구실이다. |
-| [RNA Engineering & Application Lab](wiki/kaist/reallab.md) | 김유식 부교수 (생명과학과·공학생물학대학원) | 세포가 스스로 만드는 RNA의 기능과 면역 조절 원리를 밝히고, RNA를 검출·설계하는 도구와 약물 내성을 분석하는 계산 모형을 연구한다. |
-| [Sohn Lab](wiki/kaist/sohnlab.md) | 손종우 부교수 | 뇌와 몸이 정보를 주고받아 음식과 소금의 섭취, 열 생산, 혈당과 혈압을 조절하는 원리를 신경세포와 회로 수준에서 연구한다. |
-| [Song Lab](wiki/kaist/songlab.md) | 송지준 교수 | 단백질의 입체 구조와 결합 방식을 밝혀, 유전 물질을 정리하고 유전자 활성을 조절하는 원리와 세포 안 단백질의 정상 기능을 연구하는 연구실이다. |
-| [Systems Neuro Lab](wiki/kaist/systemsneuro.md) | 정민환 교수 | 뇌가 경험을 기억하고, 그 경험과 예상 보상을 바탕으로 다음 행동을 선택하는 과정을 연구한다. |
-| [The Lim Lab](wiki/kaist/thelimlab.md) | 임정훈 부교수 | 단백질을 만드는 리보솜의 정체와 충돌을 세포가 어떻게 감지하고 조절하는지, 그 과정이 신경세포의 기능과 노화에 어떻게 연결되는지를 연구한다. |
-| [Won-Ki Cho Lab](wiki/kaist/wonkicholab.md) | 조원기 부교수 | 유전자가 켜지고 꺼지는 과정과 세포 안 구조들의 움직임을 빛으로 관찰해, 유전자 조절과 세포의 스트레스 대응 원리를 밝히는 연구실이다. |
-| [Yoon Lab](wiki/kaist/kijunyoonlab.md) | 윤기준 조교수 | 뇌를 만드는 신경줄기세포의 분열·이동·분화가 어떻게 정밀하게 조절되는지 연구하며, RNA의 화학적 변화와 뇌 조직 모형, 영상 분석도 함께 다룬다. |
-| [뉴럴 프로세싱 연구실 (Neural Processing Lab, JK Lab)](wiki/kaist/jk-lab.md) | 김재경 조교수 | 잠자는 뇌가 기억을 안정시키고, 배운 경험을 바꾸어 활용하며, 새로운 생각을 만들어낼 가능성을 연구한다. |
 
 ### 항공우주공학과 (21)
 
