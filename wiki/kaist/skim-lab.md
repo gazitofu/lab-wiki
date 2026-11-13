@@ -5,7 +5,7 @@
 - 영문 이름: Urban Analytics Lab
 - 분야: 도시 분석, 도시·환경 정책, 기후변화 적응과 공간경제[^research][^cv]
 - 대분야: 건설·도시·인프라, 인문·사회·경제
-- 태그: 교통·도시 계획[^research], 공간 분석·지리정보(GIS)[^research]
+- 태그: 기후변화 적응·도시 회복탄력성[^research][^lab], 교통·도시 계획[^research], 공간 분석·지리정보(GIS)[^research]
 - 홈페이지: <https://sites.google.com/view/skim-lab>
 - 근거와 출처: [Urban Analytics Lab 근거 페이지](skim-lab-sources.md)
 
