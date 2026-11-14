@@ -1,6 +1,6 @@
 {
- "version": "2.6",
- "updated": "2026-11-13",
+ "version": "2.7",
+ "updated": "2026-11-14",
  "fields": [
   {
    "id": "math-statistics",
@@ -7185,6 +7185,319 @@
    "status": "active",
    "merged_into": null,
    "note": "랩이 기후 위험에 대한 도시·지역의 취약성 분석이나 적응·회복 전략 설계를 직접 연구한다고 말할 때 단다. 극한 기상 자체의 원인·영향을 관측·모형으로 연구하면 「기후·극한 기상」, 온실가스 감축 경로·정책 평가는 「기후·에너지 통합평가모형」."
+  },
+  {
+   "id": "cell-fate-differentiation",
+   "name_ko": "세포 운명·분화·발생",
+   "name_en": "Cell fate, differentiation and development",
+   "axis": "object",
+   "fields": [
+    "basic-life"
+   ],
+   "aliases": [
+    "세포 운명",
+    "세포 분화",
+    "발생생물학",
+    "줄기세포",
+    "조직 항상성",
+    "neurogenesis",
+    "cell fate",
+    "differentiation"
+   ],
+   "definition": "세포가 어떤 종류와 상태가 될지 정해지고, 그 결정이 조직과 기관을 이루거나 유지하는 과정을 조절하는 원리.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 질병 모형에서 치료 효과를 본 연구에는 달지 않는다. 측정·분석 기술은 단일 세포·공간 오믹스나 생물 영상 분석으로 판단한다."
+  },
+  {
+   "id": "gene-expression-transcription",
+   "name_ko": "유전자 발현·전사 조절",
+   "name_en": "Gene expression and transcriptional regulation",
+   "axis": "object",
+   "fields": [
+    "basic-life"
+   ],
+   "aliases": [
+    "전사 조절",
+    "전사인자",
+    "유전자 발현",
+    "RNA 중합효소",
+    "transcription",
+    "gene expression"
+   ],
+   "definition": "DNA의 유전 정보가 RNA로 옮겨 적히는 과정과 그 시작·진행·멈춤을 정하는 단백질과 조절 구조.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 후성유전 정보의 유지·재설정은 후성유전 조절·노화 리프로그래밍, 핵 안 DNA의 공간 배치는 3차원 지놈 구조로 판단한다."
+  },
+  {
+   "id": "three-d-genome",
+   "name_ko": "3차원 지놈 구조",
+   "name_en": "Three-dimensional genome organization",
+   "axis": "object",
+   "fields": [
+    "basic-life"
+   ],
+   "aliases": [
+    "3차원 지놈",
+    "크로마틴 구조",
+    "염색체 접촉",
+    "Hi-C",
+    "3D genome",
+    "chromatin organization"
+   ],
+   "definition": "세포핵 안에서 DNA가 접히고 서로 닿는 공간 배치가 만들어지는 원리와 그 배치가 유전자 활동에 미치는 영향.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 접촉 지도를 만드는 측정·계산 방법만 개발하면 단일 세포·공간 오믹스나 바이오정보학·계산생물학으로 판단한다."
+  },
+  {
+   "id": "rna-biology",
+   "name_ko": "RNA 생물학·후전사 조절",
+   "name_en": "RNA biology and post-transcriptional regulation",
+   "axis": "object",
+   "fields": [
+    "basic-life"
+   ],
+   "aliases": [
+    "RNA 가공",
+    "RNA 변형",
+    "비암호화 RNA",
+    "mRNA 분해",
+    "후전사 조절",
+    "RNA biology",
+    "post-transcriptional"
+   ],
+   "definition": "RNA가 만들어진 뒤 가공·변형·운반·분해되는 과정과, 그 과정이 단백질 생산과 세포 기능을 조절하는 원리.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. RNA를 표적으로 바꾸는 도구 개발은 유전자·유전체 교정, 전사 자체의 조절은 유전자 발현·전사 조절로 판단한다."
+  },
+  {
+   "id": "proteostasis",
+   "name_ko": "단백질 항상성·품질 관리",
+   "name_en": "Proteostasis and protein quality control",
+   "axis": "object",
+   "fields": [
+    "basic-life"
+   ],
+   "aliases": [
+    "단백질 항상성",
+    "단백질 품질 관리",
+    "샤페론",
+    "번역 품질 관리",
+    "proteostasis",
+    "protein quality control"
+   ],
+   "definition": "세포가 단백질을 만들고 접고 고치고 없애며 정상 상태를 유지하는 과정과 그 조절.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 단백질의 서열·구조를 바꾸어 기능을 얻는 연구는 단백질공학·효소공학, 3차원 구조 규명은 구조생물학으로 판단한다."
+  },
+  {
+   "id": "aging-longevity",
+   "name_ko": "노화·수명 조절",
+   "name_en": "Mechanisms of aging and longevity",
+   "axis": "object",
+   "fields": [
+    "basic-life"
+   ],
+   "aliases": [
+    "노화",
+    "수명",
+    "장수",
+    "aging",
+    "longevity"
+   ],
+   "definition": "생물이 나이 들며 기능이 달라지는 과정과 수명을 늘리거나 줄이는 분자·세포 수준의 조절 원리.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 후성유전 정보를 다시 설정해 세포를 젊은 상태로 돌리는 연구는 후성유전 조절·노화 리프로그래밍으로 판단한다."
+  },
+  {
+   "id": "organelle-trafficking",
+   "name_ko": "세포소기관·막수송",
+   "name_en": "Organelle dynamics and membrane trafficking",
+   "axis": "object",
+   "fields": [
+    "basic-life"
+   ],
+   "aliases": [
+    "세포소기관",
+    "막수송",
+    "소포 운반",
+    "골지체",
+    "자가포식",
+    "organelle",
+    "membrane trafficking"
+   ],
+   "definition": "소기관의 구조와 서로의 연결, 생체막을 통해 물질이 옮겨지고 소기관이 다시 만들어지는 과정의 원리.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 소기관을 보는 현미경 기법 개발은 광학 영상·현미경으로 판단한다."
+  },
+  {
+   "id": "immune-signaling",
+   "name_ko": "면역 신호·면역세포 조절",
+   "name_en": "Immune signaling and immune cell regulation",
+   "axis": "object",
+   "fields": [
+    "basic-life"
+   ],
+   "aliases": [
+    "면역 신호",
+    "선천 면역",
+    "후천 면역",
+    "면역세포 발달",
+    "면역학",
+    "immune signaling",
+    "immunology"
+   ],
+   "definition": "몸이 병원체나 이상 신호를 알아보고 대응하는 경로의 작동과, 면역세포가 만들어지고 기능을 갖추는 과정의 조절 원리.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 질병 치료나 백신의 효능 평가가 연구의 결론이면 달지 않는다."
+  },
+  {
+   "id": "metabolic-signaling",
+   "name_ko": "대사 신호·항상성 조절",
+   "name_en": "Metabolic signaling and homeostasis",
+   "axis": "object",
+   "fields": [
+    "basic-life"
+   ],
+   "aliases": [
+    "대사 신호",
+    "대사 항상성",
+    "신경내분비",
+    "호르몬 신호",
+    "metabolic signaling",
+    "homeostasis"
+   ],
+   "definition": "영양소·호르몬·대사물질이 신호로 작용해 세포와 기관의 기능과 에너지 균형을 조절하는 원리.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 대사 경로를 설계해 물질을 생산하는 연구는 합성생물학·DNA 합성으로 판단한다."
+  },
+  {
+   "id": "plant-physiology-development",
+   "name_ko": "식물 생리·발달",
+   "name_en": "Plant physiology and development",
+   "axis": "object",
+   "fields": [
+    "basic-life"
+   ],
+   "aliases": [
+    "식물 생리",
+    "식물 발달",
+    "광신호",
+    "광수용체",
+    "식물학",
+    "plant physiology",
+    "plant development"
+   ],
+   "definition": "식물이 빛·온도 같은 환경 정보를 받아 자라고 꽃 피고 대사를 바꾸는 과정의 조절 원리.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 작물 재배·수확량 관리 기술은 해당 응용 태그로 판단한다."
+  },
+  {
+   "id": "genome-editing",
+   "name_ko": "유전자·유전체 교정",
+   "name_en": "Gene and genome editing",
+   "axis": "object",
+   "fields": [
+    "basic-life"
+   ],
+   "aliases": [
+    "유전자 교정",
+    "유전체 교정",
+    "염기 교정",
+    "CRISPR",
+    "genome editing",
+    "base editing"
+   ],
+   "definition": "살아 있는 세포의 유전 정보에서 원하는 자리를 바꾸거나 고치는 도구와 그 정밀도를 높이는 기술.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다. 교정 도구를 쓰기만 한 질병 기전 연구에는 달지 않는다. 유전 물질을 세포로 옮기는 운반체는 약물·유전자 전달체로 판단한다."
+  },
+  {
+   "id": "isotope-geochemistry",
+   "name_ko": "동위원소 지구화학·고환경 복원",
+   "name_en": "Isotope geochemistry and paleoenvironment reconstruction",
+   "axis": "object",
+   "fields": [
+    "energy-environment"
+   ],
+   "aliases": [
+    "동위원소 지구화학",
+    "고환경",
+    "고해양",
+    "지표 풍화",
+    "원소 순환",
+    "isotope geochemistry",
+    "paleoenvironment"
+   ],
+   "definition": "암석·퇴적물·생물 시료의 동위원소와 원소 조성을 재어 과거 환경과 물질 순환을 복원하는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다."
+  },
+  {
+   "id": "marine-biogeochemistry",
+   "name_ko": "해양 탄소순환·생지화학",
+   "name_en": "Marine carbon cycle and biogeochemistry",
+   "axis": "object",
+   "fields": [
+    "energy-environment"
+   ],
+   "aliases": [
+    "해양 탄소순환",
+    "해양 생지화학",
+    "해양 입자",
+    "퇴적물 수송",
+    "marine biogeochemistry"
+   ],
+   "definition": "바다에서 탄소를 비롯한 원소가 생물·화학·물리 작용으로 이동하고 쌓이는 과정을 재고 모형화하는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다."
+  },
+  {
+   "id": "physical-oceanography",
+   "name_ko": "물리해양학·해양 관측",
+   "name_en": "Physical oceanography and ocean observation",
+   "axis": "object",
+   "fields": [
+    "energy-environment"
+   ],
+   "aliases": [
+    "물리해양학",
+    "해양 순환",
+    "해양 관측",
+    "해양 혼합",
+    "physical oceanography",
+    "ocean observation"
+   ],
+   "definition": "바닷물의 흐름·섞임·파동을 관측 장비와 모형으로 재고 설명하는 분야.",
+   "related": [],
+   "status": "active",
+   "merged_into": null,
+   "note": "plan §3 범위: 자연과학의 원리·정량 측정 또는 공학적 방법·소재·소자·시스템 개발이 연구의 핵심인 경우에만 부여한다."
   }
  ],
  "changelog": [
@@ -7263,6 +7576,11 @@
   {
    "date": "2026-11-13",
    "change": "v2.6 기후 적응 1개(collection-staging/2026-11-12/census-73/_main/vocab-proposal.md, 사용자 승인 2026-11-13 「기후 적응만 추가」): 신규 태그 「기후변화 적응·도시 회복탄력성」(KAIST skim-lab). 「환경정의」(skim-lab)·「금융 위험 모형화」(jyjeon)는 두 번째 랩 필요가 나올 때까지 보류."
+  },
+  {
+   "version": "2.7",
+   "date": "2026-11-14",
+   "change": "기초생명 대상 축 11개와 지구환경 3개를 더했다(사용자 승인 2026-11-14). 기초생명 태그가 모두 방법·기술 축이어서 KAIST 생명과학과 32곳 가운데 7곳이 맞는 태그를 찾지 못한 사정을 고쳤다. 추가: 세포 운명·분화·발생, 유전자 발현·전사 조절, 3차원 지놈 구조, RNA 생물학·후전사 조절, 단백질 항상성·품질 관리, 노화·수명 조절, 세포소기관·막수송, 면역 신호·면역세포 조절, 대사 신호·항상성 조절, 식물 생리·발달, 유전자·유전체 교정, 동위원소 지구화학·고환경 복원, 해양 탄소순환·생지화학, 물리해양학·해양 관측."
   }
  ]
 }
