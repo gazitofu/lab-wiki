@@ -21,7 +21,7 @@ def authors_of(key):
 from names import same_person
 rep_authors = [(i + 1, authors_of(d)) for i, d in enumerate(order)]
 STAGE = [(r'post[- ]?doc|postdoctoral|박사후', '박사후연구원'), (r'^graduate student$', '대학원생'), (r'post-?master', '연구원'), (r'integrated|통합|m\.?s\.?\s*/\s*ph\.?\s?d|master-ph\.?\s?d|m\.?s\.?\s*[-+&]\s*ph\.?\s?d|ph\.?\s?d\.?\s*[-+&/]\s*m\.?s|joint\s+program|combined', '석박사통합과정'), (r'ph\.?\s?d|doctoral|박사', '박사과정'),
-         (r'm\.?\s?sc?\b|master|석사', '석사과정'), (r'undergrad\w*\s+(?:research\s+)?intern|학부\s*(?:연구\s*)?인턴', '학부 인턴'), (r'undergrad|학부', '학부 연구생'), (r'intern', '인턴'), (r'visiting student|방문 학생', '방문 학생'), (r'visit|방문', '방문 연구원'),
+         (r'm\.?\s?sc?\b|master|석사', '석사과정'), (r'undergrad\w*\s+(?:research\s+)?intern|학부\s*(?:연구\s*)?인턴', '학부 인턴'), (r'undergrad\w*\s+research|학부\s*연구생', '학부 연구생'), (r'undergrad|학부', '학부생'), (r'intern', '인턴'), (r'visiting student|방문 학생', '방문 학생'), (r'visit|방문', '방문 연구원'),
          (r'research\s+associate\s+professor', '연구부교수'), (r'research\s+assistant\s+professor', '연구조교수'), (r'research\s+professor|연구교수', '연구교수'), (r'graduate\s+researcher', '대학원 연구원'), (r'research\s+staff', '연구 직원'), (r'research(er| fellow| scientist| engineer| associate)|연구원', '연구원'), (r'staff|secretary|admin|행정', '행정 직원')]
 def stage_ko(s):
     s0 = (s or '').lower()
